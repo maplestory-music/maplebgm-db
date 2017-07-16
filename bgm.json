@@ -2116,6 +2116,17 @@
         "mark": "TimeTemple"
     },
     {
+        "album-artist": "NECORD",
+        "artist": "ASTERIA",
+        "date": "2017",
+        "description": "",
+        "filename": "ForgottenNames",
+        "structure": "Bgm48",
+        "title": "Forgotten Names",
+        "youtube": "",
+        "mark": "Library"
+    },
+    {
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2005",
@@ -3999,6 +4010,17 @@
         "mark": "NLC"
     },
     {
+        "album-artist": "NECORD",
+        "artist": "ASTERIA",
+        "date": "2017",
+        "description": "",
+        "filename": "noname",
+        "structure": "Bgm48",
+        "title": "No Name",
+        "youtube": "",
+        "mark": "Library"
+    },
+    {
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2012",
@@ -4008,6 +4030,17 @@
         "title": "Nova Sanctum",
         "youtube": "NNh-dYY3MpM",
         "mark": "Pantheon"
+    },
+    {
+        "album-artist": "NECORD",
+        "artist": "ASTERIA",
+        "date": "2017",
+        "description": "",
+        "filename": "Nowhere",
+        "structure": "Bgm48",
+        "title": "Nowhere",
+        "youtube": "",
+        "mark": "Library"
     },
     {
         "album-artist": "Wizet",
@@ -6061,6 +6094,17 @@
         "title": "Water Way",
         "youtube": "Su6P7juLavE",
         "mark": "Guild"
+    },
+    {
+        "album-artist": "NECORD",
+        "artist": "ASTERIA",
+        "date": "2017",
+        "description": "",
+        "filename": "WayBackHome",
+        "structure": "Bgm48",
+        "title": "Way Back Home",
+        "youtube": "",
+        "mark": "Library"
     },
     {
         "album-artist": "Wizet",
