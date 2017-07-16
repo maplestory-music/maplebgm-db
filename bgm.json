@@ -1785,6 +1785,28 @@
         "mark": "EilnForest"
     },
     {
+        "album-artist": "NECORD",
+        "artist": "ASTERIA",
+        "date": "2017",
+        "description": "",
+        "filename": "Eluna",
+        "structure": "BgmPL",
+        "title": "Eluna",
+        "youtube": "",
+        "mark": "PL_Eluna"
+    },
+    {
+        "album-artist": "NECORD",
+        "artist": "ASTERIA",
+        "date": "2017",
+        "description": "",
+        "filename": "ElunaExpress",
+        "structure": "BgmPL",
+        "title": "Eluna Express",
+        "youtube": "",
+        "mark": "PL_Eluna"
+    },
+    {
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2016",
@@ -4887,6 +4909,17 @@
         "mark": "ElNath"
     },
     {
+        "album-artist": "NECORD",
+        "artist": "ASTERIA",
+        "date": "2017",
+        "description": "",
+        "filename": "SongOfTheNati",
+        "structure": "BgmPL",
+        "title": "Song of the Nati",
+        "youtube": "",
+        "mark": "PL_Eluna"
+    },
+    {
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2011",
@@ -4929,6 +4962,17 @@
         "title": "Specialty Store Remix",
         "youtube": "hnWokhTVSO4",
         "mark": "Quest"
+    },
+    {
+        "album-artist": "NECORD",
+        "artist": "ASTERIA",
+        "date": "2017",
+        "description": "",
+        "filename": "SpiritualWeight",
+        "structure": "BgmPL",
+        "title": "Spiritual Weight",
+        "youtube": "",
+        "mark": "PL_Eluna"
     },
     {
         "album-artist": "Wizet",
@@ -5817,6 +5861,17 @@
         "mark": "Folkvillige"
     },
     {
+        "album-artist": "NECORD",
+        "artist": "ASTERIA",
+        "date": "2017",
+        "description": "",
+        "filename": "UnexploredEluna",
+        "structure": "BgmPL",
+        "title": "Unexplored Eluna",
+        "youtube": "",
+        "mark": "PL_Eluna"
+    },
+    {
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2015",
@@ -6017,6 +6072,17 @@
         "title": "World / Channel Select",
         "youtube": "jUkjEGFwN1A",
         "mark": "Quest"
+    },
+    {
+        "album-artist": "NECORD",
+        "artist": "ASTERIA",
+        "date": "2017",
+        "description": "",
+        "filename": "WeAreThePioneers",
+        "structure": "BgmPL",
+        "title": "We Are the Pioneers",
+        "youtube": "",
+        "mark": "PL_Eluna"
     },
     {
         "album-artist": "Wizet",
