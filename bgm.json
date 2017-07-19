@@ -48,7 +48,8 @@
         "filename": "2015gamaday_minigame",
         "structure": "BgmTW",
         "title": "2015 Gamaday Minigame",
-        "mark": "Gamaday"
+        "mark": "Gamaday",
+        "youtube": "H3YiN4_cfIc"
     },
     {
         "album-artist": "Wizet",
@@ -57,7 +58,8 @@
         "filename": "2015gamaday_park",
         "structure": "BgmTW",
         "title": "2015 Gamaday Park",
-        "mark": "Gamaday"
+        "mark": "Gamaday",
+        "youtube": "nPEUYAvLVGQ"
     },
     {
         "album-artist": "NECORD",
@@ -294,7 +296,8 @@
         "filename": "arisanBoss",
         "structure": "BgmTW",
         "title": "Arisan Boss",
-        "mark": "Arisan"
+        "mark": "Arisan",
+        "youtube": "vyn-pYh7OeM"
     },
     {
         "album-artist": "Wizet",
@@ -303,7 +306,8 @@
         "filename": "arisanCity",
         "structure": "BgmTW",
         "title": "Arisan City",
-        "mark": "Arisan"
+        "mark": "Arisan",
+        "youtube": "EppjtsvLkJs"
     },
     {
         "album-artist": "Wizet",
@@ -312,7 +316,8 @@
         "filename": "arisanField",
         "structure": "BgmTW",
         "title": "Arisan Field",
-        "mark": "Arisan"
+        "mark": "Arisan",
+        "youtube": "pVMWdCykTro"
     },
     {
         "album-artist": "Wizet",
@@ -321,7 +326,8 @@
         "filename": "arisanForest",
         "structure": "BgmTW",
         "title": "Arisan Forest",
-        "mark": "Arisan"
+        "mark": "Arisan",
+        "youtube": "UhtL8QLEIyM"
     },
     {
         "album-artist": "Wizet",
@@ -330,7 +336,8 @@
         "filename": "arisanTrain",
         "structure": "BgmTW",
         "title": "Arisan Train",
-        "mark": "Arisan"
+        "mark": "Arisan",
+        "youtube": "DHCiyODEdUs"
     },
     {
         "album-artist": "Wizet",
@@ -339,7 +346,8 @@
         "filename": "Army Of Fears Theme",
         "structure": "Bgm45",
         "title": "Army of Fears Theme",
-        "mark": "HofM"
+        "mark": "HofM",
+        "youtube": "DzyjPxP0GSg"
     },
     {
         "album-artist": "Wizet",
@@ -359,7 +367,8 @@
         "filename": "Assumptio",
         "structure": "BgmJp3",
         "title": "Assumptio",
-        "mark": "CrossHunter"
+        "mark": "CrossHunter",
+        "youtube": "fO9MLqOwXWg"
     },
     {
         "album-artist": "Wizet",
@@ -651,7 +660,8 @@
         "filename": "Blackgate",
         "structure": "BgmGL",
         "title": "Blackgate",
-        "mark": "BlackgateCity"
+        "mark": "BlackgateCity",
+        "youtube": "2v-Mm-soYvw"
     },
     {
         "album-artist": "Wizet",
@@ -886,7 +896,8 @@
         "filename": "Catch Your Dreams! full ~Japanese ver.~",
         "structure": "Bgm42",
         "title": "Catch Your Dreams! ~Japanese ver.~",
-        "mark": "spinOff1"
+        "mark": "spinOff1",
+        "youtube": "ZJJvowmQ7uQ"
     },
     {
         "album-artist": "Wizet",
@@ -895,7 +906,8 @@
         "filename": "Catch Your Dreams! full",
         "structure": "Bgm42",
         "title": "Catch Your Dreams!",
-        "mark": "spinOff1"
+        "mark": "spinOff1",
+        "youtube": "4mVj4qHNLso"
     },
     {
         "album-artist": "Wizet",
@@ -904,7 +916,8 @@
         "filename": "Catch Your Dreams! vocaless",
         "structure": "Bgm42",
         "title": "Catch Your Dreams! ~instrumental~",
-        "mark": "spinOff1"
+        "mark": "spinOff1",
+        "youtube": "IkSVdHl2WOs"
     },
     {
         "album-artist": "Wizet",
@@ -1148,7 +1161,8 @@
         "filename": "concertchair_bass",
         "structure": "BgmTW",
         "title": "Concert Chair (Bass)",
-        "mark": "Event"
+        "mark": "Event",
+        "youtube": "0bhj1SiqzlE"
     },
     {
         "album-artist": "Wizet",
@@ -1157,7 +1171,8 @@
         "filename": "concertchair_drum",
         "structure": "BgmTW",
         "title": "Concert Chair (Drum)",
-        "mark": "Event"
+        "mark": "Event",
+        "youtube": "x3DpSrAI9js"
     },
     {
         "album-artist": "Wizet",
@@ -1166,7 +1181,8 @@
         "filename": "concertchair_drum_bass",
         "structure": "BgmTW",
         "title": "Concert Chair (Drum + Bass)",
-        "mark": "Event"
+        "mark": "Event",
+        "youtube": "SXFLOsagB1w"
     },
     {
         "album-artist": "Wizet",
@@ -1175,7 +1191,8 @@
         "filename": "concertchair_drum_bass_keyboard",
         "structure": "BgmTW",
         "title": "Concert Chair (Drum + Bass + Keyboard)",
-        "mark": "Event"
+        "mark": "Event",
+        "youtube": "0nvAy3udpog"
     },
     {
         "album-artist": "Wizet",
@@ -1184,7 +1201,8 @@
         "filename": "concertchair_drum_bass_keyboard_guitar",
         "structure": "BgmTW",
         "title": "Concert Chair (Drum + Bass + Keyboard + Guitar)",
-        "mark": "Event"
+        "mark": "Event",
+        "youtube": "0IgETnKxbns"
     },
     {
         "album-artist": "Wizet",
@@ -1193,7 +1211,8 @@
         "filename": "concertchair_guitar",
         "structure": "BgmTW",
         "title": "Concert Chair (Guitar)",
-        "mark": "Event"
+        "mark": "Event",
+        "youtube": "rWDa7sOvYdM"
     },
     {
         "album-artist": "Wizet",
@@ -1202,7 +1221,8 @@
         "filename": "concertchair_keyboard",
         "structure": "BgmTW",
         "title": "Concert Chair (Keyboard)",
-        "mark": "Event"
+        "mark": "Event",
+        "youtube": "stbAQs-rsyY"
     },
     {
         "album-artist": "Wizet",
@@ -1233,7 +1253,8 @@
         "filename": "CorruptioSanguinis",
         "structure": "BgmJp3",
         "title": "Corruptio Sanguinis",
-        "mark": "CrossHunter"
+        "mark": "CrossHunter",
+        "youtube": "2G_KCtvWTRk"
     },
     {
         "album-artist": "Wizet",
@@ -1329,7 +1350,8 @@
         "filename": "Dancing With Ghosts",
         "structure": "Bgm43",
         "title": "Dancing with Ghosts",
-        "mark": "Folkvillige"
+        "mark": "Folkvillige",
+        "youtube": "vX0bkXNtX0g"
     },
     {
         "album-artist": "Wizet",
@@ -1369,7 +1391,8 @@
         "filename": "DarknessSoul",
         "structure": "BgmJp3",
         "title": "Darkness Soul",
-        "mark": "CrossHunter"
+        "mark": "CrossHunter",
+        "youtube": "xAAo_xCTqb4"
     },
     {
         "album-artist": "Wizet",
@@ -1483,7 +1506,8 @@
         "filename": "Demon's eye",
         "structure": "Bgm42",
         "title": "Demon's Eye",
-        "mark": "spinOff1"
+        "mark": "spinOff1",
+        "youtube": "m7-KSFVZJzk"
     },
     {
         "album-artist": "Wizet",
@@ -1492,7 +1516,8 @@
         "filename": "Demon's eye2",
         "structure": "Bgm42",
         "title": "Demon's Eye 2",
-        "mark": "spinOff1"
+        "mark": "spinOff1",
+        "youtube": "RaXC3bWEYFc"
     },
     {
         "album-artist": "Wizet",
@@ -1512,7 +1537,8 @@
         "filename": "Desperately",
         "structure": "Bgm44",
         "title": "Desperately",
-        "mark": "Urus"
+        "mark": "Urus",
+        "youtube": "vZybFbSlUgc"
     },
     {
         "album-artist": "Wizet",
@@ -1722,7 +1748,8 @@
         "filename": "DragonTigerField2",
         "structure": "BgmCN",
         "title": "Dragon Tiger Field 2",
-        "mark": "CN_DragonTiger"
+        "mark": "CN_DragonTiger",
+        "youtube": "msETCdOYteU"
     },
     {
         "album-artist": "Wizet",
@@ -2292,7 +2319,8 @@
         "filename": "GLBurningSanta (Alternate Version)",
         "structure": "BgmGL",
         "title": "Burning Santa (Alterate Version)",
-        "mark": "HappyVillage"
+        "mark": "HappyVillage",
+        "youtube": "i-wfyqyxWeM"
     },
     {
         "album-artist": "Wizet",
@@ -2301,7 +2329,8 @@
         "filename": "GLBurningSanta",
         "structure": "BgmGL",
         "title": "Burning Santa",
-        "mark": "HappyVillage"
+        "mark": "HappyVillage",
+        "youtube": "W8uREXc8Tzk"
     },
     {
         "album-artist": "Wizet",
@@ -2563,7 +2592,8 @@
         "filename": "Haven Theme",
         "structure": "Bgm41",
         "title": "Haven Theme",
-        "mark": "Haven"
+        "mark": "Haven",
+        "youtube": "GgTVmLfhYnA"
     },
     {
         "album-artist": "Wizet",
@@ -2687,7 +2717,8 @@
         "filename": "Heroes Of Maple Theme Piano",
         "structure": "Bgm45",
         "title": "Heroes of Maple Theme ~piano~",
-        "mark": "HofM"
+        "mark": "HofM",
+        "youtube": "kMW_CaKNrRY"
     },
     {
         "album-artist": "Wizet",
@@ -2696,7 +2727,8 @@
         "filename": "Heroes Of Maple Theme",
         "structure": "Bgm45",
         "title": "Heroes of Maple Theme",
-        "mark": "HofM"
+        "mark": "HofM",
+        "youtube": "Vw_FeI2nL_c"
     },
     {
         "album-artist": "NECORD",
@@ -2832,7 +2864,8 @@
         "filename": "ImDev_Room",
         "structure": "BgmTW",
         "title": "Dev Room",
-        "mark": "Event"
+        "mark": "Event",
+        "youtube": "3D2hglui148"
     },
     {
         "album-artist": "Wizet",
@@ -3043,7 +3076,8 @@
         "filename": "Kinesis Theme I",
         "structure": "Bgm43",
         "title": "Kinesis Theme I",
-        "mark": "MSTown"
+        "mark": "MSTown",
+        "youtube": "YAe-JrI0fms"
     },
     {
         "album-artist": "Wizet",
@@ -3052,7 +3086,8 @@
         "filename": "Kinesis Theme II",
         "structure": "Bgm43",
         "title": "Kinesis Theme II",
-        "mark": "MSTown"
+        "mark": "MSTown",
+        "youtube": "MmWrqpV7f0Q"
     },
     {
         "album-artist": "Wizet",
@@ -3329,7 +3364,8 @@
         "filename": "LexDivina",
         "structure": "BgmJp3",
         "title": "Lex Divina",
-        "mark": "CrossHunter"
+        "mark": "CrossHunter",
+        "youtube": "AY1m7dQ-P6I"
     },
     {
         "album-artist": "Wizet",
@@ -3419,7 +3455,8 @@
         "filename": "MadHouse",
         "structure": "BgmGL",
         "title": "Madhouse",
-        "mark": "MadHouse"
+        "mark": "MadHouse",
+        "youtube": "lRC_rHuks08"
     },
     {
         "album-artist": "Wizet",
@@ -3428,7 +3465,8 @@
         "filename": "MadHouseEnding",
         "structure": "BgmGL",
         "title": "Madhouse Ending",
-        "mark": "MadHouse"
+        "mark": "MadHouse",
+        "youtube": "61JeULEXhZg"
     },
     {
         "album-artist": "Wizet",
@@ -3437,7 +3475,8 @@
         "filename": "MagnusSigillo",
         "structure": "BgmJp3",
         "title": "Magnus Sigillo",
-        "mark": "CrossHunter"
+        "mark": "CrossHunter",
+        "youtube": "YvBFEWfokjM"
     },
     {
         "album-artist": "Wizet",
@@ -3734,7 +3773,8 @@
         "filename": "monsterWorld",
         "structure": "Bgm43",
         "title": "Monster World",
-        "mark": "Event"
+        "mark": "Event",
+        "youtube": "ggKgPsrIfnI"
     },
     {
         "album-artist": "Wizet",
@@ -3926,7 +3966,8 @@
         "filename": "newNanjinglu",
         "structure": "BgmCN",
         "title": "China: Nanjing Lu",
-        "mark": "ShangHai"
+        "mark": "ShangHai",
+        "youtube": "oOq9gzCv0cA"
     },
     {
         "album-artist": "Wizet",
@@ -3935,7 +3976,8 @@
         "filename": "newWaitan",
         "structure": "BgmCN",
         "title": "China: Shanghai Waitan",
-        "mark": "ShangHai"
+        "mark": "ShangHai",
+        "youtube": "Ja5gUkJkNmM"
     },
     {
         "album-artist": "Wizet",
@@ -3944,7 +3986,8 @@
         "filename": "newYuyuan",
         "structure": "BgmCN",
         "title": "China: Yuyuan",
-        "mark": "YuYuanCN"
+        "mark": "YuYuanCN",
+        "youtube": "6JSJ0emRED4"
     },
     {
         "album-artist": "Wizet",
@@ -4160,7 +4203,8 @@
         "filename": "Pain And Sorrow",
         "structure": "Bgm45",
         "title": "Pain and Sorrow",
-        "mark": "HofM"
+        "mark": "HofM",
+        "youtube": "SFaKLwz4blA"
     },
     {
         "album-artist": "Wizet",
@@ -4797,7 +4841,8 @@
         "filename": "shaolinBoss",
         "structure": "BgmCN",
         "title": "China: Shaolin Boss",
-        "mark": "shaolinsi"
+        "mark": "shaolinsi",
+        "youtube": "wgjqL3HsiZg"
     },
     {
         "album-artist": "Wizet",
@@ -4861,7 +4906,8 @@
         "filename": "SheSellsALuckyThing",
         "structure": "Bgm44",
         "title": "She Sells a Lucky Thing",
-        "mark": "Urus"
+        "mark": "Urus",
+        "youtube": "60pIpRzbMBg"
     },
     {
         "album-artist": "Wizet",
@@ -4925,7 +4971,8 @@
         "filename": "Showtime!",
         "structure": "Bgm45",
         "title": "Showtime!",
-        "mark": "HofM"
+        "mark": "HofM",
+        "youtube": "9C4zWKiEnsc"
     },
     {
         "album-artist": "Wizet",
@@ -4934,7 +4981,8 @@
         "filename": "SignumCrucis",
         "structure": "BgmJp3",
         "title": "Signum Crucis",
-        "mark": "CrossHunter"
+        "mark": "CrossHunter",
+        "youtube": "6xKvhbvoyMQ"
     },
     {
         "album-artist": "Wizet",
@@ -4952,7 +5000,8 @@
         "filename": "Skyscraper",
         "structure": "Bgm43",
         "title": "Skyscraper",
-        "mark": "MSTown"
+        "mark": "MSTown",
+        "youtube": "ZmkzRBeqCYQ"
     },
     {
         "album-artist": "Wizet",
@@ -5124,7 +5173,8 @@
         "filename": "StarStepBGM",
         "structure": "BgmStarPlanet_JP",
         "title": "Star Step",
-        "mark": "Starplanet"
+        "mark": "Starplanet",
+        "youtube": "Z4VTq4JKHGA"
     },
     {
         "album-artist": "Wizet",
@@ -5356,7 +5406,8 @@
         "filename": "TheBeast",
         "structure": "Bgm42",
         "title": "The Beast",
-        "mark": "spinOff1"
+        "mark": "spinOff1",
+        "youtube": "317XVLPaHnY"
     },
     {
         "album-artist": "Wizet",
@@ -5365,7 +5416,8 @@
         "filename": "TheBeast2",
         "structure": "Bgm42",
         "title": "The Beast 2",
-        "mark": "spinOff1"
+        "mark": "spinOff1",
+        "youtube": "axRaC6qDdLk"
     },
     {
         "album-artist": "Wizet",
@@ -5396,7 +5448,8 @@
         "filename": "TheCrossBrigade",
         "structure": "BgmJp3",
         "title": "The Cross Brigade",
-        "mark": "CrossHunter"
+        "mark": "CrossHunter",
+        "youtube": "9v6d8N3N9HY"
     },
     {
         "album-artist": "Wizet",
@@ -5456,7 +5509,8 @@
         "filename": "TheKingOfDestruction (Original Version)",
         "structure": "Bgm44",
         "title": "The King of Destruction (Original Version)",
-        "mark": "Urus"
+        "mark": "Urus",
+        "youtube": "23CSJNc0Vd8"
     },
     {
         "album-artist": "Wizet",
@@ -5465,7 +5519,8 @@
         "filename": "TheKingOfDestruction",
         "structure": "Bgm44",
         "title": "The King of Destruction",
-        "mark": "Urus"
+        "mark": "Urus",
+        "youtube": "krltH4ZKh04"
     },
     {
         "album-artist": "Wizet",
@@ -5518,7 +5573,8 @@
         "filename": "TheSilentWar",
         "structure": "Bgm44",
         "title": "The Silent War",
-        "mark": "Urus"
+        "mark": "Urus",
+        "youtube": "AC6D15z_1pU"
     },
     {
         "album-artist": "Wizet",
@@ -5589,7 +5645,8 @@
         "filename": "This too shall pass away",
         "structure": "Bgm43",
         "title": "This Too Shall Pass Away",
-        "mark": "Folkvillige"
+        "mark": "Folkvillige",
+        "youtube": "_2LRgRV1J_8"
     },
     {
         "album-artist": "Wizet",
@@ -5598,7 +5655,8 @@
         "filename": "Through The Blizzard",
         "structure": "Bgm45",
         "title": "Through the Blizzard",
-        "mark": "HofM"
+        "mark": "HofM",
+        "youtube": "5Bb-cQC5Uvo"
     },
     {
         "album-artist": "Wizet",
@@ -5883,7 +5941,8 @@
         "filename": "TresureGameMulti",
         "structure": "Bgm43",
         "title": "Treasure Game Multi",
-        "mark": "Event"
+        "mark": "Event",
+        "youtube": "lKkP-hCo6I0"
     },
     {
         "album-artist": "Wizet",
@@ -5892,7 +5951,8 @@
         "filename": "TresureGameSingle",
         "structure": "Bgm43",
         "title": "Treasure Game Single",
-        "mark": "Event"
+        "mark": "Event",
+        "youtube": "uUVOC0f5QBs"
     },
     {
         "album-artist": "Wizet",
@@ -5956,7 +6016,8 @@
         "filename": "Unexpected crisis",
         "structure": "Bgm43",
         "title": "Unexpected Crisis",
-        "mark": "Folkvillige"
+        "mark": "Folkvillige",
+        "youtube": "bmkAphpVa0s"
     },
     {
         "album-artist": "NECORD",
@@ -5976,7 +6037,8 @@
         "filename": "Unknown Part Of City",
         "structure": "Bgm43",
         "title": "Unknown Part of City",
-        "mark": "MSTown"
+        "mark": "MSTown",
+        "youtube": "RplLRguFptU"
     },
     {
         "album-artist": "Wizet",
@@ -6204,7 +6266,8 @@
         "filename": "Welcome To The Creepy Ghost Park",
         "structure": "Bgm43",
         "title": "Welcome to the Creepy Ghost Park",
-        "mark": "GhostPark"
+        "mark": "GhostPark",
+        "youtube": "UHBxoHVKePs"
     },
     {
         "album-artist": "Wizet",
@@ -6309,7 +6372,8 @@
         "filename": "WildFury (Original Version)",
         "structure": "Bgm44",
         "title": "Wild Fury (Original Version)",
-        "mark": "Urus"
+        "mark": "Urus",
+        "youtube": "f9gy70JX_8c"
     },
     {
         "album-artist": "Wizet",
@@ -6318,7 +6382,8 @@
         "filename": "WildFury",
         "structure": "Bgm44",
         "title": "Wild Fury",
-        "mark": "Urus"
+        "mark": "Urus",
+        "youtube": "mx-yZp8nC9A"
     },
     {
         "album-artist": "Wizet",
