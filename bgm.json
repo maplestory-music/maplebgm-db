@@ -6,7 +6,8 @@
         "filename": "101Building (Alternate)",
         "structure": "StudioEIM Portfolio",
         "title": "101 Building (Alternate)",
-        "mark": "101Building"
+        "mark": "101Building",
+        "youtube": "x4FQNTMBjno"
     },
     {
         "album-artist": "Wizet",
@@ -518,7 +519,8 @@
         "filename": "Beachway",
         "structure": "Bgm03",
         "title": "Beachway",
-        "mark": "Rith"
+        "mark": "Rith",
+        "youtube": "9VqPnUL9Qvs"
     },
     {
         "album-artist": "Wizet",
@@ -1389,7 +1391,8 @@
         "filename": "DarkMountain",
         "structure": "Bgm11",
         "title": "Dark Mountain",
-        "mark": "Folkvillige"
+        "mark": "Folkvillige",
+        "youtube": "YUeCX11El2s"
     },
     {
         "album-artist": "Wizet",
@@ -1551,20 +1554,21 @@
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2013",
+        "description": "original version",
         "filename": "destructionPerion (Original)",
         "structure": "Bgm25",
         "title": "Destruction Perion (Original)",
-        "mark": "destructionPerion"
+        "mark": "destructionPerion",
+        "youtube": "jYjUenKrOQ4"
     },
     {
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2013",
-        "description": "original version",
         "filename": "destructionPerion",
         "structure": "Bgm25",
         "title": "Destruction Perion",
-        "youtube": "jYjUenKrOQ4",
+        "youtube": "wyDck95mbDc",
         "mark": "destructionPerion"
     },
     {
@@ -1593,20 +1597,21 @@
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2013",
+        "description": "original version",
         "filename": "DimensionLibrary (Original)",
         "structure": "Bgm34",
         "title": "Dimension Library (Original)",
-        "mark": "Library"
+        "mark": "Library",
+        "youtube": "XfHmfDcmbkQ"
     },
     {
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2013",
-        "description": "original version",
         "filename": "DimensionLibrary",
         "structure": "Bgm34",
         "title": "Dimension Library",
-        "youtube": "XfHmfDcmbkQ",
+        "youtube": "rrPNjni4GuI",
         "mark": "Library"
     },
     {
@@ -2038,7 +2043,8 @@
         "filename": "FinalFight (Tempest)",
         "structure": "Bgm26",
         "title": "Final Fight",
-        "mark": "TimeTemple"
+        "mark": "TimeTemple",
+        "youtube": "R5dUCq4vnvk"
     },
     {
         "album-artist": "Wizet",
@@ -2443,20 +2449,21 @@
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2006",
+        "description": "the original version of the track",
         "filename": "GoShanghai (Original)",
         "structure": "BgmCN",
         "title": "Go Shanghai (Original)",
-        "mark": "ShangHai"
+        "mark": "ShangHai",
+        "youtube": "uZ3egkrlMZY"
     },
     {
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2007",
-        "description": "the original version of the track",
         "filename": "GoShanghai",
         "structure": "BgmCN",
         "title": "Go Shanghai",
-        "youtube": "uZ3egkrlMZY",
+        "youtube": "xPtgIjPQqe4",
         "mark": "ShangHai"
     },
     {
@@ -3010,7 +3017,8 @@
         "filename": "JMSPromo2",
         "structure": "Website",
         "title": "JMS Promo 2",
-        "mark": "Quest"
+        "mark": "Quest",
+        "youtube": "GHpl05PmtOs"
     },
     {
         "album-artist": "Wizet",
@@ -3115,7 +3123,8 @@
         "filename": "kiteBgm",
         "structure": "BgmEvent2",
         "title": "Kite",
-        "mark": "Kite"
+        "mark": "Kite",
+        "youtube": "K4kGM9aKBCM"
     },
     {
         "album-artist": "Wizet",
@@ -3451,20 +3460,21 @@
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2010",
+        "description": "original version of LowGradeOre; no longer used",
         "filename": "LowGradeOre (Original)",
         "structure": "Bgm22",
         "title": "Low Grade Ore (Original)",
-        "mark": "Leben"
+        "mark": "Leben",
+        "youtube": "PhBbDgnZCFk"
     },
     {
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2010",
-        "description": "original version of LowGradeOre; no longer used",
         "filename": "LowGradeOre",
         "structure": "Bgm22",
         "title": "Low Grade Ore",
-        "youtube": "PhBbDgnZCFk",
+        "youtube": "tTKXb4Y5uBI",
         "mark": "Leben"
     },
     {
@@ -4343,7 +4353,8 @@
         "filename": "PoisonForest (Alternate)",
         "structure": "StudioEIM Portfolio",
         "title": "Poison Forest (Alternate)",
-        "mark": "PoisonForest"
+        "mark": "PoisonForest",
+        "youtube": "e28KuaWaHYo"
     },
     {
         "album-artist": "Wizet",
@@ -4481,7 +4492,8 @@
         "filename": "RedRoom (Incomplete)",
         "structure": "Bgm33",
         "title": "Red Room (Incomplete)",
-        "mark": "RedTemple"
+        "mark": "RedTemple",
+        "youtube": "jA3aul7iWOU"
     },
     {
         "album-artist": "Wizet",
@@ -4845,20 +4857,21 @@
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2006",
+        "description": "the original version of the track; is now used in Ximending (YoTaipei)",
         "filename": "ShanghaiField (Original)",
         "structure": "BgmCN",
         "title": "Shanghai Field (Original)",
-        "mark": "ShangHai"
+        "mark": "ShangHai",
+        "youtube": "Z1_N3UkmaMM"
     },
     {
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2007",
-        "description": "the original version of the track; is now used in Ximending (YoTaipei)",
         "filename": "ShanghaiField",
         "structure": "BgmCN",
         "title": "Shanghai Field",
-        "youtube": "Z1_N3UkmaMM",
+        "youtube": "by7VRYj4HU4",
         "mark": "ShangHai"
     },
     {
@@ -5266,7 +5279,8 @@
         "filename": "summerboating01 (Alternate)",
         "structure": "StudioEIM Portfolio",
         "title": "Summer Boating (Alternate)",
-        "mark": "Event"
+        "mark": "Event",
+        "youtube": "13nSE_8rXP4"
     },
     {
         "album-artist": "Wizet",
@@ -5517,20 +5531,21 @@
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2012",
+        "description": "original version",
         "filename": "thefinalWar (Original)",
         "structure": "Bgm28",
         "title": "The Final War (Original)",
-        "mark": "Magnus"
+        "mark": "Magnus",
+        "youtube": "BOnEdZbf3ms"
     },
     {
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2012",
-        "description": "original version",
         "filename": "thefinalWar",
         "structure": "Bgm28",
         "title": "The Final War",
-        "youtube": "BOnEdZbf3ms",
+        "youtube": "5rHW7L-DOJM",
         "mark": "Magnus"
     },
     {
@@ -5625,7 +5640,8 @@
         "filename": "TheThirdFlight",
         "structure": "Website",
         "title": "The Third Flight",
-        "mark": "Quest"
+        "mark": "Quest",
+        "youtube": "-p8DLhGML6g"
     },
     {
         "album-artist": "NECORD",
@@ -5911,7 +5927,8 @@
         "filename": "TowerOfGoddess",
         "structure": "Bgm13",
         "title": "Tower of a Goddess",
-        "mark": "GoddessTower"
+        "mark": "GoddessTower",
+        "youtube": "UEByqQPt2is"
     },
     {
         "album-artist": "Wizet",
@@ -6353,21 +6370,22 @@
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2003",
-        "description": "MapleSEA version of Happyville",
         "filename": "WhiteChristmas",
         "structure": "Bgm04",
         "title": "White Christmas",
-        "youtube": "zAqyNzqqgT0",
+        "youtube": "IzzDrEuFpnE",
         "mark": "HappyVillage"
     },
     {
         "album-artist": "Wizet",
         "artist": "StudioEIM",
         "date": "2003",
+        "description": "MapleSEA version of Happyville",
         "filename": "WhiteChristmasSea",
         "structure": "Bgm04",
         "title": "White Christmas (Sea)",
-        "mark": "HappyVillage"
+        "mark": "HappyVillage",
+        "youtube": "zAqyNzqqgT0"
     },
     {
         "album-artist": "Wizet",
