@@ -370,7 +370,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-02-02",
+            "structure": "Bgm47",
+            "version": "1.2.046"
         },
         "youtube": "egACrpCsMwE"
     },
@@ -790,7 +793,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "PL_Beautyroid"
+            "client": "CMST",
+            "date": "2017-04-12",
+            "structure": "PL_Beautyroid",
+            "version": "1.25"
         },
         "youtube": "IqfKfW0KQ0g"
     },
@@ -805,7 +811,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "PL_Beautyroid"
+            "client": "CMST",
+            "date": "2017-04-12",
+            "structure": "PL_Beautyroid",
+            "version": "1.25"
         },
         "youtube": "wnSwoYrY70Q"
     },
@@ -820,7 +829,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "PL_Beautyroid"
+            "client": "CMST",
+            "date": "2017-04-12",
+            "structure": "PL_Beautyroid",
+            "version": "1.25"
         },
         "youtube": "aHR0xM6CVQ0"
     },
@@ -835,7 +847,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "PL_Beautyroid"
+            "client": "CMST",
+            "date": "2017-04-12",
+            "structure": "PL_Beautyroid",
+            "version": "1.25"
         },
         "youtube": "-aT2UF3yW1I"
     },
@@ -1900,7 +1915,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-01-12",
+            "structure": "Bgm47",
+            "version": "1.2.045"
         },
         "youtube": "14B3XZLxKZM"
     },
@@ -2605,7 +2623,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2017-07-07",
+            "structure": "BgmPL",
+            "version": "1.27"
         },
         "youtube": ""
     },
@@ -2620,7 +2641,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2017-07-07",
+            "structure": "BgmPL",
+            "version": "1.27"
         },
         "youtube": ""
     },
@@ -2770,7 +2794,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmFT"
+            "client": "KMST",
+            "date": "2017-02-21",
+            "structure": "BgmFT",
+            "version": "1.2.047"
         },
         "youtube": ""
     },
@@ -3070,7 +3097,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm48"
+            "client": "KMST",
+            "date": "2017-07-13",
+            "structure": "Bgm48",
+            "version": "1.2.053"
         },
         "youtube": ""
     },
@@ -3205,7 +3235,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmEvent"
+            "client": "KMS",
+            "date": "2017-04-26",
+            "structure": "BgmEvent",
+            "version": "1.2.276"
         },
         "youtube": ""
     },
@@ -3355,7 +3388,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-01-12",
+            "structure": "Bgm47",
+            "version": "1.2.045"
         },
         "youtube": "A779SL-WbfM"
     },
@@ -4045,7 +4081,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-06-18",
+            "structure": "Bgm47",
+            "version": "1.2.051"
         },
         "youtube": ""
     },
@@ -4825,7 +4864,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmEvent"
+            "client": "KMST",
+            "date": "2017-05-18",
+            "structure": "BgmEvent",
+            "version": "1.2.050"
         },
         "youtube": ""
     },
@@ -4975,7 +5017,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmEvent"
+            "client": "KMS",
+            "date": "2017-04-26",
+            "structure": "BgmEvent",
+            "version": "1.2.276"
         },
         "youtube": ""
     },
@@ -4990,7 +5035,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmEvent"
+            "client": "KMS",
+            "date": "2017-04-26",
+            "structure": "BgmEvent",
+            "version": "1.2.276"
         },
         "youtube": ""
     },
@@ -5440,7 +5488,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-06-18",
+            "structure": "Bgm47",
+            "version": "1.2.051"
         },
         "youtube": ""
     },
@@ -5860,7 +5911,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm48"
+            "client": "KMST",
+            "date": "2017-07-13",
+            "structure": "Bgm48",
+            "version": "1.2.053"
         },
         "youtube": ""
     },
@@ -5890,7 +5944,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm48"
+            "client": "KMST",
+            "date": "2017-07-13",
+            "structure": "Bgm48",
+            "version": "1.2.053"
         },
         "youtube": ""
     },
@@ -6670,7 +6727,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-06-18",
+            "structure": "Bgm47",
+            "version": "1.2.051"
         },
         "youtube": ""
     },
@@ -7180,7 +7240,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2017-07-07",
+            "structure": "BgmPL",
+            "version": "1.27"
         },
         "youtube": ""
     },
@@ -7255,7 +7318,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2017-07-07",
+            "structure": "BgmPL",
+            "version": "1.27"
         },
         "youtube": ""
     },
@@ -7960,7 +8026,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-02-02",
+            "structure": "Bgm47",
+            "version": "1.2.046"
         },
         "youtube": "e8H5hcHA6T8"
     },
@@ -7975,7 +8044,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-02-02",
+            "structure": "Bgm47",
+            "version": "1.2.046"
         },
         "youtube": "rdDtnDmKQtY"
     },
@@ -8560,7 +8632,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2017-07-07",
+            "structure": "BgmPL",
+            "version": "1.27"
         },
         "youtube": ""
     },
@@ -8620,7 +8695,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-01-12",
+            "structure": "Bgm47",
+            "version": "1.2.045"
         },
         "youtube": "Ksn6CsFK6n0"
     },
@@ -8860,7 +8938,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm48"
+            "client": "KMST",
+            "date": "2017-07-13",
+            "structure": "Bgm48",
+            "version": "1.2.053"
         },
         "youtube": ""
     },
@@ -8890,7 +8971,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2017-07-07",
+            "structure": "BgmPL",
+            "version": "1.27"
         },
         "youtube": ""
     },
