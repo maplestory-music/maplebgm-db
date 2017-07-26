@@ -27,7 +27,12 @@
                     "artist": {
                         "type": "string"
                     },
+                    "subtitle": {
+                        "description": "Song title from data",
+                        "type": "string"
+                    },
                     "title": {
+                        "description": "Official song title",
                         "type": "string"
                     },
                     "year": {
