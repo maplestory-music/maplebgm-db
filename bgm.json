@@ -525,6 +525,42 @@
         "youtube": "fO9MLqOwXWg"
     },
     {
+        "description": "",
+        "filename": "Asylum",
+        "mark": "Asylum",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Asylum",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-07-27",
+            "structure": "Bgm47",
+            "version": "1.2.054"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "AsylumAmbience",
+        "mark": "Asylum",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Asylum Ambience",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-07-27",
+            "structure": "Bgm47",
+            "version": "1.2.054"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Kerning City",
         "filename": "BadGuys",
         "mark": "KerningCity",
@@ -1860,6 +1896,24 @@
         "youtube": "qbY2KUn3dmM"
     },
     {
+        "description": "",
+        "filename": "CrystalAcademia",
+        "mark": "Asylum",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Crystal Academia",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-07-27",
+            "structure": "Bgm47",
+            "version": "1.2.054"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Crystal Cave",
         "filename": "CrystalCave",
         "mark": "SnowDragon",
@@ -2021,6 +2075,60 @@
         },
         "source": {
             "structure": "BgmMIKU"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "DeathOfAsylum",
+        "mark": "Asylum",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Death of Asylum",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-07-27",
+            "structure": "Bgm47",
+            "version": "1.2.054"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "DeathOfAsylumChoir",
+        "mark": "Asylum",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Death of Asylum -choir-",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-07-27",
+            "structure": "Bgm47",
+            "version": "1.2.054"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "DeathOfAsylumChoirExtended",
+        "mark": "Asylum",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Death of Asylum -choir extended-",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-07-27",
+            "structure": "Bgm47",
+            "version": "1.2.054"
         },
         "youtube": ""
     },
@@ -3302,6 +3410,24 @@
     },
     {
         "description": "",
+        "filename": "gloryWing",
+        "mark": "Asylum",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Glory Wing",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-07-27",
+            "structure": "Bgm48",
+            "version": "1.2.054"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
         "filename": "God Of Control - Lobby",
         "mark": "godOfControl",
         "metadata": {
@@ -4047,6 +4173,24 @@
         },
         "source": {
             "structure": "Bgm47"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "Illium Rebirth",
+        "mark": "Asylum",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Illium Rebirth",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-07-27",
+            "structure": "Bgm47",
+            "version": "1.2.054"
         },
         "youtube": ""
     },
