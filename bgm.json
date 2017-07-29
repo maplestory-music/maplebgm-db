@@ -6537,7 +6537,7 @@
         "youtube": "DhUdOO9UNwY"
     },
     {
-        "description": "incomplete version",
+        "description": "",
         "filename": "RedRoom",
         "mark": "RedTemple",
         "metadata": {
@@ -6552,7 +6552,7 @@
         "youtube": "jA3aul7iWOU"
     },
     {
-        "description": "",
+        "description": "incomplete version",
         "filename": "RedRoom (Incomplete)",
         "mark": "RedTemple",
         "metadata": {
@@ -8424,7 +8424,7 @@
         "youtube": "BVSPMg-GWDc"
     },
     {
-        "description": "'Chaos' login theme",
+        "description": "Chaos login theme",
         "filename": "Title2010Winter",
         "mark": "Quest",
         "metadata": {
@@ -8454,13 +8454,14 @@
         "youtube": "1GA7nJdEvN8"
     },
     {
-        "description": "",
+        "description": "Idina Menzel - Let It Go",
         "filename": "Title_Frozen",
         "mark": "Quest",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "Idina Menzel",
-            "title": "Title Frozen (Let It Go)",
+            "subtitle": "Title Frozen",
+            "title": "Let It Go",
             "year": "2014"
         },
         "source": {
@@ -8469,7 +8470,7 @@
         "youtube": ""
     },
     {
-        "description": "Mikuni Shimokawa: Memories of MapleStory",
+        "description": "Mikuni Shimokawa - Memories of MapleStory",
         "filename": "Title_Japan",
         "mark": "Quest",
         "metadata": {
@@ -8499,7 +8500,7 @@
         "youtube": "3L9fhgu2kDI"
     },
     {
-        "description": "Jimang \u00e2\u20ac\u201c Sakura Pop",
+        "description": "Jimang - Sakura Pop",
         "filename": "Title_Japan3",
         "mark": "Quest",
         "metadata": {
@@ -8514,7 +8515,7 @@
         "youtube": "toyGN6s7-S8"
     },
     {
-        "description": "Haruka Shimotsuki \u00e2\u20ac\u201c Hajimarino Story",
+        "description": "Haruka Shimotsuki - Hajimarino Story",
         "filename": "Title_Japan4",
         "mark": "Quest",
         "metadata": {
@@ -8544,7 +8545,7 @@
         "youtube": "qM6ExgTX1KM"
     },
     {
-        "description": "",
+        "description": "Ren Longxin - A Whole New World",
         "filename": "Title_Taiwan",
         "mark": "Quest",
         "metadata": {
