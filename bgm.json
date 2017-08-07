@@ -271,7 +271,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2007-06-13",
+            "structure": "BgmGL",
+            "version": "0.39"
         },
         "youtube": "fetvn2jzc9Q"
     },
@@ -1198,7 +1201,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmSG"
+            "client": "MSEA",
+            "date": "2007-08-01",
+            "structure": "BgmSG",
+            "version": "0.44"
         },
         "youtube": "DLdRypTOm0o"
     },
@@ -1213,7 +1219,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmSG"
+            "client": "MSEA",
+            "date": "2007-08-01",
+            "structure": "BgmSG",
+            "version": "0.44"
         },
         "youtube": "GSDD0c_7FV0"
     },
@@ -1540,7 +1549,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmSG"
+            "client": "MSEA",
+            "date": "2007-08-01",
+            "structure": "BgmSG",
+            "version": "0.44"
         },
         "youtube": "MvheqAmubR8"
     },
@@ -1555,7 +1567,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmSG"
+            "client": "MSEA",
+            "date": "2007-08-01",
+            "structure": "BgmSG",
+            "version": "0.44"
         },
         "youtube": "czDfxrSGea4"
     },
@@ -3670,7 +3685,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmSG"
+            "client": "MSEA",
+            "date": "2007-08-01",
+            "structure": "BgmSG",
+            "version": "0.44"
         },
         "youtube": "cOatjxHHAEw"
     },
@@ -4150,7 +4168,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2007-10-11",
+            "structure": "BgmGL",
+            "version": "0.44"
         },
         "youtube": "nbGQyrGizRQ"
     },
@@ -4666,7 +4687,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "Bgm15"
+            "client": "KMST",
+            "date": "2007-11-07",
+            "structure": "Bgm15",
+            "version": "1.2.114"
         },
         "youtube": "eZ8LtJlzvyU"
     },
@@ -6445,7 +6469,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "Bgm15"
+            "client": "KMST",
+            "date": "2007-10-05",
+            "structure": "Bgm15",
+            "version": "1.2.105"
         },
         "youtube": "iZaVKkfuD6s"
     },
@@ -6667,7 +6694,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2007-07-26",
+            "structure": "BgmGL",
+            "version": "0.40"
         },
         "youtube": "UB_Dn0LCYLE"
     },
@@ -6682,7 +6712,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2007-07-26",
+            "structure": "BgmGL",
+            "version": "0.40"
         },
         "youtube": "EXv5madDarI"
     },
@@ -6697,7 +6730,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2007-07-26",
+            "structure": "BgmGL",
+            "version": "0.40"
         },
         "youtube": "d0kE_pLlE2U"
     },
