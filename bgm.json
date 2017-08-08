@@ -256,7 +256,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2006-12-06",
+            "structure": "BgmGL",
+            "version": "0.32"
         },
         "youtube": "hCdooZxzISo"
     },
@@ -1486,7 +1489,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2006-12-06",
+            "structure": "BgmGL",
+            "version": "0.32"
         },
         "youtube": "uqBUXZdBvVU"
     },
@@ -1585,7 +1591,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2006-12-06",
+            "structure": "BgmGL",
+            "version": "0.32"
         },
         "youtube": "NJ6UMbOgQjU"
     },
