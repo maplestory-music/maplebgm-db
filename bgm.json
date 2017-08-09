@@ -561,6 +561,42 @@
         "youtube": ""
     },
     {
+        "description": "",
+        "filename": "AsylumAmbiencePiano",
+        "mark": "Asylum",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Asylum Ambience -piano-",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2017-08-10",
+            "structure": "Bgm47",
+            "version": "1.2.282"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "AsylumPiano",
+        "mark": "Asylum",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Asylum -piano-",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2017-08-10",
+            "structure": "Bgm47",
+            "version": "1.2.282"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Kerning City",
         "filename": "BadGuys",
         "mark": "KerningCity",
@@ -8981,6 +9017,24 @@
             "structure": "Bgm38"
         },
         "youtube": "QX9RozniVPU"
+    },
+    {
+        "description": "",
+        "filename": "WaterGunGame",
+        "mark": "Event",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Water Gun Game",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2017-08-10",
+            "structure": "BgmEvent2",
+            "version": "1.2.282"
+        },
+        "youtube": ""
     },
     {
         "description": "Perion Castle Waterways (GPQ)",
