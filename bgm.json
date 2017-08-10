@@ -1,20 +1,5 @@
 [
     {
-        "description": "",
-        "filename": "101Building (Alternate)",
-        "mark": "101Building",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "101 Building (Alternate)",
-            "year": "2007"
-        },
-        "source": {
-            "structure": "StudioEIM Portfolio"
-        },
-        "youtube": "x4FQNTMBjno"
-    },
-    {
         "description": "Taipei 101",
         "filename": "101Building",
         "mark": "101Building",
@@ -28,6 +13,21 @@
             "structure": "BgmTW"
         },
         "youtube": "_0qKfYQG7Rs"
+    },
+    {
+        "description": "",
+        "filename": "101Building (Alternate)",
+        "mark": "101Building",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "101 Building (Alternate)",
+            "year": "2007"
+        },
+        "source": {
+            "structure": "StudioEIM Portfolio"
+        },
+        "youtube": "x4FQNTMBjno"
     },
     {
         "description": "Taipei 101 Field",
@@ -70,7 +70,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2015-10-20",
+            "structure": "BgmTW",
+            "version": "1.84"
         },
         "youtube": "H3YiN4_cfIc"
     },
@@ -85,7 +88,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2015-10-20",
+            "structure": "BgmTW",
+            "version": "1.84"
         },
         "youtube": "nPEUYAvLVGQ"
     },
@@ -100,7 +106,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm30"
+            "client": "KMST",
+            "date": "2016-12-15",
+            "structure": "Bgm30",
+            "version": "1.2.043"
         },
         "youtube": "njzZP2857Yc"
     },
@@ -145,7 +154,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm29"
+            "client": "CMST",
+            "date": "2012-12-14",
+            "structure": "Bgm29",
+            "version": "0.71"
         },
         "youtube": "iU--7d3GLn8"
     },
@@ -190,7 +202,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm34"
+            "client": "KMST",
+            "date": "2013-06-27",
+            "structure": "Bgm34",
+            "version": "1.2.481"
         },
         "youtube": "r3bEoktbxtc"
     },
@@ -205,7 +220,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "BgmJp2"
+            "client": "JMS",
+            "date": "2008-12-03",
+            "structure": "BgmJp2",
+            "version": "1.52"
         },
         "youtube": "47hrhA3OqkU"
     },
@@ -220,7 +238,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm25"
+            "client": "KMS",
+            "date": "2011-08-17",
+            "structure": "Bgm25",
+            "version": "1.2.139"
         },
         "youtube": "eKf_ZjD9gb4"
     },
@@ -235,7 +256,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2006-12-06",
+            "structure": "BgmGL",
+            "version": "0.32"
         },
         "youtube": "hCdooZxzISo"
     },
@@ -250,7 +274,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2007-06-13",
+            "structure": "BgmGL",
+            "version": "0.39"
         },
         "youtube": "fetvn2jzc9Q"
     },
@@ -265,7 +292,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm37"
+            "client": "KMST",
+            "date": "2014-01-08",
+            "structure": "Bgm37",
+            "version": "1.2.495"
         },
         "youtube": "ZnS7JgfB8DI"
     },
@@ -295,7 +325,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm27"
+            "client": "KMST",
+            "date": "2012-08-10",
+            "structure": "Bgm27",
+            "version": "1.2.445"
         },
         "youtube": "EC56KZErScE"
     },
@@ -310,7 +343,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm45"
+            "client": "KMS",
+            "date": "2016-01-13",
+            "structure": "Bgm45",
+            "version": "1.2.251"
         },
         "youtube": "4yW_ZefIg6Y"
     },
@@ -370,7 +406,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-02-02",
+            "structure": "Bgm47",
+            "version": "1.2.046"
         },
         "youtube": "egACrpCsMwE"
     },
@@ -400,7 +439,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm33"
+            "client": "KMST",
+            "date": "2013-07-08",
+            "structure": "Bgm33",
+            "version": "1.2.482"
         },
         "youtube": "UZxJ-3CgGzk"
     },
@@ -415,7 +457,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2015-06-02",
+            "structure": "BgmTW",
+            "version": "1.80"
         },
         "youtube": "vyn-pYh7OeM"
     },
@@ -430,7 +475,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2015-06-02",
+            "structure": "BgmTW",
+            "version": "1.80"
         },
         "youtube": "EppjtsvLkJs"
     },
@@ -445,7 +493,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2015-06-02",
+            "structure": "BgmTW",
+            "version": "1.80"
         },
         "youtube": "pVMWdCykTro"
     },
@@ -460,7 +511,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2015-06-02",
+            "structure": "BgmTW",
+            "version": "1.80"
         },
         "youtube": "UhtL8QLEIyM"
     },
@@ -475,7 +529,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2015-06-02",
+            "structure": "BgmTW",
+            "version": "1.80"
         },
         "youtube": "DHCiyODEdUs"
     },
@@ -490,7 +547,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm45"
+            "client": "KMST",
+            "date": "2015-11-26",
+            "structure": "Bgm45",
+            "version": "1.2.024"
         },
         "youtube": "DzyjPxP0GSg"
     },
@@ -520,7 +580,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmJp3"
+            "client": "JMS",
+            "date": "2015-07-29",
+            "structure": "BgmJp3",
+            "version": "3.42"
         },
         "youtube": "fO9MLqOwXWg"
     },
@@ -622,7 +685,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "Bgm19"
+            "client": "KMST",
+            "date": "2009-06-18",
+            "structure": "Bgm19",
+            "version": "1.2.235"
         },
         "youtube": "9HiJnsISD3s"
     },
@@ -637,7 +703,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm27"
+            "client": "KMST",
+            "date": "2012-07-18",
+            "structure": "Bgm27",
+            "version": "1.2.439"
         },
         "youtube": "TeFx8yrpzHc"
     },
@@ -667,7 +736,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm24"
+            "client": "KMST",
+            "date": "2011-01-11",
+            "structure": "Bgm24",
+            "version": "1.2.364"
         },
         "youtube": "wRxKsZpqW2c"
     },
@@ -682,7 +754,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm24"
+            "client": "KMST",
+            "date": "2011-01-11",
+            "structure": "Bgm24",
+            "version": "1.2.364"
         },
         "youtube": "oQXddgI_o2s"
     },
@@ -697,7 +772,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm24"
+            "client": "KMS",
+            "date": "2011-01-18",
+            "structure": "Bgm24",
+            "version": "1.2.122"
         },
         "youtube": "LUxUY27-3r4"
     },
@@ -712,7 +790,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm24"
+            "client": "KMS",
+            "date": "2011-01-18",
+            "structure": "Bgm24",
+            "version": "1.2.122"
         },
         "youtube": "Fjtl9PXDxeE"
     },
@@ -727,7 +808,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm24"
+            "client": "CMS",
+            "date": "2011-06-27",
+            "structure": "Bgm24",
+            "version": "0.93"
         },
         "youtube": "VV01F6REcnw"
     },
@@ -742,24 +826,12 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm24"
+            "client": "KMST",
+            "date": "2011-01-11",
+            "structure": "Bgm24",
+            "version": "1.2.364"
         },
         "youtube": "eky_ABtx2VE"
-    },
-    {
-        "description": "",
-        "filename": "battlefield (First Spin-Off)",
-        "mark": "spinOff1",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Battlefield (First Spin-Off)",
-            "year": "2014"
-        },
-        "source": {
-            "structure": "Bgm38"
-        },
-        "youtube": "6sn8HkQCe5U"
     },
     {
         "description": "Showa Hideout",
@@ -778,6 +850,24 @@
     },
     {
         "description": "",
+        "filename": "battlefield (First Spin-Off)",
+        "mark": "spinOff1",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Battlefield (First Spin-Off)",
+            "year": "2014"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2014-05-20",
+            "structure": "Bgm38",
+            "version": "1.2.504"
+        },
+        "youtube": "6sn8HkQCe5U"
+    },
+    {
+        "description": "",
         "filename": "BattleOnTheDeck",
         "mark": "BlockBuster",
         "metadata": {
@@ -787,7 +877,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm40"
+            "client": "KMST",
+            "date": "2014-09-22",
+            "structure": "Bgm40",
+            "version": "1.2.513"
         },
         "youtube": "feA6jQxC864"
     },
@@ -817,7 +910,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmBT"
+            "client": "CMST",
+            "date": "2014-01-05",
+            "structure": "BgmBT",
+            "version": "0.87"
         },
         "youtube": "1Z4-AVRNNEI"
     },
@@ -832,7 +928,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmBT"
+            "client": "CMST",
+            "date": "2014-01-05",
+            "structure": "BgmBT",
+            "version": "0.87"
         },
         "youtube": "Pyfqoim3jPA"
     },
@@ -847,7 +946,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmBT"
+            "client": "CMST",
+            "date": "2014-01-05",
+            "structure": "BgmBT",
+            "version": "0.87"
         },
         "youtube": "Ol-Cy_VUDMM"
     },
@@ -862,7 +964,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "PL_Beautyroid"
+            "client": "CMST",
+            "date": "2017-04-12",
+            "structure": "PL_Beautyroid",
+            "version": "1.25"
         },
         "youtube": "IqfKfW0KQ0g"
     },
@@ -877,7 +982,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "PL_Beautyroid"
+            "client": "CMST",
+            "date": "2017-04-12",
+            "structure": "PL_Beautyroid",
+            "version": "1.25"
         },
         "youtube": "wnSwoYrY70Q"
     },
@@ -892,7 +1000,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "PL_Beautyroid"
+            "client": "CMST",
+            "date": "2017-04-12",
+            "structure": "PL_Beautyroid",
+            "version": "1.25"
         },
         "youtube": "aHR0xM6CVQ0"
     },
@@ -907,7 +1018,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "PL_Beautyroid"
+            "client": "CMST",
+            "date": "2017-04-12",
+            "structure": "PL_Beautyroid",
+            "version": "1.25"
         },
         "youtube": "-aT2UF3yW1I"
     },
@@ -922,7 +1036,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm33"
+            "client": "KMST",
+            "date": "2013-07-08",
+            "structure": "Bgm33",
+            "version": "1.2.482"
         },
         "youtube": "_U9ZsV_XAQk"
     },
@@ -937,7 +1054,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2008-08-14",
+            "structure": "BgmGL",
+            "version": "0.59"
         },
         "youtube": "X0pUdlLwIhA"
     },
@@ -952,7 +1072,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm41"
+            "client": "KMS",
+            "date": "2014-11-26",
+            "structure": "Bgm41",
+            "version": "1.2.225"
         },
         "youtube": "UtnaLTZSQhc"
     },
@@ -967,7 +1090,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm41"
+            "client": "KMS",
+            "date": "2014-11-26",
+            "structure": "Bgm41",
+            "version": "1.2.225"
         },
         "youtube": "ztmts8aQ2eI"
     },
@@ -1012,7 +1138,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2015-07-08",
+            "structure": "BgmGL",
+            "version": "1.63"
         },
         "youtube": "2v-Mm-soYvw"
     },
@@ -1027,7 +1156,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm40"
+            "client": "KMS",
+            "date": "2014-09-29",
+            "structure": "Bgm40",
+            "version": "1.2.221"
         },
         "youtube": "nc7c89g9WX4"
     },
@@ -1042,7 +1174,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm40"
+            "client": "KMS",
+            "date": "2014-09-29",
+            "structure": "Bgm40",
+            "version": "1.2.221"
         },
         "youtube": "m59uvLafIho"
     },
@@ -1057,7 +1192,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "Bgm18"
+            "client": "KMST",
+            "date": "2008-12-04",
+            "structure": "Bgm18",
+            "version": "1.2.183"
         },
         "youtube": "D567gGNSf8I"
     },
@@ -1072,7 +1210,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "Bgm23"
+            "client": "KMST",
+            "date": "2010-09-08",
+            "structure": "Bgm23",
+            "version": "1.2.340"
         },
         "youtube": "8F100vDwPJg"
     },
@@ -1087,7 +1228,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm18"
+            "client": "KMST",
+            "date": "2011-12-09",
+            "structure": "Bgm18",
+            "version": "1.2.411"
         },
         "youtube": "Dt4hq7RKhsA"
     },
@@ -1132,7 +1276,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmSG"
+            "client": "MSEA",
+            "date": "2007-08-01",
+            "structure": "BgmSG",
+            "version": "0.44"
         },
         "youtube": "DLdRypTOm0o"
     },
@@ -1147,7 +1294,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmSG"
+            "client": "MSEA",
+            "date": "2007-08-01",
+            "structure": "BgmSG",
+            "version": "0.44"
         },
         "youtube": "GSDD0c_7FV0"
     },
@@ -1162,7 +1312,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm27"
+            "client": "KMST",
+            "date": "2012-07-18",
+            "structure": "Bgm27",
+            "version": "1.2.439"
         },
         "youtube": "cxqCXm9_LsI"
     },
@@ -1177,7 +1330,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm46"
+            "client": "KMST",
+            "date": "2016-08-11",
+            "structure": "Bgm46",
+            "version": "1.2.038"
         },
         "youtube": "PfCojbDYtBo"
     },
@@ -1192,7 +1348,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2014-05-14",
+            "structure": "BgmTW",
+            "version": "1.70"
         },
         "youtube": "87RytVeR85w"
     },
@@ -1222,7 +1381,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm26"
+            "client": "KMST",
+            "date": "2012-07-03",
+            "structure": "Bgm26",
+            "version": "1.2.437"
         },
         "youtube": "fPVOc5uau1M"
     },
@@ -1267,7 +1429,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "BgmEvent"
+            "client": "KMS",
+            "date": "2013-11-13",
+            "structure": "BgmEvent",
+            "version": "1.2.203"
         },
         "youtube": "kCG2WU5PkF0"
     },
@@ -1333,21 +1498,6 @@
     },
     {
         "description": "",
-        "filename": "Catch Your Dreams! full ~Japanese ver.~",
-        "mark": "spinOff1",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Catch Your Dreams! ~Japanese ver.~",
-            "year": "2015"
-        },
-        "source": {
-            "structure": "Bgm42"
-        },
-        "youtube": "ZJJvowmQ7uQ"
-    },
-    {
-        "description": "",
         "filename": "Catch Your Dreams! full",
         "mark": "spinOff1",
         "metadata": {
@@ -1357,9 +1507,30 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm42"
+            "client": "KMS",
+            "date": "2015-03-11",
+            "structure": "Bgm42",
+            "version": "1.2.231"
         },
         "youtube": "4mVj4qHNLso"
+    },
+    {
+        "description": "",
+        "filename": "Catch Your Dreams! full ~Japanese ver.~",
+        "mark": "spinOff1",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Catch Your Dreams! ~Japanese ver.~",
+            "year": "2015"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2015-07-29",
+            "structure": "Bgm42",
+            "version": "3.42"
+        },
+        "youtube": "ZJJvowmQ7uQ"
     },
     {
         "description": "",
@@ -1372,7 +1543,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm42"
+            "client": "KMS",
+            "date": "2015-03-11",
+            "structure": "Bgm42",
+            "version": "1.2.231"
         },
         "youtube": "IkSVdHl2WOs"
     },
@@ -1387,7 +1561,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2006-12-06",
+            "structure": "BgmGL",
+            "version": "0.32"
         },
         "youtube": "uqBUXZdBvVU"
     },
@@ -1417,7 +1594,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm46"
+            "client": "KMST",
+            "date": "2016-06-26",
+            "structure": "Bgm46",
+            "version": "1.2.035"
         },
         "youtube": "mRV7syEa_jk"
     },
@@ -1447,7 +1627,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmSG"
+            "client": "MSEA",
+            "date": "2007-08-01",
+            "structure": "BgmSG",
+            "version": "0.44"
         },
         "youtube": "MvheqAmubR8"
     },
@@ -1462,7 +1645,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmSG"
+            "client": "MSEA",
+            "date": "2007-08-01",
+            "structure": "BgmSG",
+            "version": "0.44"
         },
         "youtube": "czDfxrSGea4"
     },
@@ -1477,7 +1663,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2006-12-06",
+            "structure": "BgmGL",
+            "version": "0.32"
         },
         "youtube": "NJ6UMbOgQjU"
     },
@@ -1492,7 +1681,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm46"
+            "client": "KMST",
+            "date": "2016-07-22",
+            "structure": "Bgm46",
+            "version": "1.2.037"
         },
         "youtube": "465_AD3LvwM"
     },
@@ -1507,7 +1699,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm46"
+            "client": "KMST",
+            "date": "2016-07-22",
+            "structure": "Bgm46",
+            "version": "1.2.037"
         },
         "youtube": "pwfLT4LJkSA"
     },
@@ -1522,7 +1717,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmGL2D"
+            "client": "GMS",
+            "date": "2014-12-03",
+            "structure": "BgmGL2D",
+            "version": "1.57"
         },
         "youtube": "ATYgxfxPTgI"
     },
@@ -1537,7 +1735,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "CMS",
+            "date": "2012-06-27",
+            "structure": "BgmTW",
+            "version": "1.03"
         },
         "youtube": "jRAx12W7QI8"
     },
@@ -1552,7 +1753,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm28"
+            "client": "KMST",
+            "date": "2012-08-30",
+            "structure": "Bgm28",
+            "version": "1.2.449"
         },
         "youtube": "m7xk5VfLpwY"
     },
@@ -1567,7 +1771,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmJp"
+            "client": "JMS",
+            "date": "2014-04-22",
+            "structure": "BgmJp",
+            "version": "3.25"
         },
         "youtube": "6eY155X67Ww"
     },
@@ -1582,7 +1789,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmJp"
+            "client": "JMS",
+            "date": "2014-04-22",
+            "structure": "BgmJp",
+            "version": "3.25"
         },
         "youtube": "unR2SUdW3Oc"
     },
@@ -1597,7 +1807,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm45"
+            "client": "KMST",
+            "date": "2016-02-18",
+            "structure": "Bgm45",
+            "version": "1.2.029"
         },
         "youtube": "fxUpCkGlrKE"
     },
@@ -1612,7 +1825,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm46"
+            "client": "KMST",
+            "date": "2016-08-11",
+            "structure": "Bgm46",
+            "version": "1.2.038"
         },
         "youtube": "h_jJjw1TPyY"
     },
@@ -1657,7 +1873,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "BgmBT"
+            "client": "CMS",
+            "date": "2013-12-10",
+            "structure": "BgmBT",
+            "version": "1.14"
         },
         "youtube": "Ej3m8ukDOlk"
     },
@@ -1672,7 +1891,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "BgmBT"
+            "client": "CMST",
+            "date": "2013-11-23",
+            "structure": "BgmBT",
+            "version": "0.85"
         },
         "youtube": "JvaxNdKZS3I"
     },
@@ -1687,7 +1909,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "BgmBT"
+            "client": "CMS",
+            "date": "2013-12-10",
+            "structure": "BgmBT",
+            "version": "1.14"
         },
         "youtube": "rb-9IQLFi4U"
     },
@@ -1702,7 +1927,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "BgmBT"
+            "client": "CMST",
+            "date": "2013-11-23",
+            "structure": "BgmBT",
+            "version": "0.85"
         },
         "youtube": "zW1J8XYU3t0"
     },
@@ -1717,7 +1945,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2015-09-02",
+            "structure": "BgmTW",
+            "version": "1.83"
         },
         "youtube": "0bhj1SiqzlE"
     },
@@ -1732,7 +1963,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2015-09-02",
+            "structure": "BgmTW",
+            "version": "1.83"
         },
         "youtube": "x3DpSrAI9js"
     },
@@ -1747,7 +1981,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2015-09-02",
+            "structure": "BgmTW",
+            "version": "1.83"
         },
         "youtube": "SXFLOsagB1w"
     },
@@ -1762,7 +1999,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2015-09-02",
+            "structure": "BgmTW",
+            "version": "1.83"
         },
         "youtube": "0nvAy3udpog"
     },
@@ -1777,7 +2017,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2015-09-02",
+            "structure": "BgmTW",
+            "version": "1.83"
         },
         "youtube": "0IgETnKxbns"
     },
@@ -1792,7 +2035,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2015-09-02",
+            "structure": "BgmTW",
+            "version": "1.83"
         },
         "youtube": "rWDa7sOvYdM"
     },
@@ -1807,7 +2053,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2015-09-02",
+            "structure": "BgmTW",
+            "version": "1.83"
         },
         "youtube": "stbAQs-rsyY"
     },
@@ -1837,7 +2086,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "BgmEvent"
+            "client": "KMST",
+            "date": "2013-11-06",
+            "structure": "BgmEvent",
+            "version": "1.2.491"
         },
         "youtube": "-E-O8wMa5d0"
     },
@@ -1852,7 +2104,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmJp3"
+            "client": "JMS",
+            "date": "2015-07-29",
+            "structure": "BgmJp3",
+            "version": "3.42"
         },
         "youtube": "2G_KCtvWTRk"
     },
@@ -1867,7 +2122,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2009-03-05",
+            "structure": "BgmGL",
+            "version": "0.66"
         },
         "youtube": "h0_8MftVy90"
     },
@@ -1882,7 +2140,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm25"
+            "client": "KMS",
+            "date": "2011-08-17",
+            "structure": "Bgm25",
+            "version": "1.2.139"
         },
         "youtube": "8hCou9H8XbY"
     },
@@ -1897,7 +2158,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "Bgm23"
+            "client": "KMST",
+            "date": "2010-09-08",
+            "structure": "Bgm23",
+            "version": "1.2.340"
         },
         "youtube": "KmTlNkXpq-M"
     },
@@ -1912,7 +2176,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2008-08-14",
+            "structure": "BgmGL",
+            "version": "0.59"
         },
         "youtube": "CZoYt7HHSik"
     },
@@ -1927,7 +2194,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2009-03-05",
+            "structure": "BgmGL",
+            "version": "0.66"
         },
         "youtube": "qbY2KUn3dmM"
     },
@@ -1960,7 +2230,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "Bgm19"
+            "client": "KMST",
+            "date": "2009-06-18",
+            "structure": "Bgm19",
+            "version": "1.2.235"
         },
         "youtube": "Wr21LZPVPrw"
     },
@@ -1975,7 +2248,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "Bgm25"
+            "client": "KMST",
+            "date": "2010-12-23",
+            "structure": "Bgm25",
+            "version": "1.2.359"
         },
         "youtube": "Y3RCDa6qo6w"
     },
@@ -1990,7 +2266,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-01-12",
+            "structure": "Bgm47",
+            "version": "1.2.045"
         },
         "youtube": "14B3XZLxKZM"
     },
@@ -2005,7 +2284,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm43"
+            "client": "KMS",
+            "date": "2015-08-05",
+            "structure": "Bgm43",
+            "version": "1.2.242"
         },
         "youtube": "vX0bkXNtX0g"
     },
@@ -2020,7 +2302,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm19"
+            "client": "KMST",
+            "date": "2011-12-22",
+            "structure": "Bgm19",
+            "version": "1.2.413"
         },
         "youtube": "E7wxS2y6h6M"
     },
@@ -2035,7 +2320,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm26"
+            "client": "KMST",
+            "date": "2012-07-03",
+            "structure": "Bgm26",
+            "version": "1.2.437"
         },
         "youtube": "PLGbYlBbw2E"
     },
@@ -2065,7 +2353,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmJp3"
+            "client": "JMS",
+            "date": "2015-07-29",
+            "structure": "BgmJp3",
+            "version": "3.42"
         },
         "youtube": "xAAo_xCTqb4"
     },
@@ -2095,7 +2386,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm26"
+            "client": "KMST",
+            "date": "2012-07-03",
+            "structure": "Bgm26",
+            "version": "1.2.437"
         },
         "youtube": "ekBYanDkybM"
     },
@@ -2110,7 +2404,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmMIKU"
+            "client": "JMS",
+            "date": "2014-08-26",
+            "structure": "BgmMIKU",
+            "version": "3.31"
         },
         "youtube": ""
     },
@@ -2179,7 +2476,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm36"
+            "client": "KMST",
+            "date": "2013-12-23",
+            "structure": "Bgm36",
+            "version": "1.2.494"
         },
         "youtube": "fajX5WR07mw"
     },
@@ -2194,7 +2494,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm22"
+            "client": "KMST",
+            "date": "2011-07-26",
+            "structure": "Bgm22",
+            "version": "1.2.395"
         },
         "youtube": "EcjYXo4qxs0"
     },
@@ -2209,7 +2512,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm15"
+            "client": "KMS",
+            "date": "2011-10-26",
+            "structure": "Bgm15",
+            "version": "1.2.144"
         },
         "youtube": "SZlxFZhtiKI"
     },
@@ -2230,6 +2536,24 @@
     },
     {
         "description": "",
+        "filename": "Demian",
+        "mark": "HofM",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Demian",
+            "year": "2016"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2016-02-24",
+            "structure": "Bgm45",
+            "version": "1.2.253"
+        },
+        "youtube": "hQGygfdaZrc"
+    },
+    {
+        "description": "",
         "filename": "Demian Spine",
         "mark": "HofM",
         "metadata": {
@@ -2239,7 +2563,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm45"
+            "client": "KMS",
+            "date": "2016-02-24",
+            "structure": "Bgm45",
+            "version": "1.2.253"
         },
         "youtube": "fQSf3-SpylY"
     },
@@ -2254,24 +2581,12 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm45"
+            "client": "KMS",
+            "date": "2016-02-24",
+            "structure": "Bgm45",
+            "version": "1.2.253"
         },
         "youtube": "do6QC9kkmv4"
-    },
-    {
-        "description": "",
-        "filename": "Demian",
-        "mark": "HofM",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Demian",
-            "year": "2016"
-        },
-        "source": {
-            "structure": "Bgm45"
-        },
-        "youtube": "hQGygfdaZrc"
     },
     {
         "description": "",
@@ -2284,7 +2599,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm42"
+            "client": "KMS",
+            "date": "2015-03-11",
+            "structure": "Bgm42",
+            "version": "1.2.231"
         },
         "youtube": "m7-KSFVZJzk"
     },
@@ -2299,7 +2617,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm42"
+            "client": "KMS",
+            "date": "2015-03-11",
+            "structure": "Bgm42",
+            "version": "1.2.231"
         },
         "youtube": "RaXC3bWEYFc"
     },
@@ -2314,7 +2635,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm22"
+            "client": "KMST",
+            "date": "2011-07-26",
+            "structure": "Bgm22",
+            "version": "1.2.395"
         },
         "youtube": "e-USJPLjJQ4"
     },
@@ -2329,24 +2653,12 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm44"
+            "client": "KMST",
+            "date": "2015-08-12",
+            "structure": "Bgm44",
+            "version": "1.2.018"
         },
         "youtube": "vZybFbSlUgc"
-    },
-    {
-        "description": "original version",
-        "filename": "destructionPerion (Original)",
-        "mark": "destructionPerion",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Destruction Perion (Original)",
-            "year": "2013"
-        },
-        "source": {
-            "structure": "Bgm25"
-        },
-        "youtube": "jYjUenKrOQ4"
     },
     {
         "description": "",
@@ -2359,9 +2671,30 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm25"
+            "client": "KMS",
+            "date": "2013-02-20",
+            "structure": "Bgm25",
+            "version": "1.2.189"
         },
         "youtube": "wyDck95mbDc"
+    },
+    {
+        "description": "original version",
+        "filename": "destructionPerion (Original)",
+        "mark": "destructionPerion",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Destruction Perion (Original)",
+            "year": "2013"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2013-02-14",
+            "structure": "Bgm25",
+            "version": "1.2.472"
+        },
+        "youtube": "jYjUenKrOQ4"
     },
     {
         "description": "",
@@ -2374,7 +2707,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm25"
+            "client": "KMST",
+            "date": "2013-02-14",
+            "structure": "Bgm25",
+            "version": "1.2.472"
         },
         "youtube": "gnVoHyAt5ko"
     },
@@ -2389,24 +2725,12 @@
             "year": "2010"
         },
         "source": {
-            "structure": "Bgm25"
+            "client": "KMST",
+            "date": "2010-12-23",
+            "structure": "Bgm25",
+            "version": "1.2.359"
         },
         "youtube": "fM0ZfX9zkL4"
-    },
-    {
-        "description": "original version",
-        "filename": "DimensionLibrary (Original)",
-        "mark": "Library",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Dimension Library (Original)",
-            "year": "2013"
-        },
-        "source": {
-            "structure": "Bgm34"
-        },
-        "youtube": "XfHmfDcmbkQ"
     },
     {
         "description": "",
@@ -2419,9 +2743,30 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm34"
+            "client": "KMS",
+            "date": "2013-09-11",
+            "structure": "Bgm34",
+            "version": "1.2.201"
         },
         "youtube": "rrPNjni4GuI"
+    },
+    {
+        "description": "original version",
+        "filename": "DimensionLibrary (Original)",
+        "mark": "Library",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Dimension Library (Original)",
+            "year": "2013"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2013-08-12",
+            "structure": "Bgm34",
+            "version": "1.2.199"
+        },
+        "youtube": "XfHmfDcmbkQ"
     },
     {
         "description": "Magatia",
@@ -2449,7 +2794,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm33"
+            "client": "KMST",
+            "date": "2013-07-08",
+            "structure": "Bgm33",
+            "version": "1.2.482"
         },
         "youtube": "znZUun0KOQU"
     },
@@ -2464,7 +2812,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "BgmEvent"
+            "client": "KMS",
+            "date": "2011-03-31",
+            "structure": "BgmEvent",
+            "version": "1.2.129"
         },
         "youtube": "eQ41JswJdng"
     },
@@ -2479,7 +2830,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "BgmEvent"
+            "client": "KMS",
+            "date": "2011-03-31",
+            "structure": "BgmEvent",
+            "version": "1.2.129"
         },
         "youtube": "FbxAXcvyHns"
     },
@@ -2494,7 +2848,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm36"
+            "client": "KMST",
+            "date": "2014-04-10",
+            "structure": "Bgm36",
+            "version": "1.2.501"
         },
         "youtube": "Or2OSeGbPV0"
     },
@@ -2539,7 +2896,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "Bgm00"
+            "client": "KMST",
+            "date": "2009-11-19",
+            "structure": "Bgm00",
+            "version": "1.2.267"
         },
         "youtube": "mM_27SaY7tE"
     },
@@ -2584,7 +2944,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "Bgm14"
+            "client": "KMST",
+            "date": "2009-12-21",
+            "structure": "Bgm14",
+            "version": "1.2.275"
         },
         "youtube": "s6zoD2gnYrA"
     },
@@ -2599,7 +2962,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMST",
+            "date": "2014-09-26",
+            "structure": "BgmCN",
+            "version": "0.96"
         },
         "youtube": "apwKSQfDkvY"
     },
@@ -2614,7 +2980,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMST",
+            "date": "2014-09-26",
+            "structure": "BgmCN",
+            "version": "0.96"
         },
         "youtube": "ULy-P8wgU5Q"
     },
@@ -2629,7 +2998,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMS",
+            "date": "2015-04-22",
+            "structure": "BgmCN",
+            "version": "1.25"
         },
         "youtube": "msETCdOYteU"
     },
@@ -2644,7 +3016,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "Bgm18"
+            "client": "KMST",
+            "date": "2008-12-04",
+            "structure": "Bgm18",
+            "version": "1.2.183"
         },
         "youtube": "uu55XbbIjRU"
     },
@@ -2659,7 +3034,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "Bgm16"
+            "client": "KMST",
+            "date": "2008-07-10",
+            "structure": "Bgm16",
+            "version": "1.2.157"
         },
         "youtube": "c851KzZNXkg"
     },
@@ -2674,7 +3052,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "Bgm22"
+            "client": "KMST",
+            "date": "2010-07-14",
+            "structure": "Bgm22",
+            "version": "1.2.327"
         },
         "youtube": "Iayh6shDnwQ"
     },
@@ -2689,7 +3070,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm33"
+            "client": "KMST",
+            "date": "2013-07-08",
+            "structure": "Bgm33",
+            "version": "1.2.482"
         },
         "youtube": "mJhPiB4Y1Sk"
     },
@@ -2719,7 +3103,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm15"
+            "client": "KMS",
+            "date": "2011-10-26",
+            "structure": "Bgm15",
+            "version": "1.2.144"
         },
         "youtube": "P_VsVWs4x0w"
     },
@@ -2734,7 +3121,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "Bgm15"
+            "client": "KMST",
+            "date": "2008-04-17",
+            "structure": "Bgm15",
+            "version": "1.2.144"
         },
         "youtube": "8FShyABhIAs"
     },
@@ -2750,7 +3140,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2017-07-07",
+            "structure": "BgmPL",
+            "version": "1.27"
         },
         "youtube": "mEY8_SP-5LU"
     },
@@ -2765,7 +3158,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2017-07-07",
+            "structure": "BgmPL",
+            "version": "1.27"
         },
         "youtube": "es37G5AfE-I"
     },
@@ -2780,7 +3176,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm45"
+            "client": "KMS",
+            "date": "2016-01-13",
+            "structure": "Bgm45",
+            "version": "1.2.251"
         },
         "youtube": "qI2Q1iIIsEo"
     },
@@ -2825,7 +3224,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmGL2D"
+            "client": "GMS",
+            "date": "2014-12-03",
+            "structure": "BgmGL2D",
+            "version": "1.57"
         },
         "youtube": "_B6q_BimGsA"
     },
@@ -2855,7 +3257,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm17"
+            "client": "KMST",
+            "date": "2012-09-13",
+            "structure": "Bgm17",
+            "version": "1.2.450"
         },
         "youtube": "0WLtsCqEQ4Q"
     },
@@ -2915,7 +3320,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmFT"
+            "client": "KMST",
+            "date": "2017-02-21",
+            "structure": "BgmFT",
+            "version": "1.2.047"
         },
         "youtube": ""
     },
@@ -2945,7 +3353,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm33"
+            "client": "KMST",
+            "date": "2013-07-08",
+            "structure": "Bgm33",
+            "version": "1.2.482"
         },
         "youtube": "vt7XtPsFXpc"
     },
@@ -2990,7 +3401,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "Bgm16"
+            "client": "KMST",
+            "date": "2008-07-10",
+            "structure": "Bgm16",
+            "version": "1.2.157"
         },
         "youtube": "Mt8ZlyYA4GI"
     },
@@ -3011,21 +3425,6 @@
     },
     {
         "description": "",
-        "filename": "FinalFight (Tempest)",
-        "mark": "TimeTemple",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Final Fight",
-            "year": "2012"
-        },
-        "source": {
-            "structure": "Bgm26"
-        },
-        "youtube": "R5dUCq4vnvk"
-    },
-    {
-        "description": "",
         "filename": "FinalFight",
         "mark": "Zakum",
         "metadata": {
@@ -3036,6 +3435,24 @@
         },
         "source": {
             "structure": "Bgm06"
+        },
+        "youtube": "R5dUCq4vnvk"
+    },
+    {
+        "description": "",
+        "filename": "FinalFight (Tempest)",
+        "mark": "TimeTemple",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Final Fight",
+            "year": "2012"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2012-07-03",
+            "structure": "Bgm26",
+            "version": "1.2.437"
         },
         "youtube": "R5dUCq4vnvk"
     },
@@ -3080,7 +3497,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm26"
+            "client": "KMST",
+            "date": "2012-07-03",
+            "structure": "Bgm26",
+            "version": "1.2.437"
         },
         "youtube": "1cipH9qIEow"
     },
@@ -3110,7 +3530,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm33"
+            "client": "KMST",
+            "date": "2013-07-08",
+            "structure": "Bgm33",
+            "version": "1.2.482"
         },
         "youtube": "S4PuTY_-Fok"
     },
@@ -3125,7 +3548,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm25"
+            "client": "KMST",
+            "date": "2011-06-30",
+            "structure": "Bgm25",
+            "version": "1.2.389"
         },
         "youtube": "SwDcv_pK_Mo"
     },
@@ -3140,7 +3566,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm38"
+            "client": "KMST",
+            "date": "2014-04-17",
+            "structure": "Bgm38",
+            "version": "1.2.502"
         },
         "youtube": "OGyMx7IL8es"
     },
@@ -3155,7 +3584,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm38"
+            "client": "GMS",
+            "date": "2014-10-29",
+            "structure": "Bgm38",
+            "version": "1.56"
         },
         "youtube": "-mkp5uMyF5g"
     },
@@ -3185,7 +3617,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm19"
+            "client": "KMST",
+            "date": "2011-12-09",
+            "structure": "Bgm19",
+            "version": "1.2.411"
         },
         "youtube": "ZpVpjZJyDJA"
     },
@@ -3200,7 +3635,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "Bgm16"
+            "client": "KMST",
+            "date": "2008-07-10",
+            "structure": "Bgm16",
+            "version": "1.2.157"
         },
         "youtube": "mPdotLdAe7k"
     },
@@ -3215,7 +3653,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm48"
+            "client": "KMST",
+            "date": "2017-07-13",
+            "structure": "Bgm48",
+            "version": "1.2.053"
         },
         "youtube": ""
     },
@@ -3245,7 +3686,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm36"
+            "client": "KMST",
+            "date": "2013-12-09",
+            "structure": "Bgm36",
+            "version": "1.2.493"
         },
         "youtube": "lorm88ckSuM"
     },
@@ -3260,7 +3704,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm30"
+            "client": "KMST",
+            "date": "2012-12-17",
+            "structure": "Bgm30",
+            "version": "1.2.460"
         },
         "youtube": "6qjUzKeTpOo"
     },
@@ -3275,7 +3722,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm28"
+            "client": "KMST",
+            "date": "2012-08-06",
+            "structure": "Bgm28",
+            "version": "1.2.444"
         },
         "youtube": "MvBhDh4coJo"
     },
@@ -3335,7 +3785,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmJp"
+            "client": "JMS",
+            "date": "2014-04-22",
+            "structure": "BgmJp",
+            "version": "3.25"
         },
         "youtube": "K4Lg7Ny5kX0"
     },
@@ -3350,7 +3803,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmEvent"
+            "client": "KMS",
+            "date": "2017-04-26",
+            "structure": "BgmEvent",
+            "version": "1.2.276"
         },
         "youtube": ""
     },
@@ -3365,7 +3821,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "Bgm22"
+            "client": "KMST",
+            "date": "2010-07-14",
+            "structure": "Bgm22",
+            "version": "1.2.327"
         },
         "youtube": "6igTXgoof68"
     },
@@ -3380,7 +3839,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmSG"
+            "client": "MSEA",
+            "date": "2007-08-01",
+            "structure": "BgmSG",
+            "version": "0.44"
         },
         "youtube": "cOatjxHHAEw"
     },
@@ -3395,7 +3857,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "Bgm20"
+            "client": "KMST",
+            "date": "2009-09-22",
+            "structure": "Bgm20",
+            "version": "1.2.256"
         },
         "youtube": "30PL_lLEBxU"
     },
@@ -3410,24 +3875,12 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm34"
+            "client": "KMST",
+            "date": "2013-06-05",
+            "structure": "Bgm34",
+            "version": "1.2.479"
         },
         "youtube": "BjIJTO2SFAk"
-    },
-    {
-        "description": "",
-        "filename": "GLBurningSanta (Alternate Version)",
-        "mark": "HappyVillage",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Burning Santa (Alterate Version)",
-            "year": "2015"
-        },
-        "source": {
-            "structure": "BgmGL"
-        },
-        "youtube": "i-wfyqyxWeM"
     },
     {
         "description": "",
@@ -3440,9 +3893,30 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2015-12-02",
+            "structure": "BgmGL",
+            "version": "1.68"
         },
         "youtube": "W8uREXc8Tzk"
+    },
+    {
+        "description": "",
+        "filename": "GLBurningSanta (Alternate Version)",
+        "mark": "HappyVillage",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Burning Santa (Alterate Version)",
+            "year": "2015"
+        },
+        "source": {
+            "client": "JMS",
+            "date": "2015-12-08",
+            "structure": "BgmGL",
+            "version": "3.45"
+        },
+        "youtube": "i-wfyqyxWeM"
     },
     {
         "description": "",
@@ -3473,7 +3947,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm45"
+            "client": "KMS",
+            "date": "2016-01-13",
+            "structure": "Bgm45",
+            "version": "1.2.251"
         },
         "youtube": "-XJ7T-4uGzE"
     },
@@ -3488,7 +3965,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm45"
+            "client": "KMS",
+            "date": "2016-01-13",
+            "structure": "Bgm45",
+            "version": "1.2.251"
         },
         "youtube": "7rJDdM2cfLU"
     },
@@ -3503,7 +3983,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm34"
+            "client": "KMS",
+            "date": "2013-07-03",
+            "structure": "Bgm34",
+            "version": "1.2.196"
         },
         "youtube": "40uWLqIu23s"
     },
@@ -3518,7 +4001,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-01-12",
+            "structure": "Bgm47",
+            "version": "1.2.045"
         },
         "youtube": "A779SL-WbfM"
     },
@@ -3533,7 +4019,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm17"
+            "client": "KMS",
+            "date": "2012-11-14",
+            "structure": "Bgm17",
+            "version": "1.2.178"
         },
         "youtube": "pyxpWEl3St0"
     },
@@ -3598,21 +4087,6 @@
         "youtube": "WUuawkZR0s0"
     },
     {
-        "description": "the original version of the track",
-        "filename": "GoShanghai (Original)",
-        "mark": "ShangHai",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Go Shanghai (Original)",
-            "year": "2006"
-        },
-        "source": {
-            "structure": "BgmCN"
-        },
-        "youtube": "uZ3egkrlMZY"
-    },
-    {
         "description": "",
         "filename": "GoShanghai",
         "mark": "ShangHai",
@@ -3628,6 +4102,21 @@
         "youtube": "xPtgIjPQqe4"
     },
     {
+        "description": "the original version of the track",
+        "filename": "GoShanghai (Original)",
+        "mark": "ShangHai",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Go Shanghai (Original)",
+            "year": "2006"
+        },
+        "source": {
+            "structure": "BgmCN"
+        },
+        "youtube": "uZ3egkrlMZY"
+    },
+    {
         "description": "Grandmaster Boss Battle",
         "filename": "GrandmastersGauntlet",
         "mark": "Crimsonwood",
@@ -3638,7 +4127,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2009-03-05",
+            "structure": "BgmGL",
+            "version": "0.66"
         },
         "youtube": "rsASgHchliQ"
     },
@@ -3653,24 +4145,12 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm41"
+            "client": "KMST",
+            "date": "2014-11-20",
+            "structure": "Bgm41",
+            "version": "1.2.001"
         },
         "youtube": "pioNmMn2L5Q"
-    },
-    {
-        "description": "",
-        "filename": "Gravity Lord Rise",
-        "mark": "BlockBuster",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Gravity Lord Rise",
-            "year": "2014"
-        },
-        "source": {
-            "structure": "Bgm41"
-        },
-        "youtube": "zhZ5IpkghWw"
     },
     {
         "description": "",
@@ -3683,9 +4163,30 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm41"
+            "client": "KMST",
+            "date": "2014-11-20",
+            "structure": "Bgm41",
+            "version": "1.2.001"
         },
         "youtube": "mVv9bsnDDz8"
+    },
+    {
+        "description": "",
+        "filename": "Gravity Lord Rise",
+        "mark": "BlockBuster",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Gravity Lord Rise",
+            "year": "2014"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2014-11-20",
+            "structure": "Bgm41",
+            "version": "1.2.001"
+        },
+        "youtube": "zhZ5IpkghWw"
     },
     {
         "description": "",
@@ -3698,7 +4199,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm27"
+            "client": "KMST",
+            "date": "2012-07-18",
+            "structure": "Bgm27",
+            "version": "1.2.439"
         },
         "youtube": "CZTQdmJAEQI"
     },
@@ -3713,7 +4217,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "BgmEvent"
+            "client": "KMS",
+            "date": "2012-10-17",
+            "structure": "BgmEvent",
+            "version": "1.2.175"
         },
         "youtube": "l77eZ-QcJm4"
     },
@@ -3728,7 +4235,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "BgmEvent"
+            "client": "KMS",
+            "date": "2012-10-17",
+            "structure": "BgmEvent",
+            "version": "1.2.175"
         },
         "youtube": "mal0QfNLWOA"
     },
@@ -3743,7 +4253,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "BgmEvent"
+            "client": "KMS",
+            "date": "2012-10-17",
+            "structure": "BgmEvent",
+            "version": "1.2.175"
         },
         "youtube": "xP_5fvzevbE"
     },
@@ -3773,7 +4286,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm36"
+            "client": "KMST",
+            "date": "2013-12-09",
+            "structure": "Bgm36",
+            "version": "1.2.493"
         },
         "youtube": "wzBIoro1jIs"
     },
@@ -3788,7 +4304,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm36"
+            "client": "KMS",
+            "date": "2013-12-18",
+            "structure": "Bgm36",
+            "version": "1.2.206"
         },
         "youtube": "wzBIoro1jIs"
     },
@@ -3803,7 +4322,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm36"
+            "client": "KMS",
+            "date": "2013-12-18",
+            "structure": "Bgm36",
+            "version": "1.2.206"
         },
         "youtube": "RknHVs7vDlw"
     },
@@ -3818,7 +4340,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2007-10-11",
+            "structure": "BgmGL",
+            "version": "0.44"
         },
         "youtube": "nbGQyrGizRQ"
     },
@@ -3833,7 +4358,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm41"
+            "client": "KMS",
+            "date": "2015-01-14",
+            "structure": "Bgm41",
+            "version": "1.2.227"
         },
         "youtube": "GgTVmLfhYnA"
     },
@@ -3848,7 +4376,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm37"
+            "client": "KMST",
+            "date": "2014-01-08",
+            "structure": "Bgm37",
+            "version": "1.2.495"
         },
         "youtube": "STDN57rytW8"
     },
@@ -3893,7 +4424,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm41"
+            "client": "KMS",
+            "date": "2014-11-26",
+            "structure": "Bgm41",
+            "version": "1.2.225"
         },
         "youtube": "vVcbVrfH4NE"
     },
@@ -3908,7 +4442,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm41"
+            "client": "KMS",
+            "date": "2014-11-26",
+            "structure": "Bgm41",
+            "version": "1.2.225"
         },
         "youtube": "WdC3AVPb6Ds"
     },
@@ -3923,7 +4460,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm35"
+            "client": "KMST",
+            "date": "2013-07-25",
+            "structure": "Bgm35",
+            "version": "1.2.485"
         },
         "youtube": "wQxSIH9n2vI"
     },
@@ -3938,7 +4478,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm28"
+            "client": "KMST",
+            "date": "2012-07-18",
+            "structure": "Bgm28",
+            "version": "1.2.439"
         },
         "youtube": "jlP7oASTb7w"
     },
@@ -3953,7 +4496,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm28"
+            "client": "KMST",
+            "date": "2012-08-06",
+            "structure": "Bgm28",
+            "version": "1.2.444"
         },
         "youtube": "01M2hR6BMHY"
     },
@@ -3968,7 +4514,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm28"
+            "client": "KMST",
+            "date": "2012-08-06",
+            "structure": "Bgm28",
+            "version": "1.2.444"
         },
         "youtube": "HxwC4DQ_Gmo"
     },
@@ -3998,24 +4547,12 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm40"
+            "client": "KMS",
+            "date": "2014-10-29",
+            "structure": "Bgm40",
+            "version": "1.2.223"
         },
         "youtube": "IqhZkkryonU"
-    },
-    {
-        "description": "",
-        "filename": "Heroes Of Maple Theme Piano",
-        "mark": "HofM",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Heroes of Maple Theme ~piano~",
-            "year": "2015"
-        },
-        "source": {
-            "structure": "Bgm45"
-        },
-        "youtube": "kMW_CaKNrRY"
     },
     {
         "description": "",
@@ -4028,9 +4565,30 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm45"
+            "client": "KMST",
+            "date": "2015-11-26",
+            "structure": "Bgm45",
+            "version": "1.2.024"
         },
         "youtube": "Vw_FeI2nL_c"
+    },
+    {
+        "description": "",
+        "filename": "Heroes Of Maple Theme Piano",
+        "mark": "HofM",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Heroes of Maple Theme ~piano~",
+            "year": "2015"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2015-11-26",
+            "structure": "Bgm45",
+            "version": "1.2.024"
+        },
+        "youtube": "kMW_CaKNrRY"
     },
     {
         "description": "",
@@ -4043,7 +4601,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2016-09-23",
+            "structure": "BgmPL",
+            "version": "1.18"
         },
         "youtube": "fWQyB979IF0"
     },
@@ -4058,7 +4619,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2016-09-23",
+            "structure": "BgmPL",
+            "version": "1.18"
         },
         "youtube": "gd_xlvU0P2Q"
     },
@@ -4073,7 +4637,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2016-09-23",
+            "structure": "BgmPL",
+            "version": "1.18"
         },
         "youtube": "PYGOnSNO79o"
     },
@@ -4088,7 +4655,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmJp3"
+            "client": "JMS",
+            "date": "2014-05-27",
+            "structure": "BgmJp3",
+            "version": "3.26"
         },
         "youtube": "4c48SktoA6U"
     },
@@ -4103,7 +4673,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmJp3"
+            "client": "JMS",
+            "date": "2014-05-27",
+            "structure": "BgmJp3",
+            "version": "3.26"
         },
         "youtube": "vDwB1oxSJyE"
     },
@@ -4133,7 +4706,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "BgmMY"
+            "client": "MSEA",
+            "date": "2008-08-28",
+            "structure": "BgmMY",
+            "version": "0.61"
         },
         "youtube": "gNafzBfyoTo"
     },
@@ -4163,7 +4739,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm38"
+            "client": "KMST",
+            "date": "2014-05-20",
+            "structure": "Bgm38",
+            "version": "1.2.504"
         },
         "youtube": "uL-_-gH5lSs"
     },
@@ -4208,7 +4787,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-06-18",
+            "structure": "Bgm47",
+            "version": "1.2.051"
         },
         "youtube": ""
     },
@@ -4241,7 +4823,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2015-12-02",
+            "structure": "BgmTW",
+            "version": "1.85"
         },
         "youtube": "3D2hglui148"
     },
@@ -4256,7 +4841,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm30"
+            "client": "KMST",
+            "date": "2012-12-17",
+            "structure": "Bgm30",
+            "version": "1.2.460"
         },
         "youtube": "vViTIGuujaY"
     },
@@ -4271,7 +4859,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm18"
+            "client": "KMST",
+            "date": "2011-12-22",
+            "structure": "Bgm18",
+            "version": "1.2.413"
         },
         "youtube": "Dt4hq7RKhsA"
     },
@@ -4286,7 +4877,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "Bgm15"
+            "client": "KMST",
+            "date": "2007-11-07",
+            "structure": "Bgm15",
+            "version": "1.2.114"
         },
         "youtube": "eZ8LtJlzvyU"
     },
@@ -4301,7 +4895,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm35"
+            "client": "KMS",
+            "date": "2013-07-31",
+            "structure": "Bgm35",
+            "version": "1.2.198"
         },
         "youtube": "D-suBwdKHB8"
     },
@@ -4316,7 +4913,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "BgmJp3"
+            "client": "JMS",
+            "date": "2012-07-11",
+            "structure": "BgmJp3",
+            "version": "3.00"
         },
         "youtube": "WK-aE_3PF8g"
     },
@@ -4331,7 +4931,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm39"
+            "client": "KMST",
+            "date": "2014-08-07",
+            "structure": "Bgm39",
+            "version": "1.2.510"
         },
         "youtube": "K7eMwQl7vV8"
     },
@@ -4346,7 +4949,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm16"
+            "client": "KMST",
+            "date": "2012-01-04",
+            "structure": "Bgm16",
+            "version": "1.2.415"
         },
         "youtube": "I_p0XgfuoxE"
     },
@@ -4361,7 +4967,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm31"
+            "client": "KMST",
+            "date": "2013-01-04",
+            "structure": "Bgm31",
+            "version": "1.2.464"
         },
         "youtube": "xGQTqjUJ3Rk"
     },
@@ -4376,7 +4985,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm31"
+            "client": "KMS",
+            "date": "2013-01-16",
+            "structure": "Bgm31",
+            "version": "1.2.184"
         },
         "youtube": "KromtwCShMQ"
     },
@@ -4391,7 +5003,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmGL2D"
+            "client": "GMS",
+            "date": "2014-12-03",
+            "structure": "BgmGL2D",
+            "version": "1.57"
         },
         "youtube": "MFVwKUHbz-o"
     },
@@ -4406,7 +5021,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm45"
+            "client": "KMS",
+            "date": "2016-02-03",
+            "structure": "Bgm45",
+            "version": "1.2.252"
         },
         "youtube": "tKQaAZETKOE"
     },
@@ -4436,7 +5054,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm31"
+            "client": "KMST",
+            "date": "2013-01-04",
+            "structure": "Bgm31",
+            "version": "1.2.464"
         },
         "youtube": "RrUuiOV7DmY"
     },
@@ -4451,7 +5072,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm29"
+            "client": "CMST",
+            "date": "2012-12-14",
+            "structure": "Bgm29",
+            "version": "0.71"
         },
         "youtube": "2rMJrisBFJI"
     },
@@ -4481,7 +5105,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm37"
+            "client": "KMST",
+            "date": "2014-01-08",
+            "structure": "Bgm37",
+            "version": "1.2.495"
         },
         "youtube": "_5qyICio6MQ"
     },
@@ -4496,7 +5123,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm40"
+            "client": "KMST",
+            "date": "2014-09-22",
+            "structure": "Bgm40",
+            "version": "1.2.513"
         },
         "youtube": "kpcYbzQi3uk"
     },
@@ -4511,7 +5141,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "BgmJp2"
+            "client": "JMS",
+            "date": "2008-12-03",
+            "structure": "BgmJp2",
+            "version": "1.52"
         },
         "youtube": "BB1l4zunOVU"
     },
@@ -4526,7 +5159,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "BgmJp3"
+            "client": "JMS",
+            "date": "2010-05-26",
+            "structure": "BgmJp3",
+            "version": "1.81"
         },
         "youtube": "3fVO9GWfILs"
     },
@@ -4541,7 +5177,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm43"
+            "client": "KMST",
+            "date": "2015-07-16",
+            "structure": "Bgm43",
+            "version": "1.2.016"
         },
         "youtube": "YAe-JrI0fms"
     },
@@ -4556,7 +5195,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm43"
+            "client": "KMS",
+            "date": "2015-07-22",
+            "structure": "Bgm43",
+            "version": "1.2.240"
         },
         "youtube": "MmWrqpV7f0Q"
     },
@@ -4571,7 +5213,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "BgmEvent2"
+            "client": "KMST",
+            "date": "2013-01-28",
+            "structure": "BgmEvent2",
+            "version": "1.2.469"
         },
         "youtube": "K4kGM9aKBCM"
     },
@@ -4586,7 +5231,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "Bgm25"
+            "client": "KMST",
+            "date": "2010-12-23",
+            "structure": "Bgm25",
+            "version": "1.2.359"
         },
         "youtube": "kSJ23VMOLsI"
     },
@@ -4601,7 +5249,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "Bgm24"
+            "client": "KMST",
+            "date": "2010-10-27",
+            "structure": "Bgm24",
+            "version": "1.2.350"
         },
         "youtube": "3neiOSwgp7A"
     },
@@ -4616,7 +5267,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "Bgm24"
+            "client": "KMST",
+            "date": "2010-10-27",
+            "structure": "Bgm24",
+            "version": "1.2.350"
         },
         "youtube": "FT1qwL_p6aA"
     },
@@ -4631,7 +5285,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "Bgm24"
+            "client": "KMST",
+            "date": "2010-10-27",
+            "structure": "Bgm24",
+            "version": "1.2.350"
         },
         "youtube": "axgX2QRdBII"
     },
@@ -4646,7 +5303,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "BgmMY"
+            "client": "MSEA",
+            "date": "2008-08-28",
+            "structure": "BgmMY",
+            "version": "0.61"
         },
         "youtube": "aJNseQp1Tb4"
     },
@@ -4661,7 +5321,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm46"
+            "client": "KMST",
+            "date": "2016-08-11",
+            "structure": "Bgm46",
+            "version": "1.2.038"
         },
         "youtube": "OXAYmDr0fY0"
     },
@@ -4676,7 +5339,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm46"
+            "client": "KMST",
+            "date": "2016-06-26",
+            "structure": "Bgm46",
+            "version": "1.2.035"
         },
         "youtube": "xW4ypmROvz0"
     },
@@ -4691,7 +5357,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "GMS",
+            "date": "2016-10-19",
+            "structure": "BgmPL",
+            "version": "1.77"
         },
         "youtube": "Dc0mE4k422w"
     },
@@ -4706,7 +5375,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "GMS",
+            "date": "2016-10-19",
+            "structure": "BgmPL",
+            "version": "1.77"
         },
         "youtube": "xK099Yuc1ck"
     },
@@ -4721,24 +5393,12 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "GMS",
+            "date": "2016-10-19",
+            "structure": "BgmPL",
+            "version": "1.77"
         },
         "youtube": "ROmgAQZh_LU"
-    },
-    {
-        "description": "",
-        "filename": "LandofInnocence_Night (Original)",
-        "mark": "PL_AfterLand",
-        "metadata": {
-            "album-artist": "NECORD",
-            "artist": "Wizet",
-            "title": "Land of Innocence ~night~ (Original)",
-            "year": "2016"
-        },
-        "source": {
-            "structure": "BgmPL"
-        },
-        "youtube": "pzvy-bBGLDM"
     },
     {
         "description": "",
@@ -4751,9 +5411,30 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "TMS",
+            "date": "2016-10-19",
+            "structure": "BgmPL",
+            "version": "1.93"
         },
         "youtube": "mFeNoswVOLQ"
+    },
+    {
+        "description": "",
+        "filename": "LandofInnocence_Night (Original)",
+        "mark": "PL_AfterLand",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "Wizet",
+            "title": "Land of Innocence ~night~ (Original)",
+            "year": "2016"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2016-10-19",
+            "structure": "BgmPL",
+            "version": "1.77"
+        },
+        "youtube": "pzvy-bBGLDM"
     },
     {
         "description": "",
@@ -4766,24 +5447,12 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "GMS",
+            "date": "2016-10-19",
+            "structure": "BgmPL",
+            "version": "1.77"
         },
         "youtube": "wq7kiyL8yHw"
-    },
-    {
-        "description": "",
-        "filename": "LandofRiches_Night (Original)",
-        "mark": "PL_AfterLand",
-        "metadata": {
-            "album-artist": "NECORD",
-            "artist": "Wizet",
-            "title": "Land of Riches ~night~ (Original)",
-            "year": "2016"
-        },
-        "source": {
-            "structure": "BgmPL"
-        },
-        "youtube": "fpbzFDITpUs"
     },
     {
         "description": "",
@@ -4796,9 +5465,30 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "TMS",
+            "date": "2016-10-19",
+            "structure": "BgmPL",
+            "version": "1.93"
         },
         "youtube": "yY6ueC0qlCY"
+    },
+    {
+        "description": "",
+        "filename": "LandofRiches_Night (Original)",
+        "mark": "PL_AfterLand",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "Wizet",
+            "title": "Land of Riches ~night~ (Original)",
+            "year": "2016"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2016-10-19",
+            "structure": "BgmPL",
+            "version": "1.77"
+        },
+        "youtube": "fpbzFDITpUs"
     },
     {
         "description": "",
@@ -4811,7 +5501,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "GMS",
+            "date": "2016-10-19",
+            "structure": "BgmPL",
+            "version": "1.77"
         },
         "youtube": "FLiC1zt_U1s"
     },
@@ -4826,7 +5519,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "GMS",
+            "date": "2016-10-19",
+            "structure": "BgmPL",
+            "version": "1.77"
         },
         "youtube": "kVE2hSgJ3cQ"
     },
@@ -4856,7 +5552,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm33"
+            "client": "KMST",
+            "date": "2013-07-08",
+            "structure": "Bgm33",
+            "version": "1.2.482"
         },
         "youtube": "w793cpc8XLA"
     },
@@ -4871,7 +5570,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmJp4_Zipang"
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
         },
         "youtube": "48u6RCI9hSg"
     },
@@ -4886,7 +5588,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmJp4_Zipang"
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
         },
         "youtube": "F1DvK7E0kUE"
     },
@@ -4901,7 +5606,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmJp4_Zipang"
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
         },
         "youtube": "Kz8VmXpyPLU"
     },
@@ -4916,7 +5624,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmJp4_Zipang"
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
         },
         "youtube": "nAjsQ902it0"
     },
@@ -4961,7 +5672,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmJp3"
+            "client": "JMS",
+            "date": "2015-07-29",
+            "structure": "BgmJp3",
+            "version": "3.42"
         },
         "youtube": "AY1m7dQ-P6I"
     },
@@ -4976,7 +5690,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm38"
+            "client": "KMST",
+            "date": "2014-05-20",
+            "structure": "Bgm38",
+            "version": "1.2.504"
         },
         "youtube": "_XoSyxYJ0LI"
     },
@@ -4991,7 +5708,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "Bgm23"
+            "client": "KMST",
+            "date": "2010-09-08",
+            "structure": "Bgm23",
+            "version": "1.2.340"
         },
         "youtube": "_Iw_yvDJzZA"
     },
@@ -5006,7 +5726,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmEvent"
+            "client": "KMST",
+            "date": "2017-05-18",
+            "structure": "BgmEvent",
+            "version": "1.2.050"
         },
         "youtube": ""
     },
@@ -5021,7 +5744,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmJp4_Zipang"
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
         },
         "youtube": "kNGnsV_4mxE"
     },
@@ -5036,7 +5762,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmJp4_Zipang"
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
         },
         "youtube": "9zQXcyMz9Q4"
     },
@@ -5051,24 +5780,12 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm21"
+            "client": "KMS",
+            "date": "2016-09-28",
+            "structure": "Bgm21",
+            "version": "1.2.265"
         },
         "youtube": "0YyPld_3pBY"
-    },
-    {
-        "description": "original version of LowGradeOre; no longer used",
-        "filename": "LowGradeOre (Original)",
-        "mark": "Leben",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Low Grade Ore (Original)",
-            "year": "2010"
-        },
-        "source": {
-            "structure": "Bgm22"
-        },
-        "youtube": "PhBbDgnZCFk"
     },
     {
         "description": "",
@@ -5081,9 +5798,30 @@
             "year": "2010"
         },
         "source": {
-            "structure": "Bgm22"
+            "client": "KMST",
+            "date": "2010-07-29",
+            "structure": "Bgm22",
+            "version": "1.2.332"
         },
         "youtube": "tTKXb4Y5uBI"
+    },
+    {
+        "description": "original version of LowGradeOre; no longer used",
+        "filename": "LowGradeOre (Original)",
+        "mark": "Leben",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Low Grade Ore (Original)",
+            "year": "2010"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2010-07-14",
+            "structure": "Bgm22",
+            "version": "1.2.327"
+        },
+        "youtube": "PhBbDgnZCFk"
     },
     {
         "description": "",
@@ -5096,7 +5834,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2015-10-06",
+            "structure": "BgmGL",
+            "version": "1.66"
         },
         "youtube": "lRC_rHuks08"
     },
@@ -5111,7 +5852,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2015-10-06",
+            "structure": "BgmGL",
+            "version": "1.66"
         },
         "youtube": "61JeULEXhZg"
     },
@@ -5126,7 +5870,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmJp3"
+            "client": "JMS",
+            "date": "2015-07-29",
+            "structure": "BgmJp3",
+            "version": "3.42"
         },
         "youtube": "YvBFEWfokjM"
     },
@@ -5141,7 +5888,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmGL2D"
+            "client": "GMS",
+            "date": "2014-12-03",
+            "structure": "BgmGL2D",
+            "version": "1.57"
         },
         "youtube": "_IqL4rg2MmM"
     },
@@ -5156,7 +5906,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmEvent"
+            "client": "KMS",
+            "date": "2017-04-26",
+            "structure": "BgmEvent",
+            "version": "1.2.276"
         },
         "youtube": ""
     },
@@ -5171,7 +5924,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmEvent"
+            "client": "KMS",
+            "date": "2017-04-26",
+            "structure": "BgmEvent",
+            "version": "1.2.276"
         },
         "youtube": ""
     },
@@ -5186,7 +5942,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2012-05-16",
+            "structure": "BgmTW",
+            "version": "1.46"
         },
         "youtube": "EJxiydqtb0k"
     },
@@ -5201,7 +5960,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm34"
+            "client": "KMST",
+            "date": "2013-06-27",
+            "structure": "Bgm34",
+            "version": "1.2.481"
         },
         "youtube": "9D7nLxP4w9A"
     },
@@ -5216,7 +5978,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm39"
+            "client": "KMST",
+            "date": "2014-08-21",
+            "structure": "Bgm39",
+            "version": "1.2.512"
         },
         "youtube": "CRRtBbo6Z2E"
     },
@@ -5231,7 +5996,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmEvent"
+            "client": "KMS",
+            "date": "2014-03-26",
+            "structure": "BgmEvent",
+            "version": "1.2.212"
         },
         "youtube": "Y3is9OyoGGU"
     },
@@ -5246,7 +6014,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2016-03-10",
+            "structure": "BgmGL",
+            "version": "1.71"
         },
         "youtube": "kMp88mh3uB0"
     },
@@ -5261,7 +6032,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2016-03-10",
+            "structure": "BgmGL",
+            "version": "1.71"
         },
         "youtube": "sLoeKIxeHIM"
     },
@@ -5276,7 +6050,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2016-03-10",
+            "structure": "BgmGL",
+            "version": "1.71"
         },
         "youtube": "a5inRrauUZA"
     },
@@ -5291,7 +6068,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2016-03-10",
+            "structure": "BgmGL",
+            "version": "1.71"
         },
         "youtube": "GKfCI58qgwM"
     },
@@ -5306,7 +6086,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2016-04-29",
+            "structure": "BgmPL",
+            "version": "1.15"
         },
         "youtube": "3SEaLivUIg4"
     },
@@ -5321,7 +6104,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2016-04-29",
+            "structure": "BgmPL",
+            "version": "1.15"
         },
         "youtube": "s9H92aOgW1U"
     },
@@ -5336,7 +6122,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2016-04-29",
+            "structure": "BgmPL",
+            "version": "1.15"
         },
         "youtube": "pCXDV2_wUY4"
     },
@@ -5381,7 +6170,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "BgmEvent2"
+            "client": "KMST",
+            "date": "2013-11-27",
+            "structure": "BgmEvent2",
+            "version": "1.2.492"
         },
         "youtube": "VRhE2xNjmP4"
     },
@@ -5411,7 +6203,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "PL_MMF"
+            "client": "CMS",
+            "date": "2016-08-23",
+            "structure": "PL_MMF",
+            "version": "1.36"
         },
         "youtube": "I2VC4bGdJq4"
     },
@@ -5426,7 +6221,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "PL_MMF"
+            "client": "CMS",
+            "date": "2016-08-23",
+            "structure": "PL_MMF",
+            "version": "1.36"
         },
         "youtube": "hHVlL6GKYx0"
     },
@@ -5441,7 +6239,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "PL_MMF"
+            "client": "CMS",
+            "date": "2016-08-23",
+            "structure": "PL_MMF",
+            "version": "1.36"
         },
         "youtube": "5C4xjDFRQHE"
     },
@@ -5456,7 +6257,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "PL_MMF"
+            "client": "CMS",
+            "date": "2016-08-23",
+            "structure": "PL_MMF",
+            "version": "1.36"
         },
         "youtube": "3NBg9oujtqA"
     },
@@ -5471,7 +6275,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "PL_MMF"
+            "client": "CMS",
+            "date": "2016-08-23",
+            "structure": "PL_MMF",
+            "version": "1.36"
         },
         "youtube": "w_5ZtzdMFeM"
     },
@@ -5486,7 +6293,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm34"
+            "client": "KMST",
+            "date": "2013-05-16",
+            "structure": "Bgm34",
+            "version": "1.2.477"
         },
         "youtube": "9sZ8FsuXNjw"
     },
@@ -5501,7 +6311,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "BgmJp3"
+            "client": "JMS",
+            "date": "2012-07-11",
+            "structure": "BgmJp3",
+            "version": "3.00"
         },
         "youtube": "ydtzNwT0Tys"
     },
@@ -5516,7 +6329,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "BgmJp3"
+            "client": "JMS",
+            "date": "2012-07-11",
+            "structure": "BgmJp3",
+            "version": "3.00"
         },
         "youtube": "Vwn3_L3hyqY"
     },
@@ -5531,7 +6347,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmMIKU"
+            "client": "JMS",
+            "date": "2014-08-26",
+            "structure": "BgmMIKU",
+            "version": "3.31"
         },
         "youtube": ""
     },
@@ -5546,7 +6365,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm24"
+            "client": "KMST",
+            "date": "2011-03-29",
+            "structure": "Bgm24",
+            "version": "1.2.377"
         },
         "youtube": "SbUoiVCAkI0"
     },
@@ -5561,7 +6383,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm43"
+            "client": "KMS",
+            "date": "2015-04-22",
+            "structure": "Bgm43",
+            "version": "1.2.234"
         },
         "youtube": "ggKgPsrIfnI"
     },
@@ -5606,7 +6431,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm23"
+            "client": "KMST",
+            "date": "2012-02-16",
+            "structure": "Bgm23",
+            "version": "1.2.422"
         },
         "youtube": "vllV8WtBD3E"
     },
@@ -5621,7 +6449,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-06-18",
+            "structure": "Bgm47",
+            "version": "1.2.051"
         },
         "youtube": ""
     },
@@ -5636,7 +6467,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmGL2D"
+            "client": "GMS",
+            "date": "2014-12-03",
+            "structure": "BgmGL2D",
+            "version": "1.57"
         },
         "youtube": "UrJrZKgTiYY"
     },
@@ -5681,7 +6515,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm33"
+            "client": "KMST",
+            "date": "2013-07-08",
+            "structure": "Bgm33",
+            "version": "1.2.482"
         },
         "youtube": "w7qdOGixuX0"
     },
@@ -5696,7 +6533,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "Bgm17"
+            "client": "KMST",
+            "date": "2008-09-18",
+            "structure": "Bgm17",
+            "version": "1.2.163"
         },
         "youtube": "bqR0o6TkkQk"
     },
@@ -5711,7 +6551,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "Bgm17"
+            "client": "KMST",
+            "date": "2008-09-18",
+            "structure": "Bgm17",
+            "version": "1.2.163"
         },
         "youtube": "cypwlFD2TE4"
     },
@@ -5726,7 +6569,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "Bgm17"
+            "client": "KMST",
+            "date": "2008-09-18",
+            "structure": "Bgm17",
+            "version": "1.2.163"
         },
         "youtube": "9SKZBsjUdAg"
     },
@@ -5741,7 +6587,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "Bgm17"
+            "client": "KMST",
+            "date": "2008-09-18",
+            "structure": "Bgm17",
+            "version": "1.2.163"
         },
         "youtube": "44UN_MwwAEg"
     },
@@ -5756,7 +6605,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm38"
+            "client": "KMST",
+            "date": "2014-04-17",
+            "structure": "Bgm38",
+            "version": "1.2.502"
         },
         "youtube": "eSfkxogXQRE"
     },
@@ -5771,7 +6623,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm33"
+            "client": "KMST",
+            "date": "2013-07-08",
+            "structure": "Bgm33",
+            "version": "1.2.482"
         },
         "youtube": "qyHoIl5-upc"
     },
@@ -5786,7 +6641,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "Bgm22"
+            "client": "KMST",
+            "date": "2010-07-14",
+            "structure": "Bgm22",
+            "version": "1.2.327"
         },
         "youtube": "4dOKSVa5_L8"
     },
@@ -5801,7 +6659,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "Bgm15"
+            "client": "KMST",
+            "date": "2007-10-05",
+            "structure": "Bgm15",
+            "version": "1.2.105"
         },
         "youtube": "iZaVKkfuD6s"
     },
@@ -5816,7 +6677,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "Bgm20"
+            "client": "KMS",
+            "date": "2009-08-27",
+            "structure": "Bgm20",
+            "version": "1.2.83"
         },
         "youtube": "up7ugury9zc"
     },
@@ -5831,7 +6695,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMS",
+            "date": "2015-11-03",
+            "structure": "BgmCN",
+            "version": "1.29"
         },
         "youtube": "oOq9gzCv0cA"
     },
@@ -5846,7 +6713,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMS",
+            "date": "2015-11-03",
+            "structure": "BgmCN",
+            "version": "1.29"
         },
         "youtube": "Ja5gUkJkNmM"
     },
@@ -5861,7 +6731,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMS",
+            "date": "2015-11-03",
+            "structure": "BgmCN",
+            "version": "1.29"
         },
         "youtube": "6JSJ0emRED4"
     },
@@ -5876,7 +6749,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmMIKU"
+            "client": "JMS",
+            "date": "2014-08-26",
+            "structure": "BgmMIKU",
+            "version": "3.31"
         },
         "youtube": ""
     },
@@ -5926,51 +6802,6 @@
         "youtube": "-sf4tEqd7co"
     },
     {
-        "description": "Krakian Jungle",
-        "filename": "NLChunt",
-        "mark": "NLC",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "New Leaf City - Hunt",
-            "year": "2007"
-        },
-        "source": {
-            "structure": "BgmGL"
-        },
-        "youtube": "UB_Dn0LCYLE"
-    },
-    {
-        "description": "New Leaf City",
-        "filename": "NLCtown",
-        "mark": "NLC",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "New Leaf City - Town",
-            "year": "2007"
-        },
-        "source": {
-            "structure": "BgmGL"
-        },
-        "youtube": "EXv5madDarI"
-    },
-    {
-        "description": "Bigger Ben; MesoGears",
-        "filename": "NLCupbeat",
-        "mark": "NLC",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "New Leaf City - Upbeat",
-            "year": "2007"
-        },
-        "source": {
-            "structure": "BgmGL"
-        },
-        "youtube": "d0kE_pLlE2U"
-    },
-    {
         "description": "NLC Alien Base Boss",
         "filename": "NLC_boss",
         "mark": "NLC",
@@ -5981,7 +6812,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2012-03-14",
+            "structure": "BgmGL",
+            "version": "1.07"
         },
         "youtube": "X6GR21aZ7WM"
     },
@@ -5996,7 +6830,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2012-03-14",
+            "structure": "BgmGL",
+            "version": "1.07"
         },
         "youtube": "yYfxATnVF1Q"
     },
@@ -6011,7 +6848,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2012-03-14",
+            "structure": "BgmGL",
+            "version": "1.07"
         },
         "youtube": "Ye-iYhVZpcI"
     },
@@ -6026,9 +6866,66 @@
             "year": "2012"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2012-03-14",
+            "structure": "BgmGL",
+            "version": "1.07"
         },
         "youtube": "SuNPfne8Oxw"
+    },
+    {
+        "description": "Krakian Jungle",
+        "filename": "NLChunt",
+        "mark": "NLC",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "New Leaf City - Hunt",
+            "year": "2007"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2007-07-26",
+            "structure": "BgmGL",
+            "version": "0.40"
+        },
+        "youtube": "UB_Dn0LCYLE"
+    },
+    {
+        "description": "New Leaf City",
+        "filename": "NLCtown",
+        "mark": "NLC",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "New Leaf City - Town",
+            "year": "2007"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2007-07-26",
+            "structure": "BgmGL",
+            "version": "0.40"
+        },
+        "youtube": "EXv5madDarI"
+    },
+    {
+        "description": "Bigger Ben; MesoGears",
+        "filename": "NLCupbeat",
+        "mark": "NLC",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "New Leaf City - Upbeat",
+            "year": "2007"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2007-07-26",
+            "structure": "BgmGL",
+            "version": "0.40"
+        },
+        "youtube": "d0kE_pLlE2U"
     },
     {
         "description": "",
@@ -6041,7 +6938,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm48"
+            "client": "KMST",
+            "date": "2017-07-13",
+            "structure": "Bgm48",
+            "version": "1.2.053"
         },
         "youtube": ""
     },
@@ -6056,7 +6956,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm27"
+            "client": "KMST",
+            "date": "2012-07-18",
+            "structure": "Bgm27",
+            "version": "1.2.439"
         },
         "youtube": "NNh-dYY3MpM"
     },
@@ -6071,7 +6974,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm48"
+            "client": "KMST",
+            "date": "2017-07-13",
+            "structure": "Bgm48",
+            "version": "1.2.053"
         },
         "youtube": ""
     },
@@ -6116,7 +7022,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "BgmJp2"
+            "client": "JMS",
+            "date": "2008-12-03",
+            "structure": "BgmJp2",
+            "version": "1.52"
         },
         "youtube": "KO8911CzgMU"
     },
@@ -6131,7 +7040,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "BgmJp2"
+            "client": "JMS",
+            "date": "2008-12-03",
+            "structure": "BgmJp2",
+            "version": "1.52"
         },
         "youtube": "nxtdTBejXRY"
     },
@@ -6161,7 +7073,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm45"
+            "client": "KMST",
+            "date": "2015-11-26",
+            "structure": "Bgm45",
+            "version": "1.2.024"
         },
         "youtube": "SFaKLwz4blA"
     },
@@ -6176,7 +7091,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm45"
+            "client": "KMS",
+            "date": "2016-02-24",
+            "structure": "Bgm45",
+            "version": "1.2.253"
         },
         "youtube": "9RuNBojwKSQ"
     },
@@ -6191,7 +7109,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm27"
+            "client": "KMST",
+            "date": "2012-07-18",
+            "structure": "Bgm27",
+            "version": "1.2.439"
         },
         "youtube": "ZYeUnqsCnxg"
     },
@@ -6206,7 +7127,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm27"
+            "client": "KMST",
+            "date": "2012-07-18",
+            "structure": "Bgm27",
+            "version": "1.2.439"
         },
         "youtube": "Koxm5dEtkS8"
     },
@@ -6221,7 +7145,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "BgmJp2"
+            "client": "JMS",
+            "date": "2008-12-03",
+            "structure": "BgmJp2",
+            "version": "1.52"
         },
         "youtube": "HDsv0jH1RzI"
     },
@@ -6236,7 +7163,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2009-03-05",
+            "structure": "BgmGL",
+            "version": "0.66"
         },
         "youtube": "xfq61ugRGBo"
     },
@@ -6251,7 +7181,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm26"
+            "client": "KMST",
+            "date": "2012-07-03",
+            "structure": "Bgm26",
+            "version": "1.2.437"
         },
         "youtube": "6BqN9qhPoGQ"
     },
@@ -6266,7 +7199,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2008-08-14",
+            "structure": "BgmGL",
+            "version": "0.59"
         },
         "youtube": "JDK9B4IWxdg"
     },
@@ -6316,6 +7252,24 @@
         "youtube": "znPiUenHhP4"
     },
     {
+        "description": "Forest of Poison Haze Party Quest",
+        "filename": "PoisonForest",
+        "mark": "PoisonForest",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Poison Forest",
+            "year": "2008"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2008-04-17",
+            "structure": "Bgm15",
+            "version": "1.2.144"
+        },
+        "youtube": "tc61Xjl4_X8"
+    },
+    {
         "description": "",
         "filename": "PoisonForest (Alternate)",
         "mark": "PoisonForest",
@@ -6331,21 +7285,6 @@
         "youtube": "e28KuaWaHYo"
     },
     {
-        "description": "Forest of Poison Haze Party Quest",
-        "filename": "PoisonForest",
-        "mark": "PoisonForest",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Poison Forest",
-            "year": "2008"
-        },
-        "source": {
-            "structure": "Bgm15"
-        },
-        "youtube": "tc61Xjl4_X8"
-    },
-    {
         "description": "Verne Mine: Underground Mine",
         "filename": "PowerStation",
         "mark": "Leben",
@@ -6356,7 +7295,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "Bgm22"
+            "client": "KMST",
+            "date": "2010-07-14",
+            "structure": "Bgm22",
+            "version": "1.2.327"
         },
         "youtube": "HWZesN4Uj-Y"
     },
@@ -6371,7 +7313,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "Bgm25"
+            "client": "KMST",
+            "date": "2010-12-23",
+            "structure": "Bgm25",
+            "version": "1.2.359"
         },
         "youtube": "i17x0vzii2c"
     },
@@ -6386,7 +7331,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm41"
+            "client": "KMS",
+            "date": "2014-11-26",
+            "structure": "Bgm41",
+            "version": "1.2.225"
         },
         "youtube": "7C4s3ZttoiQ"
     },
@@ -6401,7 +7349,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm41"
+            "client": "KMS",
+            "date": "2014-11-26",
+            "structure": "Bgm41",
+            "version": "1.2.225"
         },
         "youtube": "usGdjxNEf2E"
     },
@@ -6416,7 +7367,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm30"
+            "client": "KMST",
+            "date": "2012-12-17",
+            "structure": "Bgm30",
+            "version": "1.2.460"
         },
         "youtube": "McPZ2XTRv1g"
     },
@@ -6446,7 +7400,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm29"
+            "client": "CMST",
+            "date": "2012-12-14",
+            "structure": "Bgm29",
+            "version": "0.71"
         },
         "youtube": "LKxvLvnxWPc"
     },
@@ -6461,7 +7418,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "Bgm18"
+            "client": "KMST",
+            "date": "2008-12-04",
+            "structure": "Bgm18",
+            "version": "1.2.183"
         },
         "youtube": "3r9s43TG9yA"
     },
@@ -6476,7 +7436,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm15"
+            "client": "KMS",
+            "date": "2011-10-26",
+            "structure": "Bgm15",
+            "version": "1.2.144"
         },
         "youtube": "tjMTX_gB6bI"
     },
@@ -6491,7 +7454,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm40"
+            "client": "KMST",
+            "date": "2014-09-22",
+            "structure": "Bgm40",
+            "version": "1.2.513"
         },
         "youtube": "MbSWDtzDTck"
     },
@@ -6506,27 +7472,15 @@
             "year": "2008"
         },
         "source": {
-            "structure": "Bgm18"
+            "client": "KMST",
+            "date": "2008-12-04",
+            "structure": "Bgm18",
+            "version": "1.2.183"
         },
         "youtube": "DhUdOO9UNwY"
     },
     {
         "description": "",
-        "filename": "RedRoom (Incomplete)",
-        "mark": "RedTemple",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Red Room (Incomplete)",
-            "year": "2013"
-        },
-        "source": {
-            "structure": "Bgm33"
-        },
-        "youtube": "jA3aul7iWOU"
-    },
-    {
-        "description": "incomplete version",
         "filename": "RedRoom",
         "mark": "RedTemple",
         "metadata": {
@@ -6536,7 +7490,28 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm33"
+            "client": "KMS",
+            "date": "2013-07-17",
+            "structure": "Bgm33",
+            "version": "1.2.197"
+        },
+        "youtube": "jA3aul7iWOU"
+    },
+    {
+        "description": "incomplete version",
+        "filename": "RedRoom (Incomplete)",
+        "mark": "RedTemple",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Red Room (Incomplete)",
+            "year": "2013"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2013-07-08",
+            "structure": "Bgm33",
+            "version": "1.2.482"
         },
         "youtube": "jA3aul7iWOU"
     },
@@ -6551,7 +7526,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm16"
+            "client": "KMST",
+            "date": "2012-01-04",
+            "structure": "Bgm16",
+            "version": "1.2.415"
         },
         "youtube": "xDV6ShE-YUU"
     },
@@ -6566,7 +7544,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "Bgm16"
+            "client": "KMST",
+            "date": "2008-07-10",
+            "structure": "Bgm16",
+            "version": "1.2.157"
         },
         "youtube": "TpKE4mKFSZY"
     },
@@ -6581,7 +7562,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "Bgm16"
+            "client": "KMST",
+            "date": "2008-07-10",
+            "structure": "Bgm16",
+            "version": "1.2.157"
         },
         "youtube": "3loq0xBsi7o"
     },
@@ -6611,7 +7595,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm28"
+            "client": "KMST",
+            "date": "2012-08-10",
+            "structure": "Bgm28",
+            "version": "1.2.445"
         },
         "youtube": "CuoeZkWgDjk"
     },
@@ -6626,7 +7613,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "BgmEvent2"
+            "client": "KMST",
+            "date": "2013-04-18",
+            "structure": "BgmEvent2",
+            "version": "1.2.476"
         },
         "youtube": "siOIcI8Fa3A"
     },
@@ -6641,7 +7631,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "BgmEvent2"
+            "client": "KMST",
+            "date": "2013-06-27",
+            "structure": "BgmEvent2",
+            "version": "1.2.481"
         },
         "youtube": "iFUeN8brMbo"
     },
@@ -6656,7 +7649,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "Bgm19"
+            "client": "KMST",
+            "date": "2009-06-18",
+            "structure": "Bgm19",
+            "version": "1.2.235"
         },
         "youtube": "YDfIfL_Fxec"
     },
@@ -6671,7 +7667,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "BgmEvent2"
+            "client": "KMST",
+            "date": "2011-04-26",
+            "structure": "BgmEvent2",
+            "version": "1.2.380"
         },
         "youtube": "oC59ar2ONwI"
     },
@@ -6686,7 +7685,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "BgmEvent2"
+            "client": "KMST",
+            "date": "2011-04-26",
+            "structure": "BgmEvent2",
+            "version": "1.2.380"
         },
         "youtube": "oyLNri1VuOM"
     },
@@ -6701,7 +7703,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "BgmBT"
+            "client": "GMS",
+            "date": "2013-06-19",
+            "structure": "BgmBT",
+            "version": "1.37"
         },
         "youtube": "vlVRgdYxFXk"
     },
@@ -6716,7 +7721,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "BgmJp2"
+            "client": "JMS",
+            "date": "2009-07-01",
+            "structure": "BgmJp2",
+            "version": "1.64"
         },
         "youtube": "CFUHMREh1NU"
     },
@@ -6731,7 +7739,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "BgmJp2"
+            "client": "JMS",
+            "date": "2009-07-01",
+            "structure": "BgmJp2",
+            "version": "1.64"
         },
         "youtube": "ygZRlNsI0u8"
     },
@@ -6746,7 +7757,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm36"
+            "client": "KMST",
+            "date": "2013-12-09",
+            "structure": "Bgm36",
+            "version": "1.2.493"
         },
         "youtube": "ui4YM2l2i4o"
     },
@@ -6776,7 +7790,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm16"
+            "client": "KMST",
+            "date": "2012-01-04",
+            "structure": "Bgm16",
+            "version": "1.2.415"
         },
         "youtube": "XhbKFnWl9R8"
     },
@@ -6791,7 +7808,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm36"
+            "client": "KMST",
+            "date": "2013-12-23",
+            "structure": "Bgm36",
+            "version": "1.2.494"
         },
         "youtube": "4oNXYkRrf-g"
     },
@@ -6806,7 +7826,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm34"
+            "client": "KMS",
+            "date": "2013-06-12",
+            "structure": "Bgm34",
+            "version": "1.2.195"
         },
         "youtube": "Cejub3b907A"
     },
@@ -6821,7 +7844,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "BgmEvent2"
+            "client": "KMST",
+            "date": "2013-11-27",
+            "structure": "BgmEvent2",
+            "version": "1.2.492"
         },
         "youtube": "6AY9MkUSc9s"
     },
@@ -6836,7 +7862,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "BgmEvent2"
+            "client": "KMST",
+            "date": "2013-11-27",
+            "structure": "BgmEvent2",
+            "version": "1.2.492"
         },
         "youtube": "t-Ra1k_Dk2k"
     },
@@ -6851,7 +7880,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-06-18",
+            "structure": "Bgm47",
+            "version": "1.2.051"
         },
         "youtube": ""
     },
@@ -6866,24 +7898,12 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm31"
+            "client": "KMST",
+            "date": "2013-01-04",
+            "structure": "Bgm31",
+            "version": "1.2.464"
         },
         "youtube": "Wmu3EmK7AWc"
-    },
-    {
-        "description": "original version",
-        "filename": "SchoolLife (Original)",
-        "mark": "spinOff1",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "School Life (Original)",
-            "year": "2014"
-        },
-        "source": {
-            "structure": "Bgm38"
-        },
-        "youtube": "WRL1IwOzW7A"
     },
     {
         "description": "",
@@ -6896,9 +7916,30 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm38"
+            "client": "KMST",
+            "date": "2014-05-23",
+            "structure": "Bgm38",
+            "version": "1.2.505"
         },
         "youtube": "ZwgnBLjovlc"
+    },
+    {
+        "description": "original version",
+        "filename": "SchoolLife (Original)",
+        "mark": "spinOff1",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "School Life (Original)",
+            "year": "2014"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2014-05-20",
+            "structure": "Bgm38",
+            "version": "1.2.504"
+        },
+        "youtube": "WRL1IwOzW7A"
     },
     {
         "description": "Secret Flower Garden",
@@ -6911,7 +7952,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "Bgm17"
+            "client": "KMST",
+            "date": "2010-02-23",
+            "structure": "Bgm17",
+            "version": "1.2.294"
         },
         "youtube": "C0xN8QcxqXk"
     },
@@ -6926,7 +7970,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm40"
+            "client": "KMST",
+            "date": "2014-09-22",
+            "structure": "Bgm40",
+            "version": "1.2.513"
         },
         "youtube": "8lmO_tHH3h0"
     },
@@ -6941,7 +7988,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm40"
+            "client": "KMS",
+            "date": "2014-10-29",
+            "structure": "Bgm40",
+            "version": "1.2.223"
         },
         "youtube": "hmd6QnJPpzg"
     },
@@ -6956,7 +8006,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "BgmJp3"
+            "client": "JMS",
+            "date": "2012-07-11",
+            "structure": "BgmJp3",
+            "version": "3.00"
         },
         "youtube": "OKufViI86Tk"
     },
@@ -6971,7 +8024,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "BgmJp3"
+            "client": "JMS",
+            "date": "2012-07-11",
+            "structure": "BgmJp3",
+            "version": "3.00"
         },
         "youtube": "Vwn3_L3hyqY"
     },
@@ -6986,7 +8042,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm26"
+            "client": "KMST",
+            "date": "2012-07-03",
+            "structure": "Bgm26",
+            "version": "1.2.437"
         },
         "youtube": "bDKPdN8rUko"
     },
@@ -7001,7 +8060,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm33"
+            "client": "KMST",
+            "date": "2013-07-08",
+            "structure": "Bgm33",
+            "version": "1.2.482"
         },
         "youtube": "TAzZTAiIrXI"
     },
@@ -7016,24 +8078,12 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm33"
+            "client": "KMST",
+            "date": "2013-07-08",
+            "structure": "Bgm33",
+            "version": "1.2.482"
         },
         "youtube": "p5yJbSt24DY"
-    },
-    {
-        "description": "the original version of the track; is now used in Ximending (YoTaipei)",
-        "filename": "ShanghaiField (Original)",
-        "mark": "ShangHai",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Shanghai Field (Original)",
-            "year": "2006"
-        },
-        "source": {
-            "structure": "BgmCN"
-        },
-        "youtube": "Z1_N3UkmaMM"
     },
     {
         "description": "",
@@ -7051,19 +8101,19 @@
         "youtube": "by7VRYj4HU4"
     },
     {
-        "description": "",
-        "filename": "shaolinBoss",
-        "mark": "shaolinsi",
+        "description": "the original version of the track; is now used in Ximending (YoTaipei)",
+        "filename": "ShanghaiField (Original)",
+        "mark": "ShangHai",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
-            "title": "China: Shaolin Boss",
-            "year": "2015"
+            "title": "Shanghai Field (Original)",
+            "year": "2006"
         },
         "source": {
             "structure": "BgmCN"
         },
-        "youtube": "wgjqL3HsiZg"
+        "youtube": "Z1_N3UkmaMM"
     },
     {
         "description": "Grand Hall of the Great Sage Field",
@@ -7142,6 +8192,24 @@
     },
     {
         "description": "",
+        "filename": "shaolinBoss",
+        "mark": "shaolinsi",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "China: Shaolin Boss",
+            "year": "2015"
+        },
+        "source": {
+            "client": "CMS",
+            "date": "2015-11-03",
+            "structure": "BgmCN",
+            "version": "1.29"
+        },
+        "youtube": "wgjqL3HsiZg"
+    },
+    {
+        "description": "",
         "filename": "SheSellsALuckyThing",
         "mark": "Urus",
         "metadata": {
@@ -7151,7 +8219,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm44"
+            "client": "KMST",
+            "date": "2015-08-12",
+            "structure": "Bgm44",
+            "version": "1.2.018"
         },
         "youtube": "60pIpRzbMBg"
     },
@@ -7211,7 +8282,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm31"
+            "client": "KMST",
+            "date": "2013-01-04",
+            "structure": "Bgm31",
+            "version": "1.2.464"
         },
         "youtube": "Mf0YGaqueqQ"
     },
@@ -7226,7 +8300,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm31"
+            "client": "KMST",
+            "date": "2013-01-04",
+            "structure": "Bgm31",
+            "version": "1.2.464"
         },
         "youtube": "hnWokhTVSO4"
     },
@@ -7241,7 +8318,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm45"
+            "client": "KMST",
+            "date": "2015-11-26",
+            "structure": "Bgm45",
+            "version": "1.2.024"
         },
         "youtube": "9C4zWKiEnsc"
     },
@@ -7256,7 +8336,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmJp3"
+            "client": "JMS",
+            "date": "2015-07-29",
+            "structure": "BgmJp3",
+            "version": "3.42"
         },
         "youtube": "6xKvhbvoyMQ"
     },
@@ -7271,7 +8354,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmGL2D"
+            "client": "GMS",
+            "date": "2014-12-03",
+            "structure": "BgmGL2D",
+            "version": "1.57"
         },
         "youtube": "tK8yb2SYl3o"
     },
@@ -7286,7 +8372,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm43"
+            "client": "KMS",
+            "date": "2015-07-22",
+            "structure": "Bgm43",
+            "version": "1.2.240"
         },
         "youtube": "ZmkzRBeqCYQ"
     },
@@ -7316,7 +8405,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm33"
+            "client": "KMST",
+            "date": "2013-07-08",
+            "structure": "Bgm33",
+            "version": "1.2.482"
         },
         "youtube": "yVmqkZP2kX8"
     },
@@ -7331,7 +8423,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "Bgm19"
+            "client": "KMST",
+            "date": "2009-06-18",
+            "structure": "Bgm19",
+            "version": "1.2.235"
         },
         "youtube": "531E1H-sdSo"
     },
@@ -7362,7 +8457,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2017-07-07",
+            "structure": "BgmPL",
+            "version": "1.27"
         },
         "youtube": "R9e7FAmUGEI"
     },
@@ -7377,7 +8475,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm25"
+            "client": "KMST",
+            "date": "2011-06-30",
+            "structure": "Bgm25",
+            "version": "1.2.389"
         },
         "youtube": "twACr950iDs"
     },
@@ -7392,7 +8493,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm26"
+            "client": "KMST",
+            "date": "2012-07-03",
+            "structure": "Bgm26",
+            "version": "1.2.437"
         },
         "youtube": "0-ANvxookZ0"
     },
@@ -7407,7 +8511,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm31"
+            "client": "KMST",
+            "date": "2013-01-10",
+            "structure": "Bgm31",
+            "version": "1.2.465"
         },
         "youtube": "Mf0YGaqueqQ"
     },
@@ -7422,7 +8529,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm31"
+            "client": "KMST",
+            "date": "2013-01-10",
+            "structure": "Bgm31",
+            "version": "1.2.465"
         },
         "youtube": "hnWokhTVSO4"
     },
@@ -7438,7 +8548,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2017-07-07",
+            "structure": "BgmPL",
+            "version": "1.27"
         },
         "youtube": "7_yYG8zkADQ"
     },
@@ -7453,7 +8566,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmMIKU"
+            "client": "JMS",
+            "date": "2014-08-26",
+            "structure": "BgmMIKU",
+            "version": "3.31"
         },
         "youtube": ""
     },
@@ -7468,7 +8584,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm39"
+            "client": "KMS",
+            "date": "2014-08-27",
+            "structure": "Bgm39",
+            "version": "1.2.220"
         },
         "youtube": "j5cxr23pgZU"
     },
@@ -7483,7 +8602,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm39"
+            "client": "KMS",
+            "date": "2014-08-27",
+            "structure": "Bgm39",
+            "version": "1.2.220"
         },
         "youtube": "Heb9xARAX3U"
     },
@@ -7498,7 +8620,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm39"
+            "client": "KMST",
+            "date": "2014-08-07",
+            "structure": "Bgm39",
+            "version": "1.2.510"
         },
         "youtube": "ksPcC1AxIZA"
     },
@@ -7513,7 +8638,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm39"
+            "client": "KMST",
+            "date": "2014-08-07",
+            "structure": "Bgm39",
+            "version": "1.2.510"
         },
         "youtube": "volCxW3z3CY"
     },
@@ -7528,7 +8656,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmStarPlanet_JP"
+            "client": "JMS",
+            "date": "2015-01-27",
+            "structure": "BgmStarPlanet_JP",
+            "version": "3.36"
         },
         "youtube": "Z4VTq4JKHGA"
     },
@@ -7543,7 +8674,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm27"
+            "client": "KMST",
+            "date": "2012-07-18",
+            "structure": "Bgm27",
+            "version": "1.2.439"
         },
         "youtube": "r05cGa1Jms0"
     },
@@ -7558,7 +8692,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm35"
+            "client": "KMST",
+            "date": "2013-07-23",
+            "structure": "Bgm35",
+            "version": "1.2.484"
         },
         "youtube": "UONe_XX9oNo"
     },
@@ -7573,7 +8710,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm35"
+            "client": "KMS",
+            "date": "2013-07-17",
+            "structure": "Bgm35",
+            "version": "1.2.197"
         },
         "youtube": "uPaP5SwULx0"
     },
@@ -7588,7 +8728,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm37"
+            "client": "KMST",
+            "date": "2014-01-08",
+            "structure": "Bgm37",
+            "version": "1.2.495"
         },
         "youtube": "AZU1lB4WrlU"
     },
@@ -7608,21 +8751,6 @@
         "youtube": "J1YTQvtmsjg"
     },
     {
-        "description": "",
-        "filename": "summerboating01 (Alternate)",
-        "mark": "Event",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Summer Boating (Alternate)",
-            "year": "2008"
-        },
-        "source": {
-            "structure": "StudioEIM Portfolio"
-        },
-        "youtube": "13nSE_8rXP4"
-    },
-    {
         "description": "ChinaMS Summer Boating Event",
         "filename": "summerboating01",
         "mark": "Event",
@@ -7636,6 +8764,21 @@
             "structure": "BgmCN"
         },
         "youtube": "1h8ZJhL7GqQ"
+    },
+    {
+        "description": "",
+        "filename": "summerboating01 (Alternate)",
+        "mark": "Event",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Summer Boating (Alternate)",
+            "year": "2008"
+        },
+        "source": {
+            "structure": "StudioEIM Portfolio"
+        },
+        "youtube": "13nSE_8rXP4"
     },
     {
         "description": "ChinaMS Summer Boating Event",
@@ -7693,7 +8836,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmGL2D"
+            "client": "GMS",
+            "date": "2014-12-03",
+            "structure": "BgmGL2D",
+            "version": "1.57"
         },
         "youtube": "hrZNYd5uYyI"
     },
@@ -7708,7 +8854,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmJp"
+            "client": "JMS",
+            "date": "2014-04-22",
+            "structure": "BgmJp",
+            "version": "3.25"
         },
         "youtube": "VBGL3ESb008"
     },
@@ -7723,7 +8872,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmJp4_Zipang"
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
         },
         "youtube": "-PFT0rDJpNk"
     },
@@ -7738,7 +8890,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "BgmEvent2"
+            "client": "KMST",
+            "date": "2013-04-18",
+            "structure": "BgmEvent2",
+            "version": "1.2.476"
         },
         "youtube": "3yvTD3d9OLQ"
     },
@@ -7768,7 +8923,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmGL2D"
+            "client": "GMS",
+            "date": "2014-12-03",
+            "structure": "BgmGL2D",
+            "version": "1.57"
         },
         "youtube": "ozpBZVrtEJI"
     },
@@ -7798,7 +8956,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2012-09-19",
+            "structure": "BgmTW",
+            "version": "1.49"
         },
         "youtube": "HOm_PhJ41jM"
     },
@@ -7813,7 +8974,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm45"
+            "client": "KMS",
+            "date": "2016-02-03",
+            "structure": "Bgm45",
+            "version": "1.2.252"
         },
         "youtube": "sywBzeuMOHc"
     },
@@ -7843,7 +9007,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm34"
+            "client": "KMST",
+            "date": "2013-08-08",
+            "structure": "Bgm34",
+            "version": "1.2.488"
         },
         "youtube": "Y1EfnMGkgGs"
     },
@@ -7858,7 +9025,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm42"
+            "client": "KMS",
+            "date": "2015-03-11",
+            "structure": "Bgm42",
+            "version": "1.2.231"
         },
         "youtube": "317XVLPaHnY"
     },
@@ -7873,7 +9043,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm42"
+            "client": "KMS",
+            "date": "2015-03-11",
+            "structure": "Bgm42",
+            "version": "1.2.231"
         },
         "youtube": "axRaC6qDdLk"
     },
@@ -7888,7 +9061,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm37"
+            "client": "KMST",
+            "date": "2014-01-08",
+            "structure": "Bgm37",
+            "version": "1.2.495"
         },
         "youtube": "XPnJrBwv0zM"
     },
@@ -7903,7 +9079,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm32"
+            "client": "KMST",
+            "date": "2013-04-18",
+            "structure": "Bgm32",
+            "version": "1.2.476"
         },
         "youtube": "hX73YhOINKA"
     },
@@ -7918,7 +9097,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "BgmJp3"
+            "client": "JMS",
+            "date": "2015-07-29",
+            "structure": "BgmJp3",
+            "version": "3.42"
         },
         "youtube": "9v6d8N3N9HY"
     },
@@ -7933,7 +9115,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm40"
+            "client": "KMST",
+            "date": "2014-09-22",
+            "structure": "Bgm40",
+            "version": "1.2.513"
         },
         "youtube": "ym6KQQdL5tE"
     },
@@ -7948,7 +9133,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm34"
+            "client": "KMST",
+            "date": "2013-05-16",
+            "structure": "Bgm34",
+            "version": "1.2.477"
         },
         "youtube": "KqUdoX9r7KU"
     },
@@ -7963,24 +9151,12 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm34"
+            "client": "KMST",
+            "date": "2013-05-16",
+            "structure": "Bgm34",
+            "version": "1.2.477"
         },
         "youtube": "2516kMhpTHA"
-    },
-    {
-        "description": "original version",
-        "filename": "thefinalWar (Original)",
-        "mark": "Magnus",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "The Final War (Original)",
-            "year": "2012"
-        },
-        "source": {
-            "structure": "Bgm28"
-        },
-        "youtube": "BOnEdZbf3ms"
     },
     {
         "description": "",
@@ -7993,24 +9169,30 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm28"
+            "client": "KMST",
+            "date": "2012-08-10",
+            "structure": "Bgm28",
+            "version": "1.2.445"
         },
         "youtube": "5rHW7L-DOJM"
     },
     {
-        "description": "",
-        "filename": "TheKingOfDestruction (Original Version)",
-        "mark": "Urus",
+        "description": "original version",
+        "filename": "thefinalWar (Original)",
+        "mark": "Magnus",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
-            "title": "The King of Destruction (Original Version)",
-            "year": "2015"
+            "title": "The Final War (Original)",
+            "year": "2012"
         },
         "source": {
-            "structure": "Bgm44"
+            "client": "KMST",
+            "date": "2012-08-06",
+            "structure": "Bgm28",
+            "version": "1.2.444"
         },
-        "youtube": "23CSJNc0Vd8"
+        "youtube": "BOnEdZbf3ms"
     },
     {
         "description": "",
@@ -8023,9 +9205,30 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm44"
+            "client": "KMS",
+            "date": "2015-08-19",
+            "structure": "Bgm44",
+            "version": "1.2.243"
         },
         "youtube": "krltH4ZKh04"
+    },
+    {
+        "description": "",
+        "filename": "TheKingOfDestruction (Original Version)",
+        "mark": "Urus",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "The King of Destruction (Original Version)",
+            "year": "2015"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2015-08-12",
+            "structure": "Bgm44",
+            "version": "1.2.018"
+        },
+        "youtube": "23CSJNc0Vd8"
     },
     {
         "description": "",
@@ -8038,7 +9241,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm32"
+            "client": "KMST",
+            "date": "2013-04-18",
+            "structure": "Bgm32",
+            "version": "1.2.476"
         },
         "youtube": "sW2zoOX8iUc"
     },
@@ -8053,7 +9259,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm30"
+            "client": "KMST",
+            "date": "2012-12-17",
+            "structure": "Bgm30",
+            "version": "1.2.460"
         },
         "youtube": "wMyUZqe0Fus"
     },
@@ -8068,7 +9277,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm32"
+            "client": "KMST",
+            "date": "2013-04-18",
+            "structure": "Bgm32",
+            "version": "1.2.476"
         },
         "youtube": "mVR37_LjJUk"
     },
@@ -8083,7 +9295,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm32"
+            "client": "KMST",
+            "date": "2013-04-18",
+            "structure": "Bgm32",
+            "version": "1.2.476"
         },
         "youtube": "8DzLlqjEnxc"
     },
@@ -8098,7 +9313,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm44"
+            "client": "KMST",
+            "date": "2015-08-12",
+            "structure": "Bgm44",
+            "version": "1.2.018"
         },
         "youtube": "AC6D15z_1pU"
     },
@@ -8113,7 +9331,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm34"
+            "client": "KMST",
+            "date": "2013-08-08",
+            "structure": "Bgm34",
+            "version": "1.2.488"
         },
         "youtube": "hf7bujCvxrI"
     },
@@ -8143,7 +9364,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-02-02",
+            "structure": "Bgm47",
+            "version": "1.2.046"
         },
         "youtube": "e8H5hcHA6T8"
     },
@@ -8158,7 +9382,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-02-02",
+            "structure": "Bgm47",
+            "version": "1.2.046"
         },
         "youtube": "rdDtnDmKQtY"
     },
@@ -8203,7 +9430,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm43"
+            "client": "KMST",
+            "date": "2015-07-30",
+            "structure": "Bgm43",
+            "version": "1.2.017"
         },
         "youtube": "_2LRgRV1J_8"
     },
@@ -8218,7 +9448,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm45"
+            "client": "KMST",
+            "date": "2015-11-26",
+            "structure": "Bgm45",
+            "version": "1.2.024"
         },
         "youtube": "5Bb-cQC5Uvo"
     },
@@ -8233,7 +9466,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm45"
+            "client": "KMS",
+            "date": "2016-01-13",
+            "structure": "Bgm45",
+            "version": "1.2.251"
         },
         "youtube": "VG9eRCsqBjo"
     },
@@ -8263,7 +9499,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm29"
+            "client": "CMST",
+            "date": "2012-12-14",
+            "structure": "Bgm29",
+            "version": "0.71"
         },
         "youtube": "kKLIRmO4PPo"
     },
@@ -8278,24 +9517,12 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm25"
+            "client": "KMST",
+            "date": "2011-01-05",
+            "structure": "Bgm25",
+            "version": "1.2.362"
         },
         "youtube": "rJKUHOoWNiA"
-    },
-    {
-        "description": "",
-        "filename": "Timeless Beholder",
-        "mark": "HofM",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Timeless Beholder",
-            "year": "2016"
-        },
-        "source": {
-            "structure": "Bgm45"
-        },
-        "youtube": "auVY17lLXmU"
     },
     {
         "description": "Forgotten Path of Time",
@@ -8311,6 +9538,24 @@
             "structure": "Bgm10"
         },
         "youtube": "95a3-2TsrrA"
+    },
+    {
+        "description": "",
+        "filename": "Timeless Beholder",
+        "mark": "HofM",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Timeless Beholder",
+            "year": "2016"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2016-01-13",
+            "structure": "Bgm45",
+            "version": "1.2.251"
+        },
+        "youtube": "auVY17lLXmU"
     },
     {
         "description": "Forgotten Path of Time",
@@ -8338,7 +9583,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "Bgm16"
+            "client": "KMST",
+            "date": "2008-07-10",
+            "structure": "Bgm16",
+            "version": "1.2.157"
         },
         "youtube": "6uCaEDM-Kf8"
     },
@@ -8353,7 +9601,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm33"
+            "client": "KMST",
+            "date": "2013-07-08",
+            "structure": "Bgm33",
+            "version": "1.2.482"
         },
         "youtube": "zzPhXjk2dEM"
     },
@@ -8373,7 +9624,7 @@
         "youtube": "BVSPMg-GWDc"
     },
     {
-        "description": "'Chaos' login theme",
+        "description": "Chaos login theme",
         "filename": "Title2010Winter",
         "mark": "Quest",
         "metadata": {
@@ -8383,7 +9634,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "BgmUI"
+            "client": "KMS",
+            "date": "2010-12-30",
+            "structure": "BgmUI",
+            "version": "1.2.119"
         },
         "youtube": "MtOIf5YLVBU"
     },
@@ -8398,27 +9652,34 @@
             "year": "2011"
         },
         "source": {
-            "structure": "BgmUI"
+            "client": "KMST",
+            "date": "2011-04-26",
+            "structure": "BgmUI",
+            "version": "1.2.380"
         },
         "youtube": "1GA7nJdEvN8"
     },
     {
-        "description": "",
+        "description": "Idina Menzel - Let It Go",
         "filename": "Title_Frozen",
         "mark": "Quest",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "Idina Menzel",
-            "title": "Title Frozen (Let It Go)",
+            "subtitle": "Title Frozen",
+            "title": "Let It Go",
             "year": "2014"
         },
         "source": {
-            "structure": "BgmUI"
+            "client": "KMS",
+            "date": "2014-07-09",
+            "structure": "BgmUI",
+            "version": "1.2.217"
         },
         "youtube": ""
     },
     {
-        "description": "Mikuni Shimokawa: Memories of MapleStory",
+        "description": "Mikuni Shimokawa - Memories of MapleStory",
         "filename": "Title_Japan",
         "mark": "Quest",
         "metadata": {
@@ -8428,7 +9689,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "BgmUI"
+            "client": "JMS",
+            "date": "2009-07-01",
+            "structure": "BgmUI",
+            "version": "1.64"
         },
         "youtube": "VLZsjH3fr70"
     },
@@ -8443,12 +9707,15 @@
             "year": "2009"
         },
         "source": {
-            "structure": "BgmUI"
+            "client": "JMS",
+            "date": "2009-11-25",
+            "structure": "BgmUI",
+            "version": "1.70"
         },
         "youtube": "3L9fhgu2kDI"
     },
     {
-        "description": "Jimang \u00e2\u20ac\u201c Sakura Pop",
+        "description": "Jimang - Sakura Pop",
         "filename": "Title_Japan3",
         "mark": "Quest",
         "metadata": {
@@ -8458,12 +9725,15 @@
             "year": "2009"
         },
         "source": {
-            "structure": "BgmUI"
+            "client": "JMS",
+            "date": "2009-12-16",
+            "structure": "BgmUI",
+            "version": "1.73"
         },
         "youtube": "toyGN6s7-S8"
     },
     {
-        "description": "Haruka Shimotsuki \u00e2\u20ac\u201c Hajimarino Story",
+        "description": "Haruka Shimotsuki - Hajimarino Story",
         "filename": "Title_Japan4",
         "mark": "Quest",
         "metadata": {
@@ -8473,7 +9743,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "BgmUI"
+            "client": "JMS",
+            "date": "2010-01-27",
+            "structure": "BgmUI",
+            "version": "1.75"
         },
         "youtube": "KYVcqLAJJ6U"
     },
@@ -8488,12 +9761,15 @@
             "year": "2010"
         },
         "source": {
-            "structure": "BgmUI"
+            "client": "JMS",
+            "date": "2010-02-24",
+            "structure": "BgmUI",
+            "version": "1.76"
         },
         "youtube": "qM6ExgTX1KM"
     },
     {
-        "description": "",
+        "description": "Ren Longxin - A Whole New World",
         "filename": "Title_Taiwan",
         "mark": "Quest",
         "metadata": {
@@ -8503,7 +9779,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmUI"
+            "client": "TMS",
+            "date": "2016-01-20",
+            "structure": "BgmUI",
+            "version": "1.86"
         },
         "youtube": "elCoN7PAKBA"
     },
@@ -8518,7 +9797,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "BgmJp2"
+            "client": "JMS",
+            "date": "2008-12-03",
+            "structure": "BgmJp2",
+            "version": "1.52"
         },
         "youtube": "MVCmEQSeZak"
     },
@@ -8548,7 +9830,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm35"
+            "client": "KMS",
+            "date": "2013-07-17",
+            "structure": "Bgm35",
+            "version": "1.2.197"
         },
         "youtube": "XLAlhsGXgxY"
     },
@@ -8563,7 +9848,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm35"
+            "client": "KMST",
+            "date": "2013-07-23",
+            "structure": "Bgm35",
+            "version": "1.2.484"
         },
         "youtube": "v6xiH8VbBKY"
     },
@@ -8578,7 +9866,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmAoT"
+            "client": "JMS",
+            "date": "2014-11-19",
+            "structure": "BgmAoT",
+            "version": "3.34"
         },
         "youtube": "VLMt3GGgwrM"
     },
@@ -8593,7 +9884,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm27"
+            "client": "KMST",
+            "date": "2012-07-18",
+            "structure": "Bgm27",
+            "version": "1.2.439"
         },
         "youtube": "TNcUGCElU40"
     },
@@ -8608,7 +9902,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm45"
+            "client": "KMS",
+            "date": "2016-02-24",
+            "structure": "Bgm45",
+            "version": "1.2.253"
         },
         "youtube": "CT5bI5PoUDA"
     },
@@ -8623,7 +9920,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm43"
+            "client": "KMS",
+            "date": "2015-04-22",
+            "structure": "Bgm43",
+            "version": "1.2.234"
         },
         "youtube": "lKkP-hCo6I0"
     },
@@ -8638,7 +9938,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm43"
+            "client": "KMS",
+            "date": "2015-04-22",
+            "structure": "Bgm43",
+            "version": "1.2.234"
         },
         "youtube": "uUVOC0f5QBs"
     },
@@ -8653,7 +9956,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm28"
+            "client": "KMST",
+            "date": "2012-08-06",
+            "structure": "Bgm28",
+            "version": "1.2.444"
         },
         "youtube": "cOxp5RHqmjk"
     },
@@ -8668,7 +9974,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "BgmSG"
+            "client": "MSEA",
+            "date": "2008-04-07",
+            "structure": "BgmSG",
+            "version": "0.53"
         },
         "youtube": "JIriGe2tdeA"
     },
@@ -8683,7 +9992,10 @@
             "year": "2010"
         },
         "source": {
-            "structure": "Bgm22"
+            "client": "KMST",
+            "date": "2010-07-14",
+            "structure": "Bgm22",
+            "version": "1.2.327"
         },
         "youtube": "SNuR31g7gqI"
     },
@@ -8698,7 +10010,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm30"
+            "client": "KMST",
+            "date": "2012-12-17",
+            "structure": "Bgm30",
+            "version": "1.2.460"
         },
         "youtube": "pY1Du__m00w"
     },
@@ -8713,7 +10028,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "Bgm20"
+            "client": "KMS",
+            "date": "2009-08-27",
+            "structure": "Bgm20",
+            "version": "1.2.83"
         },
         "youtube": "T-JvjxgfFWo"
     },
@@ -8728,7 +10046,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm43"
+            "client": "KMS",
+            "date": "2015-08-05",
+            "structure": "Bgm43",
+            "version": "1.2.242"
         },
         "youtube": "bmkAphpVa0s"
     },
@@ -8744,7 +10065,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2017-07-07",
+            "structure": "BgmPL",
+            "version": "1.27"
         },
         "youtube": "53Ih3hmzr1c"
     },
@@ -8759,7 +10083,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm43"
+            "client": "KMS",
+            "date": "2015-07-22",
+            "structure": "Bgm43",
+            "version": "1.2.240"
         },
         "youtube": "RplLRguFptU"
     },
@@ -8789,7 +10116,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm38"
+            "client": "KMST",
+            "date": "2014-05-20",
+            "structure": "Bgm38",
+            "version": "1.2.504"
         },
         "youtube": "kW0ZN2ilLqs"
     },
@@ -8804,7 +10134,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm47"
+            "client": "KMST",
+            "date": "2017-01-12",
+            "structure": "Bgm47",
+            "version": "1.2.045"
         },
         "youtube": "Ksn6CsFK6n0"
     },
@@ -8819,7 +10152,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "BgmBT"
+            "client": "CMST",
+            "date": "2013-10-12",
+            "structure": "BgmBT",
+            "version": "0.83"
         },
         "youtube": "0CRF8AJH6NA"
     },
@@ -8834,7 +10170,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm37"
+            "client": "KMST",
+            "date": "2014-01-08",
+            "structure": "Bgm37",
+            "version": "1.2.495"
         },
         "youtube": "qr9eW2y2EJM"
     },
@@ -8849,7 +10188,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmEvent2"
+            "client": "KMST",
+            "date": "2016-07-07",
+            "structure": "BgmEvent2",
+            "version": "1.2.036"
         },
         "youtube": "TfofGfdERqA"
     },
@@ -8864,7 +10206,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmGL"
+            "client": "GMS",
+            "date": "2016-11-30",
+            "structure": "BgmGL",
+            "version": "1.78"
         },
         "youtube": "5mc1scCcHwY"
     },
@@ -8879,7 +10224,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm38"
+            "client": "KMST",
+            "date": "2014-04-17",
+            "structure": "Bgm38",
+            "version": "1.2.502"
         },
         "youtube": "8BuKesi-Gc4"
     },
@@ -8894,7 +10242,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm38"
+            "client": "KMST",
+            "date": "2014-04-17",
+            "structure": "Bgm38",
+            "version": "1.2.502"
         },
         "youtube": "6gw2psbpUhI"
     },
@@ -8909,7 +10260,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm39"
+            "client": "KMS",
+            "date": "2014-12-17",
+            "structure": "Bgm39",
+            "version": "1.2.226"
         },
         "youtube": "63PYvVPs_k0"
     },
@@ -8924,7 +10278,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm46"
+            "client": "KMST",
+            "date": "2016-06-26",
+            "structure": "Bgm46",
+            "version": "1.2.035"
         },
         "youtube": "TihEE_rTcW4"
     },
@@ -8939,7 +10296,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmAoT"
+            "client": "JMS",
+            "date": "2014-11-19",
+            "structure": "BgmAoT",
+            "version": "3.34"
         },
         "youtube": "KsdCs_xSpww"
     },
@@ -8954,7 +10314,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmAoT"
+            "client": "JMS",
+            "date": "2014-11-19",
+            "structure": "BgmAoT",
+            "version": "3.34"
         },
         "youtube": "9AaCc7VGMc0"
     },
@@ -8969,7 +10332,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "BgmAoT"
+            "client": "JMS",
+            "date": "2014-11-19",
+            "structure": "BgmAoT",
+            "version": "3.34"
         },
         "youtube": "eSCmN_ZzvzI"
     },
@@ -9014,7 +10380,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm38"
+            "client": "KMST",
+            "date": "2014-04-17",
+            "structure": "Bgm38",
+            "version": "1.2.502"
         },
         "youtube": "QX9RozniVPU"
     },
@@ -9062,7 +10431,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "Bgm48"
+            "client": "KMST",
+            "date": "2017-07-13",
+            "structure": "Bgm48",
+            "version": "1.2.053"
         },
         "youtube": ""
     },
@@ -9093,7 +10465,10 @@
             "year": "2017"
         },
         "source": {
-            "structure": "BgmPL"
+            "client": "CMST",
+            "date": "2017-07-07",
+            "structure": "BgmPL",
+            "version": "1.27"
         },
         "youtube": "4U6sqPlS6fI"
     },
@@ -9108,7 +10483,10 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm43"
+            "client": "KMS",
+            "date": "2015-08-05",
+            "structure": "Bgm43",
+            "version": "1.2.242"
         },
         "youtube": "UHBxoHVKePs"
     },
@@ -9228,7 +10606,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "BgmEvent"
+            "client": "KMST",
+            "date": "2009-05-28",
+            "structure": "BgmEvent",
+            "version": "1.2.230"
         },
         "youtube": "LF0hEPFskQk"
     },
@@ -9243,24 +10624,12 @@
             "year": "2016"
         },
         "source": {
-            "structure": "Bgm46"
+            "client": "KMST",
+            "date": "2016-08-11",
+            "structure": "Bgm46",
+            "version": "1.2.038"
         },
         "youtube": "pEna89Xk90U"
-    },
-    {
-        "description": "",
-        "filename": "WildFury (Original Version)",
-        "mark": "Urus",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Wild Fury (Original Version)",
-            "year": "2015"
-        },
-        "source": {
-            "structure": "Bgm44"
-        },
-        "youtube": "f9gy70JX_8c"
     },
     {
         "description": "",
@@ -9273,9 +10642,30 @@
             "year": "2015"
         },
         "source": {
-            "structure": "Bgm44"
+            "client": "KMS",
+            "date": "2015-08-19",
+            "structure": "Bgm44",
+            "version": "1.2.243"
         },
         "youtube": "mx-yZp8nC9A"
+    },
+    {
+        "description": "",
+        "filename": "WildFury (Original Version)",
+        "mark": "Urus",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Wild Fury (Original Version)",
+            "year": "2015"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2015-08-12",
+            "structure": "Bgm44",
+            "version": "1.2.018"
+        },
+        "youtube": "f9gy70JX_8c"
     },
     {
         "description": "Present Eurel",
@@ -9288,7 +10678,10 @@
             "year": "2011"
         },
         "source": {
-            "structure": "Bgm25"
+            "client": "KMST",
+            "date": "2011-06-30",
+            "structure": "Bgm25",
+            "version": "1.2.389"
         },
         "youtube": "5gxVQPSbkJw"
     },
@@ -9303,7 +10696,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "PL_WinterFrenzy"
+            "client": "GMS",
+            "date": "2016-11-30",
+            "structure": "PL_WinterFrenzy",
+            "version": "1.78"
         },
         "youtube": "dwlGJS1b08g"
     },
@@ -9318,7 +10714,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "PL_WinterFrenzy"
+            "client": "GMS",
+            "date": "2016-11-30",
+            "structure": "PL_WinterFrenzy",
+            "version": "1.78"
         },
         "youtube": "w9FJhoIyLqs"
     },
@@ -9333,7 +10732,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "Bgm18"
+            "client": "KMST",
+            "date": "2009-03-17",
+            "structure": "Bgm18",
+            "version": "1.2.209"
         },
         "youtube": "odEQ8ImOfeY"
     },
@@ -9363,7 +10765,10 @@
             "year": "2013"
         },
         "source": {
-            "structure": "Bgm34"
+            "client": "KMST",
+            "date": "2013-06-27",
+            "structure": "Bgm34",
+            "version": "1.2.481"
         },
         "youtube": "LRWgrELn4aU"
     },
@@ -9393,7 +10798,10 @@
             "year": "2012"
         },
         "source": {
-            "structure": "Bgm29"
+            "client": "CMST",
+            "date": "2012-12-14",
+            "structure": "Bgm29",
+            "version": "0.71"
         },
         "youtube": "ReqTSo2ervs"
     },
@@ -9408,7 +10816,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmJp4_Zipang"
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
         },
         "youtube": "7O5EA1KVZSo"
     },
@@ -9453,7 +10864,10 @@
             "year": "2014"
         },
         "source": {
-            "structure": "Bgm39"
+            "client": "KMST",
+            "date": "2014-08-21",
+            "structure": "Bgm39",
+            "version": "1.2.512"
         },
         "youtube": "mRXufsvyuUA"
     },
@@ -9483,7 +10897,10 @@
             "year": "2016"
         },
         "source": {
-            "structure": "BgmJp4_Zipang"
+            "client": "JMS",
+            "date": "2016-02-16",
+            "structure": "BgmJp4_Zipang",
+            "version": "3.47"
         },
         "youtube": "OhzWkiTds2o"
     }
