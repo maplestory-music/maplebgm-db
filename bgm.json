@@ -1439,7 +1439,7 @@
     {
         "description": "Ninja Castle: Tower Room",
         "filename": "CastleBoss",
-        "mark": "sakuraCastle",
+        "mark": "jipangu",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -1454,7 +1454,7 @@
     {
         "description": "Ninja Castle: Indoors",
         "filename": "CastleInside",
-        "mark": "sakuraCastle",
+        "mark": "jipangu",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -1469,7 +1469,7 @@
     {
         "description": "Ninja Castle: Outdoors",
         "filename": "CastleOutSide",
-        "mark": "sakuraCastle",
+        "mark": "jipangu",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -1484,7 +1484,7 @@
     {
         "description": "Ninja Castle: Trap Room",
         "filename": "CastleTrap",
-        "mark": "sakuraCastle",
+        "mark": "jipangu",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -4011,7 +4011,7 @@
     {
         "description": "",
         "filename": "GoldBeach",
-        "mark": "GoldBeach",
+        "mark": "Goldrich",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -6357,7 +6357,7 @@
     {
         "description": "Spiegelmann's Monster Park",
         "filename": "monsterPark",
-        "mark": "MonsterPark",
+        "mark": "Carnival",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -6423,7 +6423,7 @@
     {
         "description": "",
         "filename": "MPBonusMap",
-        "mark": "MonsterPark",
+        "mark": "Carnival",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
