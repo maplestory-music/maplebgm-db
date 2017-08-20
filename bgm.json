@@ -885,7 +885,7 @@
         "youtube": "feA6jQxC864"
     },
     {
-        "description": "",
+        "description": "Florina Beach",
         "filename": "Beachway",
         "mark": "Rith",
         "metadata": {
@@ -1236,7 +1236,7 @@
         "youtube": "Dt4hq7RKhsA"
     },
     {
-        "description": "L Forest (pre-BB)",
+        "description": "L Forest, Mushroom Castle",
         "filename": "BlueSky",
         "mark": "KerningCity",
         "metadata": {
@@ -1569,7 +1569,7 @@
         "youtube": "uqBUXZdBvVU"
     },
     {
-        "description": "Henesys Hunting Ground (pre-BB)",
+        "description": "Henesys Hunting Ground, Henesys field",
         "filename": "CavaBien",
         "mark": "Henesys",
         "metadata": {
@@ -2856,7 +2856,7 @@
         "youtube": "Or2OSeGbPV0"
     },
     {
-        "description": "a copy of AncientMove",
+        "description": "A copy of AncientMove",
         "filename": "DownToTheCave",
         "mark": "Dungeon",
         "metadata": {
@@ -3078,7 +3078,7 @@
         "youtube": "mJhPiB4Y1Sk"
     },
     {
-        "description": "never used",
+        "description": "Unused",
         "filename": "Elfwood",
         "mark": "Quest",
         "metadata": {
@@ -3232,7 +3232,7 @@
         "youtube": "_B6q_BimGsA"
     },
     {
-        "description": "Deep Ant Tunnel; Cave of Evil Eyes",
+        "description": "Deep Ant Tunnel, Cave of Evil Eyes",
         "filename": "EvilEyes",
         "mark": "Dungeon",
         "metadata": {
@@ -3730,7 +3730,7 @@
         "youtube": "MvBhDh4coJo"
     },
     {
-        "description": "generic event background music",
+        "description": "Generic event background music",
         "filename": "FunnyRabbit",
         "mark": "Event",
         "metadata": {
@@ -3745,7 +3745,7 @@
         "youtube": "rfM5oalkRDI"
     },
     {
-        "description": "generic event background music",
+        "description": "Generic event background music",
         "filename": "FunnyRabbitFaster",
         "mark": "Event",
         "metadata": {
@@ -4072,7 +4072,7 @@
         "youtube": "Y_cihkgxF9A"
     },
     {
-        "description": "Henesys Market; Southperry",
+        "description": "Henesys Market, Southperry",
         "filename": "GoPicnic",
         "mark": "Henesys",
         "metadata": {
@@ -4714,7 +4714,7 @@
         "youtube": "gNafzBfyoTo"
     },
     {
-        "description": "Perion Field, Perion Dungeon",
+        "description": "Perion field, Perion dungeon",
         "filename": "HighlandStar",
         "mark": "Perion",
         "metadata": {
@@ -6391,7 +6391,7 @@
         "youtube": "ggKgPsrIfnI"
     },
     {
-        "description": "Ellinia Field",
+        "description": "Ellinia field",
         "filename": "MoonlightShadow",
         "mark": "Ellinia",
         "metadata": {
@@ -7570,7 +7570,7 @@
         "youtube": "3loq0xBsi7o"
     },
     {
-        "description": "Henesys Field",
+        "description": "Henesys field",
         "filename": "RestNPeace",
         "mark": "Henesys",
         "metadata": {
@@ -10439,7 +10439,7 @@
         "youtube": ""
     },
     {
-        "description": "unused",
+        "description": "Unused",
         "filename": "WCSelect",
         "mark": "Quest",
         "metadata": {
@@ -10521,7 +10521,7 @@
         "youtube": "gfgBDs8z6WE"
     },
     {
-        "description": "never used",
+        "description": "Unused",
         "filename": "WhereTheBarlogFrom",
         "mark": "Quest",
         "metadata": {
@@ -10551,7 +10551,7 @@
         "youtube": "iHbjhiWic0U"
     },
     {
-        "description": "",
+        "description": "Happyville",
         "filename": "WhiteChristmas",
         "mark": "HappyVillage",
         "metadata": {
@@ -10566,13 +10566,13 @@
         "youtube": "IzzDrEuFpnE"
     },
     {
-        "description": "MapleSEA version of Happyville",
+        "description": "Happyville (Alternate Version)",
         "filename": "WhiteChristmasSea",
         "mark": "HappyVillage",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
-            "title": "White Christmas (Sea)",
+            "title": "White Christmas (Alternate Version)",
             "year": "2003"
         },
         "source": {
