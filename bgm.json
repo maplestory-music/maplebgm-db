@@ -114,7 +114,7 @@
         "youtube": "njzZP2857Yc"
     },
     {
-        "description": "El Nath Mines",
+        "description": "El Nath: Dead Mine",
         "filename": "AbandonedMine",
         "mark": "ElNathDungeon",
         "metadata": {
@@ -381,7 +381,7 @@
         "youtube": "qtw0sIBLjrw"
     },
     {
-        "description": "Victoria - Ossyria (invaded ship)",
+        "description": "Ship to Orbis (Balrog invasion)",
         "filename": "ArabPirate",
         "mark": "Orbis",
         "metadata": {
@@ -3424,7 +3424,7 @@
         "youtube": "RQ35yqS4XZg"
     },
     {
-        "description": "",
+        "description": "Zakum boss theme",
         "filename": "FinalFight",
         "mark": "Zakum",
         "metadata": {
@@ -3592,7 +3592,7 @@
         "youtube": "-mkp5uMyF5g"
     },
     {
-        "description": "Intercontinental travel (Ossyria)",
+        "description": "Ship to Ludibrium, Continental travel (Ossyria)",
         "filename": "FlyingInABlueDream",
         "mark": "Ludibrium",
         "metadata": {
@@ -3760,7 +3760,7 @@
         "youtube": "43UmtCfYn54"
     },
     {
-        "description": "Eos Tower; Helios Tower",
+        "description": "Ludibrium: Eos Tower, Helios Tower",
         "filename": "FunnyTimeMaker",
         "mark": "LudiTower1",
         "metadata": {
@@ -4522,7 +4522,7 @@
         "youtube": "HxwC4DQ_Gmo"
     },
     {
-        "description": "El Nath Lava",
+        "description": "El Nath: The Cave of Trial",
         "filename": "HellGate",
         "mark": "ElNathDungeon",
         "metadata": {
@@ -4681,7 +4681,7 @@
         "youtube": "vDwB1oxSJyE"
     },
     {
-        "description": "Eos Tower (Outdoors)",
+        "description": "Ludibrium: Eos Tower exterior",
         "filename": "HighEnough",
         "mark": "LudiTower1",
         "metadata": {
@@ -6145,7 +6145,7 @@
         "youtube": "07a-UZLcxhM"
     },
     {
-        "description": "Zakum Party Quest",
+        "description": "El Nath: Zakum Quest",
         "filename": "MineQuest",
         "mark": "ElNathDungeon",
         "metadata": {
@@ -10091,7 +10091,7 @@
         "youtube": "RplLRguFptU"
     },
     {
-        "description": "Victoria - Ossyria (normal ship)",
+        "description": "Ship to Orbis",
         "filename": "UponTheSky",
         "mark": "Orbis",
         "metadata": {
@@ -10340,7 +10340,7 @@
         "youtube": "eSCmN_ZzvzI"
     },
     {
-        "description": "Toy Factory",
+        "description": "Ludibrium: Toy Factory",
         "filename": "WaltzForWork",
         "mark": "Ludibrium",
         "metadata": {
@@ -10355,7 +10355,7 @@
         "youtube": "CNRFWEhv_Dw"
     },
     {
-        "description": "El Nath Field",
+        "description": "El Nath field",
         "filename": "WarmRegard",
         "mark": "ElNath",
         "metadata": {
@@ -10491,7 +10491,7 @@
         "youtube": "UHBxoHVKePs"
     },
     {
-        "description": "Zakum's Altar",
+        "description": "El Nath: Zakum's Altar",
         "filename": "WelcomeToTheHell",
         "mark": "Zakum",
         "metadata": {
@@ -10536,7 +10536,7 @@
         "youtube": "OC-b2p-D28s"
     },
     {
-        "description": "Clocktower: Path of Time",
+        "description": "Ludibrium Clocktower: Path of Time",
         "filename": "WhereverYouAre",
         "mark": "Ludibrium",
         "metadata": {
@@ -10740,7 +10740,7 @@
         "youtube": "odEQ8ImOfeY"
     },
     {
-        "description": "El Nath Wolf Territory",
+        "description": "El Nath: Wolves' Territory",
         "filename": "WolfWood",
         "mark": "ElNath",
         "metadata": {
