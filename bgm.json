@@ -162,7 +162,7 @@
         "youtube": "iU--7d3GLn8"
     },
     {
-        "description": "Kentaurus Field",
+        "description": "Leafre: Kentaurus Field",
         "filename": "AcientForest",
         "mark": "Leafre",
         "metadata": {
@@ -177,7 +177,7 @@
         "youtube": "pWi9HXGWn2k"
     },
     {
-        "description": "Perion Excavation Area; Sharenian Guild Quest",
+        "description": "Perion Excavation Site, Sharenian Guild Quest",
         "filename": "AcientRemain",
         "mark": "Perion",
         "metadata": {
@@ -351,7 +351,7 @@
         "youtube": "4yW_ZefIg6Y"
     },
     {
-        "description": "Aqua Dungeon Caves; Pianus",
+        "description": "Pianus boss theme",
         "filename": "AquaCave",
         "mark": "Pianus",
         "metadata": {
@@ -711,7 +711,7 @@
         "youtube": "TeFx8yrpzHc"
     },
     {
-        "description": "Showa Sauna",
+        "description": "Zipangu: Showa Sauna",
         "filename": "Bathroom",
         "mark": "JP_shouwa",
         "metadata": {
@@ -834,7 +834,7 @@
         "youtube": "eky_ABtx2VE"
     },
     {
-        "description": "Showa Hideout",
+        "description": "Zipangu: Showa Hideout",
         "filename": "BattleField",
         "mark": "JP_shouwa",
         "metadata": {
@@ -1098,7 +1098,7 @@
         "youtube": "ztmts8aQ2eI"
     },
     {
-        "description": "Cemetery; Pine Forest",
+        "description": "Zipangu: Mushroom Shrine Cemetery, Pine Forest",
         "filename": "BizarreForest",
         "mark": "jipangu",
         "metadata": {
@@ -1602,7 +1602,7 @@
         "youtube": "mRV7syEa_jk"
     },
     {
-        "description": "Cave of Life",
+        "description": "Leafre: Cave of Life",
         "filename": "CaveOfHontale",
         "mark": "Leafre",
         "metadata": {
@@ -2520,7 +2520,7 @@
         "youtube": "SZlxFZhtiKI"
     },
     {
-        "description": "Aqua Dungeon",
+        "description": "Aqua Road Dungeon",
         "filename": "DeepSee",
         "mark": "AquaRoad",
         "metadata": {
@@ -2904,7 +2904,7 @@
         "youtube": "mM_27SaY7tE"
     },
     {
-        "description": "Dragon Forest",
+        "description": "Leafre: Dragon Forest",
         "filename": "DragonLoad",
         "mark": "Leafre",
         "metadata": {
@@ -2919,7 +2919,7 @@
         "youtube": "z3jhg8KffPI"
     },
     {
-        "description": "Dragon Canyon",
+        "description": "Leafre: Dragon Canyon",
         "filename": "DragonNest",
         "mark": "Leafre",
         "metadata": {
@@ -3199,7 +3199,7 @@
         "youtube": "xNZehZM4N8o"
     },
     {
-        "description": "Guild Party Quest Boss Battle",
+        "description": "Sharenian Guild Quest boss theme",
         "filename": "Eregos",
         "mark": "Guild",
         "metadata": {
@@ -3376,7 +3376,7 @@
         "youtube": "Toxr3wrvQm8"
     },
     {
-        "description": "Mushroom Shrine",
+        "description": "Zipangu: Mushroom Shrine",
         "filename": "Feeling",
         "mark": "jipangu",
         "metadata": {
@@ -3472,7 +3472,7 @@
         "youtube": "dT0laG5urcc"
     },
     {
-        "description": "Mushroom Town Training Camp",
+        "description": "Maple Island: Mushroom Town Training Camp",
         "filename": "FirstStepMaster",
         "mark": "MushroomVillage",
         "metadata": {
@@ -4102,7 +4102,7 @@
         "youtube": "xPtgIjPQqe4"
     },
     {
-        "description": "the original version of the track",
+        "description": "The original version of GoShanghai",
         "filename": "GoShanghai (Original)",
         "mark": "ShangHai",
         "metadata": {
@@ -4261,7 +4261,7 @@
         "youtube": "xP_5fvzevbE"
     },
     {
-        "description": "similar to Yume, but is not used",
+        "description": "Similar to Yume, but unused",
         "filename": "Hana",
         "mark": "JP_shouwa",
         "metadata": {
@@ -4747,7 +4747,7 @@
         "youtube": "uL-_-gH5lSs"
     },
     {
-        "description": "Horntail Boss Battle",
+        "description": "Horntail boss theme",
         "filename": "HonTale",
         "mark": "Hontale",
         "metadata": {
@@ -6130,7 +6130,7 @@
         "youtube": "pCXDV2_wUY4"
     },
     {
-        "description": "Minar Forest",
+        "description": "Leafre: Minar Forest",
         "filename": "Minar'sDream",
         "mark": "Leafre",
         "metadata": {
@@ -6757,7 +6757,7 @@
         "youtube": ""
     },
     {
-        "description": "Alleys of Night Market",
+        "description": "Taiwan: Night Market field",
         "filename": "NightField",
         "mark": "NightMarket",
         "metadata": {
@@ -6787,7 +6787,7 @@
         "youtube": "9lwOsX763N0"
     },
     {
-        "description": "Night Market",
+        "description": "Taiwan: Night Market",
         "filename": "NightMarket",
         "mark": "NightMarket",
         "metadata": {
@@ -7048,7 +7048,7 @@
         "youtube": "nxtdTBejXRY"
     },
     {
-        "description": "Pachinko background noise",
+        "description": "Pachinko ambient noise",
         "filename": "Pachinko_Interior_Ambience",
         "mark": "jipangu",
         "metadata": {
@@ -7237,7 +7237,7 @@
         "youtube": "3Wwk2CDkV44"
     },
     {
-        "description": "Orbis PQ Boss Battle",
+        "description": "Orbis Party Quest boss theme",
         "filename": "PlotOfPixie",
         "mark": "GoddessTower",
         "metadata": {
@@ -7375,7 +7375,7 @@
         "youtube": "McPZ2XTRv1g"
     },
     {
-        "description": "ChinaMS PvP Battle Theme",
+        "description": "ChinaMS PvP battle theme",
         "filename": "PvP",
         "mark": "BattlePvP",
         "metadata": {
@@ -7765,7 +7765,7 @@
         "youtube": "ui4YM2l2i4o"
     },
     {
-        "description": "Perion Castles (interior)",
+        "description": "Perion Castle Ruins",
         "filename": "RuinCastle",
         "mark": "Perion",
         "metadata": {
@@ -8101,7 +8101,7 @@
         "youtube": "by7VRYj4HU4"
     },
     {
-        "description": "the original version of the track; is now used in Ximending (YoTaipei)",
+        "description": "The original version of ShanghaiField, now known as YoTaipei",
         "filename": "ShanghaiField (Original)",
         "mark": "ShangHai",
         "metadata": {
@@ -8898,7 +8898,7 @@
         "youtube": "3yvTD3d9OLQ"
     },
     {
-        "description": "Floating Market Swamp",
+        "description": "Thailand: Floating Market field",
         "filename": "ThaiField",
         "mark": "Thai",
         "metadata": {
@@ -8931,7 +8931,7 @@
         "youtube": "ozpBZVrtEJI"
     },
     {
-        "description": "Floating Market",
+        "description": "Thailand: Floating Market",
         "filename": "ThaiTown",
         "mark": "Thai",
         "metadata": {
@@ -9805,7 +9805,7 @@
         "youtube": "MVCmEQSeZak"
     },
     {
-        "description": "",
+        "description": "Orbis Party Quest",
         "filename": "TowerOfGoddess",
         "mark": "GoddessTower",
         "metadata": {
@@ -10406,7 +10406,7 @@
         "youtube": ""
     },
     {
-        "description": "Perion Castle Waterways (GPQ)",
+        "description": "Perion Castle Waterways, Sharenian Guild Quest",
         "filename": "WaterWay",
         "mark": "Guild",
         "metadata": {
@@ -10824,7 +10824,7 @@
         "youtube": "7O5EA1KVZSo"
     },
     {
-        "description": "Ximending",
+        "description": "Taiwan: Ximending",
         "filename": "YoTaipei",
         "mark": "SeoMoonJung",
         "metadata": {
@@ -10839,7 +10839,7 @@
         "youtube": "Z1_N3UkmaMM"
     },
     {
-        "description": "Showa Town",
+        "description": "Zipangu: Showa Town",
         "filename": "Yume",
         "mark": "JP_shouwa",
         "metadata": {
@@ -10872,7 +10872,7 @@
         "youtube": "mRXufsvyuUA"
     },
     {
-        "description": "Yuyuan Garden",
+        "description": "China: Yuyuan Garden",
         "filename": "Yuyuan",
         "mark": "YuYuanCN",
         "metadata": {
