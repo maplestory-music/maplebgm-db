@@ -1,6 +1,6 @@
 [
     {
-        "description": "Taipei 101",
+        "description": "Kerning Square, Taipei 101",
         "filename": "101Building",
         "mark": "101Building",
         "metadata": {
@@ -15,7 +15,7 @@
         "youtube": "_0qKfYQG7Rs"
     },
     {
-        "description": "",
+        "description": "Alternate version of 101Building",
         "filename": "101Building (Alternate)",
         "mark": "101Building",
         "metadata": {
@@ -30,7 +30,7 @@
         "youtube": "x4FQNTMBjno"
     },
     {
-        "description": "Taipei 101 Field",
+        "description": "Kerning Square field, Taipei 101 field",
         "filename": "101BuildingField",
         "mark": "101Building",
         "metadata": {
@@ -45,7 +45,7 @@
         "youtube": "hKYODtn_P84"
     },
     {
-        "description": "Taipei 101 Subway",
+        "description": "Kerning Square Subway, Taipei 101 Subway",
         "filename": "101BuildingSubway",
         "mark": "101Building",
         "metadata": {
@@ -1266,7 +1266,7 @@
         "youtube": "EnHRl2Wnabk"
     },
     {
-        "description": "Boat Quay Field",
+        "description": "Singapore: Boat Quay field",
         "filename": "BoatQuay_field",
         "mark": "Singapore",
         "metadata": {
@@ -1284,7 +1284,7 @@
         "youtube": "DLdRypTOm0o"
     },
     {
-        "description": "Boat Quay Town",
+        "description": "Singapore: Boat Quay Town",
         "filename": "BoatQuay_town",
         "mark": "Singapore",
         "metadata": {
@@ -1356,7 +1356,7 @@
         "youtube": "87RytVeR85w"
     },
     {
-        "description": "the old version of HotDesert",
+        "description": "The old version of HotDesert",
         "filename": "Burningroad",
         "mark": "Ariant",
         "metadata": {
@@ -1437,7 +1437,7 @@
         "youtube": "kCG2WU5PkF0"
     },
     {
-        "description": "Ninja Castle: Tower Room",
+        "description": "Zipangu: Ninja Castle boss theme",
         "filename": "CastleBoss",
         "mark": "jipangu",
         "metadata": {
@@ -1452,7 +1452,7 @@
         "youtube": "_mSoAfONu6U"
     },
     {
-        "description": "Ninja Castle: Indoors",
+        "description": "Zipangu: Ninja Castle indoors",
         "filename": "CastleInside",
         "mark": "jipangu",
         "metadata": {
@@ -1467,7 +1467,7 @@
         "youtube": "8bvx6bZ8WnA"
     },
     {
-        "description": "Ninja Castle: Outdoors",
+        "description": "Zipangu: Ninja Castle outdoors",
         "filename": "CastleOutSide",
         "mark": "jipangu",
         "metadata": {
@@ -1482,7 +1482,7 @@
         "youtube": "6yJ3_i6emNw"
     },
     {
-        "description": "Ninja Castle: Trap Room",
+        "description": "Zipangu: Ninja Castle trap room",
         "filename": "CastleTrap",
         "mark": "jipangu",
         "metadata": {
@@ -1617,7 +1617,7 @@
         "youtube": "Lo59n_tMGSM"
     },
     {
-        "description": "CBD Field",
+        "description": "Singapore: CBD field",
         "filename": "CBD_field",
         "mark": "Singapore",
         "metadata": {
@@ -1635,7 +1635,7 @@
         "youtube": "MvheqAmubR8"
     },
     {
-        "description": "CBD",
+        "description": "Singapore: CBD",
         "filename": "CBD_town",
         "mark": "Singapore",
         "metadata": {
@@ -3829,7 +3829,7 @@
         "youtube": "6igTXgoof68"
     },
     {
-        "description": "Ghostship",
+        "description": "Singapore: Ghost Ship",
         "filename": "Ghostship",
         "mark": "Singapore",
         "metadata": {
@@ -4027,7 +4027,7 @@
         "youtube": "pyxpWEl3St0"
     },
     {
-        "description": "Golden Temple: Goblin Cave (Dungeon)",
+        "description": "Golden Temple dungeon",
         "filename": "goldTempleDungeonTH",
         "mark": "GoldTempleTH",
         "metadata": {
@@ -4042,7 +4042,7 @@
         "youtube": "VoHtZ3sKsOY"
     },
     {
-        "description": "Golden Temple: Monkey Forest (Field)",
+        "description": "Golden Temple field",
         "filename": "goldTempleFieldTH",
         "mark": "GoldTempleTH",
         "metadata": {
@@ -4087,7 +4087,7 @@
         "youtube": "WUuawkZR0s0"
     },
     {
-        "description": "",
+        "description": "China: Shanghai Wai-Tan",
         "filename": "GoShanghai",
         "mark": "ShangHai",
         "metadata": {
@@ -4762,7 +4762,7 @@
         "youtube": "WnLrTMmnyBc"
     },
     {
-        "description": "The Burning Sands",
+        "description": "Ariant field",
         "filename": "HotDesert",
         "mark": "Ariant",
         "metadata": {
@@ -4867,7 +4867,7 @@
         "youtube": "Dt4hq7RKhsA"
     },
     {
-        "description": "Interior of Nautilus",
+        "description": "Nautilus interior",
         "filename": "inNautilus",
         "mark": "Nautilus",
         "metadata": {
@@ -6406,7 +6406,7 @@
         "youtube": "XYtHWyrVm30"
     },
     {
-        "description": "no apparent use (JapanMS)",
+        "description": "No apparent use (JapanMS)",
         "filename": "MorningShot",
         "mark": "Quest",
         "metadata": {
@@ -6475,7 +6475,7 @@
         "youtube": "UrJrZKgTiYY"
     },
     {
-        "description": "Mu Lung Field (Sky Forest; Peach Farm; Practice Field)",
+        "description": "Mu Lung forest",
         "filename": "MureungForest",
         "mark": "Murueng",
         "metadata": {
@@ -6649,7 +6649,7 @@
         "youtube": "4dOKSVa5_L8"
     },
     {
-        "description": "Nautilus",
+        "description": "Nautilus Harbor",
         "filename": "Nautilus",
         "mark": "Nautilus",
         "metadata": {
@@ -6874,7 +6874,7 @@
         "youtube": "SuNPfne8Oxw"
     },
     {
-        "description": "Krakian Jungle",
+        "description": "New Leaf City: Krakian Jungle",
         "filename": "NLChunt",
         "mark": "NLC",
         "metadata": {
@@ -6910,7 +6910,7 @@
         "youtube": "EXv5madDarI"
     },
     {
-        "description": "Bigger Ben; MesoGears",
+        "description": "New Leaf City: MesoGears",
         "filename": "NLCupbeat",
         "mark": "NLC",
         "metadata": {
@@ -7207,7 +7207,7 @@
         "youtube": "JDK9B4IWxdg"
     },
     {
-        "description": "Red Nosed Pirate's Den; Lord Pirate Party Quest",
+        "description": "Herb Town: Red-Nose Pirate Den, Lord Pirate Party Quest",
         "filename": "Pirate",
         "mark": "DevijonParty",
         "metadata": {
@@ -8086,7 +8086,7 @@
         "youtube": "p5yJbSt24DY"
     },
     {
-        "description": "",
+        "description": "China: Shanghai field",
         "filename": "ShanghaiField",
         "mark": "ShangHai",
         "metadata": {
@@ -8116,7 +8116,7 @@
         "youtube": "Z1_N3UkmaMM"
     },
     {
-        "description": "Grand Hall of the Great Sage Field",
+        "description": "China: Shaolin Temple - Sutra Depository (old map ver.)",
         "filename": "shaolin_cangjingge",
         "mark": "shaolinsi",
         "metadata": {
@@ -8131,7 +8131,7 @@
         "youtube": "hapVbhzQF88"
     },
     {
-        "description": "Grand Hall of the Great Sage",
+        "description": "China: Shaolin Temple",
         "filename": "shaolin_daxiongbaodian",
         "mark": "shaolin_songshan",
         "metadata": {
@@ -8146,7 +8146,7 @@
         "youtube": "3Ers8eclp4A"
     },
     {
-        "description": "Grand Hall of the Great Sage Boss Battle",
+        "description": "China: Shaolin Temple - Sutra boss theme (old map ver.)",
         "filename": "shaolin_mishi",
         "mark": "shaolinsi",
         "metadata": {
@@ -8161,7 +8161,7 @@
         "youtube": "gLrpmQPp9U8"
     },
     {
-        "description": "Mount Song Field",
+        "description": "China: Mount Song field",
         "filename": "shaolin_shan",
         "mark": "shaolin_songshan",
         "metadata": {
@@ -8176,7 +8176,7 @@
         "youtube": "RE-3HU4wvdU"
     },
     {
-        "description": "Mount Song Town",
+        "description": "China: Mount Song Hamlet",
         "filename": "shaolin_songshan",
         "mark": "shaolin_songshan",
         "metadata": {
@@ -8811,7 +8811,7 @@
         "youtube": "kiXwuRCn3zo"
     },
     {
-        "description": "Sunset Road",
+        "description": "Ariant / Magatia: Sunset Road",
         "filename": "SunsetDesert",
         "mark": "Magatia",
         "metadata": {
