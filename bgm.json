@@ -6130,6 +6130,24 @@
         "youtube": "pCXDV2_wUY4"
     },
     {
+        "description": "",
+        "filename": "MemoryOfKritias",
+        "mark": "Morass",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Memory of Kritias",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-08-24",
+            "structure": "Bgm48",
+            "version": "1.2.056"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Minar Forest",
         "filename": "Minar'sDream",
         "mark": "Leafre",
@@ -8824,6 +8842,24 @@
             "structure": "Bgm15"
         },
         "youtube": "L9CYYgoZVAo"
+    },
+    {
+        "description": "",
+        "filename": "SwampOfMemoryMoras",
+        "mark": "Morass",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Morass - Swamp of Memory",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-08-24",
+            "structure": "Bgm48",
+            "version": "1.2.056"
+        },
+        "youtube": ""
     },
     {
         "description": "",
