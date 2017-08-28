@@ -1,6 +1,6 @@
 [
     {
-        "description": "Taipei 101",
+        "description": "Kerning Square, Taipei 101",
         "filename": "101Building",
         "mark": "101Building",
         "metadata": {
@@ -15,7 +15,7 @@
         "youtube": "_0qKfYQG7Rs"
     },
     {
-        "description": "",
+        "description": "Alternate version of 101Building",
         "filename": "101Building (Alternate)",
         "mark": "101Building",
         "metadata": {
@@ -30,7 +30,7 @@
         "youtube": "x4FQNTMBjno"
     },
     {
-        "description": "Taipei 101 Field",
+        "description": "Kerning Square field, Taipei 101 field",
         "filename": "101BuildingField",
         "mark": "101Building",
         "metadata": {
@@ -45,7 +45,7 @@
         "youtube": "hKYODtn_P84"
     },
     {
-        "description": "Taipei 101 Subway",
+        "description": "Kerning Square Subway, Taipei 101 Subway",
         "filename": "101BuildingSubway",
         "mark": "101Building",
         "metadata": {
@@ -114,7 +114,7 @@
         "youtube": "njzZP2857Yc"
     },
     {
-        "description": "El Nath Mines",
+        "description": "El Nath: Dead Mine",
         "filename": "AbandonedMine",
         "mark": "ElNathDungeon",
         "metadata": {
@@ -162,7 +162,7 @@
         "youtube": "iU--7d3GLn8"
     },
     {
-        "description": "Kentaurus Field",
+        "description": "Leafre: Kentaurus Field",
         "filename": "AcientForest",
         "mark": "Leafre",
         "metadata": {
@@ -177,7 +177,7 @@
         "youtube": "pWi9HXGWn2k"
     },
     {
-        "description": "Perion Excavation Area; Sharenian Guild Quest",
+        "description": "Perion Excavation Site, Sharenian Guild Quest",
         "filename": "AcientRemain",
         "mark": "Perion",
         "metadata": {
@@ -300,7 +300,7 @@
         "youtube": "ZnS7JgfB8DI"
     },
     {
-        "description": "Ant Tunnel",
+        "description": "Sleepywood: Ant Tunnel",
         "filename": "AncientMove",
         "mark": "Dungeon",
         "metadata": {
@@ -351,7 +351,7 @@
         "youtube": "4yW_ZefIg6Y"
     },
     {
-        "description": "Aqua Dungeon Caves; Pianus",
+        "description": "Pianus boss theme",
         "filename": "AquaCave",
         "mark": "Pianus",
         "metadata": {
@@ -366,7 +366,7 @@
         "youtube": "ctsqJ-Xl9_0"
     },
     {
-        "description": "Aquarium",
+        "description": "Aqua Road: Aquarium",
         "filename": "Aquarium",
         "mark": "AquaRoad",
         "metadata": {
@@ -381,7 +381,7 @@
         "youtube": "qtw0sIBLjrw"
     },
     {
-        "description": "Victoria - Ossyria (invaded ship)",
+        "description": "Ship to Orbis (Balrog invasion)",
         "filename": "ArabPirate",
         "mark": "Orbis",
         "metadata": {
@@ -555,7 +555,7 @@
         "youtube": "DzyjPxP0GSg"
     },
     {
-        "description": "AsiaSoft Splash",
+        "description": "Asiasoft splash",
         "filename": "AsLogo",
         "mark": "Quest",
         "metadata": {
@@ -711,7 +711,7 @@
         "youtube": "TeFx8yrpzHc"
     },
     {
-        "description": "Showa Sauna",
+        "description": "Zipangu: Showa Sauna",
         "filename": "Bathroom",
         "mark": "JP_shouwa",
         "metadata": {
@@ -834,7 +834,7 @@
         "youtube": "eky_ABtx2VE"
     },
     {
-        "description": "Showa Hideout",
+        "description": "Zipangu: Showa Hideout",
         "filename": "BattleField",
         "mark": "JP_shouwa",
         "metadata": {
@@ -885,7 +885,7 @@
         "youtube": "feA6jQxC864"
     },
     {
-        "description": "",
+        "description": "Florina Beach",
         "filename": "Beachway",
         "mark": "Rith",
         "metadata": {
@@ -1098,7 +1098,7 @@
         "youtube": "ztmts8aQ2eI"
     },
     {
-        "description": "Cemetery; Pine Forest",
+        "description": "Zipangu: Mushroom Shrine Cemetery, Pine Forest",
         "filename": "BizarreForest",
         "mark": "jipangu",
         "metadata": {
@@ -1113,7 +1113,7 @@
         "youtube": "9kmYUElcL_w"
     },
     {
-        "description": "Warped Passage",
+        "description": "Ludibrium Clocktower: Warped Passage",
         "filename": "BizarreTales",
         "mark": "Ludibrium",
         "metadata": {
@@ -1236,7 +1236,7 @@
         "youtube": "Dt4hq7RKhsA"
     },
     {
-        "description": "L Forest (pre-BB)",
+        "description": "Kerning L Forest, Mushroom Castle",
         "filename": "BlueSky",
         "mark": "KerningCity",
         "metadata": {
@@ -1251,7 +1251,7 @@
         "youtube": "ClLLtA3naSo"
     },
     {
-        "description": "Aqua Road West & Central-East",
+        "description": "Aqua Road west & central",
         "filename": "BlueWorld",
         "mark": "AquaRoad",
         "metadata": {
@@ -1266,7 +1266,7 @@
         "youtube": "EnHRl2Wnabk"
     },
     {
-        "description": "Boat Quay Field",
+        "description": "Singapore: Boat Quay field",
         "filename": "BoatQuay_field",
         "mark": "Singapore",
         "metadata": {
@@ -1284,7 +1284,7 @@
         "youtube": "DLdRypTOm0o"
     },
     {
-        "description": "Boat Quay Town",
+        "description": "Singapore: Boat Quay Town",
         "filename": "BoatQuay_town",
         "mark": "Singapore",
         "metadata": {
@@ -1356,7 +1356,7 @@
         "youtube": "87RytVeR85w"
     },
     {
-        "description": "the old version of HotDesert",
+        "description": "The old version of HotDesert",
         "filename": "Burningroad",
         "mark": "Ariant",
         "metadata": {
@@ -1437,7 +1437,7 @@
         "youtube": "kCG2WU5PkF0"
     },
     {
-        "description": "Ninja Castle: Tower Room",
+        "description": "Zipangu: Ninja Castle boss theme",
         "filename": "CastleBoss",
         "mark": "jipangu",
         "metadata": {
@@ -1452,7 +1452,7 @@
         "youtube": "_mSoAfONu6U"
     },
     {
-        "description": "Ninja Castle: Indoors",
+        "description": "Zipangu: Ninja Castle indoors",
         "filename": "CastleInside",
         "mark": "jipangu",
         "metadata": {
@@ -1467,7 +1467,7 @@
         "youtube": "8bvx6bZ8WnA"
     },
     {
-        "description": "Ninja Castle: Outdoors",
+        "description": "Zipangu: Ninja Castle outdoors",
         "filename": "CastleOutSide",
         "mark": "jipangu",
         "metadata": {
@@ -1482,7 +1482,7 @@
         "youtube": "6yJ3_i6emNw"
     },
     {
-        "description": "Ninja Castle: Trap Room",
+        "description": "Zipangu: Ninja Castle trap room",
         "filename": "CastleTrap",
         "mark": "jipangu",
         "metadata": {
@@ -1569,7 +1569,7 @@
         "youtube": "uqBUXZdBvVU"
     },
     {
-        "description": "Henesys Hunting Ground (pre-BB)",
+        "description": "Henesys Hunting Ground, Henesys field",
         "filename": "CavaBien",
         "mark": "Henesys",
         "metadata": {
@@ -1602,7 +1602,7 @@
         "youtube": "mRV7syEa_jk"
     },
     {
-        "description": "Cave of Life",
+        "description": "Leafre: Cave of Life",
         "filename": "CaveOfHontale",
         "mark": "Leafre",
         "metadata": {
@@ -1617,7 +1617,7 @@
         "youtube": "Lo59n_tMGSM"
     },
     {
-        "description": "CBD Field",
+        "description": "Singapore: CBD field",
         "filename": "CBD_field",
         "mark": "Singapore",
         "metadata": {
@@ -1635,7 +1635,7 @@
         "youtube": "MvheqAmubR8"
     },
     {
-        "description": "CBD",
+        "description": "Singapore: CBD",
         "filename": "CBD_town",
         "mark": "Singapore",
         "metadata": {
@@ -2328,7 +2328,7 @@
         "youtube": "PLGbYlBbw2E"
     },
     {
-        "description": "",
+        "description": "Korean Folk Town: Black Mountain",
         "filename": "DarkMountain",
         "mark": "Folkvillige",
         "metadata": {
@@ -2361,7 +2361,7 @@
         "youtube": "xAAo_xCTqb4"
     },
     {
-        "description": "Ludibrium PQ: Darkness in the Tower",
+        "description": "Ludibrium Party Quest: Darkness in the Tower",
         "filename": "DarkShadow",
         "mark": "AbandonTower",
         "metadata": {
@@ -2520,7 +2520,7 @@
         "youtube": "SZlxFZhtiKI"
     },
     {
-        "description": "Aqua Dungeon",
+        "description": "Aqua Road Dungeon",
         "filename": "DeepSee",
         "mark": "AquaRoad",
         "metadata": {
@@ -2856,7 +2856,7 @@
         "youtube": "Or2OSeGbPV0"
     },
     {
-        "description": "a copy of AncientMove",
+        "description": "A copy of AncientMove",
         "filename": "DownToTheCave",
         "mark": "Dungeon",
         "metadata": {
@@ -2904,7 +2904,7 @@
         "youtube": "mM_27SaY7tE"
     },
     {
-        "description": "Dragon Forest",
+        "description": "Leafre: Dragon Forest",
         "filename": "DragonLoad",
         "mark": "Leafre",
         "metadata": {
@@ -2919,7 +2919,7 @@
         "youtube": "z3jhg8KffPI"
     },
     {
-        "description": "Dragon Canyon",
+        "description": "Leafre: Dragon Canyon",
         "filename": "DragonNest",
         "mark": "Leafre",
         "metadata": {
@@ -3078,7 +3078,7 @@
         "youtube": "mJhPiB4Y1Sk"
     },
     {
-        "description": "never used",
+        "description": "Unused",
         "filename": "Elfwood",
         "mark": "Quest",
         "metadata": {
@@ -3199,7 +3199,7 @@
         "youtube": "xNZehZM4N8o"
     },
     {
-        "description": "Guild Party Quest Boss Battle",
+        "description": "Sharenian Guild Quest boss theme",
         "filename": "Eregos",
         "mark": "Guild",
         "metadata": {
@@ -3232,7 +3232,7 @@
         "youtube": "_B6q_BimGsA"
     },
     {
-        "description": "Deep Ant Tunnel; Cave of Evil Eyes",
+        "description": "Sleepywood: Deep Ant Tunnel, Cave of Evil Eyes",
         "filename": "EvilEyes",
         "mark": "Dungeon",
         "metadata": {
@@ -3265,7 +3265,7 @@
         "youtube": "0WLtsCqEQ4Q"
     },
     {
-        "description": "Warped Path of Time",
+        "description": "Ludibrium Clocktower: Warped Path of Time",
         "filename": "FairyTale",
         "mark": "Ludibrium",
         "metadata": {
@@ -3280,7 +3280,7 @@
         "youtube": "0_PTb2pxygU"
     },
     {
-        "description": "Warped Path of Time",
+        "description": "Ludibrium Clocktower: Warped Path of Time",
         "filename": "FairyTalediffvers",
         "mark": "Ludibrium",
         "metadata": {
@@ -3295,7 +3295,7 @@
         "youtube": "7PO-m2atU2U"
     },
     {
-        "description": "Ludibirum PQ",
+        "description": "Ludibirum Party Quest",
         "filename": "Fantasia",
         "mark": "AbandonTower",
         "metadata": {
@@ -3376,7 +3376,7 @@
         "youtube": "Toxr3wrvQm8"
     },
     {
-        "description": "Mushroom Shrine",
+        "description": "Zipangu: Mushroom Shrine",
         "filename": "Feeling",
         "mark": "jipangu",
         "metadata": {
@@ -3424,7 +3424,7 @@
         "youtube": "RQ35yqS4XZg"
     },
     {
-        "description": "",
+        "description": "Zakum boss theme",
         "filename": "FinalFight",
         "mark": "Zakum",
         "metadata": {
@@ -3457,7 +3457,7 @@
         "youtube": "R5dUCq4vnvk"
     },
     {
-        "description": "Kulan Field",
+        "description": "Omega Sector: Kulan Field",
         "filename": "FindingForest",
         "mark": "OmegaSector",
         "metadata": {
@@ -3472,7 +3472,7 @@
         "youtube": "dT0laG5urcc"
     },
     {
-        "description": "Mushroom Town Training Camp",
+        "description": "Maple Island: Mushroom Town Training Camp",
         "filename": "FirstStepMaster",
         "mark": "MushroomVillage",
         "metadata": {
@@ -3592,7 +3592,7 @@
         "youtube": "-mkp5uMyF5g"
     },
     {
-        "description": "Intercontinental travel (Ossyria)",
+        "description": "Ship to Ludibrium, Continental travel (Ossyria)",
         "filename": "FlyingInABlueDream",
         "mark": "Ludibrium",
         "metadata": {
@@ -3730,7 +3730,7 @@
         "youtube": "MvBhDh4coJo"
     },
     {
-        "description": "generic event background music",
+        "description": "Generic event background music",
         "filename": "FunnyRabbit",
         "mark": "Event",
         "metadata": {
@@ -3745,7 +3745,7 @@
         "youtube": "rfM5oalkRDI"
     },
     {
-        "description": "generic event background music",
+        "description": "Generic event background music",
         "filename": "FunnyRabbitFaster",
         "mark": "Event",
         "metadata": {
@@ -3760,7 +3760,7 @@
         "youtube": "43UmtCfYn54"
     },
     {
-        "description": "Eos Tower; Helios Tower",
+        "description": "Ludibrium: Eos Tower, Helios Tower",
         "filename": "FunnyTimeMaker",
         "mark": "LudiTower1",
         "metadata": {
@@ -3829,7 +3829,7 @@
         "youtube": "6igTXgoof68"
     },
     {
-        "description": "Ghostship",
+        "description": "Singapore: Ghost Ship",
         "filename": "Ghostship",
         "mark": "Singapore",
         "metadata": {
@@ -4027,7 +4027,7 @@
         "youtube": "pyxpWEl3St0"
     },
     {
-        "description": "Golden Temple: Goblin Cave (Dungeon)",
+        "description": "Golden Temple dungeon",
         "filename": "goldTempleDungeonTH",
         "mark": "GoldTempleTH",
         "metadata": {
@@ -4042,7 +4042,7 @@
         "youtube": "VoHtZ3sKsOY"
     },
     {
-        "description": "Golden Temple: Monkey Forest (Field)",
+        "description": "Golden Temple field",
         "filename": "goldTempleFieldTH",
         "mark": "GoldTempleTH",
         "metadata": {
@@ -4072,7 +4072,7 @@
         "youtube": "Y_cihkgxF9A"
     },
     {
-        "description": "Henesys Market; Southperry",
+        "description": "Henesys Market, Southperry",
         "filename": "GoPicnic",
         "mark": "Henesys",
         "metadata": {
@@ -4087,7 +4087,7 @@
         "youtube": "WUuawkZR0s0"
     },
     {
-        "description": "",
+        "description": "China: Shanghai Wai-Tan",
         "filename": "GoShanghai",
         "mark": "ShangHai",
         "metadata": {
@@ -4102,7 +4102,7 @@
         "youtube": "xPtgIjPQqe4"
     },
     {
-        "description": "the original version of the track",
+        "description": "The original version of GoShanghai",
         "filename": "GoShanghai (Original)",
         "mark": "ShangHai",
         "metadata": {
@@ -4261,7 +4261,7 @@
         "youtube": "xP_5fvzevbE"
     },
     {
-        "description": "similar to Yume, but is not used",
+        "description": "Similar to Yume, but unused",
         "filename": "Hana",
         "mark": "JP_shouwa",
         "metadata": {
@@ -4522,7 +4522,7 @@
         "youtube": "HxwC4DQ_Gmo"
     },
     {
-        "description": "El Nath Lava",
+        "description": "El Nath: The Cave of Trial",
         "filename": "HellGate",
         "mark": "ElNathDungeon",
         "metadata": {
@@ -4681,7 +4681,7 @@
         "youtube": "vDwB1oxSJyE"
     },
     {
-        "description": "Eos Tower (Outdoors)",
+        "description": "Ludibrium: Eos Tower exterior",
         "filename": "HighEnough",
         "mark": "LudiTower1",
         "metadata": {
@@ -4714,7 +4714,7 @@
         "youtube": "gNafzBfyoTo"
     },
     {
-        "description": "Perion Field, Perion Dungeon",
+        "description": "Perion field, Perion dungeon",
         "filename": "HighlandStar",
         "mark": "Perion",
         "metadata": {
@@ -4747,7 +4747,7 @@
         "youtube": "uL-_-gH5lSs"
     },
     {
-        "description": "Horntail Boss Battle",
+        "description": "Horntail boss theme",
         "filename": "HonTale",
         "mark": "Hontale",
         "metadata": {
@@ -4762,7 +4762,7 @@
         "youtube": "WnLrTMmnyBc"
     },
     {
-        "description": "The Burning Sands",
+        "description": "Ariant field",
         "filename": "HotDesert",
         "mark": "Ariant",
         "metadata": {
@@ -4867,7 +4867,7 @@
         "youtube": "Dt4hq7RKhsA"
     },
     {
-        "description": "Interior of Nautilus",
+        "description": "Nautilus interior",
         "filename": "inNautilus",
         "mark": "Nautilus",
         "metadata": {
@@ -5632,7 +5632,7 @@
         "youtube": "nAjsQ902it0"
     },
     {
-        "description": "Boswell Field",
+        "description": "Omega Sector: Boswell Field",
         "filename": "LetsHuntAliens",
         "mark": "OmegaSector",
         "metadata": {
@@ -6148,7 +6148,7 @@
         "youtube": ""
     },
     {
-        "description": "Minar Forest",
+        "description": "Leafre: Minar Forest",
         "filename": "Minar'sDream",
         "mark": "Leafre",
         "metadata": {
@@ -6163,7 +6163,7 @@
         "youtube": "07a-UZLcxhM"
     },
     {
-        "description": "Zakum Party Quest",
+        "description": "El Nath: Zakum Quest",
         "filename": "MineQuest",
         "mark": "ElNathDungeon",
         "metadata": {
@@ -6409,7 +6409,7 @@
         "youtube": "ggKgPsrIfnI"
     },
     {
-        "description": "Ellinia Field",
+        "description": "Ellinia field",
         "filename": "MoonlightShadow",
         "mark": "Ellinia",
         "metadata": {
@@ -6424,7 +6424,7 @@
         "youtube": "XYtHWyrVm30"
     },
     {
-        "description": "no apparent use (JapanMS)",
+        "description": "No apparent use (JapanMS)",
         "filename": "MorningShot",
         "mark": "Quest",
         "metadata": {
@@ -6493,7 +6493,7 @@
         "youtube": "UrJrZKgTiYY"
     },
     {
-        "description": "Mu Lung Field (Sky Forest; Peach Farm; Practice Field)",
+        "description": "Mu Lung forest",
         "filename": "MureungForest",
         "mark": "Murueng",
         "metadata": {
@@ -6667,7 +6667,7 @@
         "youtube": "4dOKSVa5_L8"
     },
     {
-        "description": "Nautilus",
+        "description": "Nautilus Harbor",
         "filename": "Nautilus",
         "mark": "Nautilus",
         "metadata": {
@@ -6775,7 +6775,7 @@
         "youtube": ""
     },
     {
-        "description": "Alleys of Night Market",
+        "description": "Taiwan: Night Market field",
         "filename": "NightField",
         "mark": "NightMarket",
         "metadata": {
@@ -6805,7 +6805,7 @@
         "youtube": "9lwOsX763N0"
     },
     {
-        "description": "Night Market",
+        "description": "Taiwan: Night Market",
         "filename": "NightMarket",
         "mark": "NightMarket",
         "metadata": {
@@ -6892,7 +6892,7 @@
         "youtube": "SuNPfne8Oxw"
     },
     {
-        "description": "Krakian Jungle",
+        "description": "New Leaf City: Krakian Jungle",
         "filename": "NLChunt",
         "mark": "NLC",
         "metadata": {
@@ -6928,7 +6928,7 @@
         "youtube": "EXv5madDarI"
     },
     {
-        "description": "Bigger Ben; MesoGears",
+        "description": "New Leaf City: MesoGears",
         "filename": "NLCupbeat",
         "mark": "NLC",
         "metadata": {
@@ -7066,7 +7066,7 @@
         "youtube": "nxtdTBejXRY"
     },
     {
-        "description": "Pachinko background noise",
+        "description": "Pachinko ambient noise",
         "filename": "Pachinko_Interior_Ambience",
         "mark": "jipangu",
         "metadata": {
@@ -7225,7 +7225,7 @@
         "youtube": "JDK9B4IWxdg"
     },
     {
-        "description": "Red Nosed Pirate's Den; Lord Pirate Party Quest",
+        "description": "Herb Town: Red-Nose Pirate Den, Lord Pirate Party Quest",
         "filename": "Pirate",
         "mark": "DevijonParty",
         "metadata": {
@@ -7255,7 +7255,7 @@
         "youtube": "3Wwk2CDkV44"
     },
     {
-        "description": "Orbis PQ Boss Battle",
+        "description": "Orbis Party Quest boss theme",
         "filename": "PlotOfPixie",
         "mark": "GoddessTower",
         "metadata": {
@@ -7393,7 +7393,7 @@
         "youtube": "McPZ2XTRv1g"
     },
     {
-        "description": "ChinaMS PvP Battle Theme",
+        "description": "ChinaMS PvP battle theme",
         "filename": "PvP",
         "mark": "BattlePvP",
         "metadata": {
@@ -7588,7 +7588,7 @@
         "youtube": "3loq0xBsi7o"
     },
     {
-        "description": "Henesys Field",
+        "description": "Henesys field",
         "filename": "RestNPeace",
         "mark": "Henesys",
         "metadata": {
@@ -7783,7 +7783,7 @@
         "youtube": "ui4YM2l2i4o"
     },
     {
-        "description": "Perion Castles (interior)",
+        "description": "Perion Castle Ruins",
         "filename": "RuinCastle",
         "mark": "Perion",
         "metadata": {
@@ -8104,7 +8104,7 @@
         "youtube": "p5yJbSt24DY"
     },
     {
-        "description": "",
+        "description": "China: Shanghai field",
         "filename": "ShanghaiField",
         "mark": "ShangHai",
         "metadata": {
@@ -8119,7 +8119,7 @@
         "youtube": "by7VRYj4HU4"
     },
     {
-        "description": "the original version of the track; is now used in Ximending (YoTaipei)",
+        "description": "The original version of ShanghaiField, now known as YoTaipei",
         "filename": "ShanghaiField (Original)",
         "mark": "ShangHai",
         "metadata": {
@@ -8134,7 +8134,7 @@
         "youtube": "Z1_N3UkmaMM"
     },
     {
-        "description": "Grand Hall of the Great Sage Field",
+        "description": "China: Shaolin Temple - Sutra Depository (old map ver.)",
         "filename": "shaolin_cangjingge",
         "mark": "shaolinsi",
         "metadata": {
@@ -8149,7 +8149,7 @@
         "youtube": "hapVbhzQF88"
     },
     {
-        "description": "Grand Hall of the Great Sage",
+        "description": "China: Shaolin Temple",
         "filename": "shaolin_daxiongbaodian",
         "mark": "shaolin_songshan",
         "metadata": {
@@ -8164,7 +8164,7 @@
         "youtube": "3Ers8eclp4A"
     },
     {
-        "description": "Grand Hall of the Great Sage Boss Battle",
+        "description": "China: Shaolin Temple - Sutra boss theme (old map ver.)",
         "filename": "shaolin_mishi",
         "mark": "shaolinsi",
         "metadata": {
@@ -8179,7 +8179,7 @@
         "youtube": "gLrpmQPp9U8"
     },
     {
-        "description": "Mount Song Field",
+        "description": "China: Mount Song field",
         "filename": "shaolin_shan",
         "mark": "shaolin_songshan",
         "metadata": {
@@ -8194,7 +8194,7 @@
         "youtube": "RE-3HU4wvdU"
     },
     {
-        "description": "Mount Song Town",
+        "description": "China: Mount Song Hamlet",
         "filename": "shaolin_songshan",
         "mark": "shaolin_songshan",
         "metadata": {
@@ -8260,7 +8260,7 @@
         "youtube": "DThWMbPZXy8"
     },
     {
-        "description": "Aqua Road East",
+        "description": "Aqua Road east",
         "filename": "ShiningSea",
         "mark": "AquaRoad",
         "metadata": {
@@ -8829,7 +8829,7 @@
         "youtube": "kiXwuRCn3zo"
     },
     {
-        "description": "Sunset Road",
+        "description": "Ariant / Magatia: Sunset Road",
         "filename": "SunsetDesert",
         "mark": "Magatia",
         "metadata": {
@@ -8934,7 +8934,7 @@
         "youtube": "3yvTD3d9OLQ"
     },
     {
-        "description": "Floating Market Swamp",
+        "description": "Thailand: Floating Market field",
         "filename": "ThaiField",
         "mark": "Thai",
         "metadata": {
@@ -8967,7 +8967,7 @@
         "youtube": "ozpBZVrtEJI"
     },
     {
-        "description": "Floating Market",
+        "description": "Thailand: Floating Market",
         "filename": "ThaiTown",
         "mark": "Thai",
         "metadata": {
@@ -9375,7 +9375,7 @@
         "youtube": "hf7bujCvxrI"
     },
     {
-        "description": "",
+        "description": "3rd job promotional video",
         "filename": "TheThirdFlight",
         "mark": "Quest",
         "metadata": {
@@ -9426,7 +9426,7 @@
         "youtube": "rdDtnDmKQtY"
     },
     {
-        "description": "Forgotten Passage",
+        "description": "Ludibrium Clocktower: Forgotten Passage",
         "filename": "TheWayGrotesque",
         "mark": "Ludibrium",
         "metadata": {
@@ -9441,7 +9441,7 @@
         "youtube": "5Uu68ZwkzrM"
     },
     {
-        "description": "Ludibrium PQ Boss Battle",
+        "description": "Ludibrium Party Quest boss theme",
         "filename": "TheyMenacingYou",
         "mark": "AbandonTower",
         "metadata": {
@@ -9510,7 +9510,7 @@
         "youtube": "VG9eRCsqBjo"
     },
     {
-        "description": "Papulatus Boss Battle; Monster Carnival",
+        "description": "Papulatus boss theme, Monster Carnival",
         "filename": "TimeAttack",
         "mark": "Papulatus",
         "metadata": {
@@ -9561,7 +9561,7 @@
         "youtube": "rJKUHOoWNiA"
     },
     {
-        "description": "Forgotten Path of Time",
+        "description": "Ludibrium: Forgotten Path of Time",
         "filename": "Timeless",
         "mark": "Ludibrium",
         "metadata": {
@@ -9594,7 +9594,7 @@
         "youtube": "auVY17lLXmU"
     },
     {
-        "description": "Forgotten Path of Time",
+        "description": "Ludibrium: Forgotten Path of Time",
         "filename": "TimelessB",
         "mark": "Ludibrium",
         "metadata": {
@@ -9841,7 +9841,7 @@
         "youtube": "MVCmEQSeZak"
     },
     {
-        "description": "",
+        "description": "Orbis Party Quest",
         "filename": "TowerOfGoddess",
         "mark": "GoddessTower",
         "metadata": {
@@ -10127,7 +10127,7 @@
         "youtube": "RplLRguFptU"
     },
     {
-        "description": "Victoria - Ossyria (normal ship)",
+        "description": "Ship to Orbis",
         "filename": "UponTheSky",
         "mark": "Orbis",
         "metadata": {
@@ -10376,7 +10376,7 @@
         "youtube": "eSCmN_ZzvzI"
     },
     {
-        "description": "Toy Factory",
+        "description": "Ludibrium: Toy Factory",
         "filename": "WaltzForWork",
         "mark": "Ludibrium",
         "metadata": {
@@ -10391,7 +10391,7 @@
         "youtube": "CNRFWEhv_Dw"
     },
     {
-        "description": "El Nath Field",
+        "description": "El Nath field",
         "filename": "WarmRegard",
         "mark": "ElNath",
         "metadata": {
@@ -10442,7 +10442,7 @@
         "youtube": ""
     },
     {
-        "description": "Perion Castle Waterways (GPQ)",
+        "description": "Perion Castle Waterways, Sharenian Guild Quest",
         "filename": "WaterWay",
         "mark": "Guild",
         "metadata": {
@@ -10475,7 +10475,7 @@
         "youtube": ""
     },
     {
-        "description": "unused",
+        "description": "Unused",
         "filename": "WCSelect",
         "mark": "Quest",
         "metadata": {
@@ -10527,7 +10527,7 @@
         "youtube": "UHBxoHVKePs"
     },
     {
-        "description": "Zakum's Altar",
+        "description": "El Nath: Zakum's Altar",
         "filename": "WelcomeToTheHell",
         "mark": "Zakum",
         "metadata": {
@@ -10557,7 +10557,7 @@
         "youtube": "gfgBDs8z6WE"
     },
     {
-        "description": "never used",
+        "description": "Unused",
         "filename": "WhereTheBarlogFrom",
         "mark": "Quest",
         "metadata": {
@@ -10572,7 +10572,7 @@
         "youtube": "OC-b2p-D28s"
     },
     {
-        "description": "Clocktower: Path of Time",
+        "description": "Ludibrium Clocktower: Path of Time",
         "filename": "WhereverYouAre",
         "mark": "Ludibrium",
         "metadata": {
@@ -10587,7 +10587,7 @@
         "youtube": "iHbjhiWic0U"
     },
     {
-        "description": "",
+        "description": "Happyville",
         "filename": "WhiteChristmas",
         "mark": "HappyVillage",
         "metadata": {
@@ -10602,13 +10602,13 @@
         "youtube": "IzzDrEuFpnE"
     },
     {
-        "description": "MapleSEA version of Happyville",
+        "description": "Happyville (Alternate Version)",
         "filename": "WhiteChristmasSea",
         "mark": "HappyVillage",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
-            "title": "White Christmas (Sea)",
+            "title": "White Christmas (Alternate Version)",
             "year": "2003"
         },
         "source": {
@@ -10776,7 +10776,7 @@
         "youtube": "odEQ8ImOfeY"
     },
     {
-        "description": "El Nath Wolf Territory",
+        "description": "El Nath: Wolves' Territory",
         "filename": "WolfWood",
         "mark": "ElNath",
         "metadata": {
@@ -10860,7 +10860,7 @@
         "youtube": "7O5EA1KVZSo"
     },
     {
-        "description": "Ximending",
+        "description": "Taiwan: Ximending",
         "filename": "YoTaipei",
         "mark": "SeoMoonJung",
         "metadata": {
@@ -10875,7 +10875,7 @@
         "youtube": "Z1_N3UkmaMM"
     },
     {
-        "description": "Showa Town",
+        "description": "Zipangu: Showa Town",
         "filename": "Yume",
         "mark": "JP_shouwa",
         "metadata": {
@@ -10908,7 +10908,7 @@
         "youtube": "mRXufsvyuUA"
     },
     {
-        "description": "Yuyuan Garden",
+        "description": "China: Yuyuan Garden",
         "filename": "Yuyuan",
         "mark": "YuYuanCN",
         "metadata": {
