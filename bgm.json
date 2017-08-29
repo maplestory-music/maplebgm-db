@@ -210,7 +210,7 @@
         "youtube": "r3bEoktbxtc"
     },
     {
-        "description": "Odaiba theme",
+        "description": "Neo City: Midnight Harbor, Neo Tokyo: Odaiba",
         "filename": "Akiabara",
         "mark": "Tokyo",
         "metadata": {
@@ -1044,7 +1044,7 @@
         "youtube": "_U9ZsV_XAQk"
     },
     {
-        "description": "Bigfoot maps",
+        "description": "Crimsonwood: Bigfoot boss theme",
         "filename": "Bigfoot",
         "mark": "Crimsonwood",
         "metadata": {
@@ -3006,7 +3006,7 @@
         "youtube": "msETCdOYteU"
     },
     {
-        "description": "Cygnus Drill Hall",
+        "description": "Ereve: Cygnus Drill Hall",
         "filename": "DrillHall",
         "mark": "Ereb",
         "metadata": {
@@ -3024,7 +3024,7 @@
         "youtube": "uu55XbbIjRU"
     },
     {
-        "description": "Zone Boss Battle",
+        "description": "Temple of Time: Zone boss theme",
         "filename": "Duskofgod",
         "mark": "TimeTemple",
         "metadata": {
@@ -3111,7 +3111,7 @@
         "youtube": "P_VsVWs4x0w"
     },
     {
-        "description": "Elin Forest",
+        "description": "Ellin Forest",
         "filename": "ElinForest",
         "mark": "EilnForest",
         "metadata": {
@@ -3391,7 +3391,7 @@
         "youtube": "SdcsTuVLJk0"
     },
     {
-        "description": "Pink Bean Boss Battle",
+        "description": "Pink Bean boss theme",
         "filename": "FightingPinkBeen",
         "mark": "PinkBean",
         "metadata": {
@@ -3625,7 +3625,7 @@
         "youtube": "ZpVpjZJyDJA"
     },
     {
-        "description": "Path of Oblivion",
+        "description": "Temple of Time: Path of Oblivion",
         "filename": "Forgetfulness",
         "mark": "TimeTemple",
         "metadata": {
@@ -4696,7 +4696,7 @@
         "youtube": "iqWeh-dkwu4"
     },
     {
-        "description": "Fantasy Theme Park",
+        "description": "Malaysia: Fantasy Theme Park",
         "filename": "Highland",
         "mark": "Kampung",
         "metadata": {
@@ -5131,7 +5131,7 @@
         "youtube": "kpcYbzQi3uk"
     },
     {
-        "description": "Kamuna",
+        "description": "Neo City: Tera Forest, Neo Tokyo: Kamuna",
         "filename": "Kamuna",
         "mark": "TokyoK",
         "metadata": {
@@ -5293,7 +5293,7 @@
         "youtube": "axgX2QRdBII"
     },
     {
-        "description": "Trend Zone Metropolis; Kampung Village",
+        "description": "Malaysia: Trend Zone Metropolis, Kampung Village",
         "filename": "KualaLumpur",
         "mark": "KualaLumpur",
         "metadata": {
@@ -6595,7 +6595,7 @@
         "youtube": "9SKZBsjUdAg"
     },
     {
-        "description": "Mu Lung Dojo Last Tier",
+        "description": "Mu Lung Dojo Final Tier",
         "filename": "MureungSchool4",
         "mark": "MuruengRaid",
         "metadata": {
@@ -7030,7 +7030,7 @@
         "youtube": "IUnEmjvparM"
     },
     {
-        "description": "Akihabara theme; Bergamot Boss Battle",
+        "description": "Neo City: Bombed City Center, Neo Tokyo: Akihabara",
         "filename": "Odaiba",
         "mark": "Tokyo",
         "metadata": {
@@ -7048,7 +7048,7 @@
         "youtube": "KO8911CzgMU"
     },
     {
-        "description": "Resistance HQ in Akihabara",
+        "description": "Neo City: Dangerous Tower, Neo Tokyo: Akihabara Resistance HQ",
         "filename": "Office",
         "mark": "Tokyo",
         "metadata": {
@@ -7153,7 +7153,7 @@
         "youtube": "Koxm5dEtkS8"
     },
     {
-        "description": "2095 Park",
+        "description": "Neo City: Average Town, Neo Tokyo: 2095 Park",
         "filename": "Park",
         "mark": "Tokyo",
         "metadata": {
@@ -7207,7 +7207,7 @@
         "youtube": "6BqN9qhPoGQ"
     },
     {
-        "description": "Phantom Forest",
+        "description": "Crimsonwood: Phantom Forest",
         "filename": "PhantomForest",
         "mark": "Crimsonwood",
         "metadata": {
@@ -7270,7 +7270,7 @@
         "youtube": "znPiUenHhP4"
     },
     {
-        "description": "Forest of Poison Haze Party Quest",
+        "description": "Ellin Forest: Fairy Forest, Forest of Poison Haze Party Quest",
         "filename": "PoisonForest",
         "mark": "PoisonForest",
         "metadata": {
@@ -7288,7 +7288,7 @@
         "youtube": "tc61Xjl4_X8"
     },
     {
-        "description": "",
+        "description": "Alternate version of PoisonForest",
         "filename": "PoisonForest (Alternate)",
         "mark": "PoisonForest",
         "metadata": {
@@ -7552,7 +7552,7 @@
         "youtube": "xDV6ShE-YUU"
     },
     {
-        "description": "Path of Memory",
+        "description": "Temple of Time: Path of Memory",
         "filename": "Remembrance",
         "mark": "TimeTemple",
         "metadata": {
@@ -7570,7 +7570,7 @@
         "youtube": "TpKE4mKFSZY"
     },
     {
-        "description": "Path of Regret",
+        "description": "Temple of Time: Path of Regret",
         "filename": "Repentance",
         "mark": "TimeTemple",
         "metadata": {
@@ -8769,7 +8769,7 @@
         "youtube": "J1YTQvtmsjg"
     },
     {
-        "description": "ChinaMS Summer Boating Event",
+        "description": "ChinaMS Summer Boating event",
         "filename": "summerboating01",
         "mark": "Event",
         "metadata": {
@@ -8784,7 +8784,7 @@
         "youtube": "1h8ZJhL7GqQ"
     },
     {
-        "description": "",
+        "description": "Alternate version of summerboating01",
         "filename": "summerboating01 (Alternate)",
         "mark": "Event",
         "metadata": {
@@ -8799,7 +8799,7 @@
         "youtube": "13nSE_8rXP4"
     },
     {
-        "description": "ChinaMS Summer Boating Event",
+        "description": "ChinaMS Summer Boating event",
         "filename": "summerboating02",
         "mark": "Event",
         "metadata": {
@@ -8814,7 +8814,7 @@
         "youtube": "IPokl8jGHcg"
     },
     {
-        "description": "ChinaMS Summer Boating Event",
+        "description": "ChinaMS Summer Boating event",
         "filename": "summerboating03",
         "mark": "Event",
         "metadata": {
@@ -9823,7 +9823,7 @@
         "youtube": "elCoN7PAKBA"
     },
     {
-        "description": "2102 Tokyo Sky",
+        "description": "Neo City: Air Battleship Hermes, Neo Tokyo: 2102 Tokyo Sky",
         "filename": "Tokyosky",
         "mark": "Tokyo",
         "metadata": {
@@ -10000,7 +10000,7 @@
         "youtube": "cOxp5RHqmjk"
     },
     {
-        "description": "Ulu City",
+        "description": "Singapore: Ulu City",
         "filename": "Ulu_field",
         "mark": "Singapore",
         "metadata": {
