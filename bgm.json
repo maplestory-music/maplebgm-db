@@ -2734,6 +2734,24 @@
     },
     {
         "description": "",
+        "filename": "DiceMaster",
+        "mark": "PL_DiceMaster",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Dice Master",
+            "year": "2017"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2017-08-30",
+            "structure": "BgmPL",
+            "version": "1.88"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
         "filename": "DimensionLibrary",
         "mark": "Library",
         "metadata": {
