@@ -1129,6 +1129,24 @@
     },
     {
         "description": "",
+        "filename": "BlackDungeon",
+        "mark": "Morass",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Black Dragon",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2017-08-31",
+            "structure": "Bgm48",
+            "version": "1.2.284"
+        },
+        "youtube": "mEY8_SP-5LU"
+    },
+    {
+        "description": "",
         "filename": "Blackgate",
         "mark": "BlackgateCity",
         "metadata": {
