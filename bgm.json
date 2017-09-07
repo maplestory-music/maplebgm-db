@@ -3352,7 +3352,7 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Fantastic Theme Park 2017",
+            "title": "Fantastic Theme Park",
             "year": "2017"
         },
         "source": {
@@ -3361,7 +3361,7 @@
             "structure": "BgmFT",
             "version": "1.2.047"
         },
-        "youtube": ""
+        "youtube": "qdL4zkXajPU"
     },
     {
         "description": "Ludibrium",
@@ -3835,7 +3835,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Galaxy is Dangerous",
+            "title": "Dynamic Universe",
+            "subtitle": "Galaxy is Dangerous",
             "year": "2017"
         },
         "source": {
@@ -3844,7 +3845,7 @@
             "structure": "BgmEvent",
             "version": "1.2.276"
         },
-        "youtube": ""
+        "youtube": "phyPERSwSKg"
     },
     {
         "description": "Verne Mine: Gelimer Research Lab",
@@ -5758,7 +5759,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Little Maple Planet",
+            "title": "Frozen Link -piano-",
+            "subtitle": "Little Maple Planet",
             "year": "2017"
         },
         "source": {
@@ -5767,7 +5769,7 @@
             "structure": "BgmEvent",
             "version": "1.2.050"
         },
-        "youtube": ""
+        "youtube": "mc9qDVpsybE"
     },
     {
         "description": "",
@@ -5938,7 +5940,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Maple Galaxy",
+            "title": "Cosmic Main",
+            "subtitle": "Maple Galaxy",
             "year": "2017"
         },
         "source": {
@@ -5947,7 +5950,7 @@
             "structure": "BgmEvent",
             "version": "1.2.276"
         },
-        "youtube": ""
+        "youtube": "4vxWNgyegPw"
     },
     {
         "description": "",
@@ -5956,7 +5959,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Maple Galaxy 2",
+            "title": "Frozen Link",
+            "subtitle": "Maple Galaxy 2",
             "year": "2017"
         },
         "source": {
@@ -5965,7 +5969,7 @@
             "structure": "BgmEvent",
             "version": "1.2.276"
         },
-        "youtube": ""
+        "youtube": "d9L1LSCUrk8"
     },
     {
         "description": "TMS High School event area",
