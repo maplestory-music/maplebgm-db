@@ -228,7 +228,7 @@
         "youtube": "47hrhA3OqkU"
     },
     {
-        "description": "Akyrum's Altar",
+        "description": "Dimensional Schism: Arkarium's Altar",
         "filename": "AltarOfAkayrum",
         "mark": "Akairum",
         "metadata": {
@@ -726,7 +726,7 @@
         "youtube": "yRrCGa54Vbo"
     },
     {
-        "description": "PvP Background Music Type A",
+        "description": "PvP: Background Music Type A",
         "filename": "battleBGMTypeA",
         "mark": "BattleSquare",
         "metadata": {
@@ -744,7 +744,7 @@
         "youtube": "wRxKsZpqW2c"
     },
     {
-        "description": "PvP Background Music Type B",
+        "description": "PvP: Background Music Type B",
         "filename": "battleBGMTypeB",
         "mark": "BattleSquare",
         "metadata": {
@@ -762,7 +762,7 @@
         "youtube": "oQXddgI_o2s"
     },
     {
-        "description": "PvP Background Music Type C",
+        "description": "PvP: Background Music Type C",
         "filename": "battleBGMTypeC",
         "mark": "BattleSquare",
         "metadata": {
@@ -780,7 +780,7 @@
         "youtube": "LUxUY27-3r4"
     },
     {
-        "description": "PvP Background Music Type D",
+        "description": "PvP: Background Music Type D",
         "filename": "battleBGMTypeD",
         "mark": "BattleSquare",
         "metadata": {
@@ -798,7 +798,7 @@
         "youtube": "Fjtl9PXDxeE"
     },
     {
-        "description": "Battle Square Entrance (ChinaMS version)",
+        "description": "PvP: Battle Square (ChinaMS version)",
         "filename": "battleChipi",
         "mark": "BattleSquare",
         "metadata": {
@@ -816,7 +816,7 @@
         "youtube": "VV01F6REcnw"
     },
     {
-        "description": "Battle Square",
+        "description": "PvP: Battle Square",
         "filename": "battleEntrance",
         "mark": "BattleSquare",
         "metadata": {
@@ -1218,7 +1218,7 @@
         "youtube": "8F100vDwPJg"
     },
     {
-        "description": "renamed to 'Injustice' ; no longer present in data",
+        "description": "Also known as Injustice",
         "filename": "BlueEreb",
         "mark": "Ereb",
         "metadata": {
@@ -2130,7 +2130,7 @@
         "youtube": "h0_8MftVy90"
     },
     {
-        "description": "Dimensional Schism",
+        "description": "Temple of Time: Dimensional Schism",
         "filename": "CrackOfDimension",
         "mark": "Akayrum",
         "metadata": {
@@ -2292,7 +2292,7 @@
         "youtube": "vX0bkXNtX0g"
     },
     {
-        "description": "Flight map of Crystal Garden",
+        "description": "Lumiere: Training Deck",
         "filename": "DancingWitnTheMoon",
         "mark": "CristalGarden",
         "metadata": {
@@ -2484,7 +2484,7 @@
         "youtube": "fajX5WR07mw"
     },
     {
-        "description": "Temple of Time (Demon Slayer)",
+        "description": "Leafre of Past, Demon Slayer tutorial",
         "filename": "DecisiveBattle",
         "mark": "TimeTemple",
         "metadata": {
@@ -2502,7 +2502,7 @@
         "youtube": "EcjYXo4qxs0"
     },
     {
-        "description": "Chow boss battle",
+        "description": "Chao boss theme",
         "filename": "DeepCave",
         "mark": "EilnForest",
         "metadata": {
@@ -2625,7 +2625,7 @@
         "youtube": "RaXC3bWEYFc"
     },
     {
-        "description": "Demon Slayer cutscene (Burning House)",
+        "description": "Demon Slayer tutorial",
         "filename": "DespairOnDevil",
         "mark": "Leafre",
         "metadata": {
@@ -2802,7 +2802,7 @@
         "youtube": "znZUun0KOQU"
     },
     {
-        "description": "Tourist event",
+        "description": "Dolphin Island: Night",
         "filename": "dolphin_night",
         "mark": "Event",
         "metadata": {
@@ -2820,7 +2820,7 @@
         "youtube": "eQ41JswJdng"
     },
     {
-        "description": "Tourist event",
+        "description": "Dolphin Island: Day",
         "filename": "dolphin_noon",
         "mark": "Event",
         "metadata": {
@@ -3093,7 +3093,7 @@
         "youtube": "uBUfQcIhim0"
     },
     {
-        "description": "Elin Caves",
+        "description": "Ellin Forest: Rocky Mountain Cave",
         "filename": "ElinCave",
         "mark": "EilnForest",
         "metadata": {
@@ -3538,7 +3538,7 @@
         "youtube": "S4PuTY_-Fok"
     },
     {
-        "description": "Past Eurel",
+        "description": "Elluel: Frozen Fairy Forest",
         "filename": "FlowerInBlue",
         "mark": "SilentEurel",
         "metadata": {
@@ -3607,7 +3607,7 @@
         "youtube": "UywGQsCoj8c"
     },
     {
-        "description": "Crystal Garden",
+        "description": "Lumiere",
         "filename": "FlytotheMoon",
         "mark": "CristalGarden",
         "metadata": {
@@ -4849,7 +4849,7 @@
         "youtube": "vViTIGuujaY"
     },
     {
-        "description": "",
+        "description": "Ereve Grand Pavilion, Phantom tutorial",
         "filename": "Injustice",
         "mark": "Ereb",
         "metadata": {
@@ -7444,7 +7444,7 @@
         "youtube": "3r9s43TG9yA"
     },
     {
-        "description": "Epineah boss battle",
+        "description": "Ephenia boss theme",
         "filename": "QueensHideout",
         "mark": "EilnForest",
         "metadata": {
@@ -7675,7 +7675,7 @@
         "youtube": "YDfIfL_Fxec"
     },
     {
-        "description": "a shorter version of Title_8th; no longer used",
+        "description": "Smile Luv U (TV size) -instrumental-",
         "filename": "risingStar",
         "mark": "12th",
         "metadata": {
@@ -7693,7 +7693,7 @@
         "youtube": "oC59ar2ONwI"
     },
     {
-        "description": "an alternate version of risingStar, with lyrics",
+        "description": "Smile Luv U (TV size)",
         "filename": "risingStar2",
         "mark": "12th",
         "metadata": {
@@ -8483,7 +8483,7 @@
         "youtube": "R9e7FAmUGEI"
     },
     {
-        "description": "Mercedes Job Advancement map",
+        "description": "Elluel: Mercedes quest",
         "filename": "SoundOfElf",
         "mark": "Eurel",
         "metadata": {
@@ -10704,7 +10704,7 @@
         "youtube": "f9gy70JX_8c"
     },
     {
-        "description": "Present Eurel",
+        "description": "Elluel",
         "filename": "WindAndFlower",
         "mark": "Eurel",
         "metadata": {
