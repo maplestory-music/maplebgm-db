@@ -144,7 +144,7 @@
         "youtube": "F6LIFBVhObQ"
     },
     {
-        "description": "",
+        "description": "Root Abyss: Vellum boss theme",
         "filename": "AbyssCave",
         "mark": "Bellum",
         "metadata": {
@@ -210,7 +210,7 @@
         "youtube": "r3bEoktbxtc"
     },
     {
-        "description": "Odaiba theme",
+        "description": "Neo City: Midnight Harbor, Neo Tokyo: Odaiba",
         "filename": "Akiabara",
         "mark": "Tokyo",
         "metadata": {
@@ -228,7 +228,7 @@
         "youtube": "47hrhA3OqkU"
     },
     {
-        "description": "Akyrum's Altar",
+        "description": "Dimensional Schism: Arkarium's Altar",
         "filename": "AltarOfAkayrum",
         "mark": "Akairum",
         "metadata": {
@@ -315,7 +315,7 @@
         "youtube": "w9HagZ099c0"
     },
     {
-        "description": "",
+        "description": "Pantheon: Angelic Buster's Room",
         "filename": "AngelsRoom",
         "mark": "Pantheon",
         "metadata": {
@@ -675,7 +675,7 @@
         "youtube": "uv8QObpL2EY"
     },
     {
-        "description": "Aran Bamboo Gym",
+        "description": "Rien: Aran Bamboo Gym",
         "filename": "BambooGym",
         "mark": "Rien",
         "metadata": {
@@ -693,7 +693,7 @@
         "youtube": "9HiJnsISD3s"
     },
     {
-        "description": "",
+        "description": "Pantheon: Suspicious Hideout, Heretic Temple",
         "filename": "BaseOfBetrayers",
         "mark": "Pantheon",
         "metadata": {
@@ -726,7 +726,7 @@
         "youtube": "yRrCGa54Vbo"
     },
     {
-        "description": "PvP Background Music Type A",
+        "description": "PvP: Background Music Type A",
         "filename": "battleBGMTypeA",
         "mark": "BattleSquare",
         "metadata": {
@@ -744,7 +744,7 @@
         "youtube": "wRxKsZpqW2c"
     },
     {
-        "description": "PvP Background Music Type B",
+        "description": "PvP: Background Music Type B",
         "filename": "battleBGMTypeB",
         "mark": "BattleSquare",
         "metadata": {
@@ -762,7 +762,7 @@
         "youtube": "oQXddgI_o2s"
     },
     {
-        "description": "PvP Background Music Type C",
+        "description": "PvP: Background Music Type C",
         "filename": "battleBGMTypeC",
         "mark": "BattleSquare",
         "metadata": {
@@ -780,7 +780,7 @@
         "youtube": "LUxUY27-3r4"
     },
     {
-        "description": "PvP Background Music Type D",
+        "description": "PvP: Background Music Type D",
         "filename": "battleBGMTypeD",
         "mark": "BattleSquare",
         "metadata": {
@@ -798,7 +798,7 @@
         "youtube": "Fjtl9PXDxeE"
     },
     {
-        "description": "Battle Square Entrance (ChinaMS version)",
+        "description": "PvP: Battle Square (ChinaMS version)",
         "filename": "battleChipi",
         "mark": "BattleSquare",
         "metadata": {
@@ -816,7 +816,7 @@
         "youtube": "VV01F6REcnw"
     },
     {
-        "description": "Battle Square",
+        "description": "PvP: Battle Square",
         "filename": "battleEntrance",
         "mark": "BattleSquare",
         "metadata": {
@@ -1044,7 +1044,7 @@
         "youtube": "_U9ZsV_XAQk"
     },
     {
-        "description": "Bigfoot maps",
+        "description": "Crimsonwood: Bigfoot boss theme",
         "filename": "Bigfoot",
         "mark": "Crimsonwood",
         "metadata": {
@@ -1218,7 +1218,7 @@
         "youtube": "D567gGNSf8I"
     },
     {
-        "description": "Lion King's Castle",
+        "description": "El Nath: Lion King's Castle",
         "filename": "BlizzardCastle",
         "mark": "LionCastle",
         "metadata": {
@@ -1236,7 +1236,7 @@
         "youtube": "8F100vDwPJg"
     },
     {
-        "description": "renamed to 'Injustice' ; no longer present in data",
+        "description": "Also known as Injustice",
         "filename": "BlueEreb",
         "mark": "Ereb",
         "metadata": {
@@ -1320,7 +1320,7 @@
         "youtube": "GSDD0c_7FV0"
     },
     {
-        "description": "",
+        "description": "Pantheon border area",
         "filename": "BorderArea",
         "mark": "Pantheon",
         "metadata": {
@@ -1389,7 +1389,7 @@
         "youtube": "dPK41O2-odk"
     },
     {
-        "description": "",
+        "description": "Luminous tutorial",
         "filename": "BurningWoods",
         "mark": "Ellinia",
         "metadata": {
@@ -1743,7 +1743,7 @@
         "youtube": "ATYgxfxPTgI"
     },
     {
-        "description": "Dragon Warrior Tutorial",
+        "description": "Zen tutorial",
         "filename": "ChivalrousFighter",
         "mark": "YuYuanCN",
         "metadata": {
@@ -1761,7 +1761,7 @@
         "youtube": "jRAx12W7QI8"
     },
     {
-        "description": "",
+        "description": "Heliseum: Tyrant's Castle",
         "filename": "citadelofTyrant",
         "mark": "citadel",
         "metadata": {
@@ -2130,7 +2130,7 @@
         "youtube": "2G_KCtvWTRk"
     },
     {
-        "description": "Courtyard",
+        "description": "Crimsonwood Keep: Courtyard",
         "filename": "Courtyard",
         "mark": "Crimsonwood",
         "metadata": {
@@ -2148,7 +2148,7 @@
         "youtube": "h0_8MftVy90"
     },
     {
-        "description": "Dimensional Schism",
+        "description": "Temple of Time: Dimensional Schism",
         "filename": "CrackOfDimension",
         "mark": "Akayrum",
         "metadata": {
@@ -2166,7 +2166,7 @@
         "youtube": "8hCou9H8XbY"
     },
     {
-        "description": "Top of the Castle",
+        "description": "El Nath: Lion King's Castle - Rose Garden",
         "filename": "CrimsonTower",
         "mark": "LionCastle",
         "metadata": {
@@ -2202,7 +2202,7 @@
         "youtube": "CZoYt7HHSik"
     },
     {
-        "description": "Interior of the Keep",
+        "description": "Crimsonwood Keep",
         "filename": "CrimsonwoodKeepInterior",
         "mark": "Crimsonwood",
         "metadata": {
@@ -2238,7 +2238,7 @@
         "youtube": "5wZYN1yy8l0"
     },
     {
-        "description": "Crystal Cave",
+        "description": "Rien: Mirror Cave",
         "filename": "CrystalCave",
         "mark": "SnowDragon",
         "metadata": {
@@ -2256,7 +2256,7 @@
         "youtube": "Wr21LZPVPrw"
     },
     {
-        "description": "Cygnus Boss Battle",
+        "description": "Cygnus boss theme",
         "filename": "CygnusGarden",
         "mark": "Signus",
         "metadata": {
@@ -2310,7 +2310,7 @@
         "youtube": "vX0bkXNtX0g"
     },
     {
-        "description": "Flight map of Crystal Garden",
+        "description": "Lumiere: Training Deck",
         "filename": "DancingWitnTheMoon",
         "mark": "CristalGarden",
         "metadata": {
@@ -2328,7 +2328,7 @@
         "youtube": "E7wxS2y6h6M"
     },
     {
-        "description": "",
+        "description": "Luminous tutorial, Black Mage encounter",
         "filename": "DarkMage",
         "mark": "TimeTemple",
         "metadata": {
@@ -2394,7 +2394,7 @@
         "youtube": "wWB1hTbtoNQ"
     },
     {
-        "description": "",
+        "description": "Luminous quest",
         "filename": "DarkWoods",
         "mark": "Ellinia",
         "metadata": {
@@ -2502,7 +2502,7 @@
         "youtube": "fajX5WR07mw"
     },
     {
-        "description": "Temple of Time (Demon Slayer)",
+        "description": "Leafre of Past, Demon Slayer tutorial",
         "filename": "DecisiveBattle",
         "mark": "TimeTemple",
         "metadata": {
@@ -2520,7 +2520,7 @@
         "youtube": "EcjYXo4qxs0"
     },
     {
-        "description": "Chow boss battle",
+        "description": "Chao boss theme",
         "filename": "DeepCave",
         "mark": "EilnForest",
         "metadata": {
@@ -2643,7 +2643,7 @@
         "youtube": "RaXC3bWEYFc"
     },
     {
-        "description": "Demon Slayer cutscene (Burning House)",
+        "description": "Demon Slayer tutorial",
         "filename": "DespairOnDevil",
         "mark": "Leafre",
         "metadata": {
@@ -2733,7 +2733,7 @@
         "youtube": "gnVoHyAt5ko"
     },
     {
-        "description": "Henesys Ruins; Ravaged Forest; Singing Mushroom Forest Ruins",
+        "description": "Henesys Ruins",
         "filename": "destructionTown",
         "mark": "destructionTown",
         "metadata": {
@@ -2838,7 +2838,7 @@
         "youtube": "znZUun0KOQU"
     },
     {
-        "description": "Tourist event",
+        "description": "Dolphin Island: Night",
         "filename": "dolphin_night",
         "mark": "Event",
         "metadata": {
@@ -2856,7 +2856,7 @@
         "youtube": "eQ41JswJdng"
     },
     {
-        "description": "Tourist event",
+        "description": "Dolphin Island: Day",
         "filename": "dolphin_noon",
         "mark": "Event",
         "metadata": {
@@ -3042,7 +3042,7 @@
         "youtube": "msETCdOYteU"
     },
     {
-        "description": "Cygnus Drill Hall",
+        "description": "Ereve: Cygnus Drill Hall",
         "filename": "DrillHall",
         "mark": "Ereb",
         "metadata": {
@@ -3060,7 +3060,7 @@
         "youtube": "uu55XbbIjRU"
     },
     {
-        "description": "Zone Boss Battle",
+        "description": "Temple of Time: Zone boss theme",
         "filename": "Duskofgod",
         "mark": "TimeTemple",
         "metadata": {
@@ -3129,7 +3129,7 @@
         "youtube": "uBUfQcIhim0"
     },
     {
-        "description": "Elin Caves",
+        "description": "Ellin Forest: Rocky Mountain Cave",
         "filename": "ElinCave",
         "mark": "EilnForest",
         "metadata": {
@@ -3147,7 +3147,7 @@
         "youtube": "P_VsVWs4x0w"
     },
     {
-        "description": "Elin Forest",
+        "description": "Ellin Forest",
         "filename": "ElinForest",
         "mark": "EilnForest",
         "metadata": {
@@ -3283,7 +3283,7 @@
         "youtube": "N49FmJJnfy0"
     },
     {
-        "description": "",
+        "description": "Evolution System",
         "filename": "EvolvingWorld",
         "mark": "EvolvingSystem",
         "metadata": {
@@ -3397,7 +3397,7 @@
         "youtube": "vt7XtPsFXpc"
     },
     {
-        "description": "no apparent use (BrazilMS)",
+        "description": "No apparent use (BrazilMS)",
         "filename": "FeelGood",
         "mark": "Quest",
         "metadata": {
@@ -3427,7 +3427,7 @@
         "youtube": "SdcsTuVLJk0"
     },
     {
-        "description": "Pink Bean Boss Battle",
+        "description": "Pink Bean boss theme",
         "filename": "FightingPinkBeen",
         "mark": "PinkBean",
         "metadata": {
@@ -3475,7 +3475,7 @@
         "youtube": "R5dUCq4vnvk"
     },
     {
-        "description": "",
+        "description": "Luminous tutorial, Black Mage's Temple",
         "filename": "FinalFight (Tempest)",
         "mark": "TimeTemple",
         "metadata": {
@@ -3523,7 +3523,7 @@
         "youtube": "ePUZA7yRJVM"
     },
     {
-        "description": "",
+        "description": "Luminous tutorial",
         "filename": "Flood",
         "mark": "Ellinia",
         "metadata": {
@@ -3574,7 +3574,7 @@
         "youtube": "S4PuTY_-Fok"
     },
     {
-        "description": "Past Eurel",
+        "description": "Elluel: Frozen Fairy Forest",
         "filename": "FlowerInBlue",
         "mark": "SilentEurel",
         "metadata": {
@@ -3643,7 +3643,7 @@
         "youtube": "UywGQsCoj8c"
     },
     {
-        "description": "Crystal Garden",
+        "description": "Lumiere",
         "filename": "FlytotheMoon",
         "mark": "CristalGarden",
         "metadata": {
@@ -3661,7 +3661,7 @@
         "youtube": "ZpVpjZJyDJA"
     },
     {
-        "description": "Path of Oblivion",
+        "description": "Temple of Time: Path of Oblivion",
         "filename": "Forgetfulness",
         "mark": "TimeTemple",
         "metadata": {
@@ -3730,7 +3730,7 @@
         "youtube": "lorm88ckSuM"
     },
     {
-        "description": "",
+        "description": "Xenon tutorial",
         "filename": "fromUnderToUpper",
         "mark": "Leben",
         "metadata": {
@@ -3748,7 +3748,7 @@
         "youtube": "6qjUzKeTpOo"
     },
     {
-        "description": "",
+        "description": "Heliseum Black Market",
         "filename": "funkyBlackmarket",
         "mark": "helisium",
         "metadata": {
@@ -4046,7 +4046,7 @@
         "youtube": "A779SL-WbfM"
     },
     {
-        "description": "",
+        "description": "Gold Beach",
         "filename": "GoldBeach",
         "mark": "Goldrich",
         "metadata": {
@@ -4154,7 +4154,7 @@
         "youtube": "uZ3egkrlMZY"
     },
     {
-        "description": "Grandmaster Boss Battle",
+        "description": "Crimsonwood Party Quest: Grandmaster boss theme",
         "filename": "GrandmastersGauntlet",
         "mark": "Crimsonwood",
         "metadata": {
@@ -4226,7 +4226,7 @@
         "youtube": "zhZ5IpkghWw"
     },
     {
-        "description": "",
+        "description": "Pantheon: Great Temple",
         "filename": "GreatTemple",
         "mark": "Pantheon",
         "metadata": {
@@ -4244,7 +4244,7 @@
         "youtube": "CZTQdmJAEQI"
     },
     {
-        "description": "",
+        "description": "Halloween event",
         "filename": "halloweenMainHall",
         "mark": "HuntedMansion",
         "metadata": {
@@ -4262,7 +4262,7 @@
         "youtube": "l77eZ-QcJm4"
     },
     {
-        "description": "",
+        "description": "Halloween event",
         "filename": "halloweenParty",
         "mark": "HuntedMansion",
         "metadata": {
@@ -4280,7 +4280,7 @@
         "youtube": "mal0QfNLWOA"
     },
     {
-        "description": "",
+        "description": "Halloween event",
         "filename": "halloweenracing",
         "mark": "HuntedMansion",
         "metadata": {
@@ -4436,7 +4436,7 @@
         "youtube": "vOCecaxisgE"
     },
     {
-        "description": "no apparent use (BrazilMS)",
+        "description": "No apparent use (BrazilMS)",
         "filename": "HeatUP",
         "mark": "Quest",
         "metadata": {
@@ -4505,7 +4505,7 @@
         "youtube": "wQxSIH9n2vI"
     },
     {
-        "description": "",
+        "description": "Heliseum Downtown",
         "filename": "HelisiumField",
         "mark": "helisium",
         "metadata": {
@@ -4523,7 +4523,7 @@
         "youtube": "jlP7oASTb7w"
     },
     {
-        "description": "",
+        "description": "Heliseum Forest",
         "filename": "helisiumMysticforest",
         "mark": "helisium",
         "metadata": {
@@ -4541,7 +4541,7 @@
         "youtube": "01M2hR6BMHY"
     },
     {
-        "description": "",
+        "description": "Heliseum: Tyrant's Castle",
         "filename": "helisiumWarcry",
         "mark": "helisium",
         "metadata": {
@@ -4733,7 +4733,7 @@
         "youtube": "iqWeh-dkwu4"
     },
     {
-        "description": "Fantasy Theme Park",
+        "description": "Malaysia: Fantasy Theme Park",
         "filename": "Highland",
         "mark": "Kampung",
         "metadata": {
@@ -4868,7 +4868,7 @@
         "youtube": "3D2hglui148"
     },
     {
-        "description": "",
+        "description": "Aqua Road: Veritas",
         "filename": "inAllVerity",
         "mark": "AquaRoad",
         "metadata": {
@@ -4886,7 +4886,7 @@
         "youtube": "vViTIGuujaY"
     },
     {
-        "description": "",
+        "description": "Ereve Grand Pavilion, Phantom tutorial",
         "filename": "Injustice",
         "mark": "Ereb",
         "metadata": {
@@ -4940,7 +4940,7 @@
         "youtube": "D-suBwdKHB8"
     },
     {
-        "description": "",
+        "description": "Zipangu: Honnou-ji, Ranmaru boss theme",
         "filename": "InsideHonnouji",
         "mark": "Honnouji",
         "metadata": {
@@ -4976,7 +4976,7 @@
         "youtube": "K7eMwQl7vV8"
     },
     {
-        "description": "",
+        "description": "Azwan field",
         "filename": "InWartime",
         "mark": "Aswan",
         "metadata": {
@@ -5066,7 +5066,7 @@
         "youtube": "tKQaAZETKOE"
     },
     {
-        "description": "",
+        "description": "Unused track from the Sengoku update",
         "filename": "JMSPromo2",
         "mark": "Quest",
         "metadata": {
@@ -5099,7 +5099,7 @@
         "youtube": "RrUuiOV7DmY"
     },
     {
-        "description": "",
+        "description": "Root Abyss: Pierre boss theme",
         "filename": "JoyfulTeaParty",
         "mark": "Piere",
         "metadata": {
@@ -5168,7 +5168,7 @@
         "youtube": "kpcYbzQi3uk"
     },
     {
-        "description": "Kamuna",
+        "description": "Neo City: Tera Forest, Neo Tokyo: Kamuna",
         "filename": "Kamuna",
         "mark": "TokyoK",
         "metadata": {
@@ -5186,7 +5186,7 @@
         "youtube": "BB1l4zunOVU"
     },
     {
-        "description": "Japanese Wedding",
+        "description": "Japanese wedding ceremony",
         "filename": "Kecon",
         "mark": "jipangu",
         "metadata": {
@@ -5294,7 +5294,7 @@
         "youtube": "3neiOSwgp7A"
     },
     {
-        "description": "Xerxes Boss Battle",
+        "description": "Xerxes boss theme",
         "filename": "KreaseColosseum",
         "mark": "Krease",
         "metadata": {
@@ -5312,7 +5312,7 @@
         "youtube": "FT1qwL_p6aA"
     },
     {
-        "description": "Chryse Field",
+        "description": "Chryse field",
         "filename": "KreaseField",
         "mark": "Krease",
         "metadata": {
@@ -5330,7 +5330,7 @@
         "youtube": "axgX2QRdBII"
     },
     {
-        "description": "Trend Zone Metropolis; Kampung Village",
+        "description": "Malaysia: Trend Zone Metropolis, Kampung Village",
         "filename": "KualaLumpur",
         "mark": "KualaLumpur",
         "metadata": {
@@ -5735,7 +5735,7 @@
         "youtube": "_XoSyxYJ0LI"
     },
     {
-        "description": "Lionheart Boss Battle",
+        "description": "Von Leon boss theme",
         "filename": "LionHeart",
         "mark": "VanLeon",
         "metadata": {
@@ -5826,7 +5826,7 @@
         "youtube": "0YyPld_3pBY"
     },
     {
-        "description": "",
+        "description": "Edelstein: Dry Road",
         "filename": "LowGradeOre",
         "mark": "Leben",
         "metadata": {
@@ -5844,7 +5844,7 @@
         "youtube": "tTKXb4Y5uBI"
     },
     {
-        "description": "original version of LowGradeOre; no longer used",
+        "description": "Original version of LowGradeOre",
         "filename": "LowGradeOre (Original)",
         "mark": "Leben",
         "metadata": {
@@ -5972,7 +5972,7 @@
         "youtube": "d9L1LSCUrk8"
     },
     {
-        "description": "TMS High School event area",
+        "description": "Maple Leaf High, Sengoku High",
         "filename": "MapleHighSchool",
         "mark": "SeoMoonJung",
         "metadata": {
@@ -6359,7 +6359,7 @@
         "youtube": "9sZ8FsuXNjw"
     },
     {
-        "description": "",
+        "description": "Zipangu: Momijigaoka",
         "filename": "Momijigaoka",
         "mark": "JP_Momijigaoka",
         "metadata": {
@@ -6377,7 +6377,7 @@
         "youtube": "ydtzNwT0Tys"
     },
     {
-        "description": "",
+        "description": "Zipangu: Momiji Hills",
         "filename": "MomijiNoSakamichi",
         "mark": "Ogassenn",
         "metadata": {
@@ -6479,7 +6479,7 @@
         "youtube": "He-cxSXHS8A"
     },
     {
-        "description": "",
+        "description": "Monster Park bonus stage",
         "filename": "MPBonusMap",
         "mark": "Carnival",
         "metadata": {
@@ -6635,7 +6635,7 @@
         "youtube": "9SKZBsjUdAg"
     },
     {
-        "description": "Mu Lung Dojo Last Tier",
+        "description": "Mu Lung Dojo Final Tier",
         "filename": "MureungSchool4",
         "mark": "MuruengRaid",
         "metadata": {
@@ -6689,7 +6689,7 @@
         "youtube": "qyHoIl5-upc"
     },
     {
-        "description": "Edelstein Training Field",
+        "description": "Edelstein: Concrete Road",
         "filename": "NationalPark",
         "mark": "Edelstein",
         "metadata": {
@@ -6725,7 +6725,7 @@
         "youtube": "iZaVKkfuD6s"
     },
     {
-        "description": "Nett's Pyramid",
+        "description": "Monster Cleanup: Nett's Pyramid",
         "filename": "NetsPiramid",
         "mark": "Pyramid",
         "metadata": {
@@ -6860,7 +6860,7 @@
         "youtube": "-sf4tEqd7co"
     },
     {
-        "description": "NLC Alien Base Boss",
+        "description": "2022 New Leaf City: Galacto-Drill boss theme",
         "filename": "NLC_boss",
         "mark": "NLC",
         "metadata": {
@@ -6878,7 +6878,7 @@
         "youtube": "X6GR21aZ7WM"
     },
     {
-        "description": "Krakian Jungle (alien invasion)",
+        "description": "2022 New Leaf City: Krakian Jungle",
         "filename": "NLC_field",
         "mark": "NLC",
         "metadata": {
@@ -6896,7 +6896,7 @@
         "youtube": "yYfxATnVF1Q"
     },
     {
-        "description": "NLC Alien Base",
+        "description": "2022 New Leaf City: Alien Base",
         "filename": "NLC_kidnap",
         "mark": "NLC",
         "metadata": {
@@ -6914,7 +6914,7 @@
         "youtube": "Ye-iYhVZpcI"
     },
     {
-        "description": "New Leaf City (alien invasion)",
+        "description": "2022 New Leaf City",
         "filename": "NLC_town",
         "mark": "NLC",
         "metadata": {
@@ -7004,7 +7004,7 @@
         "youtube": "GWmkLaruTag"
     },
     {
-        "description": "",
+        "description": "Pantheon Sanctum",
         "filename": "NovaSanctum",
         "mark": "Pantheon",
         "metadata": {
@@ -7070,7 +7070,7 @@
         "youtube": "IUnEmjvparM"
     },
     {
-        "description": "Akihabara theme; Bergamot Boss Battle",
+        "description": "Neo City: Bombed City Center, Neo Tokyo: Akihabara",
         "filename": "Odaiba",
         "mark": "Tokyo",
         "metadata": {
@@ -7088,7 +7088,7 @@
         "youtube": "KO8911CzgMU"
     },
     {
-        "description": "Resistance HQ in Akihabara",
+        "description": "Neo City: Dangerous Tower, Neo Tokyo: Akihabara Resistance HQ",
         "filename": "Office",
         "mark": "Tokyo",
         "metadata": {
@@ -7157,7 +7157,7 @@
         "youtube": "9RuNBojwKSQ"
     },
     {
-        "description": "",
+        "description": "Pantheon",
         "filename": "Pantheon",
         "mark": "Pantheon",
         "metadata": {
@@ -7175,7 +7175,7 @@
         "youtube": "ZYeUnqsCnxg"
     },
     {
-        "description": "",
+        "description": "Pantheon field",
         "filename": "PantheonField",
         "mark": "Pantheon",
         "metadata": {
@@ -7193,7 +7193,7 @@
         "youtube": "Koxm5dEtkS8"
     },
     {
-        "description": "2095 Park",
+        "description": "Neo City: Average Town, Neo Tokyo: 2095 Park",
         "filename": "Park",
         "mark": "Tokyo",
         "metadata": {
@@ -7229,7 +7229,7 @@
         "youtube": "xfq61ugRGBo"
     },
     {
-        "description": "",
+        "description": "Luminous tutorial",
         "filename": "PeacefulWoods",
         "mark": "Ellinia",
         "metadata": {
@@ -7247,7 +7247,7 @@
         "youtube": "6BqN9qhPoGQ"
     },
     {
-        "description": "Phantom Forest",
+        "description": "Crimsonwood: Phantom Forest",
         "filename": "PhantomForest",
         "mark": "Crimsonwood",
         "metadata": {
@@ -7310,7 +7310,7 @@
         "youtube": "znPiUenHhP4"
     },
     {
-        "description": "Forest of Poison Haze Party Quest",
+        "description": "Ellin Forest: Fairy Forest, Forest of Poison Haze Party Quest",
         "filename": "PoisonForest",
         "mark": "PoisonForest",
         "metadata": {
@@ -7328,7 +7328,7 @@
         "youtube": "tc61Xjl4_X8"
     },
     {
-        "description": "",
+        "description": "Alternate version of PoisonForest",
         "filename": "PoisonForest (Alternate)",
         "mark": "PoisonForest",
         "metadata": {
@@ -7343,7 +7343,7 @@
         "youtube": "e28KuaWaHYo"
     },
     {
-        "description": "Verne Mine: Underground Mine",
+        "description": "Verne Mine: Power Plant",
         "filename": "PowerStation",
         "mark": "Leben",
         "metadata": {
@@ -7415,7 +7415,7 @@
         "youtube": "usGdjxNEf2E"
     },
     {
-        "description": "",
+        "description": "Beryl boss theme, Xenon quest",
         "filename": "pulseResonance",
         "mark": "Leben",
         "metadata": {
@@ -7448,7 +7448,7 @@
         "youtube": "0cqwe6XD7GI"
     },
     {
-        "description": "",
+        "description": "Root Abyss: Crimson Queen boss theme",
         "filename": "QueenPalace",
         "mark": "BloodyQueen",
         "metadata": {
@@ -7484,7 +7484,7 @@
         "youtube": "3r9s43TG9yA"
     },
     {
-        "description": "Epineah boss battle",
+        "description": "Ephenia boss theme",
         "filename": "QueensHideout",
         "mark": "EilnForest",
         "metadata": {
@@ -7574,7 +7574,7 @@
         "youtube": "jA3aul7iWOU"
     },
     {
-        "description": "",
+        "description": "Hilla boss theme",
         "filename": "RedWitch",
         "mark": "Hilla",
         "metadata": {
@@ -7592,7 +7592,7 @@
         "youtube": "xDV6ShE-YUU"
     },
     {
-        "description": "Path of Memory",
+        "description": "Temple of Time: Path of Memory",
         "filename": "Remembrance",
         "mark": "TimeTemple",
         "metadata": {
@@ -7610,7 +7610,7 @@
         "youtube": "TpKE4mKFSZY"
     },
     {
-        "description": "Path of Regret",
+        "description": "Temple of Time: Path of Regret",
         "filename": "Repentance",
         "mark": "TimeTemple",
         "metadata": {
@@ -7643,7 +7643,7 @@
         "youtube": "SQRqz1D3Xm8"
     },
     {
-        "description": "",
+        "description": "Heliseum Reclamation HQ",
         "filename": "retake",
         "mark": "retakeHQ",
         "metadata": {
@@ -7715,7 +7715,7 @@
         "youtube": "YDfIfL_Fxec"
     },
     {
-        "description": "a shorter version of Title_8th; no longer used",
+        "description": "Smile Luv U (TV size) -instrumental-",
         "filename": "risingStar",
         "mark": "12th",
         "metadata": {
@@ -7733,7 +7733,7 @@
         "youtube": "oC59ar2ONwI"
     },
     {
-        "description": "an alternate version of risingStar, with lyrics",
+        "description": "Smile Luv U (TV size)",
         "filename": "risingStar2",
         "mark": "12th",
         "metadata": {
@@ -7769,7 +7769,7 @@
         "youtube": "vlVRgdYxFXk"
     },
     {
-        "description": "2102 Shibuya and 2102 Roppongi Mall",
+        "description": "Neo Tokyo: 2102 Shibuya / Roppongi Mall",
         "filename": "Rockbongi1",
         "mark": "Tokyo",
         "metadata": {
@@ -7787,7 +7787,7 @@
         "youtube": "CFUHMREh1NU"
     },
     {
-        "description": "2102 Shibuya and 2102 Roppongi Mall Boss Battle",
+        "description": "Neo Tokyo: 2102 Shibuya / Roppongi Mall boss theme",
         "filename": "Rockbongi2",
         "mark": "Tokyo",
         "metadata": {
@@ -7838,7 +7838,7 @@
         "youtube": "xeks7rE2m0o"
     },
     {
-        "description": "",
+        "description": "Azwan",
         "filename": "RustyThrone",
         "mark": "Aswan",
         "metadata": {
@@ -8000,7 +8000,7 @@
         "youtube": "WRL1IwOzW7A"
     },
     {
-        "description": "Secret Flower Garden",
+        "description": "Kerning City: The Secret Garden",
         "filename": "secretFlower",
         "mark": "SecretFlower",
         "metadata": {
@@ -8054,7 +8054,7 @@
         "youtube": "hmd6QnJPpzg"
     },
     {
-        "description": "",
+        "description": "Takigawa Kazumasu boss theme, Sengoku quest",
         "filename": "SengokuBoss",
         "mark": "Ogassenn",
         "metadata": {
@@ -8072,7 +8072,7 @@
         "youtube": "OKufViI86Tk"
     },
     {
-        "description": "a copy of MomijiNoSakamichi",
+        "description": "A copy of MomijiNoSakamichi",
         "filename": "SengokuOgassenn",
         "mark": "Ogassenn",
         "metadata": {
@@ -8090,7 +8090,7 @@
         "youtube": "Vwn3_L3hyqY"
     },
     {
-        "description": "",
+        "description": "Luminous quest",
         "filename": "Serenity",
         "mark": "Ellinia",
         "metadata": {
@@ -8523,7 +8523,7 @@
         "youtube": "R9e7FAmUGEI"
     },
     {
-        "description": "Mercedes Job Advancement map",
+        "description": "Elluel: Mercedes quest",
         "filename": "SoundOfElf",
         "mark": "Eurel",
         "metadata": {
@@ -8541,7 +8541,7 @@
         "youtube": "twACr950iDs"
     },
     {
-        "description": "",
+        "description": "Luminous tutorial",
         "filename": "SpeakInTheVoid",
         "mark": "TimeTemple",
         "metadata": {
@@ -8722,7 +8722,7 @@
         "youtube": "Z4VTq4JKHGA"
     },
     {
-        "description": "",
+        "description": "Kaiser tutorial",
         "filename": "StepOfKaiser",
         "mark": "Pantheon",
         "metadata": {
@@ -8809,7 +8809,7 @@
         "youtube": "J1YTQvtmsjg"
     },
     {
-        "description": "ChinaMS Summer Boating Event",
+        "description": "ChinaMS Summer Boating event",
         "filename": "summerboating01",
         "mark": "Event",
         "metadata": {
@@ -8824,7 +8824,7 @@
         "youtube": "1h8ZJhL7GqQ"
     },
     {
-        "description": "",
+        "description": "Alternate version of summerboating01",
         "filename": "summerboating01 (Alternate)",
         "mark": "Event",
         "metadata": {
@@ -8839,7 +8839,7 @@
         "youtube": "13nSE_8rXP4"
     },
     {
-        "description": "ChinaMS Summer Boating Event",
+        "description": "ChinaMS Summer Boating event",
         "filename": "summerboating02",
         "mark": "Event",
         "metadata": {
@@ -8854,7 +8854,7 @@
         "youtube": "IPokl8jGHcg"
     },
     {
-        "description": "ChinaMS Summer Boating Event",
+        "description": "ChinaMS Summer Boating event",
         "filename": "summerboating03",
         "mark": "Event",
         "metadata": {
@@ -9022,7 +9022,7 @@
         "youtube": "2sJP_wp2pBg"
     },
     {
-        "description": "",
+        "description": "TaiwanMS Mid-Autumn Festival",
         "filename": "ThanksGivingDay",
         "mark": "Event",
         "metadata": {
@@ -9058,7 +9058,7 @@
         "youtube": "sywBzeuMOHc"
     },
     {
-        "description": "no apparent use (BrazilMS)",
+        "description": "No apparent use (BrazilMS)",
         "filename": "TheAftermath",
         "mark": "Quest",
         "metadata": {
@@ -9235,7 +9235,7 @@
         "youtube": "2516kMhpTHA"
     },
     {
-        "description": "",
+        "description": "Magnus boss theme",
         "filename": "thefinalWar",
         "mark": "Magnus",
         "metadata": {
@@ -9253,7 +9253,7 @@
         "youtube": "5rHW7L-DOJM"
     },
     {
-        "description": "original version",
+        "description": "Original version of thefinalWar",
         "filename": "thefinalWar (Original)",
         "mark": "Magnus",
         "metadata": {
@@ -9325,7 +9325,7 @@
         "youtube": "sW2zoOX8iUc"
     },
     {
-        "description": "",
+        "description": "Xenon tutorial",
         "filename": "thePhoto",
         "mark": "Leben",
         "metadata": {
@@ -9565,7 +9565,7 @@
         "youtube": "AiaV9gA3i10"
     },
     {
-        "description": "",
+        "description": "Root Abyss: Von Bon boss theme",
         "filename": "TimeChaos",
         "mark": "BanBan",
         "metadata": {
@@ -9700,7 +9700,7 @@
         "youtube": "BVSPMg-GWDc"
     },
     {
-        "description": "Chaos login theme",
+        "description": "Chaos update login theme",
         "filename": "Title2010Winter",
         "mark": "Quest",
         "metadata": {
@@ -9863,7 +9863,7 @@
         "youtube": "elCoN7PAKBA"
     },
     {
-        "description": "2102 Tokyo Sky",
+        "description": "Neo City: Air Battleship Hermes, Neo Tokyo: 2102 Tokyo Sky",
         "filename": "Tokyosky",
         "mark": "Tokyo",
         "metadata": {
@@ -9950,7 +9950,7 @@
         "youtube": "VLMt3GGgwrM"
     },
     {
-        "description": "",
+        "description": "Kaiser tutorial",
         "filename": "TrappedKaiser",
         "mark": "Pantheon",
         "metadata": {
@@ -10022,7 +10022,7 @@
         "youtube": "uUVOC0f5QBs"
     },
     {
-        "description": "",
+        "description": "Heliseum: Tyrant's Castle boss theme",
         "filename": "trinityForce",
         "mark": "citadel",
         "metadata": {
@@ -10040,7 +10040,7 @@
         "youtube": "cOxp5RHqmjk"
     },
     {
-        "description": "Ulu City",
+        "description": "Singapore: Ulu City",
         "filename": "Ulu_field",
         "mark": "Singapore",
         "metadata": {
@@ -10058,7 +10058,7 @@
         "youtube": "JIriGe2tdeA"
     },
     {
-        "description": "Resistance HQ",
+        "description": "Edelstein: Resistance Headquarters",
         "filename": "UndergroundPlace",
         "mark": "Edelstein",
         "metadata": {
@@ -10076,7 +10076,7 @@
         "youtube": "SNuR31g7gqI"
     },
     {
-        "description": "",
+        "description": "Xenon tutorial",
         "filename": "underside",
         "mark": "Leben",
         "metadata": {
@@ -10094,7 +10094,7 @@
         "youtube": "pY1Du__m00w"
     },
     {
-        "description": "Abandoned Subway",
+        "description": "Monster Cleanup: Abandoned Subway",
         "filename": "UnderSubway",
         "mark": "KerningCity",
         "metadata": {
@@ -10673,7 +10673,7 @@
         "youtube": "59oze7IkQ10"
     },
     {
-        "description": "Witch's Tower Event",
+        "description": "Witch's Tower event",
         "filename": "wichTower",
         "mark": "Event",
         "metadata": {
@@ -10745,7 +10745,7 @@
         "youtube": "f9gy70JX_8c"
     },
     {
-        "description": "Present Eurel",
+        "description": "Elluel",
         "filename": "WindAndFlower",
         "mark": "Eurel",
         "metadata": {
@@ -10799,7 +10799,7 @@
         "youtube": "w9FJhoIyLqs"
     },
     {
-        "description": "Sheep Ranch Event",
+        "description": "Sheep Ranch event",
         "filename": "WolfAndSheep",
         "mark": "Event",
         "metadata": {
@@ -10865,7 +10865,7 @@
         "youtube": "gP_nqrfimxU"
     },
     {
-        "description": "",
+        "description": "Root Abyss",
         "filename": "YggdrasilPrayer",
         "mark": "rootabyss",
         "metadata": {
