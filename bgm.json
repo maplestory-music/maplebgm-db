@@ -7106,6 +7106,42 @@
         "youtube": "nxtdTBejXRY"
     },
     {
+        "description": "",
+        "filename": "OverTheClouds",
+        "mark": "foxValley",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Over the Clouds",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-10-19",
+            "structure": "Bgm48",
+            "version": "1.2.058"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "OverTheClouds_RhythmicVer",
+        "mark": "foxValley",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Over the Clouds -rhythmic-",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-10-19",
+            "structure": "Bgm48",
+            "version": "1.2.058"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Pachinko ambient noise",
         "filename": "Pachinko_Interior_Ambience",
         "mark": "jipangu",
