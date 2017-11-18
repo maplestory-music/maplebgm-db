@@ -4011,6 +4011,24 @@
     },
     {
         "description": "",
+        "filename": "GodOfBrain",
+        "mark": "PL_GodOfBrain",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "God of Brain",
+            "year": "2017"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2017-11-16",
+            "structure": "BgmPL",
+            "version": "1.32"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
         "filename": "GoFight!ShowYourEnergy!",
         "mark": "MushroomVillage",
         "metadata": {
@@ -7265,6 +7283,24 @@
         "youtube": "xfq61ugRGBo"
     },
     {
+        "description": "",
+        "filename": "PeacefulDays",
+        "mark": "PL_Beautyroid",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Peaceful Days",
+            "year": "2017"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2017-11-16",
+            "structure": "PL_Beautyroid",
+            "version": "1.32"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Luminous tutorial",
         "filename": "PeacefulWoods",
         "mark": "Ellinia",
@@ -7395,6 +7431,24 @@
             "version": "1.2.327"
         },
         "youtube": "HWZesN4Uj-Y"
+    },
+    {
+        "description": "",
+        "filename": "Primrose",
+        "mark": "PL_Beautyroid",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Primrose",
+            "year": "2017"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2017-11-16",
+            "structure": "PL_Beautyroid",
+            "version": "1.32"
+        },
+        "youtube": ""
     },
     {
         "description": "Ardentmill",
@@ -10797,6 +10851,42 @@
             "version": "1.2.389"
         },
         "youtube": "5gxVQPSbkJw"
+    },
+    {
+        "description": "",
+        "filename": "WinterCastle",
+        "mark": "PL_WinterCastle",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Winter Castle",
+            "year": "2017"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2017-11-16",
+            "structure": "BgmPL",
+            "version": "1.32"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "WinterCastle_DownHill",
+        "mark": "PL_WinterCastle",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Winter Castle -Downhill-",
+            "year": "2017"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2017-11-16",
+            "structure": "BgmPL",
+            "version": "1.32"
+        },
+        "youtube": ""
     },
     {
         "description": "",
