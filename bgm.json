@@ -3268,6 +3268,24 @@
         "youtube": "_B6q_BimGsA"
     },
     {
+        "description": "",
+        "filename": "EveningPrimrose",
+        "mark": "Library",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Evening Primrose",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-12-14",
+            "structure": "Bgm48",
+            "version": "1.2.060"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Sleepywood: Deep Ant Tunnel, Cave of Evil Eyes",
         "filename": "EvilEyes",
         "mark": "Dungeon",
