@@ -2892,6 +2892,42 @@
         "youtube": "Or2OSeGbPV0"
     },
     {
+        "description": "",
+        "filename": "Doomsday_FULL",
+        "mark": "verdel",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Doomsday",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-12-29",
+            "structure": "Bgm48",
+            "version": "1.2.062"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "Doomsday_LOOP",
+        "mark": "verdel",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Doomsday -loop-",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-12-29",
+            "structure": "Bgm48",
+            "version": "1.2.062"
+        },
+        "youtube": ""
+    },
+    {
         "description": "A copy of AncientMove",
         "filename": "DownToTheCave",
         "mark": "Dungeon",
@@ -10360,6 +10396,60 @@
             "version": "1.2.495"
         },
         "youtube": "qr9eW2y2EJM"
+    },
+    {
+        "description": "",
+        "filename": "VerdelDungeon",
+        "mark": "verdel",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Verdel Dungeon",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-12-29",
+            "structure": "Bgm48",
+            "version": "1.2.062"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "VerdelField",
+        "mark": "verdel",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Verdel Field",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-12-29",
+            "structure": "Bgm48",
+            "version": "1.2.062"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "VerdelTown",
+        "mark": "verdel",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Verdel Town",
+            "year": "2017"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2017-12-29",
+            "structure": "Bgm48",
+            "version": "1.2.062"
+        },
+        "youtube": ""
     },
     {
         "description": "",
