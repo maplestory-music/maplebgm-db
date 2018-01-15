@@ -6243,6 +6243,24 @@
     },
     {
         "description": "",
+        "filename": "Memory",
+        "mark": "verdel",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Memory",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-01-11",
+            "structure": "Bgm48",
+            "version": "1.2.290"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
         "filename": "MemoryOfKritias",
         "mark": "Morass",
         "metadata": {
