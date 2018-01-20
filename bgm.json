@@ -1236,6 +1236,24 @@
         "youtube": "8F100vDwPJg"
     },
     {
+        "description": "",
+        "filename": "BloodCage",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Blood Cage",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-01-18",
+            "structure": "Bgm49",
+            "version": "1.2.063"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Also known as Injustice",
         "filename": "BlueEreb",
         "mark": "Ereb",
@@ -1951,6 +1969,24 @@
             "version": "0.85"
         },
         "youtube": "zW1J8XYU3t0"
+    },
+    {
+        "description": "",
+        "filename": "ComteminatedSea",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Contaminated Sea",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-01-18",
+            "structure": "Bgm49",
+            "version": "1.2.063"
+        },
+        "youtube": ""
     },
     {
         "description": "",
@@ -2765,6 +2801,24 @@
             "date": "2017-08-30",
             "structure": "BgmPL",
             "version": "1.88"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "Diffraction",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Diffraction",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-01-18",
+            "structure": "Bgm49",
+            "version": "1.2.063"
         },
         "youtube": ""
     },
@@ -6326,6 +6380,24 @@
         "youtube": "VRhE2xNjmP4"
     },
     {
+        "description": "",
+        "filename": "MirrorCage",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Mirror Cage",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-01-18",
+            "structure": "Bgm49",
+            "version": "1.2.063"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Ellinia Tree Dungeon",
         "filename": "MissingYou",
         "mark": "Ellinia",
@@ -8703,6 +8775,24 @@
         "youtube": "twACr950iDs"
     },
     {
+        "description": "",
+        "filename": "SoupOfLife",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Soup of Life",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-01-18",
+            "structure": "Bgm49",
+            "version": "1.2.063"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Luminous tutorial",
         "filename": "SpeakInTheVoid",
         "mark": "TimeTemple",
@@ -9098,6 +9188,24 @@
             "version": "3.25"
         },
         "youtube": "VBGL3ESb008"
+    },
+    {
+        "description": "",
+        "filename": "TempleInTheMirror",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Temple in the Mirror",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-01-18",
+            "structure": "Bgm49",
+            "version": "1.2.063"
+        },
+        "youtube": ""
     },
     {
         "description": "",
