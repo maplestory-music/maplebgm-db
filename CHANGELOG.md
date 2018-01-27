@@ -7,8 +7,13 @@ All notable changes to this project will be documented in this file.
 - All songs and available metadata
 - Descriptions for songs released up to the end of 2012
 - New music from Q3 2017
-    - Eluna
-    - Grand Athenaeum, Episode 4
-    - Asylum + Illium
-    - Morass
-    - Events (Dice Master, Outlaw of the Lonely Island)
+
+| Update        | Description                 |
+| ------------- | --------------------------- |
+| CMST 1.27     | Eluna                       |
+| KMST 1.2.053  | Grand Athenaeum, Episode 4  |
+| KMST 1.2.054  | Illium & Asylum             |
+| KMS 1.2.282   | Asylum + Water Gun Game     |
+| KMST 1.2.056  | Morass                      |
+| GMS 1.88      | Dice Master                 |
+| KMS 1.2.284   | Morass                      |
