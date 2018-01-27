@@ -2766,7 +2766,7 @@
             "structure": "BgmPL",
             "version": "1.88"
         },
-        "youtube": ""
+        "youtube": "wSwXwkgS4bU"
     },
     {
         "description": "",
@@ -4079,7 +4079,7 @@
             "structure": "BgmPL",
             "version": "1.32"
         },
-        "youtube": ""
+        "youtube": "8i-FBUlGSdA"
     },
     {
         "description": "",
@@ -7343,7 +7343,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Peaceful Days",
+            "subtitle": "Peaceful Days",
+            "title": "Peaceful Life",
             "year": "2017"
         },
         "source": {
@@ -7352,7 +7353,7 @@
             "structure": "PL_Beautyroid",
             "version": "1.32"
         },
-        "youtube": ""
+        "youtube": "_Gt9PQYmhIg"
     },
     {
         "description": "Luminous tutorial",
@@ -7502,7 +7503,7 @@
             "structure": "PL_Beautyroid",
             "version": "1.32"
         },
-        "youtube": ""
+        "youtube": "gw7gbAh0hZA"
     },
     {
         "description": "Ardentmill",
@@ -10967,7 +10968,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Winter Castle",
+            "subtitle": "Winter Castle",
+            "title": "Melting Snow",
             "year": "2017"
         },
         "source": {
@@ -10976,7 +10978,7 @@
             "structure": "BgmPL",
             "version": "1.32"
         },
-        "youtube": ""
+        "youtube": "ZL3iwhrEllA"
     },
     {
         "description": "",
@@ -10985,7 +10987,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Winter Castle -Downhill-",
+            "subtitle": "Winter Castle -Downhill-",
+            "title": "Downhill Ride",
             "year": "2017"
         },
         "source": {
@@ -10994,7 +10997,7 @@
             "structure": "BgmPL",
             "version": "1.32"
         },
-        "youtube": ""
+        "youtube": "UBfUH2sbiSk"
     },
     {
         "description": "",
