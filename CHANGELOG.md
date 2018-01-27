@@ -1,6 +1,17 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 2018.1 - 2018-01-27
+### Added
+- New music from Q4 2017
+
+| Update        | Description                                |
+| ------------- | -----------------------------------------  |
+| KMST 1.2.058  | Fox Valley                                 |
+| CMST 1.32     | Mechanical Hearts Season 2 + other events  |
+| KMST 1.2.060  | Grand Athenaeum, Episode 5                 |
+| KMST 1.2.062  | Ark & Verdel                               |
+
 ## 2017.4 - 2017-10-23
 ### Added
 - Initial release
