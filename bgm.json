@@ -1246,6 +1246,24 @@
             "year": "2018"
         },
         "source": {
+            "client": "KMS",
+            "date": "2018-01-25",
+            "structure": "Bgm49",
+            "version": "1.2.291"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "BloodCage (Original)",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Blood Cage (Original)",
+            "year": "2018"
+        },
+        "source": {
             "client": "KMST",
             "date": "2018-01-18",
             "structure": "Bgm49",
@@ -1978,6 +1996,24 @@
             "album-artist": "NECORD",
             "artist": "ASTERIA",
             "title": "Contaminated Sea",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-01-25",
+            "structure": "Bgm49",
+            "version": "1.2.291"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "ComteminatedSea (Original)",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Contaminated Sea (Original)",
             "year": "2018"
         },
         "source": {
@@ -6390,6 +6426,24 @@
             "year": "2018"
         },
         "source": {
+            "client": "KMS",
+            "date": "2018-01-25",
+            "structure": "Bgm49",
+            "version": "1.2.291"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "MirrorCage (Original)",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Mirror Cage (Original)",
+            "year": "2018"
+        },
+        "source": {
             "client": "KMST",
             "date": "2018-01-18",
             "structure": "Bgm49",
@@ -8785,6 +8839,24 @@
             "year": "2018"
         },
         "source": {
+            "client": "KMS",
+            "date": "2018-01-25",
+            "structure": "Bgm49",
+            "version": "1.2.291"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "SoupOfLife (Original)",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Soup of Life (Original)",
+            "year": "2018"
+        },
+        "source": {
             "client": "KMST",
             "date": "2018-01-18",
             "structure": "Bgm49",
@@ -9197,6 +9269,24 @@
             "album-artist": "NECORD",
             "artist": "ASTERIA",
             "title": "Temple in the Mirror",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-01-25",
+            "structure": "Bgm49",
+            "version": "1.2.291"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "TempleInTheMirror (Original)",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Temple in the Mirror (Original)",
             "year": "2018"
         },
         "source": {
