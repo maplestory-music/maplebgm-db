@@ -1236,6 +1236,44 @@
         "youtube": "8F100vDwPJg"
     },
     {
+        "description": "",
+        "filename": "BloodCage",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Blood Cage",
+            "title": "The Bloody Cage",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-01-25",
+            "structure": "Bgm49",
+            "version": "1.2.291"
+        },
+        "youtube": "dmo6oB4mFiY"
+    },
+    {
+        "description": "",
+        "filename": "BloodCage (Original)",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Blood Cage (Original)",
+            "title": "The Bloody Cage (Original)",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-01-18",
+            "structure": "Bgm49",
+            "version": "1.2.063"
+        },
+        "youtube": "bJHTXa3HfTs"
+    },
+    {
         "description": "Also known as Injustice",
         "filename": "BlueEreb",
         "mark": "Ereb",
@@ -1951,6 +1989,42 @@
             "version": "0.85"
         },
         "youtube": "zW1J8XYU3t0"
+    },
+    {
+        "description": "",
+        "filename": "ComteminatedSea",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Contaminated Sea",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-01-25",
+            "structure": "Bgm49",
+            "version": "1.2.291"
+        },
+        "youtube": "F_X8tsNGY-4"
+    },
+    {
+        "description": "",
+        "filename": "ComteminatedSea (Original)",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Contaminated Sea (Original)",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-01-18",
+            "structure": "Bgm49",
+            "version": "1.2.063"
+        },
+        "youtube": "v5a6MrDwMGI"
     },
     {
         "description": "",
@@ -2770,6 +2844,24 @@
     },
     {
         "description": "",
+        "filename": "Diffraction",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Diffraction",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-01-18",
+            "structure": "Bgm49",
+            "version": "1.2.063"
+        },
+        "youtube": "MkXfT5oIfaU"
+    },
+    {
+        "description": "",
         "filename": "DimensionLibrary",
         "mark": "Library",
         "metadata": {
@@ -2907,7 +2999,7 @@
             "structure": "Bgm48",
             "version": "1.2.062"
         },
-        "youtube": ""
+        "youtube": "L9RYGQYiaSU"
     },
     {
         "description": "",
@@ -2925,7 +3017,7 @@
             "structure": "Bgm48",
             "version": "1.2.062"
         },
-        "youtube": ""
+        "youtube": "v-fmYBMhh88"
     },
     {
         "description": "A copy of AncientMove",
@@ -3319,7 +3411,7 @@
             "structure": "Bgm48",
             "version": "1.2.060"
         },
-        "youtube": ""
+        "youtube": "xtVCiy99OMY"
     },
     {
         "description": "Sleepywood: Deep Ant Tunnel, Cave of Evil Eyes",
@@ -6243,6 +6335,25 @@
     },
     {
         "description": "",
+        "filename": "Memory",
+        "mark": "verdel",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Memory",
+            "title": "Recollecting Memories",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-01-11",
+            "structure": "Bgm48",
+            "version": "1.2.290"
+        },
+        "youtube": "v9AwgX1MvIY"
+    },
+    {
+        "description": "",
         "filename": "MemoryOfKritias",
         "mark": "Morass",
         "metadata": {
@@ -6306,6 +6417,42 @@
             "version": "1.2.492"
         },
         "youtube": "VRhE2xNjmP4"
+    },
+    {
+        "description": "",
+        "filename": "MirrorCage",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Mirror Cage",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-01-25",
+            "structure": "Bgm49",
+            "version": "1.2.291"
+        },
+        "youtube": "p-N2Go2PL4g"
+    },
+    {
+        "description": "",
+        "filename": "MirrorCage (Original)",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Mirror Cage (Original)",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-01-18",
+            "structure": "Bgm49",
+            "version": "1.2.063"
+        },
+        "youtube": "wYEwDC5FfrM"
     },
     {
         "description": "Ellinia Tree Dungeon",
@@ -8686,6 +8833,44 @@
         "youtube": "twACr950iDs"
     },
     {
+        "description": "",
+        "filename": "SoupOfLife",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Soup of Life",
+            "title": "A Place Where Life Begins",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-01-25",
+            "structure": "Bgm49",
+            "version": "1.2.291"
+        },
+        "youtube": "BZvty--jyIw"
+    },
+    {
+        "description": "",
+        "filename": "SoupOfLife (Original)",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Soup of Life (Original)",
+            "title": "A Place Where Life Begins (Original)",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-01-18",
+            "structure": "Bgm49",
+            "version": "1.2.063"
+        },
+        "youtube": "Imu86Ef3ICY"
+    },
+    {
         "description": "Luminous tutorial",
         "filename": "SpeakInTheVoid",
         "mark": "TimeTemple",
@@ -9081,6 +9266,44 @@
             "version": "3.25"
         },
         "youtube": "VBGL3ESb008"
+    },
+    {
+        "description": "",
+        "filename": "TempleInTheMirror",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Temple in the Mirror",
+            "title": "Le Temple du Miroir",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-01-25",
+            "structure": "Bgm49",
+            "version": "1.2.291"
+        },
+        "youtube": "3vsyU0DHYxo"
+    },
+    {
+        "description": "",
+        "filename": "TempleInTheMirror (Original)",
+        "mark": "esfera",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Temple in the Mirror (Original)",
+            "title": "Le Temple du Miroir (Original)",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-01-18",
+            "structure": "Bgm49",
+            "version": "1.2.063"
+        },
+        "youtube": "-tLsmmRE2tk"
     },
     {
         "description": "",
@@ -10414,7 +10637,7 @@
             "structure": "Bgm48",
             "version": "1.2.062"
         },
-        "youtube": ""
+        "youtube": "C7P2IenIZYQ"
     },
     {
         "description": "",
@@ -10432,7 +10655,7 @@
             "structure": "Bgm48",
             "version": "1.2.062"
         },
-        "youtube": ""
+        "youtube": "LEu4UOPN_Oc"
     },
     {
         "description": "",
@@ -10450,7 +10673,7 @@
             "structure": "Bgm48",
             "version": "1.2.062"
         },
-        "youtube": ""
+        "youtube": "p83BhMpHd9A"
     },
     {
         "description": "",
