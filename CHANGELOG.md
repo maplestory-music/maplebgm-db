@@ -1,6 +1,17 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 2018.2 - 2018-04-19
+### Added
+- New music from Q1 2018
+- Links for 'Snowdrift Lodge' and 'MapleStory Ark'
+
+| Update        | Description        |
+| ------------- | -----------------  |
+| KMS 1.2.290   | Ark BGM: 'Memory'  |
+| KMST 1.2.063  | Esfera             |
+| KMS 1.2.291   | Esfera rescore     |
+
 ## 2018.1 - 2018-01-27
 ### Added
 - New music from Q4 2017
