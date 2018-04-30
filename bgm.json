@@ -726,6 +726,24 @@
         "youtube": "yRrCGa54Vbo"
     },
     {
+        "description": "",
+        "filename": "Battle",
+        "mark": "",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Battle",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-04-27",
+            "structure": "PL_CaptainNomad",
+            "version": "1.37"
+        },
+        "youtube": ""
+    },
+    {
         "description": "PvP: Background Music Type A",
         "filename": "battleBGMTypeA",
         "mark": "BattleSquare",
@@ -1473,6 +1491,24 @@
             "structure": "BgmTW"
         },
         "youtube": "91hJqJZypsM"
+    },
+    {
+        "description": "",
+        "filename": "CaptainVaga",
+        "mark": "",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Captain Vaga",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-04-27",
+            "structure": "PL_CaptainNomad",
+            "version": "1.37"
+        },
+        "youtube": ""
     },
     {
         "description": "",
@@ -4408,6 +4444,24 @@
         "youtube": "CZTQdmJAEQI"
     },
     {
+        "description": "",
+        "filename": "GunMan",
+        "mark": "PL_Gunman",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Gunman",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-04-27",
+            "structure": "BgmPL",
+            "version": "1.37"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Halloween event",
         "filename": "halloweenMainHall",
         "mark": "HuntedMansion",
@@ -5120,6 +5174,24 @@
             "version": "3.00"
         },
         "youtube": "WK-aE_3PF8g"
+    },
+    {
+        "description": "",
+        "filename": "IntotheStars",
+        "mark": "",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Into the Stars",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-04-27",
+            "structure": "PL_CaptainNomad",
+            "version": "1.37"
+        },
+        "youtube": ""
     },
     {
         "description": "",
