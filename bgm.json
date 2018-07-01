@@ -3609,6 +3609,24 @@
         "youtube": "SdcsTuVLJk0"
     },
     {
+        "description": "",
+        "filename": "FerociousBattlefield",
+        "mark": "moonBridge",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Ferocious Battlefield",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-06-28",
+            "structure": "Bgm49",
+            "version": "1.2.070"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Pink Bean boss theme",
         "filename": "FightingPinkBeen",
         "mark": "PinkBean",
@@ -9197,6 +9215,24 @@
     },
     {
         "description": "",
+        "filename": "StrangeFog",
+        "mark": "moonBridge",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Strange Fog",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-06-28",
+            "structure": "Bgm49",
+            "version": "1.2.070"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
         "filename": "StrangeSortOfStory",
         "mark": "aquarisTower",
         "metadata": {
@@ -10943,6 +10979,24 @@
         "youtube": "CNRFWEhv_Dw"
     },
     {
+        "description": "",
+        "filename": "WarCloud",
+        "mark": "moonBridge",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "War Cloud",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-06-28",
+            "structure": "Bgm49",
+            "version": "1.2.070"
+        },
+        "youtube": ""
+    },
+    {
         "description": "El Nath field",
         "filename": "WarmRegard",
         "mark": "ElNath",
@@ -11008,6 +11062,24 @@
             "structure": "Bgm12"
         },
         "youtube": "Su6P7juLavE"
+    },
+    {
+        "description": "",
+        "filename": "WaveofEmptiness",
+        "mark": "moonBridge",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Wave of Emptiness",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-06-28",
+            "structure": "Bgm49",
+            "version": "1.2.070"
+        },
+        "youtube": ""
     },
     {
         "description": "",
