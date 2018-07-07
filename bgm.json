@@ -732,7 +732,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Battle",
+            "subtitle": "Battle",
+            "title": "Unforgettable Gun",
             "year": "2018"
         },
         "source": {
@@ -741,7 +742,7 @@
             "structure": "PL_CaptainNomad",
             "version": "1.37"
         },
-        "youtube": ""
+        "youtube": "5faEeE3Z_fU"
     },
     {
         "description": "PvP: Background Music Type A",
@@ -1499,7 +1500,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Captain Vaga",
+            "subtitle": "Captain Vaga",
+            "title": "Escape",
             "year": "2018"
         },
         "source": {
@@ -1508,7 +1510,7 @@
             "structure": "PL_CaptainNomad",
             "version": "1.37"
         },
-        "youtube": ""
+        "youtube": "EYXHWkl_hnw"
     },
     {
         "description": "",
@@ -4522,7 +4524,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Gunman",
+            "subtitle": "Gunman",
+            "title": "Western Gunman",
             "year": "2018"
         },
         "source": {
@@ -4531,7 +4534,7 @@
             "structure": "BgmPL",
             "version": "1.37"
         },
-        "youtube": ""
+        "youtube": "0F8ZQ1NqDSk"
     },
     {
         "description": "Halloween event",
@@ -5254,7 +5257,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Into the Stars",
+            "subtitle": "Into the Stars",
+            "title": "Tomorrow",
             "year": "2018"
         },
         "source": {
@@ -5263,7 +5267,7 @@
             "structure": "PL_CaptainNomad",
             "version": "1.37"
         },
-        "youtube": ""
+        "youtube": "3OM9ZKFWD3s"
     },
     {
         "description": "",
