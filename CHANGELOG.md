@@ -1,6 +1,17 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 2018.3 - 2018-07-06
+### Added
+- New music from Q2 2018
+
+| Update        | Description                  |
+| ------------- | ----------------             |
+| KMST 1.2.067  | 15th Anniversary             |
+| CMST 1.37     | Captain Vaga + Gunman event  |
+| KMST 1.2.069  | Maple Alliance Outpost       |
+| KMST 1.2.070  | Moonbridge                   |
+
 ## 2018.2 - 2018-04-19
 ### Added
 - New music from Q1 2018
