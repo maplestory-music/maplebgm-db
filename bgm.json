@@ -726,6 +726,24 @@
         "youtube": "yRrCGa54Vbo"
     },
     {
+        "description": "",
+        "filename": "Battle",
+        "mark": "",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Battle",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-04-27",
+            "structure": "PL_CaptainNomad",
+            "version": "1.37"
+        },
+        "youtube": ""
+    },
+    {
         "description": "PvP: Background Music Type A",
         "filename": "battleBGMTypeA",
         "mark": "BattleSquare",
@@ -1473,6 +1491,24 @@
             "structure": "BgmTW"
         },
         "youtube": "91hJqJZypsM"
+    },
+    {
+        "description": "",
+        "filename": "CaptainVaga",
+        "mark": "",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Captain Vaga",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-04-27",
+            "structure": "PL_CaptainNomad",
+            "version": "1.37"
+        },
+        "youtube": ""
     },
     {
         "description": "",
@@ -3573,6 +3609,24 @@
         "youtube": "SdcsTuVLJk0"
     },
     {
+        "description": "",
+        "filename": "FerociousBattlefield",
+        "mark": "moonBridge",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Ferocious Battlefield",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-06-28",
+            "structure": "Bgm49",
+            "version": "1.2.070"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Pink Bean boss theme",
         "filename": "FightingPinkBeen",
         "mark": "PinkBean",
@@ -4408,6 +4462,24 @@
         "youtube": "CZTQdmJAEQI"
     },
     {
+        "description": "",
+        "filename": "GunMan",
+        "mark": "PL_Gunman",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Gunman",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-04-27",
+            "structure": "BgmPL",
+            "version": "1.37"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Halloween event",
         "filename": "halloweenMainHall",
         "mark": "HuntedMansion",
@@ -5120,6 +5192,24 @@
             "version": "3.00"
         },
         "youtube": "WK-aE_3PF8g"
+    },
+    {
+        "description": "",
+        "filename": "IntotheStars",
+        "mark": "",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Into the Stars",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-04-27",
+            "structure": "PL_CaptainNomad",
+            "version": "1.37"
+        },
+        "youtube": ""
     },
     {
         "description": "",
@@ -7326,6 +7416,24 @@
     },
     {
         "description": "",
+        "filename": "Outpost",
+        "mark": "aliance",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Outpost",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-06-16",
+            "structure": "Bgm48",
+            "version": "1.2.069"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
         "filename": "OverTheClouds",
         "mark": "foxValley",
         "metadata": {
@@ -9107,6 +9215,24 @@
     },
     {
         "description": "",
+        "filename": "StrangeFog",
+        "mark": "moonBridge",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Strange Fog",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-06-28",
+            "structure": "Bgm49",
+            "version": "1.2.070"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
         "filename": "StrangeSortOfStory",
         "mark": "aquarisTower",
         "metadata": {
@@ -10853,6 +10979,24 @@
         "youtube": "CNRFWEhv_Dw"
     },
     {
+        "description": "",
+        "filename": "WarCloud",
+        "mark": "moonBridge",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "War Cloud",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-06-28",
+            "structure": "Bgm49",
+            "version": "1.2.070"
+        },
+        "youtube": ""
+    },
+    {
         "description": "El Nath field",
         "filename": "WarmRegard",
         "mark": "ElNath",
@@ -10918,6 +11062,24 @@
             "structure": "Bgm12"
         },
         "youtube": "Su6P7juLavE"
+    },
+    {
+        "description": "",
+        "filename": "WaveofEmptiness",
+        "mark": "moonBridge",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Wave of Emptiness",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-06-28",
+            "structure": "Bgm49",
+            "version": "1.2.070"
+        },
+        "youtube": ""
     },
     {
         "description": "",
@@ -10988,6 +11150,24 @@
             "version": "1.2.242"
         },
         "youtube": "UHBxoHVKePs"
+    },
+    {
+        "description": "",
+        "filename": "WelcomeToThe15thStreet",
+        "mark": "15st",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Welcome to the 15th Street",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-04-19",
+            "structure": "BgmEvent",
+            "version": "1.2.067"
+        },
+        "youtube": ""
     },
     {
         "description": "El Nath: Zakum's Altar",
