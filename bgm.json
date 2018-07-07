@@ -3627,6 +3627,60 @@
         "youtube": ""
     },
     {
+        "description": "",
+        "filename": "FerociousBattlefield_loop",
+        "mark": "moonBridge",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Ferocious Battlefield -loop-",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-07-05",
+            "structure": "Bgm49",
+            "version": "1.2.300"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "FerociousBattlefield_RiserEdit",
+        "mark": "moonBridge",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Ferocious Battlefield -riser edit-",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-07-05",
+            "structure": "Bgm49",
+            "version": "1.2.300"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "FerociousBattlefield_ShortEdit",
+        "mark": "moonBridge",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Ferocious Battlefield -short edit-",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-07-05",
+            "structure": "Bgm49",
+            "version": "1.2.300"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Pink Bean boss theme",
         "filename": "FightingPinkBeen",
         "mark": "PinkBean",
