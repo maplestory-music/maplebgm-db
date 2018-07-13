@@ -2755,6 +2755,24 @@
         "youtube": "RaXC3bWEYFc"
     },
     {
+        "description": "",
+        "filename": "DepthOfPain",
+        "mark": "TheLabyrinthOfSuffering",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Depth of Pain",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-07-12",
+            "structure": "Bgm49",
+            "version": "1.2.071"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Demon Slayer tutorial",
         "filename": "DespairOnDevil",
         "mark": "Leafre",
@@ -3414,6 +3432,24 @@
             "structure": "Bgm10"
         },
         "youtube": "rNnYpo9-cRw"
+    },
+    {
+        "description": "",
+        "filename": "EternalSwamp",
+        "mark": "TheLabyrinthOfSuffering",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Eternal Swamp",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-07-12",
+            "structure": "Bgm49",
+            "version": "1.2.071"
+        },
+        "youtube": ""
     },
     {
         "description": "",
@@ -4712,6 +4748,24 @@
             "version": "1.2.495"
         },
         "youtube": "STDN57rytW8"
+    },
+    {
+        "description": "",
+        "filename": "HeartofSuffering",
+        "mark": "TheLabyrinthOfSuffering",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Heart of Suffering",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-07-12",
+            "structure": "Bgm49",
+            "version": "1.2.071"
+        },
+        "youtube": ""
     },
     {
         "description": "Hearty Party Bear effect",
@@ -8474,6 +8528,24 @@
             "version": "1.2.294"
         },
         "youtube": "C0xN8QcxqXk"
+    },
+    {
+        "description": "",
+        "filename": "SecretLabyrinth",
+        "mark": "TheLabyrinthOfSuffering",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Secret Labyrinth",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-07-12",
+            "structure": "Bgm49",
+            "version": "1.2.071"
+        },
+        "youtube": ""
     },
     {
         "description": "",
