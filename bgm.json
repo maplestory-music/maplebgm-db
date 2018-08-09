@@ -159,7 +159,7 @@
             "structure": "BgmPL2",
             "version": "1.41"
         },
-        "youtube": ""
+        "youtube": "XT3xr3XouDE"
     },
     {
         "description": "Root Abyss: Vellum boss theme",
@@ -375,7 +375,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Appearance",
+            "subtitle": "Appearance",
+            "title": "Fragment of Fears",
             "year": "2018"
         },
         "source": {
@@ -384,7 +385,7 @@
             "structure": "BgmPL2",
             "version": "1.41"
         },
-        "youtube": ""
+        "youtube": "Zzx8UXRZ8rQ"
     },
     {
         "description": "Pianus boss theme",
@@ -702,7 +703,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Attack",
+            "subtitle": "Attack",
+            "title": "Assault!",
             "year": "2018"
         },
         "source": {
@@ -711,7 +713,7 @@
             "structure": "BgmPL2",
             "version": "1.41"
         },
-        "youtube": ""
+        "youtube": "d4pdDMxdgxQ"
     },
     {
         "description": "Kerning City",
@@ -3638,7 +3640,7 @@
             "structure": "BgmPL2",
             "version": "1.41"
         },
-        "youtube": ""
+        "youtube": "45BJJKZwCSs"
     },
     {
         "description": "Ludibirum Party Quest",
@@ -5588,7 +5590,7 @@
             "structure": "BgmPL2",
             "version": "1.41"
         },
-        "youtube": ""
+        "youtube": "0PHV9hE03Uk"
     },
     {
         "description": "Kerning Swamp",
@@ -5828,7 +5830,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Labor",
+            "subtitle": "Labor",
+            "title": "Ready, Steady, Solid!",
             "year": "2018"
         },
         "source": {
@@ -5837,7 +5840,7 @@
             "structure": "BgmPL2",
             "version": "1.41"
         },
-        "youtube": ""
+        "youtube": "xtVLjc3-Ey0"
     },
     {
         "description": "",
@@ -5846,7 +5849,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Labor MR",
+            "subtitle": "Labor MR",
+            "title": "Ready, Steady, Solid! -instrumental-",
             "year": "2018"
         },
         "source": {
@@ -5855,7 +5859,7 @@
             "structure": "BgmPL2",
             "version": "1.41"
         },
-        "youtube": ""
+        "youtube": "nnDUioqF7Wg"
     },
     {
         "description": "",
@@ -8359,7 +8363,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Reunite",
+            "subtitle": "Reunite",
+            "title": "The Veiled Truth",
             "year": "2018"
         },
         "source": {
@@ -8368,7 +8373,7 @@
             "structure": "BgmPL2",
             "version": "1.41"
         },
-        "youtube": ""
+        "youtube": "EOWkL4YKFHo"
     },
     {
         "description": "",
@@ -9181,7 +9186,7 @@
             "structure": "BgmPL2",
             "version": "1.41"
         },
-        "youtube": ""
+        "youtube": "YbAxZANl7us"
     },
     {
         "description": "Sleepywood",
@@ -9256,7 +9261,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Song of Hawar",
+            "subtitle": "Song of Hawar",
+            "title": "Would You Listen to My Story?",
             "year": "2018"
         },
         "source": {
@@ -9265,7 +9271,7 @@
             "structure": "BgmPL2",
             "version": "1.41"
         },
-        "youtube": ""
+        "youtube": "GsZwtyuWm2E"
     },
     {
         "description": "",
@@ -9274,7 +9280,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Song of Hawar MR",
+            "subtitle": "Song of Hawar MR",
+            "title": "Would You Listen to My Story? -instrumental-",
             "year": "2018"
         },
         "source": {
@@ -9283,7 +9290,7 @@
             "structure": "BgmPL2",
             "version": "1.41"
         },
-        "youtube": ""
+        "youtube": "oJw9nleaANQ"
     },
     {
         "description": "",
@@ -10426,7 +10433,7 @@
             "structure": "BgmPL2",
             "version": "1.41"
         },
-        "youtube": ""
+        "youtube": "ZfzIfNmDO5M"
     },
     {
         "description": "",
@@ -10435,7 +10442,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "The Way to Hope -gloomy-",
+            "subtitle": "The Way to Hope -gloomy-",
+            "title": "The Sorrowful Way",
             "year": "2018"
         },
         "source": {
@@ -10444,7 +10452,7 @@
             "structure": "BgmPL2",
             "version": "1.41"
         },
-        "youtube": ""
+        "youtube": "otoKaKYK62E"
     },
     {
         "description": "",
@@ -10453,7 +10461,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "The Way to Hope -gloomy- MR",
+            "subtitle": "The Way to Hope -gloomy- MR",
+            "title": "The Sorrowful Way -instrumental-",
             "year": "2018"
         },
         "source": {
@@ -10462,7 +10471,7 @@
             "structure": "BgmPL2",
             "version": "1.41"
         },
-        "youtube": ""
+        "youtube": "-h8kCcHjuz0"
     },
     {
         "description": "",
@@ -10480,7 +10489,7 @@
             "structure": "BgmPL2",
             "version": "1.41"
         },
-        "youtube": ""
+        "youtube": "kBO_ea9-UAI"
     },
     {
         "description": "",
@@ -11093,7 +11102,7 @@
             "structure": "BgmPL2",
             "version": "1.41"
         },
-        "youtube": ""
+        "youtube": "zmcpx21xxKg"
     },
     {
         "description": "Singapore: Ulu City",
@@ -11478,7 +11487,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Walk Together",
+            "subtitle": "Walk Together",
+            "title": "Along With You",
             "year": "2018"
         },
         "source": {
@@ -11487,7 +11497,7 @@
             "structure": "BgmPL2",
             "version": "1.41"
         },
-        "youtube": ""
+        "youtube": "hScIi77G0II"
     },
     {
         "description": "",
