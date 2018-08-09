@@ -7327,6 +7327,24 @@
     },
     {
         "description": "",
+        "filename": "NewBeginningNotTheEnd",
+        "mark": "Limen",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "New Beginning, Not the End",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-08-09",
+            "structure": "Bgm50",
+            "version": "1.2.303"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
         "filename": "newNanjinglu",
         "mark": "ShangHai",
         "metadata": {
