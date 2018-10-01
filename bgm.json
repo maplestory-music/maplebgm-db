@@ -8358,6 +8358,78 @@
     },
     {
         "description": "",
+        "filename": "RetroWorldBoss",
+        "mark": "PL_RetroWorld",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Retro World Boss",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-09-28",
+            "structure": "BgmPL",
+            "version": "1.43"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "RetroWorldDungeon",
+        "mark": "PL_RetroWorld",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Retro World Dungeon",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-09-28",
+            "structure": "BgmPL",
+            "version": "1.43"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "RetroWorldMiniGame",
+        "mark": "PL_RetroWorld",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Retro World Minigame",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-09-28",
+            "structure": "BgmPL",
+            "version": "1.43"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "RetroWorldTown",
+        "mark": "PL_RetroWorld",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Retro World Town",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-09-28",
+            "structure": "BgmPL",
+            "version": "1.43"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
         "filename": "Reunite",
         "mark": "PL_Abrup",
         "metadata": {
