@@ -1,6 +1,21 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## 2018.4 - 2018-10-07
+### Added
+- New music from Q3 2018
+- Links for 'Captain Vaga' and 'Monad'
+- Map icon and filename updates
+
+| Update        | Description                   |
+| ------------- | ----------------              |
+| KMS 1.2.300   | Additional Moonbridge tracks  |
+| KMST 1.2.071  | The Labyrinth of Suffering    |
+| CMST 1.41     | Monad                         |
+| KMST 1.2.072  | Limen & the Black Mage        |
+| KMS 1.2.303   | 'New Beginning, Not the End'  |
+| CMST 1.43     | Retro World                   |
+
 ## 2018.3 - 2018-07-06
 ### Added
 - New music from Q2 2018
