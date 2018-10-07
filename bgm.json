@@ -144,6 +144,24 @@
         "youtube": "F6LIFBVhObQ"
     },
     {
+        "description": "",
+        "filename": "Abrup",
+        "mark": "PL_Abrup",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Abrup",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-07-16",
+            "structure": "BgmPL2",
+            "version": "1.41"
+        },
+        "youtube": "XT3xr3XouDE"
+    },
+    {
         "description": "Root Abyss: Vellum boss theme",
         "filename": "AbyssCave",
         "mark": "Bellum",
@@ -349,6 +367,25 @@
             "version": "1.2.251"
         },
         "youtube": "4yW_ZefIg6Y"
+    },
+    {
+        "description": "",
+        "filename": "Appearance",
+        "mark": "PL_Abrup",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Appearance",
+            "title": "Fragment of Fears",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-07-16",
+            "structure": "BgmPL2",
+            "version": "1.41"
+        },
+        "youtube": "Zzx8UXRZ8rQ"
     },
     {
         "description": "Pianus boss theme",
@@ -660,6 +697,25 @@
         "youtube": "pamYmvKS0uU"
     },
     {
+        "description": "",
+        "filename": "Attack",
+        "mark": "PL_Abrup",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Attack",
+            "title": "Assault!",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-07-16",
+            "structure": "BgmPL2",
+            "version": "1.41"
+        },
+        "youtube": "d4pdDMxdgxQ"
+    },
+    {
         "description": "Kerning City",
         "filename": "BadGuys",
         "mark": "KerningCity",
@@ -732,7 +788,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Battle",
+            "subtitle": "Battle",
+            "title": "Unforgettable Gun",
             "year": "2018"
         },
         "source": {
@@ -741,7 +798,7 @@
             "structure": "PL_CaptainNomad",
             "version": "1.37"
         },
-        "youtube": ""
+        "youtube": "5faEeE3Z_fU"
     },
     {
         "description": "PvP: Background Music Type A",
@@ -1165,6 +1222,24 @@
     },
     {
         "description": "",
+        "filename": "BlackFury",
+        "mark": "Limen",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Black Fury",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-08-02",
+            "structure": "Bgm50",
+            "version": "1.2.072"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
         "filename": "Blackgate",
         "mark": "BlackgateCity",
         "metadata": {
@@ -1499,7 +1574,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Captain Vaga",
+            "subtitle": "Captain Vaga",
+            "title": "Escape",
             "year": "2018"
         },
         "source": {
@@ -1508,7 +1584,7 @@
             "structure": "PL_CaptainNomad",
             "version": "1.37"
         },
-        "youtube": ""
+        "youtube": "EYXHWkl_hnw"
     },
     {
         "description": "",
@@ -2753,6 +2829,24 @@
         "youtube": "RaXC3bWEYFc"
     },
     {
+        "description": "",
+        "filename": "DepthOfPain",
+        "mark": "TheLabyrinthOfSuffering",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Depth of Pain",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-07-12",
+            "structure": "Bgm49",
+            "version": "1.2.071"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Demon Slayer tutorial",
         "filename": "DespairOnDevil",
         "mark": "Leafre",
@@ -3415,6 +3509,24 @@
     },
     {
         "description": "",
+        "filename": "EternalSwamp",
+        "mark": "TheLabyrinthOfSuffering",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Eternal Swamp",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-07-12",
+            "structure": "Bgm49",
+            "version": "1.2.071"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
         "filename": "europe",
         "mark": "Event",
         "metadata": {
@@ -3511,6 +3623,24 @@
             "structure": "Bgm09"
         },
         "youtube": "7PO-m2atU2U"
+    },
+    {
+        "description": "",
+        "filename": "FallenThings",
+        "mark": "PL_Abrup",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Fallen Things",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-07-16",
+            "structure": "BgmPL2",
+            "version": "1.41"
+        },
+        "youtube": "45BJJKZwCSs"
     },
     {
         "description": "Ludibirum Party Quest",
@@ -3623,6 +3753,60 @@
             "date": "2018-06-28",
             "structure": "Bgm49",
             "version": "1.2.070"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "FerociousBattlefield_loop",
+        "mark": "moonBridge",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Ferocious Battlefield -loop-",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-07-05",
+            "structure": "Bgm49",
+            "version": "1.2.300"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "FerociousBattlefield_RiserEdit",
+        "mark": "moonBridge",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Ferocious Battlefield -riser edit-",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-07-05",
+            "structure": "Bgm49",
+            "version": "1.2.300"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "FerociousBattlefield_ShortEdit",
+        "mark": "moonBridge",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Ferocious Battlefield -short edit-",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-07-05",
+            "structure": "Bgm49",
+            "version": "1.2.300"
         },
         "youtube": ""
     },
@@ -4468,7 +4652,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Gunman",
+            "subtitle": "Gunman",
+            "title": "Western Gunman",
             "year": "2018"
         },
         "source": {
@@ -4477,7 +4662,7 @@
             "structure": "BgmPL",
             "version": "1.37"
         },
-        "youtube": ""
+        "youtube": "0F8ZQ1NqDSk"
     },
     {
         "description": "Halloween event",
@@ -4655,6 +4840,24 @@
             "version": "1.2.495"
         },
         "youtube": "STDN57rytW8"
+    },
+    {
+        "description": "",
+        "filename": "HeartofSuffering",
+        "mark": "TheLabyrinthOfSuffering",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Heart of Suffering",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-07-12",
+            "structure": "Bgm49",
+            "version": "1.2.071"
+        },
+        "youtube": ""
     },
     {
         "description": "Hearty Party Bear effect",
@@ -5200,7 +5403,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Into the Stars",
+            "subtitle": "Into the Stars",
+            "title": "Tomorrow",
             "year": "2018"
         },
         "source": {
@@ -5209,7 +5413,7 @@
             "structure": "PL_CaptainNomad",
             "version": "1.37"
         },
-        "youtube": ""
+        "youtube": "3OM9ZKFWD3s"
     },
     {
         "description": "",
@@ -5369,6 +5573,24 @@
             "version": "0.71"
         },
         "youtube": "2rMJrisBFJI"
+    },
+    {
+        "description": "",
+        "filename": "Julietta",
+        "mark": "PL_Abrup",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Julietta",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-07-16",
+            "structure": "BgmPL2",
+            "version": "1.41"
+        },
+        "youtube": "0PHV9hE03Uk"
     },
     {
         "description": "Kerning Swamp",
@@ -5600,6 +5822,44 @@
             "version": "0.61"
         },
         "youtube": "aJNseQp1Tb4"
+    },
+    {
+        "description": "",
+        "filename": "Labor",
+        "mark": "PL_Abrup",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Labor",
+            "title": "Ready, Steady, Solid!",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-07-16",
+            "structure": "BgmPL2",
+            "version": "1.41"
+        },
+        "youtube": "xtVLjc3-Ey0"
+    },
+    {
+        "description": "",
+        "filename": "Labor_MR",
+        "mark": "PL_Abrup",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Labor MR",
+            "title": "Ready, Steady, Solid! -instrumental-",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-07-16",
+            "structure": "BgmPL2",
+            "version": "1.41"
+        },
+        "youtube": "nnDUioqF7Wg"
     },
     {
         "description": "",
@@ -6060,6 +6320,24 @@
             "version": "3.47"
         },
         "youtube": "9zQXcyMz9Q4"
+    },
+    {
+        "description": "",
+        "filename": "LostSpace",
+        "mark": "Limen",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Lost Space",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-08-02",
+            "structure": "Bgm50",
+            "version": "1.2.072"
+        },
+        "youtube": ""
     },
     {
         "description": "",
@@ -7050,6 +7328,24 @@
             "version": "1.2.83"
         },
         "youtube": "up7ugury9zc"
+    },
+    {
+        "description": "",
+        "filename": "NewBeginningNotTheEnd",
+        "mark": "Limen",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "New Beginning, Not the End",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-08-09",
+            "structure": "Bgm50",
+            "version": "1.2.303"
+        },
+        "youtube": ""
     },
     {
         "description": "",
@@ -8062,6 +8358,97 @@
     },
     {
         "description": "",
+        "filename": "RetroWorldBoss",
+        "mark": "PL_RetroWorld",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Retro World Boss",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-09-28",
+            "structure": "BgmPL",
+            "version": "1.43"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "RetroWorldDungeon",
+        "mark": "PL_RetroWorld",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Retro World Dungeon",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-09-28",
+            "structure": "BgmPL",
+            "version": "1.43"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "RetroWorldMiniGame",
+        "mark": "PL_RetroWorld",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Retro World Minigame",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-09-28",
+            "structure": "BgmPL",
+            "version": "1.43"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "RetroWorldTown",
+        "mark": "PL_RetroWorld",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Retro World Town",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-09-28",
+            "structure": "BgmPL",
+            "version": "1.43"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
+        "filename": "Reunite",
+        "mark": "PL_Abrup",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Reunite",
+            "title": "The Veiled Truth",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-07-16",
+            "structure": "BgmPL2",
+            "version": "1.41"
+        },
+        "youtube": "EOWkL4YKFHo"
+    },
+    {
+        "description": "",
         "filename": "rhythmBgm1",
         "mark": "mRhythm",
         "metadata": {
@@ -8416,6 +8803,24 @@
             "version": "1.2.294"
         },
         "youtube": "C0xN8QcxqXk"
+    },
+    {
+        "description": "",
+        "filename": "SecretLabyrinth",
+        "mark": "TheLabyrinthOfSuffering",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Secret Labyrinth",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-07-12",
+            "structure": "Bgm49",
+            "version": "1.2.071"
+        },
+        "youtube": ""
     },
     {
         "description": "",
@@ -8838,6 +9243,24 @@
         "youtube": "ZmkzRBeqCYQ"
     },
     {
+        "description": "",
+        "filename": "SleepingForest",
+        "mark": "PL_Abrup",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Sleeping Forest",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-07-16",
+            "structure": "BgmPL2",
+            "version": "1.41"
+        },
+        "youtube": "YbAxZANl7us"
+    },
+    {
         "description": "Sleepywood",
         "filename": "SleepyWood",
         "mark": "Dungeon",
@@ -8902,6 +9325,44 @@
             "structure": "Bgm03"
         },
         "youtube": "X6X7U5V9Obk"
+    },
+    {
+        "description": "",
+        "filename": "SongOfHawar",
+        "mark": "PL_Abrup",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Song of Hawar",
+            "title": "Would You Listen to My Story?",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-07-16",
+            "structure": "BgmPL2",
+            "version": "1.41"
+        },
+        "youtube": "GsZwtyuWm2E"
+    },
+    {
+        "description": "",
+        "filename": "SongOfHawar_MR",
+        "mark": "PL_Abrup",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Song of Hawar MR",
+            "title": "Would You Listen to My Story? -instrumental-",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-07-16",
+            "structure": "BgmPL2",
+            "version": "1.41"
+        },
+        "youtube": "oJw9nleaANQ"
     },
     {
         "description": "",
@@ -9250,6 +9711,24 @@
         "youtube": "AZU1lB4WrlU"
     },
     {
+        "description": "",
+        "filename": "SubterminalPoint",
+        "mark": "Limen",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Subterminal Point",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-08-02",
+            "structure": "Bgm50",
+            "version": "1.2.072"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Kerning Subway",
         "filename": "Subway",
         "mark": "KerningCity",
@@ -9395,6 +9874,24 @@
     },
     {
         "description": "",
+        "filename": "TearsOfTheWorld",
+        "mark": "Limen",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Tears of the World",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-08-02",
+            "structure": "Bgm50",
+            "version": "1.2.072"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "",
         "filename": "TempleInTheMirror",
         "mark": "esfera",
         "metadata": {
@@ -9430,6 +9927,24 @@
             "version": "1.2.063"
         },
         "youtube": "-tLsmmRE2tk"
+    },
+    {
+        "description": "",
+        "filename": "TempleOfDarkness",
+        "mark": "Limen",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Temple of Darkness",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-08-02",
+            "structure": "Bgm50",
+            "version": "1.2.072"
+        },
+        "youtube": ""
     },
     {
         "description": "",
@@ -9975,6 +10490,98 @@
         "youtube": "5Uu68ZwkzrM"
     },
     {
+        "description": "",
+        "filename": "TheWaytoHope",
+        "mark": "PL_Abrup",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "The Way to Hope",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-07-16",
+            "structure": "BgmPL2",
+            "version": "1.41"
+        },
+        "youtube": "ZfzIfNmDO5M"
+    },
+    {
+        "description": "",
+        "filename": "TheWaytoHope_gloomy",
+        "mark": "PL_Abrup",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "The Way to Hope -gloomy-",
+            "title": "The Sorrowful Way",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-07-16",
+            "structure": "BgmPL2",
+            "version": "1.41"
+        },
+        "youtube": "otoKaKYK62E"
+    },
+    {
+        "description": "",
+        "filename": "TheWaytoHope_gloomy_MR",
+        "mark": "PL_Abrup",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "The Way to Hope -gloomy- MR",
+            "title": "The Sorrowful Way -instrumental-",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-07-16",
+            "structure": "BgmPL2",
+            "version": "1.41"
+        },
+        "youtube": "-h8kCcHjuz0"
+    },
+    {
+        "description": "",
+        "filename": "TheWaytoHope_MR",
+        "mark": "PL_Abrup",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "The Way to Hope MR",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-07-16",
+            "structure": "BgmPL2",
+            "version": "1.41"
+        },
+        "youtube": "kBO_ea9-UAI"
+    },
+    {
+        "description": "",
+        "filename": "TheWorld’sEnd",
+        "mark": "Limen",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "The World’s End",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-08-02",
+            "structure": "Bgm50",
+            "version": "1.2.072"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Ludibrium Party Quest boss theme",
         "filename": "TheyMenacingYou",
         "mark": "AbandonTower",
@@ -10006,6 +10613,24 @@
             "version": "1.2.017"
         },
         "youtube": "_2LRgRV1J_8"
+    },
+    {
+        "description": "",
+        "filename": "ThroneOfDarkness",
+        "mark": "Limen",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Throne of Darkness",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-08-02",
+            "structure": "Bgm50",
+            "version": "1.2.072"
+        },
+        "youtube": ""
     },
     {
         "description": "",
@@ -10534,6 +11159,24 @@
         "youtube": "cOxp5RHqmjk"
     },
     {
+        "description": "",
+        "filename": "Turbulence",
+        "mark": "PL_Abrup",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Turbulence",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-07-16",
+            "structure": "BgmPL2",
+            "version": "1.41"
+        },
+        "youtube": "zmcpx21xxKg"
+    },
+    {
         "description": "Singapore: Ulu City",
         "filename": "Ulu_field",
         "mark": "Singapore",
@@ -10908,6 +11551,25 @@
             "version": "1.2.035"
         },
         "youtube": "TihEE_rTcW4"
+    },
+    {
+        "description": "",
+        "filename": "WalkTogether",
+        "mark": "PL_Abrup",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Walk Together",
+            "title": "Along With You",
+            "year": "2018"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2018-07-16",
+            "structure": "BgmPL2",
+            "version": "1.41"
+        },
+        "youtube": "hScIi77G0II"
     },
     {
         "description": "",
@@ -11470,6 +12132,24 @@
             "structure": "Bgm05"
         },
         "youtube": "1MPBnVU8_I4"
+    },
+    {
+        "description": "",
+        "filename": "WorldHorizon",
+        "mark": "Limen",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "World Horizon",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-08-02",
+            "structure": "Bgm50",
+            "version": "1.2.072"
+        },
+        "youtube": ""
     },
     {
         "description": "",
