@@ -2001,6 +2001,24 @@
         "youtube": "h_jJjw1TPyY"
     },
     {
+        "description": "",
+        "filename": "clubHalloween",
+        "mark": "event_clubHalloween",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Club Halloween",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2018-10-18",
+            "structure": "BgmEvent2",
+            "version": "1.2.307"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Coke Town",
         "filename": "CokeTown",
         "mark": "CokeTown",
