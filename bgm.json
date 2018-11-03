@@ -5506,7 +5506,7 @@
         "youtube": "GHpl05PmtOs"
     },
     {
-        "description": "Monster Life",
+        "description": "Monster Life release monsters",
         "filename": "journey",
         "mark": "Quest",
         "metadata": {
@@ -6895,7 +6895,7 @@
         "youtube": "w_5ZtzdMFeM"
     },
     {
-        "description": "",
+        "description": "Mole King boss theme",
         "filename": "MoleKingRises",
         "mark": "fairyAcademy",
         "metadata": {
@@ -7117,7 +7117,7 @@
         "youtube": "2VMCpGe9MGc"
     },
     {
-        "description": "",
+        "description": "Mirror World: Mu Lung",
         "filename": "MureungHillInMirror",
         "mark": "Murueng",
         "metadata": {
@@ -7225,7 +7225,7 @@
         "youtube": "eSfkxogXQRE"
     },
     {
-        "description": "",
+        "description": "Shadow Village, Zero quest",
         "filename": "NastyLiar",
         "mark": "ShadowTemple",
         "metadata": {
@@ -8201,7 +8201,7 @@
         "youtube": "DhUdOO9UNwY"
     },
     {
-        "description": "",
+        "description": "Mirror World Control Room",
         "filename": "RedRoom",
         "mark": "RedTemple",
         "metadata": {
@@ -8219,7 +8219,7 @@
         "youtube": "jA3aul7iWOU"
     },
     {
-        "description": "incomplete version",
+        "description": "Mirror World Control Room (Incomplete)",
         "filename": "RedRoom (Incomplete)",
         "mark": "RedTemple",
         "metadata": {
@@ -8415,7 +8415,7 @@
         "youtube": "EOWkL4YKFHo"
     },
     {
-        "description": "",
+        "description": "Mesoranger dance event",
         "filename": "rhythmBgm1",
         "mark": "mRhythm",
         "metadata": {
@@ -8433,7 +8433,7 @@
         "youtube": "siOIcI8Fa3A"
     },
     {
-        "description": "",
+        "description": "Mesoranger dance event",
         "filename": "rhythmBgm2",
         "mark": "mRhythm",
         "metadata": {
@@ -8505,7 +8505,7 @@
         "youtube": "oyLNri1VuOM"
     },
     {
-        "description": "",
+        "description": "Bamon League",
         "filename": "rock'nBattle",
         "mark": "Quest",
         "metadata": {
@@ -8559,7 +8559,7 @@
         "youtube": "ygZRlNsI0u8"
     },
     {
-        "description": "",
+        "description": "Elite Boss theme",
         "filename": "RoyalGuard",
         "mark": "Quest",
         "metadata": {
@@ -8610,7 +8610,7 @@
         "youtube": "XhbKFnWl9R8"
     },
     {
-        "description": "",
+        "description": "Rainy Fox Point Village",
         "filename": "sadfoxvillage",
         "mark": "foxvillage",
         "metadata": {
@@ -8628,7 +8628,7 @@
         "youtube": "4oNXYkRrf-g"
     },
     {
-        "description": "",
+        "description": "Sailing on the Riena Strait",
         "filename": "Sailing",
         "mark": "glacierExplorer",
         "metadata": {
@@ -8646,9 +8646,9 @@
         "youtube": "Cejub3b907A"
     },
     {
-        "description": "",
+        "description": "Mesoranger dance event (winter)",
         "filename": "santaBeats",
-        "mark": "HappyVillage",
+        "mark": "mRhythm",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -8664,9 +8664,9 @@
         "youtube": "6AY9MkUSc9s"
     },
     {
-        "description": "",
+        "description": "Mesoranger dance event (winter)",
         "filename": "santaRocks",
-        "mark": "HappyVillage",
+        "mark": "mRhythm",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -8700,7 +8700,7 @@
         "youtube": "USf5VrWCrSk"
     },
     {
-        "description": "",
+        "description": "Monster Life: Jules' House",
         "filename": "scholarsLibrary",
         "mark": "Quest",
         "metadata": {
@@ -8862,7 +8862,7 @@
         "youtube": "bDKPdN8rUko"
     },
     {
-        "description": "",
+        "description": "Shadow Knight theme, Zero quest",
         "filename": "ShadowKnight",
         "mark": "ShadowTemple",
         "metadata": {
@@ -8880,7 +8880,7 @@
         "youtube": "TAzZTAiIrXI"
     },
     {
-        "description": "",
+        "description": "Shadow Temple, Zero quest",
         "filename": "ShadowTemple",
         "mark": "ShadowTemple",
         "metadata": {
@@ -9069,42 +9069,6 @@
         "youtube": "4COWF5TAciY"
     },
     {
-        "description": "renamed as 'specialtyStore'",
-        "filename": "showmetheMoney",
-        "mark": "Quest",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Show Me the Money",
-            "year": "2013"
-        },
-        "source": {
-            "client": "KMST",
-            "date": "2013-01-04",
-            "structure": "Bgm31",
-            "version": "1.2.464"
-        },
-        "youtube": "Mf0YGaqueqQ"
-    },
-    {
-        "description": "renamed as 'specialtyStoreRemix'",
-        "filename": "showmetheMoreMoney",
-        "mark": "Quest",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Show Me More Money",
-            "year": "2013"
-        },
-        "source": {
-            "client": "KMST",
-            "date": "2013-01-04",
-            "structure": "Bgm31",
-            "version": "1.2.464"
-        },
-        "youtube": "hnWokhTVSO4"
-    },
-    {
         "description": "",
         "filename": "Showtime!",
         "mark": "HofM",
@@ -9210,7 +9174,7 @@
         "youtube": "tWCWIhA3XQw"
     },
     {
-        "description": "",
+        "description": "Zero quest gag scene",
         "filename": "SmileZero",
         "mark": "ZeroTemple",
         "metadata": {
@@ -9392,7 +9356,7 @@
         "youtube": "0-ANvxookZ0"
     },
     {
-        "description": "",
+        "description": "Monster Life store",
         "filename": "specialtyStore",
         "mark": "Quest",
         "metadata": {
@@ -9403,14 +9367,14 @@
         },
         "source": {
             "client": "KMST",
-            "date": "2013-01-10",
+            "date": "2013-01-04",
             "structure": "Bgm31",
-            "version": "1.2.465"
+            "version": "1.2.464"
         },
         "youtube": "Mf0YGaqueqQ"
     },
     {
-        "description": "",
+        "description": "Monster Life special store",
         "filename": "specialtyStoreRemix",
         "mark": "Quest",
         "metadata": {
@@ -9421,9 +9385,9 @@
         },
         "source": {
             "client": "KMST",
-            "date": "2013-01-10",
+            "date": "2013-01-04",
             "structure": "Bgm31",
-            "version": "1.2.465"
+            "version": "1.2.464"
         },
         "youtube": "hnWokhTVSO4"
     },
