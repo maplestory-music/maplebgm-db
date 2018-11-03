@@ -210,7 +210,7 @@
         "youtube": "fdoT7nTWMO8"
     },
     {
-        "description": "",
+        "description": "Black Mage's Room",
         "filename": "AgainstTheDark",
         "mark": "MushroomVillage",
         "metadata": {
@@ -466,7 +466,7 @@
         "youtube": "w1RgDSoOajw"
     },
     {
-        "description": "",
+        "description": "Mirror World: Ariant",
         "filename": "AriantInMirror",
         "mark": "Ariant",
         "metadata": {
@@ -1101,7 +1101,7 @@
         "youtube": "-aT2UF3yW1I"
     },
     {
-        "description": "",
+        "description": "Zero's Temple",
         "filename": "BeBornZero",
         "mark": "ZeroTemple",
         "metadata": {
@@ -1569,7 +1569,7 @@
         "youtube": "EYXHWkl_hnw"
     },
     {
-        "description": "",
+        "description": "Capture the Flag event",
         "filename": "captureTheFlag",
         "mark": "Event",
         "metadata": {
@@ -2031,7 +2031,7 @@
         "youtube": "sNCwJu5Buz0"
     },
     {
-        "description": "",
+        "description": "Commerci Trade Voyage boss theme",
         "filename": "commerceBattle",
         "mark": "CommerzBT",
         "metadata": {
@@ -2049,7 +2049,7 @@
         "youtube": "Ej3m8ukDOlk"
     },
     {
-        "description": "",
+        "description": "Commerci Trade Voyage",
         "filename": "commercIng",
         "mark": "CommerzBT",
         "metadata": {
@@ -2067,7 +2067,7 @@
         "youtube": "JvaxNdKZS3I"
     },
     {
-        "description": "",
+        "description": "Commerci Republic: Berry",
         "filename": "commerzBeach",
         "mark": "CommerzBT",
         "metadata": {
@@ -2085,7 +2085,7 @@
         "youtube": "rb-9IQLFi4U"
     },
     {
-        "description": "",
+        "description": "Commerci Republic: San Commerci",
         "filename": "commerzCanal",
         "mark": "CommerzBT",
         "metadata": {
@@ -2280,7 +2280,7 @@
         "youtube": "-ZZXlwRvUyA"
     },
     {
-        "description": "",
+        "description": "Coordi King event",
         "filename": "coordiKing",
         "mark": "Event",
         "metadata": {
@@ -2670,9 +2670,9 @@
         "youtube": "kdpm4JVZ9gg"
     },
     {
-        "description": "",
+        "description": "Shade tutorial",
         "filename": "decision",
-        "mark": "foxvillage",
+        "mark": "BlackDragon",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -2883,7 +2883,7 @@
         "youtube": "vZybFbSlUgc"
     },
     {
-        "description": "",
+        "description": "Twilight Perion",
         "filename": "destructionPerion",
         "mark": "destructionPerion",
         "metadata": {
@@ -2901,7 +2901,7 @@
         "youtube": "wyDck95mbDc"
     },
     {
-        "description": "original version",
+        "description": "Twilight Perion (Original)",
         "filename": "destructionPerion (Original)",
         "mark": "destructionPerion",
         "metadata": {
@@ -2919,7 +2919,7 @@
         "youtube": "jYjUenKrOQ4"
     },
     {
-        "description": "",
+        "description": "Twilight Perion field",
         "filename": "destructionPerionShelter",
         "mark": "destructionPerion",
         "metadata": {
@@ -2991,7 +2991,7 @@
         "youtube": "MkXfT5oIfaU"
     },
     {
-        "description": "",
+        "description": "Grand Athenaeum",
         "filename": "DimensionLibrary",
         "mark": "Library",
         "metadata": {
@@ -3009,7 +3009,7 @@
         "youtube": "rrPNjni4GuI"
     },
     {
-        "description": "original version",
+        "description": "Grand Athenaeum (Original)",
         "filename": "DimensionLibrary (Original)",
         "mark": "Library",
         "metadata": {
@@ -3042,7 +3042,7 @@
         "youtube": "5FDFLwPw0bU"
     },
     {
-        "description": "",
+        "description": "Mirror World: Magatia",
         "filename": "DisputeInMirror",
         "mark": "Magatia",
         "metadata": {
@@ -3339,7 +3339,7 @@
         "youtube": "Iayh6shDnwQ"
     },
     {
-        "description": "",
+        "description": "Mirror World: Edelstein",
         "filename": "EdelsteinCityInMirror",
         "mark": "Edelstein",
         "metadata": {
