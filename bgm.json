@@ -1367,24 +1367,6 @@
         "youtube": "bJHTXa3HfTs"
     },
     {
-        "description": "Also known as Injustice",
-        "filename": "BlueEreb",
-        "mark": "Ereb",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Blue Ereve",
-            "year": "2011"
-        },
-        "source": {
-            "client": "KMST",
-            "date": "2011-12-09",
-            "structure": "Bgm18",
-            "version": "1.2.411"
-        },
-        "youtube": "Dt4hq7RKhsA"
-    },
-    {
         "description": "Kerning L Forest, Mushroom Castle",
         "filename": "BlueSky",
         "mark": "KerningCity",
@@ -3166,21 +3148,6 @@
             "version": "1.2.062"
         },
         "youtube": "v-fmYBMhh88"
-    },
-    {
-        "description": "A copy of AncientMove",
-        "filename": "DownToTheCave",
-        "mark": "Dungeon",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Down to the Cave",
-            "year": "2003"
-        },
-        "source": {
-            "structure": "Bgm05"
-        },
-        "youtube": "w9HagZ099c0"
     },
     {
         "description": "Korean Folk Town",
@@ -5354,9 +5321,9 @@
         },
         "source": {
             "client": "KMST",
-            "date": "2011-12-22",
+            "date": "2011-12-09",
             "structure": "Bgm18",
-            "version": "1.2.413"
+            "version": "1.2.411"
         },
         "youtube": "Dt4hq7RKhsA"
     },
@@ -5682,7 +5649,7 @@
     {
         "description": "Japanese wedding ceremony",
         "filename": "Kecon",
-        "mark": "jipangu",
+        "mark": "Wedding",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -6984,7 +6951,7 @@
     {
         "description": "Zipangu: Momiji Hills",
         "filename": "MomijiNoSakamichi",
-        "mark": "Ogassenn",
+        "mark": "Momijigaoka",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -8879,7 +8846,7 @@
     {
         "description": "Takigawa Kazumasu boss theme, Sengoku quest",
         "filename": "SengokuBoss",
-        "mark": "Ogassenn",
+        "mark": "Honnouji",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -8893,24 +8860,6 @@
             "version": "3.00"
         },
         "youtube": "OKufViI86Tk"
-    },
-    {
-        "description": "A copy of MomijiNoSakamichi",
-        "filename": "SengokuOgassenn",
-        "mark": "Ogassenn",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Sengoku Ogassenn",
-            "year": "2012"
-        },
-        "source": {
-            "client": "JMS",
-            "date": "2012-07-11",
-            "structure": "BgmJp3",
-            "version": "3.00"
-        },
-        "youtube": "Vwn3_L3hyqY"
     },
     {
         "description": "Luminous quest",
@@ -8980,21 +8929,6 @@
             "structure": "BgmCN"
         },
         "youtube": "by7VRYj4HU4"
-    },
-    {
-        "description": "China: Shanghai field (Original)",
-        "filename": "ShanghaiField (Original)",
-        "mark": "ShangHai",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Shanghai Field (Original)",
-            "year": "2006"
-        },
-        "source": {
-            "structure": "BgmCN"
-        },
-        "youtube": "Z1_N3UkmaMM"
     },
     {
         "description": "China: Shaolin Temple - Sutra Depository (old map ver.)",
