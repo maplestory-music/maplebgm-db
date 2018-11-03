@@ -3676,7 +3676,7 @@
         "youtube": "49AZqVhXVeU"
     },
     {
-        "description": "",
+        "description": "Mirror World: Ludibrium",
         "filename": "FantasticThinkingInMirror",
         "mark": "Ludibrium",
         "metadata": {
@@ -3925,7 +3925,7 @@
         "youtube": "s2_MAplvHeQ"
     },
     {
-        "description": "",
+        "description": "Mirror World: Henesys",
         "filename": "FloralLifeInMirror",
         "mark": "Henesys",
         "metadata": {
@@ -4081,7 +4081,7 @@
         "youtube": "aSTjTjakW8s"
     },
     {
-        "description": "",
+        "description": "Fox Point Village",
         "filename": "foxvillage",
         "mark": "foxvillage",
         "metadata": {
@@ -4271,7 +4271,7 @@
         "youtube": "30PL_lLEBxU"
     },
     {
-        "description": "",
+        "description": "Riena Strait",
         "filename": "GlacierAdventure",
         "mark": "glacierExplorer",
         "metadata": {
@@ -4397,7 +4397,7 @@
         "youtube": "8i-FBUlGSdA"
     },
     {
-        "description": "",
+        "description": "Adventurer animation intro",
         "filename": "GoFight!ShowYourEnergy!",
         "mark": "MushroomVillage",
         "metadata": {
@@ -4719,9 +4719,9 @@
         "youtube": "1nj0TXt_23c"
     },
     {
-        "description": "renamed to 'HappyTimeLong'",
-        "filename": "HappyTime",
-        "mark": "Quest",
+        "description": "11th anniversary festival",
+        "filename": "HappyTimeLong",
+        "mark": "15st",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -4737,25 +4737,7 @@
         "youtube": "wzBIoro1jIs"
     },
     {
-        "description": "",
-        "filename": "HappyTimeLong",
-        "mark": "Quest",
-        "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Happy Time (Long Version)",
-            "year": "2013"
-        },
-        "source": {
-            "client": "KMS",
-            "date": "2013-12-18",
-            "structure": "Bgm36",
-            "version": "1.2.206"
-        },
-        "youtube": "wzBIoro1jIs"
-    },
-    {
-        "description": "",
+        "description": "Elite Boss bonus stage",
         "filename": "HappyTimeShort",
         "mark": "Quest",
         "metadata": {
@@ -4911,7 +4893,7 @@
         "youtube": "WdC3AVPb6Ds"
     },
     {
-        "description": "",
+        "description": "Hekaton boss theme",
         "filename": "Hekaton",
         "mark": "critias",
         "metadata": {
@@ -5346,7 +5328,7 @@
         "youtube": "eZ8LtJlzvyU"
     },
     {
-        "description": "",
+        "description": "Kritias",
         "filename": "InRuinInVain",
         "mark": "critias",
         "metadata": {
@@ -5437,7 +5419,7 @@
         "youtube": "I_p0XgfuoxE"
     },
     {
-        "description": "",
+        "description": "Monster Life farm",
         "filename": "itsmonstersLife",
         "mark": "Quest",
         "metadata": {
@@ -5455,7 +5437,7 @@
         "youtube": "xGQTqjUJ3Rk"
     },
     {
-        "description": "",
+        "description": "Monster Life farm",
         "filename": "itsmonstersLife2",
         "mark": "Quest",
         "metadata": {
@@ -5524,7 +5506,7 @@
         "youtube": "GHpl05PmtOs"
     },
     {
-        "description": "",
+        "description": "Monster Life",
         "filename": "journey",
         "mark": "Quest",
         "metadata": {
@@ -5701,7 +5683,7 @@
         "youtube": "MmWrqpV7f0Q"
     },
     {
-        "description": "",
+        "description": "New Year's Eve kite event",
         "filename": "kiteBgm",
         "mark": "Kite",
         "metadata": {
@@ -6078,7 +6060,7 @@
         "youtube": "theIdIhZzVE"
     },
     {
-        "description": "",
+        "description": "Mirror World: Leafre",
         "filename": "LeafreInMirror",
         "mark": "Leafre",
         "metadata": {
@@ -6507,9 +6489,9 @@
         "youtube": "EJxiydqtb0k"
     },
     {
-        "description": "",
+        "description": "Maple Island",
         "filename": "MapleLeaf",
-        "mark": "MushroomVillage",
+        "mark": "Amherst",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -6754,7 +6736,7 @@
         "youtube": "8LaAGZ5kxvk"
     },
     {
-        "description": "",
+        "description": "Mini Game Station event",
         "filename": "miniGameStation",
         "mark": "MinigameStation",
         "metadata": {
