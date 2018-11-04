@@ -1857,7 +1857,7 @@
         "youtube": "pwfLT4LJkSA"
     },
     {
-        "description": "Mr. Lee Airlines: China",
+        "description": "Mr. Lee's Airlines: China",
         "filename": "china",
         "mark": "Event",
         "metadata": {
@@ -3096,7 +3096,7 @@
         "youtube": "FbxAXcvyHns"
     },
     {
-        "description": "",
+        "description": "Night Walker's Dominion skill",
         "filename": "Dominion",
         "mark": "Quest",
         "metadata": {
@@ -3231,7 +3231,7 @@
         "youtube": "s6zoD2gnYrA"
     },
     {
-        "description": "",
+        "description": "Beasts of Fury: Gold Dragon Dojo interior",
         "filename": "DragonTigerDungeon",
         "mark": "CN_DragonTiger",
         "metadata": {
@@ -3249,7 +3249,7 @@
         "youtube": "apwKSQfDkvY"
     },
     {
-        "description": "",
+        "description": "Beasts of Fury: Gold Dragon Dojo exterior",
         "filename": "DragonTigerField",
         "mark": "CN_DragonTiger",
         "metadata": {
@@ -3511,7 +3511,7 @@
         "youtube": "WmjjFgyjyWs"
     },
     {
-        "description": "",
+        "description": "Mr. Lee's Airlines: Europe",
         "filename": "europe",
         "mark": "Event",
         "metadata": {
@@ -3961,7 +3961,7 @@
         "youtube": "SwDcv_pK_Mo"
     },
     {
-        "description": "",
+        "description": "Mushroom Castle storyline conclusion",
         "filename": "FlowerVioleta",
         "mark": "flowervioleta",
         "metadata": {
@@ -3979,7 +3979,7 @@
         "youtube": "OGyMx7IL8es"
     },
     {
-        "description": "",
+        "description": "Mushroom Castle storyline conclusion",
         "filename": "FlowerVioletaInst",
         "mark": "flowervioleta",
         "metadata": {
@@ -4180,13 +4180,13 @@
         "youtube": "JSPCrPrepRE"
     },
     {
-        "description": "",
+        "description": "Tokyo: Kabukicho",
         "filename": "Gabuki",
         "mark": "JP_Kabukicho",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
-            "title": "Gabuki",
+            "title": "Kabuki",
             "year": "2014"
         },
         "source": {
@@ -4559,7 +4559,7 @@
         "youtube": "rsASgHchliQ"
     },
     {
-        "description": "",
+        "description": "Lotus boss theme (Phase 1)",
         "filename": "Gravity Core",
         "mark": "BlockBuster",
         "metadata": {
@@ -4577,7 +4577,7 @@
         "youtube": "pioNmMn2L5Q"
     },
     {
-        "description": "",
+        "description": "Lotus boss theme (Phase 2)",
         "filename": "Gravity Lord",
         "mark": "BlockBuster",
         "metadata": {
@@ -4595,7 +4595,7 @@
         "youtube": "mVv9bsnDDz8"
     },
     {
-        "description": "",
+        "description": "Lotus boss theme (Phase 3)",
         "filename": "Gravity Lord Rise",
         "mark": "BlockBuster",
         "metadata": {
@@ -4791,7 +4791,7 @@
         "youtube": "GgTVmLfhYnA"
     },
     {
-        "description": "",
+        "description": "Tower of Oz - 26F, 27F, 34F",
         "filename": "HazardFromCave",
         "mark": "aquarisTower",
         "metadata": {
@@ -4857,7 +4857,7 @@
         "youtube": "fFPEeCpJ1I4"
     },
     {
-        "description": "",
+        "description": "Black Heaven epilogue",
         "filename": "HeavenAgain",
         "mark": "BlockBuster",
         "metadata": {
@@ -4875,7 +4875,7 @@
         "youtube": "vVcbVrfH4NE"
     },
     {
-        "description": "",
+        "description": "Black Heaven epilogue",
         "filename": "HeavenAgain_reprise",
         "mark": "BlockBuster",
         "metadata": {
@@ -4980,7 +4980,7 @@
         "youtube": "923LpjaA9Ps"
     },
     {
-        "description": "",
+        "description": "Black Heaven deck battle",
         "filename": "HeroComes",
         "mark": "BlockBuster",
         "metadata": {
@@ -5088,7 +5088,7 @@
         "youtube": "PYGOnSNO79o"
     },
     {
-        "description": "",
+        "description": "Zipangu: Hieizan Temple",
         "filename": "Hieijan",
         "mark": "JP_Hieijan",
         "metadata": {
