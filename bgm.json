@@ -1369,7 +1369,7 @@
     {
         "description": "Kerning L Forest, Mushroom Castle",
         "filename": "BlueSky",
-        "mark": "KerningCity",
+        "mark": "MushCatle",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -7209,7 +7209,7 @@
     {
         "description": "Mushroom Castle",
         "filename": "MushroomCastle",
-        "mark": "MushCatle",
+        "mark": "flowervioleta",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -9896,7 +9896,7 @@
         "youtube": "g1aZRs_r2nA"
     },
     {
-        "description": "",
+        "description": "Mr. Lee's Airlines: Thailand",
         "filename": "thailand",
         "mark": "Event",
         "metadata": {
@@ -10034,7 +10034,7 @@
         "youtube": "axRaC6qDdLk"
     },
     {
-        "description": "",
+        "description": "Tower of Oz shelter (5F, 15F, 25F, 35F, 45F)",
         "filename": "TheBottomOfTheSea",
         "mark": "aquarisTower",
         "metadata": {
@@ -10088,7 +10088,7 @@
         "youtube": "9v6d8N3N9HY"
     },
     {
-        "description": "",
+        "description": "Black Heaven - Francis' theme",
         "filename": "TheDollMaster",
         "mark": "BlockBuster",
         "metadata": {
@@ -10753,7 +10753,7 @@
         "youtube": "1GA7nJdEvN8"
     },
     {
-        "description": "Idina Menzel - Let It Go",
+        "description": "Frozen collaboration login theme",
         "filename": "Title_Frozen",
         "mark": "Quest",
         "metadata": {
@@ -10949,9 +10949,9 @@
         "youtube": "v6xiH8VbBKY"
     },
     {
-        "description": "",
+        "description": "Attack on Titan: Cadet Corps Drill Area",
         "filename": "Traning",
-        "mark": "AoT",
+        "mark": "AoT1",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -11217,7 +11217,7 @@
         "youtube": "fTYJEdEcTbA"
     },
     {
-        "description": "",
+        "description": "Shinsoo International School City Center",
         "filename": "UrbanStreet",
         "mark": "spinOff1",
         "metadata": {
@@ -11271,7 +11271,7 @@
         "youtube": "0CRF8AJH6NA"
     },
     {
-        "description": "",
+        "description": "Tower of Oz lobby",
         "filename": "VentureIntoTheUnkown",
         "mark": "aquarisTower",
         "metadata": {
@@ -11379,9 +11379,9 @@
         "youtube": "5mc1scCcHwY"
     },
     {
-        "description": "",
+        "description": "Mushroom Castle: Viking Airship",
         "filename": "VikingShip",
-        "mark": "MushCatle",
+        "mark": "flowervioleta",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -11397,9 +11397,9 @@
         "youtube": "8BuKesi-Gc4"
     },
     {
-        "description": "",
+        "description": "Mushroom Castle: Black Viking's Quarters",
         "filename": "VikingSkipper",
-        "mark": "MushCatle",
+        "mark": "flowervioleta",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -11415,9 +11415,9 @@
         "youtube": "6gw2psbpUhI"
     },
     {
-        "description": "",
+        "description": "Star Planet: Fight! Return of the Legends",
         "filename": "VirtualArena",
-        "mark": "Event",
+        "mark": "Starplanet",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -11470,9 +11470,9 @@
         "youtube": "hScIi77G0II"
     },
     {
-        "description": "",
+        "description": "Attack on Titan: Wall Rose",
         "filename": "Wall01",
-        "mark": "AoT",
+        "mark": "AoT2",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -11488,9 +11488,9 @@
         "youtube": "KsdCs_xSpww"
     },
     {
-        "description": "",
+        "description": "Attack on Titan: Wall Rose titan battle",
         "filename": "Wall02",
-        "mark": "AoT",
+        "mark": "AoT2",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -11506,9 +11506,9 @@
         "youtube": "9AaCc7VGMc0"
     },
     {
-        "description": "",
+        "description": "Attack on Titan: Trost District",
         "filename": "WallLoadCity",
-        "mark": "AoT",
+        "mark": "AoT2",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -11572,9 +11572,9 @@
         "youtube": "MBmPOY2PA2Q"
     },
     {
-        "description": "",
+        "description": "Mushroom Castle walls",
         "filename": "WarMushCastle",
-        "mark": "MushCatle",
+        "mark": "flowervioleta",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -12149,7 +12149,7 @@
         "youtube": "58QPkwCSd4Y"
     },
     {
-        "description": "",
+        "description": "Star Planet game in progress",
         "filename": "YUTYUTYUT",
         "mark": "Starplanet",
         "metadata": {
