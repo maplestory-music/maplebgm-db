@@ -6289,6 +6289,24 @@
         "youtube": "9zQXcyMz9Q4"
     },
     {
+        "description": "Savage Terminal: Contaminated Sewer",
+        "filename": "LosGurugers",
+        "mark": "SavageTerminal",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Los Gurugers",
+            "year": "2018"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2018-11-08",
+            "structure": "Bgm51",
+            "version": "1.2.077"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Black Mage boss theme (Phase 4)",
         "filename": "LostSpace",
         "mark": "Limen",
