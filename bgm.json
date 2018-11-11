@@ -3473,7 +3473,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMST",
+            "date": "2007-11-27",
+            "structure": "BgmCN",
+            "version": "0.15"
         },
         "youtube": "xNZehZM4N8o"
     },
@@ -8941,7 +8944,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMST",
+            "date": "2007-09-07",
+            "structure": "BgmCN",
+            "version": "0.12"
         },
         "youtube": "hapVbhzQF88"
     },
@@ -8956,7 +8962,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMST",
+            "date": "2007-09-07",
+            "structure": "BgmCN",
+            "version": "0.12"
         },
         "youtube": "3Ers8eclp4A"
     },
@@ -8971,7 +8980,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMST",
+            "date": "2007-09-07",
+            "structure": "BgmCN",
+            "version": "0.12"
         },
         "youtube": "gLrpmQPp9U8"
     },
@@ -8986,7 +8998,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMST",
+            "date": "2007-09-07",
+            "structure": "BgmCN",
+            "version": "0.12"
         },
         "youtube": "RE-3HU4wvdU"
     },
@@ -9001,7 +9016,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMST",
+            "date": "2007-09-07",
+            "structure": "BgmCN",
+            "version": "0.12"
         },
         "youtube": "5BcEzWb5ycg"
     },
@@ -9670,7 +9688,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMST",
+            "date": "2008-07-18",
+            "structure": "BgmCN",
+            "version": "0.21"
         },
         "youtube": "1h8ZJhL7GqQ"
     },
@@ -9700,7 +9721,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMST",
+            "date": "2008-07-18",
+            "structure": "BgmCN",
+            "version": "0.21"
         },
         "youtube": "IPokl8jGHcg"
     },
@@ -9715,7 +9739,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMST",
+            "date": "2008-07-18",
+            "structure": "BgmCN",
+            "version": "0.21"
         },
         "youtube": "kiXwuRCn3zo"
     },
