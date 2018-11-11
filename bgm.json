@@ -10,7 +10,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2007-05-25",
+            "structure": "BgmTW",
+            "version": "0.51"
         },
         "youtube": "_0qKfYQG7Rs"
     },
@@ -40,7 +43,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2007-05-25",
+            "structure": "BgmTW",
+            "version": "0.51"
         },
         "youtube": "hKYODtn_P84"
     },
@@ -55,7 +61,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2007-05-25",
+            "structure": "BgmTW",
+            "version": "0.51"
         },
         "youtube": "iRxal9QpFb8"
     },
@@ -1530,7 +1539,10 @@
             "year": "2008"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2008-06-20",
+            "structure": "BgmTW",
+            "version": "0.74"
         },
         "youtube": "Dtvumci8eA0"
     },
@@ -1545,7 +1557,10 @@
             "year": "2009"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2009-07-28",
+            "structure": "BgmTW",
+            "version": "0.97"
         },
         "youtube": "91hJqJZypsM"
     },
