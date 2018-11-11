@@ -4464,7 +4464,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmTH"
+            "client": "ThMS",
+            "date": "2007-08-08",
+            "structure": "BgmTH",
+            "version": "0.36"
         },
         "youtube": "VoHtZ3sKsOY"
     },
@@ -4479,7 +4482,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmTH"
+            "client": "ThMS",
+            "date": "2007-08-08",
+            "structure": "BgmTH",
+            "version": "0.36"
         },
         "youtube": "NQPeBpjEYrs"
     },
@@ -4494,7 +4500,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmTH"
+            "client": "ThMS",
+            "date": "2007-08-08",
+            "structure": "BgmTH",
+            "version": "0.36"
         },
         "youtube": "Y_cihkgxF9A"
     },
