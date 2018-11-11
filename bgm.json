@@ -1612,7 +1612,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmJp"
+            "client": "JMS",
+            "date": "2007-04-25",
+            "structure": "BgmJp",
+            "version": "1.26"
         },
         "youtube": "_mSoAfONu6U"
     },
@@ -1627,7 +1630,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmJp"
+            "client": "JMS",
+            "date": "2007-04-25",
+            "structure": "BgmJp",
+            "version": "1.26"
         },
         "youtube": "8bvx6bZ8WnA"
     },
@@ -1642,7 +1648,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmJp"
+            "client": "JMS",
+            "date": "2007-04-25",
+            "structure": "BgmJp",
+            "version": "1.26"
         },
         "youtube": "6yJ3_i6emNw"
     },
@@ -1657,7 +1666,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "BgmJp"
+            "client": "JMS",
+            "date": "2007-04-25",
+            "structure": "BgmJp",
+            "version": "1.26"
         },
         "youtube": "c310tdhrwtk"
     },
@@ -3905,7 +3917,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "BgmJp"
+            "client": "JMS",
+            "date": "2006-11-29",
+            "structure": "BgmJp",
+            "version": "1.18"
         },
         "youtube": "ePUZA7yRJVM"
     },
