@@ -4581,7 +4581,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMS",
+            "date": "2006-04-17",
+            "structure": "BgmCN",
+            "version": "0.41"
         },
         "youtube": "uZ3egkrlMZY"
     },
@@ -8169,7 +8172,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMS",
+            "date": "2006-10-30",
+            "structure": "BgmCN",
+            "version": "0.47"
         },
         "youtube": "0cqwe6XD7GI"
     },
@@ -12264,7 +12270,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "CMS",
+            "date": "2006-08-21",
+            "structure": "BgmCN",
+            "version": "0.45"
         },
         "youtube": "i4KaMvnTNww"
     },
