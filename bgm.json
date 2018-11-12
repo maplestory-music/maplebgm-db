@@ -7463,7 +7463,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2006-08-23",
+            "structure": "BgmTW",
+            "version": "0.36"
         },
         "youtube": "_-O1vvrWOZU"
     },
@@ -7493,7 +7496,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2006-08-23",
+            "structure": "BgmTW",
+            "version": "0.36"
         },
         "youtube": "-sf4tEqd7co"
     },
@@ -12222,7 +12228,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "BgmTW"
+            "client": "TMS",
+            "date": "2006-04-19",
+            "structure": "BgmTW",
+            "version": "0.28"
         },
         "youtube": "Z1_N3UkmaMM"
     },
