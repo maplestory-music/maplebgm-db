@@ -10020,7 +10020,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "BgmTH"
+            "client": "ThMS",
+            "date": "2006-10-04",
+            "structure": "BgmTH",
+            "version": "0.22"
         },
         "youtube": "g1aZRs_r2nA"
     },
@@ -10053,7 +10056,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "BgmTH"
+            "client": "ThMS",
+            "date": "2006-10-04",
+            "structure": "BgmTH",
+            "version": "0.22"
         },
         "youtube": "2sJP_wp2pBg"
     },
