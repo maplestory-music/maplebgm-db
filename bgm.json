@@ -470,7 +470,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "Bgm14"
+            "client": "KMST",
+            "date": "2007-04-06",
+            "structure": "Bgm14",
+            "version": "1.2.80"
         },
         "youtube": "w1RgDSoOajw"
     },
@@ -1506,7 +1509,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "Bgm14"
+            "client": "KMST",
+            "date": "2007-04-06",
+            "structure": "Bgm14",
+            "version": "1.2.80"
         },
         "youtube": "dPK41O2-odk"
     },
@@ -3064,7 +3070,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "Bgm12"
+            "client": "KMST",
+            "date": "2007-07-06",
+            "structure": "Bgm12",
+            "version": "1.2.94"
         },
         "youtube": "5FDFLwPw0bU"
     },
@@ -4563,10 +4572,13 @@
             "album-artist": "Wizet",
             "artist": "StudioEIM",
             "title": "Go Shanghai",
-            "year": "2007"
+            "year": "2006"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "KMS",
+            "date": "2006-09-27",
+            "structure": "BgmCN",
+            "version": "1.2.32"
         },
         "youtube": "xPtgIjPQqe4"
     },
@@ -5263,7 +5275,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "Bgm14"
+            "client": "KMST",
+            "date": "2007-04-13",
+            "structure": "Bgm14",
+            "version": "1.2.81"
         },
         "youtube": "q9swmo6309U"
     },
@@ -7163,7 +7178,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "Bgm15"
+            "client": "KMST",
+            "date": "2007-01-10",
+            "structure": "Bgm15",
+            "version": "1.2.74"
         },
         "youtube": "OweBGLQHWaA"
     },
@@ -7178,7 +7196,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "Bgm15"
+            "client": "KMST",
+            "date": "2007-01-10",
+            "structure": "Bgm15",
+            "version": "1.2.74"
         },
         "youtube": "2VMCpGe9MGc"
     },
@@ -7992,7 +8013,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "Bgm15"
+            "client": "KMST",
+            "date": "2007-01-10",
+            "structure": "Bgm15",
+            "version": "1.2.74"
         },
         "youtube": "bI9xLsAjeJk"
     },
@@ -8980,10 +9004,13 @@
             "album-artist": "Wizet",
             "artist": "StudioEIM",
             "title": "Shanghai Field",
-            "year": "2007"
+            "year": "2006"
         },
         "source": {
-            "structure": "BgmCN"
+            "client": "KMS",
+            "date": "2006-09-27",
+            "structure": "BgmCN",
+            "version": "1.2.32"
         },
         "youtube": "by7VRYj4HU4"
     },
@@ -9811,7 +9838,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "Bgm15"
+            "client": "KMST",
+            "date": "2007-04-06",
+            "structure": "Bgm15",
+            "version": "1.2.80"
         },
         "youtube": "L9CYYgoZVAo"
     },
@@ -11929,7 +11959,10 @@
             "year": "2007"
         },
         "source": {
-            "structure": "Bgm15"
+            "client": "KMST",
+            "date": "2007-01-10",
+            "structure": "Bgm15",
+            "version": "1.2.74"
         },
         "youtube": "59oze7IkQ10"
     },
