@@ -199,7 +199,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "Bgm13"
+            "client": "KMST",
+            "date": "2006-07-14",
+            "structure": "Bgm13",
+            "version": "1.2.52"
         },
         "youtube": "pWi9HXGWn2k"
     },
@@ -214,7 +217,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "Bgm12"
+            "client": "KMST",
+            "date": "2006-03-16",
+            "structure": "Bgm12",
+            "version": "1.2.38"
         },
         "youtube": "fdoT7nTWMO8"
     },
@@ -407,7 +413,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "Bgm12"
+            "client": "KMST",
+            "date": "2006-01-18",
+            "structure": "Bgm12",
+            "version": "1.2.29"
         },
         "youtube": "ctsqJ-Xl9_0"
     },
@@ -1795,7 +1804,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "Bgm14"
+            "client": "KMS",
+            "date": "2006-09-27",
+            "structure": "Bgm14",
+            "version": "1.2.32"
         },
         "youtube": "Lo59n_tMGSM"
     },
@@ -2044,7 +2056,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "Bgm13"
+            "client": "KMST",
+            "date": "2006-06-16",
+            "structure": "Bgm13",
+            "version": "1.2.48"
         },
         "youtube": "AfsNt5oZrqw"
     },
@@ -2767,7 +2782,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "Bgm12"
+            "client": "KMST",
+            "date": "2006-01-18",
+            "structure": "Bgm12",
+            "version": "1.2.29"
         },
         "youtube": "qc5Qqw7ABAU"
     },
@@ -3229,7 +3247,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "Bgm14"
+            "client": "KMS",
+            "date": "2006-08-24",
+            "structure": "Bgm14",
+            "version": "1.2.31"
         },
         "youtube": "z3jhg8KffPI"
     },
@@ -3244,7 +3265,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "Bgm14"
+            "client": "KMS",
+            "date": "2006-09-27",
+            "structure": "Bgm14",
+            "version": "1.2.32"
         },
         "youtube": "Dsis2wyHQD0"
     },
@@ -3527,7 +3551,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "Bgm10"
+            "client": "KMST",
+            "date": "2006-03-16",
+            "structure": "Bgm10",
+            "version": "1.2.38"
         },
         "youtube": "rNnYpo9-cRw"
     },
@@ -5260,7 +5287,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "Bgm14"
+            "client": "KMS",
+            "date": "2006-09-27",
+            "structure": "Bgm14",
+            "version": "1.2.32"
         },
         "youtube": "WnLrTMmnyBc"
     },
@@ -6118,7 +6148,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "Bgm13"
+            "client": "KMST",
+            "date": "2006-07-14",
+            "structure": "Bgm13",
+            "version": "1.2.52"
         },
         "youtube": "theIdIhZzVE"
     },
@@ -6797,7 +6830,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "Bgm13"
+            "client": "KMST",
+            "date": "2006-07-14",
+            "structure": "Bgm13",
+            "version": "1.2.52"
         },
         "youtube": "07a-UZLcxhM"
     },
@@ -8046,7 +8082,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "Bgm08"
+            "client": "KMST",
+            "date": "2006-07-14",
+            "structure": "Bgm08",
+            "version": "1.2.52"
         },
         "youtube": "znPiUenHhP4"
     },
@@ -8686,7 +8725,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "Bgm12"
+            "client": "KMST",
+            "date": "2006-03-16",
+            "structure": "Bgm12",
+            "version": "1.2.38"
         },
         "youtube": "xeks7rE2m0o"
     },
@@ -11043,7 +11085,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "Bgm13"
+            "client": "KMST",
+            "date": "2006-07-14",
+            "structure": "Bgm13",
+            "version": "1.2.52"
         },
         "youtube": "UEByqQPt2is"
     },
@@ -11754,7 +11799,10 @@
             "year": "2006"
         },
         "source": {
-            "structure": "Bgm12"
+            "client": "KMST",
+            "date": "2006-03-16",
+            "structure": "Bgm12",
+            "version": "1.2.38"
         },
         "youtube": "Su6P7juLavE"
     },
