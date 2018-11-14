@@ -133,7 +133,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm05"
+            "client": "KMS",
+            "date": "2004-08-13",
+            "structure": "Bgm05",
+            "version": "1.70"
         },
         "youtube": "WmHOENuKkmk"
     },
@@ -431,7 +434,10 @@
             "year": "2005"
         },
         "source": {
-            "structure": "Bgm11"
+            "client": "KMST",
+            "date": "2005-11-01",
+            "structure": "Bgm11",
+            "version": "1.2.19"
         },
         "youtube": "qtw0sIBLjrw"
     },
@@ -446,7 +452,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm04"
+            "client": "KMS",
+            "date": "2004-02-17",
+            "structure": "Bgm04",
+            "version": "1.56"
         },
         "youtube": "PZLLGX6VNgU"
     },
@@ -991,7 +1000,10 @@
             "year": "2003"
         },
         "source": {
-            "structure": "Bgm03"
+            "client": "KMS",
+            "date": "2003-09-03",
+            "structure": "Bgm03",
+            "version": "1.38"
         },
         "youtube": "9VqPnUL9Qvs"
     },
@@ -1219,7 +1231,10 @@
             "year": "2005"
         },
         "source": {
-            "structure": "Bgm10"
+            "client": "KMS",
+            "date": "2005-07-12",
+            "structure": "Bgm10",
+            "version": "1.2.3"
         },
         "youtube": "v187PexfsFM"
     },
@@ -1413,7 +1428,10 @@
             "year": "2005"
         },
         "source": {
-            "structure": "Bgm11"
+            "client": "KMST",
+            "date": "2005-09-25",
+            "structure": "Bgm11",
+            "version": "1.2.15"
         },
         "youtube": "EnHRl2Wnabk"
     },
@@ -2074,7 +2092,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm06"
+            "client": "KMS",
+            "date": "2004-04-22",
+            "structure": "Bgm06",
+            "version": "1.60"
         },
         "youtube": "sNCwJu5Buz0"
     },
@@ -2590,7 +2611,10 @@
             "year": "2005"
         },
         "source": {
-            "structure": "Bgm11"
+            "client": "KMST",
+            "date": "2005-12-14",
+            "structure": "Bgm11",
+            "version": "1.2.25"
         },
         "youtube": "YUeCX11El2s"
     },
@@ -2623,7 +2647,10 @@
             "year": "2005"
         },
         "source": {
-            "structure": "Bgm09"
+            "client": "KMS",
+            "date": "2005-03-24",
+            "structure": "Bgm09",
+            "version": "1.87"
         },
         "youtube": "wWB1hTbtoNQ"
     },
@@ -3214,7 +3241,10 @@
             "year": "2005"
         },
         "source": {
-            "structure": "Bgm11"
+            "client": "KMST",
+            "date": "2005-12-14",
+            "structure": "Bgm11",
+            "version": "1.2.25"
         },
         "youtube": "KK_IjvtszTA"
     },
@@ -3656,7 +3686,10 @@
             "year": "2005"
         },
         "source": {
-            "structure": "Bgm09"
+            "client": "KMS",
+            "date": "2005-05-31",
+            "structure": "Bgm09",
+            "version": "1.2.1"
         },
         "youtube": "0_PTb2pxygU"
     },
@@ -3671,7 +3704,10 @@
             "year": "2005"
         },
         "source": {
-            "structure": "Bgm09"
+            "client": "KMS",
+            "date": "2005-05-31",
+            "structure": "Bgm09",
+            "version": "1.2.1"
         },
         "youtube": "7PO-m2atU2U"
     },
@@ -3694,7 +3730,7 @@
         "youtube": "45BJJKZwCSs"
     },
     {
-        "description": "Ludibirum Party Quest",
+        "description": "Ludibrium Party Quest",
         "filename": "Fantasia",
         "mark": "AbandonTower",
         "metadata": {
@@ -3704,7 +3740,10 @@
             "year": "2005"
         },
         "source": {
-            "structure": "Bgm07"
+            "client": "KMS",
+            "date": "2005-03-24",
+            "structure": "Bgm07",
+            "version": "1.87"
         },
         "youtube": "v-GtLObPoto"
     },
@@ -3737,7 +3776,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm06"
+            "client": "KMS",
+            "date": "2004-12-20",
+            "structure": "Bgm06",
+            "version": "1.81"
         },
         "youtube": "49AZqVhXVeU"
     },
@@ -3908,7 +3950,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm06"
+            "client": "KMS",
+            "date": "2004-10-25",
+            "structure": "Bgm06",
+            "version": "1.76"
         },
         "youtube": "R5dUCq4vnvk"
     },
@@ -3938,10 +3983,13 @@
             "album-artist": "Wizet",
             "artist": "StudioEIM",
             "title": "Finding Forest",
-            "year": "2005"
+            "year": "2004"
         },
         "source": {
-            "structure": "Bgm08"
+            "client": "KMS",
+            "date": "2004-12-20",
+            "structure": "Bgm08",
+            "version": "1.81"
         },
         "youtube": "dT0laG5urcc"
     },
@@ -4079,7 +4127,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm06"
+            "client": "KMS",
+            "date": "2004-12-20",
+            "structure": "Bgm06",
+            "version": "1.81"
         },
         "youtube": "UywGQsCoj8c"
     },
@@ -4145,10 +4196,13 @@
             "album-artist": "Wizet",
             "artist": "StudioEIM",
             "title": "For the Glory",
-            "year": "2005"
+            "year": "2004"
         },
         "source": {
-            "structure": "Bgm08"
+            "client": "KMS",
+            "date": "2004-12-20",
+            "structure": "Bgm08",
+            "version": "1.81"
         },
         "youtube": "aSTjTjakW8s"
     },
@@ -4247,7 +4301,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm07"
+            "client": "KMS",
+            "date": "2004-12-20",
+            "structure": "Bgm07",
+            "version": "1.81"
         },
         "youtube": "JSPCrPrepRE"
     },
@@ -5062,7 +5119,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm05"
+            "client": "KMS",
+            "date": "2004-09-20",
+            "structure": "Bgm05",
+            "version": "1.74"
         },
         "youtube": "923LpjaA9Ps"
     },
@@ -5221,7 +5281,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm07"
+            "client": "KMS",
+            "date": "2004-12-20",
+            "structure": "Bgm07",
+            "version": "1.81"
         },
         "youtube": "iqWeh-dkwu4"
     },
@@ -5663,7 +5726,10 @@
             "year": "2003"
         },
         "source": {
-            "structure": "Bgm03"
+            "client": "KMS",
+            "date": "2003-06-21",
+            "structure": "Bgm03",
+            "version": "1.27"
         },
         "youtube": "YYTuDFsvZNU"
     },
@@ -6253,10 +6319,13 @@
             "album-artist": "Wizet",
             "artist": "StudioEIM",
             "title": "Let's Hunt Aliens",
-            "year": "2005"
+            "year": "2004"
         },
         "source": {
-            "structure": "Bgm08"
+            "client": "KMS",
+            "date": "2004-12-20",
+            "structure": "Bgm08",
+            "version": "1.81"
         },
         "youtube": "pZ6Fuv6BLx4"
     },
@@ -6268,10 +6337,13 @@
             "album-artist": "Wizet",
             "artist": "StudioEIM",
             "title": "Let's March",
-            "year": "2005"
+            "year": "2004"
         },
         "source": {
-            "structure": "Bgm08"
+            "client": "KMS",
+            "date": "2004-12-20",
+            "structure": "Bgm08",
+            "version": "1.81"
         },
         "youtube": "LxQt8EVhBOs"
     },
@@ -6848,7 +6920,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm05"
+            "client": "KMS",
+            "date": "2004-10-25",
+            "structure": "Bgm05",
+            "version": "1.76"
         },
         "youtube": "8LaAGZ5kxvk"
     },
@@ -6917,7 +6992,10 @@
             "year": "2003"
         },
         "source": {
-            "structure": "Bgm03"
+            "client": "KMS",
+            "date": "2003-12-01",
+            "structure": "Bgm03",
+            "version": "1.49"
         },
         "youtube": "2NoF8PHQJqQ"
     },
@@ -9193,7 +9271,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm04"
+            "client": "KMS",
+            "date": "2004-02-17",
+            "structure": "Bgm04",
+            "version": "1.56"
         },
         "youtube": "DThWMbPZXy8"
     },
@@ -9208,7 +9289,10 @@
             "year": "2005"
         },
         "source": {
-            "structure": "Bgm11"
+            "client": "KMST",
+            "date": "2005-11-01",
+            "structure": "Bgm11",
+            "version": "1.2.19"
         },
         "youtube": "3jdRxzy3K9s"
     },
@@ -9223,7 +9307,10 @@
             "year": "2003"
         },
         "source": {
-            "structure": "BgmUI"
+            "client": "KMS",
+            "date": "2003-05-27",
+            "structure": "BgmUI",
+            "version": "1.20"
         },
         "youtube": "4COWF5TAciY"
     },
@@ -9379,7 +9466,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm03"
+            "client": "KMS",
+            "date": "2004-02-17",
+            "structure": "Bgm03",
+            "version": "1.56"
         },
         "youtube": "X6X7U5V9Obk"
     },
@@ -9796,7 +9886,10 @@
             "year": "2003"
         },
         "source": {
-            "structure": "Bgm03"
+            "client": "KMS",
+            "date": "2003-07-16",
+            "structure": "Bgm03",
+            "version": "1.32"
         },
         "youtube": "J1YTQvtmsjg"
     },
@@ -10560,7 +10653,10 @@
             "year": "2005"
         },
         "source": {
-            "structure": "Bgm10"
+            "client": "KMS",
+            "date": "2005-07-12",
+            "structure": "Bgm10",
+            "version": "1.2.3"
         },
         "youtube": "5Uu68ZwkzrM"
     },
@@ -10667,7 +10763,10 @@
             "year": "2005"
         },
         "source": {
-            "structure": "Bgm09"
+            "client": "KMS",
+            "date": "2005-03-24",
+            "structure": "Bgm09",
+            "version": "1.87"
         },
         "youtube": "hYVoxcVK0ns"
     },
@@ -10754,7 +10853,10 @@
             "year": "2005"
         },
         "source": {
-            "structure": "Bgm09"
+            "client": "KMS",
+            "date": "2005-08-23",
+            "structure": "Bgm09",
+            "version": "1.2.4"
         },
         "youtube": "AiaV9gA3i10"
     },
@@ -10805,7 +10907,10 @@
             "year": "2005"
         },
         "source": {
-            "structure": "Bgm10"
+            "client": "KMS",
+            "date": "2005-07-12",
+            "structure": "Bgm10",
+            "version": "1.2.3"
         },
         "youtube": "95a3-2TsrrA"
     },
@@ -10838,7 +10943,10 @@
             "year": "2005"
         },
         "source": {
-            "structure": "Bgm10"
+            "client": "KMS",
+            "date": "2005-07-12",
+            "structure": "Bgm10",
+            "version": "1.2.3"
         },
         "youtube": "PmuoAR2ce3o"
     },
@@ -11392,7 +11500,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm04"
+            "client": "KMS",
+            "date": "2004-02-17",
+            "structure": "Bgm04",
+            "version": "1.56"
         },
         "youtube": "fTYJEdEcTbA"
     },
@@ -11714,7 +11825,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm07"
+            "client": "KMS",
+            "date": "2004-12-20",
+            "structure": "Bgm07",
+            "version": "1.81"
         },
         "youtube": "CNRFWEhv_Dw"
     },
@@ -11747,7 +11861,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm04"
+            "client": "KMS",
+            "date": "2004-02-17",
+            "structure": "Bgm04",
+            "version": "1.56"
         },
         "youtube": "MBmPOY2PA2Q"
     },
@@ -11923,7 +12040,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm06"
+            "client": "KMS",
+            "date": "2004-10-25",
+            "structure": "Bgm06",
+            "version": "1.76"
         },
         "youtube": "3EJFx4emHyk"
     },
@@ -11968,7 +12088,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm07"
+            "client": "KMS",
+            "date": "2004-12-20",
+            "structure": "Bgm07",
+            "version": "1.81"
         },
         "youtube": "iHbjhiWic0U"
     },
@@ -11983,7 +12106,10 @@
             "year": "2003"
         },
         "source": {
-            "structure": "Bgm04"
+            "client": "KMS",
+            "date": "2003-12-15",
+            "structure": "Bgm04",
+            "version": "1.50"
         },
         "youtube": "IzzDrEuFpnE"
     },
@@ -12213,7 +12339,10 @@
             "year": "2004"
         },
         "source": {
-            "structure": "Bgm05"
+            "client": "KMS",
+            "date": "2004-04-22",
+            "structure": "Bgm05",
+            "version": "1.60"
         },
         "youtube": "1MPBnVU8_I4"
     },
