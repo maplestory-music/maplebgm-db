@@ -804,10 +804,13 @@
             "album-artist": "Wizet",
             "artist": "StudioEIM",
             "title": "Bathroom",
-            "year": "2006"
+            "year": "2005"
         },
         "source": {
-            "structure": "BgmJp"
+            "client": "JMS",
+            "date": "2005-01-12",
+            "structure": "BgmJp",
+            "version": "0.69"
         },
         "youtube": "yRrCGa54Vbo"
     },
@@ -946,10 +949,13 @@
             "album-artist": "Wizet",
             "artist": "StudioEIM",
             "title": "Battlefield",
-            "year": "2006"
+            "year": "2005"
         },
         "source": {
-            "structure": "BgmJp"
+            "client": "JMS",
+            "date": "2005-07-06",
+            "structure": "BgmJp",
+            "version": "0.89"
         },
         "youtube": "ZDS4Dd7ULvM"
     },
@@ -1213,10 +1219,13 @@
             "album-artist": "Wizet",
             "artist": "StudioEIM",
             "title": "Bizarre Forest",
-            "year": "2006"
+            "year": "2004"
         },
         "source": {
-            "structure": "BgmJp"
+            "client": "JMS",
+            "date": "2004-09-02",
+            "structure": "BgmJp",
+            "version": "0.54"
         },
         "youtube": "9kmYUElcL_w"
     },
@@ -3824,10 +3833,13 @@
             "album-artist": "Wizet",
             "artist": "StudioEIM",
             "title": "Feeling",
-            "year": "2006"
+            "year": "2004"
         },
         "source": {
-            "structure": "BgmJp"
+            "client": "JMS",
+            "date": "2004-04-23",
+            "structure": "BgmJp",
+            "version": "0.41"
         },
         "youtube": "SdcsTuVLJk0"
     },
@@ -4855,10 +4867,13 @@
             "album-artist": "Wizet",
             "artist": "StudioEIM",
             "title": "Hana",
-            "year": "2006"
+            "year": "2004"
         },
         "source": {
-            "structure": "BgmJp"
+            "client": "JMS",
+            "date": "2004-12-08",
+            "structure": "BgmJp",
+            "version": "0.63"
         },
         "youtube": "1nj0TXt_23c"
     },
@@ -7946,10 +7961,13 @@
             "album-artist": "Wizet",
             "artist": "StudioEIM",
             "title": "Pachinko Interior Ambience",
-            "year": "2006"
+            "year": "2005"
         },
         "source": {
-            "structure": "Bgm_pachinko"
+            "client": "JMS",
+            "date": "2005-08-24",
+            "structure": "Bgm_pachinko",
+            "version": "0.93"
         },
         "youtube": "NJo_TrTWIa4"
     },
@@ -12459,10 +12477,13 @@
             "album-artist": "Wizet",
             "artist": "StudioEIM",
             "title": "Yume",
-            "year": "2006"
+            "year": "2004"
         },
         "source": {
-            "structure": "BgmJp"
+            "client": "JMS",
+            "date": "2004-12-08",
+            "structure": "BgmJp",
+            "version": "0.63"
         },
         "youtube": "58QPkwCSd4Y"
     },
