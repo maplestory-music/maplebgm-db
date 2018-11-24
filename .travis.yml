@@ -2,12 +2,8 @@ language: node_js
 node_js:
   - '10'
 sudo: false
-before_script:
-  - yarn global add ajv-cli
 cache:
   yarn: true
   directories:
     - node_modules
-script:
-  - ajv validate -d bgm.json -s schema.json
-  - yarn test
+script: yarn test
