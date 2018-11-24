@@ -1,0 +1,13 @@
+{
+  "name": "maplebgm-db",
+  "version": "2018.4",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
