@@ -1,4 +1,6 @@
 language: node_js
+node_js:
+  - '10'
 sudo: false
 before_script:
   - yarn global add ajv-cli
