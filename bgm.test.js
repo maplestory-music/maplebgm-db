@@ -1,6 +1,17 @@
+const Ajv = require('ajv');
+const schema = require('./schema');
 const bgmDatabase = require('./bgm');
 
 describe('bgm database', () => {
+  test('should adhere to json schema', () => {
+    let ajv = new Ajv({allErrors: true});
+    let validate = ajv.compile(schema);
+    let valid = validate(bgmDatabase);
+    if (!valid) {
+      console.error(validate.errors);
+    }
+    expect(valid).toEqual(true);
+  });
   test('should be sorted by filename', () => {
     let songNames = bgmDatabase.map(song => song.filename);
     let sortedSongNames = bgmDatabase.map(song => song.filename);
