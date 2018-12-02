@@ -466,7 +466,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Arcana Boss",
+            "subtitle": "Arcana Boss",
+            "title": "Shadow of Incongruity",
             "year": "2017"
         },
         "source": {
@@ -1505,7 +1506,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Broken Dream",
+            "subtitle": "Broken Dream",
+            "title": "Dream Fragments",
             "year": "2016"
         },
         "source": {
@@ -1827,7 +1829,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Cave of Rest",
+            "subtitle": "Cave of Rest",
+            "title": "The Cave of Peace",
             "year": "2016"
         },
         "source": {
@@ -1899,7 +1902,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Chew Chew: Main Theme",
+            "subtitle": "Chew Chew: Main Theme",
+            "title": "Expedition to Chew Chew Island",
             "year": "2016"
         },
         "source": {
@@ -1917,7 +1921,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Chew Chew: Wild World",
+            "subtitle": "Chew Chew: Wild World",
+            "title": "Welcome to Chew Chew Island",
             "year": "2016"
         },
         "source": {
@@ -2043,7 +2048,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Clocktower of Nightmare",
+            "subtitle": "Clocktower of Nightmare",
+            "title": "Shattered Time",
             "year": "2016"
         },
         "source": {
@@ -2543,7 +2549,7 @@
         "mark": "OmegaSector",
         "metadata": {
             "album-artist": "NECORD",
-            "artist": "Wizet",
+            "artist": "ASTERIA",
             "title": "Dances with Aliens",
             "year": "2017"
         },
@@ -2830,9 +2836,10 @@
         "filename": "Demian",
         "mark": "HofM",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Demian",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Demian",
+            "title": "The Tragic Fate of Demian",
             "year": "2016"
         },
         "source": {
@@ -2848,8 +2855,8 @@
         "filename": "Demian Spine",
         "mark": "HofM",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
             "title": "Demian Spine",
             "year": "2016"
         },
@@ -2866,9 +2873,10 @@
         "filename": "Demian True",
         "mark": "HofM",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Demian True",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Demian True",
+            "title": "Corrupted Blood",
             "year": "2016"
         },
         "source": {
@@ -4346,7 +4354,7 @@
             "album-artist": "NECORD",
             "artist": "ASTERIA",
             "subtitle": "Galaxy is Dangerous",
-            "title": "Dynamic Universe",
+            "title": "14th Anniversary Dynamic Universe",
             "year": "2017"
         },
         "source": {
@@ -4561,8 +4569,8 @@
         "mark": "OmegaSector",
         "metadata": {
             "album-artist": "NECORD",
-            "artist": "Wizet",
-            "title": "Go Go Rangers!",
+            "artist": "ASTERIA",
+            "title": "Go, Go! Rangers!",
             "year": "2017"
         },
         "source": {
@@ -5202,7 +5210,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Hidden Tales: Mystery",
+            "subtitle": "Hidden Tales: Mystery",
+            "title": "Greetings of the Death Angel",
             "year": "2016"
         },
         "source": {
@@ -5220,7 +5229,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Hidden Tales: Sorrow",
+            "subtitle": "Hidden Tales: Sorrow",
+            "title": "Frozen Heart",
             "year": "2016"
         },
         "source": {
@@ -5238,7 +5248,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Hidden Tales: Tension",
+            "subtitle": "Hidden Tales: Tension",
+            "title": "The Shadow of Chaos",
             "year": "2016"
         },
         "source": {
@@ -6009,7 +6020,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Lacheln, The Illusion City",
+            "subtitle": "Lacheln, The Illusion City",
+            "title": "Lacheln, The City of Dreams",
             "year": "2016"
         },
         "source": {
@@ -6044,8 +6056,9 @@
         "mark": "PL_AfterLand",
         "metadata": {
             "album-artist": "NECORD",
-            "artist": "Wizet",
-            "title": "Land of Contemplation ~day~",
+            "artist": "ASTERIA",
+            "subtitle": "Land of Contemplation ~day~",
+            "title": "Can You Read My Thoughts?",
             "year": "2016"
         },
         "source": {
@@ -6062,8 +6075,9 @@
         "mark": "PL_AfterLand",
         "metadata": {
             "album-artist": "NECORD",
-            "artist": "Wizet",
-            "title": "Land of Contemplation ~night~",
+            "artist": "ASTERIA",
+            "subtitle": "Land of Contemplation ~night~",
+            "title": "Can You Read My Thoughts? -night-",
             "year": "2016"
         },
         "source": {
@@ -6080,8 +6094,9 @@
         "mark": "PL_AfterLand",
         "metadata": {
             "album-artist": "NECORD",
-            "artist": "Wizet",
-            "title": "Land of Innocence ~day~",
+            "artist": "ASTERIA",
+            "subtitle": "Land of Innocence ~day~",
+            "title": "The Dancing Weathercock",
             "year": "2016"
         },
         "source": {
@@ -6098,8 +6113,9 @@
         "mark": "PL_AfterLand",
         "metadata": {
             "album-artist": "NECORD",
-            "artist": "Wizet",
-            "title": "Land of Innocence ~night~",
+            "artist": "ASTERIA",
+            "subtitle": "Land of Innocence ~night~",
+            "title": "The Dancing Weathercock -night-",
             "year": "2016"
         },
         "source": {
@@ -6116,8 +6132,9 @@
         "mark": "PL_AfterLand",
         "metadata": {
             "album-artist": "NECORD",
-            "artist": "Wizet",
-            "title": "Land of Innocence ~night~ (Original)",
+            "artist": "ASTERIA",
+            "subtitle": "Land of Innocence ~night~ (Alternate)",
+            "title": "The Dancing Weathercock -night- (Alternate)",
             "year": "2016"
         },
         "source": {
@@ -6134,8 +6151,9 @@
         "mark": "PL_AfterLand",
         "metadata": {
             "album-artist": "NECORD",
-            "artist": "Wizet",
-            "title": "Land of Riches ~day~",
+            "artist": "ASTERIA",
+            "subtitle": "Land of Riches ~day~",
+            "title": "The World of Paradox",
             "year": "2016"
         },
         "source": {
@@ -6152,8 +6170,9 @@
         "mark": "PL_AfterLand",
         "metadata": {
             "album-artist": "NECORD",
-            "artist": "Wizet",
-            "title": "Land of Riches ~night~",
+            "artist": "ASTERIA",
+            "subtitle": "Land of Riches ~night~",
+            "title": "The World of Paradox -night-",
             "year": "2016"
         },
         "source": {
@@ -6170,8 +6189,9 @@
         "mark": "PL_AfterLand",
         "metadata": {
             "album-artist": "NECORD",
-            "artist": "Wizet",
-            "title": "Land of Riches ~night~ (Original)",
+            "artist": "ASTERIA",
+            "subtitle": "Land of Riches ~night~ (Alternate)",
+            "title": "The World of Paradox -night- (Alternate)",
             "year": "2016"
         },
         "source": {
@@ -6188,8 +6208,9 @@
         "mark": "PL_AfterLand",
         "metadata": {
             "album-artist": "NECORD",
-            "artist": "Wizet",
-            "title": "Land of Warriors ~day~",
+            "artist": "ASTERIA",
+            "subtitle": "Land of Warriors ~day~",
+            "title": "Bottoms Up!",
             "year": "2016"
         },
         "source": {
@@ -6206,8 +6227,9 @@
         "mark": "PL_AfterLand",
         "metadata": {
             "album-artist": "NECORD",
-            "artist": "Wizet",
-            "title": "Land of Warriors ~night~",
+            "artist": "ASTERIA",
+            "subtitle": "Land of Warriors ~night~",
+            "title": "Bottoms Up! -night-",
             "year": "2016"
         },
         "source": {
@@ -6259,8 +6281,8 @@
         "filename": "LegendOfZipang",
         "mark": "jipangu",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
             "title": "Legend of Zipang",
             "year": "2016"
         },
@@ -6277,8 +6299,8 @@
         "filename": "LegendOfZipang_Reprise",
         "mark": "jipangu",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
             "title": "Legend of Zipang ~reprise~",
             "year": "2016"
         },
@@ -6295,8 +6317,8 @@
         "filename": "LegendOfZipang_Sad",
         "mark": "jipangu",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
             "title": "Legend of Zipang ~sad~",
             "year": "2016"
         },
@@ -6313,8 +6335,8 @@
         "filename": "LegendOfZipang_Silence",
         "mark": "jipangu",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
             "title": "Legend of Zipang ~silence~",
             "year": "2016"
         },
@@ -6424,7 +6446,7 @@
             "album-artist": "NECORD",
             "artist": "ASTERIA",
             "subtitle": "Little Maple Planet",
-            "title": "Frozen Link -piano-",
+            "title": "14th Anniversary Frozen Link -piano-",
             "year": "2017"
         },
         "source": {
@@ -6440,8 +6462,8 @@
         "filename": "LivingAgain",
         "mark": "jipangu",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
             "title": "Living Again",
             "year": "2016"
         },
@@ -6458,8 +6480,8 @@
         "filename": "LivingAgain_Reprise",
         "mark": "jipangu",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
             "title": "Living Again ~reprise~",
             "year": "2016"
         },
@@ -6513,7 +6535,7 @@
         "mark": "KerningTower",
         "metadata": {
             "album-artist": "NECORD",
-            "artist": "Wizet",
+            "artist": "ASTERIA",
             "title": "Lovers in the Afternoon",
             "year": "2016"
         },
@@ -6641,7 +6663,7 @@
             "album-artist": "NECORD",
             "artist": "ASTERIA",
             "subtitle": "Maple Galaxy",
-            "title": "Cosmic Main",
+            "title": "14th Anniversary Cosmic Main",
             "year": "2017"
         },
         "source": {
@@ -6660,7 +6682,7 @@
             "album-artist": "NECORD",
             "artist": "ASTERIA",
             "subtitle": "Maple Galaxy 2",
-            "title": "Frozen Link",
+            "title": "14th Anniversary Frozen Link",
             "year": "2017"
         },
         "source": {
@@ -6748,9 +6770,10 @@
         "filename": "MBlockbusterC",
         "mark": "GLblockbuster",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Masteria Through Time C",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Masteria Through Time C",
+            "title": "War for the Castle",
             "year": "2016"
         },
         "source": {
@@ -6766,9 +6789,10 @@
         "filename": "MBlockbusterE1",
         "mark": "GLblockbuster",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Masteria Through Time E1",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Masteria Through Time E1",
+            "title": "An Eternal Breath -instrumental-",
             "year": "2016"
         },
         "source": {
@@ -6784,9 +6808,10 @@
         "filename": "MBlockbusterE2",
         "mark": "GLblockbuster",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Masteria Through Time E2",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Masteria Through Time E2",
+            "title": "An Eternal Breath",
             "year": "2016"
         },
         "source": {
@@ -6802,9 +6827,10 @@
         "filename": "MBlockbusterJ",
         "mark": "GLblockbuster",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Masteria Through Time J",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Masteria Through Time J",
+            "title": "Jungle Pursuit",
             "year": "2016"
         },
         "source": {
@@ -6820,9 +6846,10 @@
         "filename": "MD_AcornDetective_AR",
         "mark": "PL_MapleDetective",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Maple Detective: Acorn Detective AR",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Maple Detective: Acorn Detective AR",
+            "title": "Stellar Detectives",
             "year": "2016"
         },
         "source": {
@@ -6838,9 +6865,10 @@
         "filename": "MD_AcornDetective_MR",
         "mark": "PL_MapleDetective",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Maple Detective: Acorn Detective MR",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Maple Detective: Acorn Detective MR",
+            "title": "Stellar Detectives -instrumental-",
             "year": "2016"
         },
         "source": {
@@ -6856,9 +6884,10 @@
         "filename": "MD_InvadeOperation",
         "mark": "PL_MapleDetective",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "Maple Detective: Invade Operation",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "subtitle": "Maple Detective: Invade Operation",
+            "title": "Mission: Invasion",
             "year": "2016"
         },
         "source": {
@@ -10131,8 +10160,8 @@
         "filename": "Tengou'sTrial",
         "mark": "jipangu",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
             "title": "Tengou's Trial",
             "year": "2016"
         },
@@ -10631,7 +10660,7 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "The Tune of Azure Light",
+            "title": "The Tune of the Azure Light",
             "year": "2017"
         },
         "source": {
@@ -10649,7 +10678,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "The Tune of Azure Light 2",
+            "subtitle": "The Tune of the Azure Light 2",
+            "title": "The Tune of the Azure Light -gleam-",
             "year": "2017"
         },
         "source": {
@@ -11549,7 +11579,7 @@
         "mark": "OmegaSector",
         "metadata": {
             "album-artist": "NECORD",
-            "artist": "Wizet",
+            "artist": "ASTERIA",
             "title": "Vacuum Cleaner",
             "year": "2017"
         },
@@ -11748,7 +11778,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Volcanic Zone Of Extinction",
+            "subtitle": "Volcanic Zone Of Extinction",
+            "title": "Volcanic Mountain",
             "year": "2016"
         },
         "source": {
@@ -12189,7 +12220,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Weird Forest in the Girl's Dream",
+            "subtitle": "Weird Forest in the Girl's Dream",
+            "title": "Phantasmal Woods",
             "year": "2016"
         },
         "source": {
@@ -12298,8 +12330,9 @@
         "mark": "Event",
         "metadata": {
             "album-artist": "NECORD",
-            "artist": "Wizet",
-            "title": "Winter Frenzy Boss (All)",
+            "artist": "ASTERIA",
+            "subtitle": "Winter Frenzy Boss (All)",
+            "title": "Frenzy Winter (Alternate)",
             "year": "2016"
         },
         "source": {
@@ -12316,8 +12349,9 @@
         "mark": "Event",
         "metadata": {
             "album-artist": "NECORD",
-            "artist": "Wizet",
-            "title": "Winter Frenzy Boss (BGM)",
+            "artist": "ASTERIA",
+            "subtitle": "Winter Frenzy Boss (BGM)",
+            "title": "Frenzy Winter",
             "year": "2016"
         },
         "source": {
@@ -12438,8 +12472,8 @@
         "filename": "YokaiBoso",
         "mark": "jipangu",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
             "title": "Yokai Boso",
             "year": "2016"
         },
@@ -12528,8 +12562,8 @@
         "filename": "ZipangHero",
         "mark": "jipangu",
         "metadata": {
-            "album-artist": "Wizet",
-            "artist": "StudioEIM",
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
             "title": "Zipang Hero",
             "year": "2016"
         },
