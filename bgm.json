@@ -2688,14 +2688,14 @@
         "youtube": "ekBYanDkybM"
     },
     {
-        "description": "Hatsune Miku event",
+        "description": "2014 Hatsune Miku collaboration",
         "filename": "DAYBREAK",
         "mark": "Event",
         "metadata": {
             "album-artist": "Wizet",
-            "artist": "Hatsune Miku",
-            "title": "Daybreak",
-            "year": "2014"
+            "artist": "まふまふ feat. 初音ミク",
+            "title": "DAYBREAK",
+            "year": "2012"
         },
         "source": {
             "client": "JMS",
@@ -2703,7 +2703,7 @@
             "structure": "BgmMIKU",
             "version": "3.31"
         },
-        "youtube": ""
+        "youtube": "jwCWnyuAJFY"
     },
     {
         "description": "Sanctuary: Crystal Academy invasion",
@@ -7188,13 +7188,13 @@
         "youtube": "Vwn3_L3hyqY"
     },
     {
-        "description": "Hatsune Miku event",
+        "description": "2014 Hatsune Miku collaboration",
         "filename": "Monokuro",
         "mark": "Event",
         "metadata": {
             "album-artist": "Wizet",
-            "artist": "Hatsune Miku",
-            "title": "Monokuro",
+            "artist": "まふまふ feat. 初音ミク",
+            "title": "モノクロと勇者の遺伝子",
             "year": "2014"
         },
         "source": {
@@ -7203,7 +7203,7 @@
             "structure": "BgmMIKU",
             "version": "3.31"
         },
-        "youtube": ""
+        "youtube": "JF1Nn5fWMLs"
     },
     {
         "description": "Spiegelmann's Monster Park",
@@ -7614,13 +7614,13 @@
         "youtube": "6JSJ0emRED4"
     },
     {
-        "description": "Hatsune Miku event",
+        "description": "2014 Hatsune Miku collaboration",
         "filename": "next",
         "mark": "Event",
         "metadata": {
             "album-artist": "Wizet",
-            "artist": "Hatsune Miku",
-            "title": "next",
+            "artist": "さつき が てんこもり feat. 初音ミク",
+            "title": "ネクストネスト",
             "year": "2014"
         },
         "source": {
@@ -7629,7 +7629,7 @@
             "structure": "BgmMIKU",
             "version": "3.31"
         },
-        "youtube": ""
+        "youtube": "STGuvHe5NGs"
     },
     {
         "description": "Taiwan: Night Market field",
@@ -9707,14 +9707,14 @@
         "youtube": "7_yYG8zkADQ"
     },
     {
-        "description": "Hatsune Miku event",
+        "description": "2014 Hatsune Miku collaboration",
         "filename": "Sprechchor",
         "mark": "Event",
         "metadata": {
             "album-artist": "Wizet",
-            "artist": "Hatsune Miku",
-            "title": "Sprechchor",
-            "year": "2014"
+            "artist": "さつき が てんこもり feat. 初音ミク",
+            "title": "ネトゲ廃人シュプレヒコール",
+            "year": "2010"
         },
         "source": {
             "client": "JMS",
@@ -9722,7 +9722,7 @@
             "structure": "BgmMIKU",
             "version": "3.31"
         },
-        "youtube": ""
+        "youtube": "HxquE6d_a3k"
     },
     {
         "description": "Star Planet: Star Arena",
