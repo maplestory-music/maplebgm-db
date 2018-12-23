@@ -2079,6 +2079,60 @@
         "youtube": ""
     },
     {
+        "description": "2019 Chinese New Year event",
+        "filename": "CNY_LoveLetter",
+        "mark": "PL_CNY2018",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Chinese New Year: Love Letter",
+            "year": "2018"
+        },
+        "source": {
+            "client": "TMST",
+            "date": "2018-12-21",
+            "structure": "BgmWz2",
+            "version": "2.13"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "2019 Chinese New Year event",
+        "filename": "CNY_LoveLetterA",
+        "mark": "PL_CNY2018",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Chinese New Year: Love Letter A",
+            "year": "2018"
+        },
+        "source": {
+            "client": "TMST",
+            "date": "2018-12-21",
+            "structure": "BgmWz2",
+            "version": "2.13"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "2019 Chinese New Year event",
+        "filename": "CNY_LoveLetterB",
+        "mark": "PL_CNY2018",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Chinese New Year: Love Letter B",
+            "year": "2018"
+        },
+        "source": {
+            "client": "TMST",
+            "date": "2018-12-21",
+            "structure": "BgmWz2",
+            "version": "2.13"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Coke Town",
         "filename": "CokeTown",
         "mark": "CokeTown",
