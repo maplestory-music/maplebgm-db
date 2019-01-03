@@ -1,8 +1,41 @@
 # Changelog
+
 All notable changes to this project will be documented in this file.
 
-## 2018.4 - 2018-10-07
+## 2019.1 - 2019-01-02
+
 ### Added
+
+- New music from Q4 2018
+- Links for 'Tenebris', Hatsune Miku collaboration
+- Update remaining missing song information
+- Set up testing framework
+
+### Changed
+
+- Ignore punctuation for database sorting
+- Upgrade schema to draft-07
+
+### Removed
+
+- Remove duplicate songs
+- Remove ajv-cli
+
+### Fixed
+
+- Normalize apostrophes in song names
+- Fix database sort order
+
+| Update        | Description                    |
+| ------------- | ----------------               |
+| KMS 1.2.307   | Club Halloween                 |
+| KMST 1.2.077  | Savage Terminal Theme Dungeon  |
+| TMST 2.13     | 2019 Chinese New Year          |
+
+## 2018.4 - 2018-10-07
+
+### Added
+
 - New music from Q3 2018
 - Links for 'Captain Vaga' and 'Monad'
 - Map icon and filename updates
@@ -17,7 +50,9 @@ All notable changes to this project will be documented in this file.
 | CMST 1.43     | Retro World                   |
 
 ## 2018.3 - 2018-07-06
+
 ### Added
+
 - New music from Q2 2018
 
 | Update        | Description                  |
@@ -28,7 +63,9 @@ All notable changes to this project will be documented in this file.
 | KMST 1.2.070  | Moonbridge                   |
 
 ## 2018.2 - 2018-04-19
+
 ### Added
+
 - New music from Q1 2018
 - Links for 'Snowdrift Lodge' and 'MapleStory Ark'
 
@@ -39,7 +76,9 @@ All notable changes to this project will be documented in this file.
 | KMS 1.2.291   | Esfera rescore     |
 
 ## 2018.1 - 2018-01-27
+
 ### Added
+
 - New music from Q4 2017
 
 | Update        | Description                                |
@@ -50,7 +89,9 @@ All notable changes to this project will be documented in this file.
 | KMST 1.2.062  | Ark & Verdel                               |
 
 ## 2017.4 - 2017-10-23
+
 ### Added
+
 - Initial release
 - All songs and available metadata
 - Descriptions for songs released up to the end of 2012
