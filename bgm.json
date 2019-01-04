@@ -228,6 +228,24 @@
         "youtube": "fdoT7nTWMO8"
     },
     {
+        "description": "Adventure Island",
+        "filename": "adventureIsland",
+        "mark": "adventureIsland",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Adventure Island",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-01-03",
+            "structure": "BgmEvent2",
+            "version": "1.2.080"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Black Mage's Room",
         "filename": "AgainstTheDark",
         "mark": "MushroomVillage",
@@ -6638,6 +6656,24 @@
         "youtube": "PhBbDgnZCFk"
     },
     {
+        "description": "Secret Forest Elodin: Luen's House",
+        "filename": "LuensHouse",
+        "mark": "Elodin",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Luen's House",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-01-03",
+            "structure": "Bgm51",
+            "version": "1.2.080"
+        },
+        "youtube": ""
+    },
+    {
         "description": "2015 Halloween: Madhouse",
         "filename": "MadHouse",
         "mark": "MadHouse",
@@ -9072,6 +9108,24 @@
             "version": "1.2.504"
         },
         "youtube": "WRL1IwOzW7A"
+    },
+    {
+        "description": "Secret Forest Elodin",
+        "filename": "SecretElodin",
+        "mark": "Elodin",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Secret Elodin",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-01-03",
+            "structure": "Bgm51",
+            "version": "1.2.080"
+        },
+        "youtube": ""
     },
     {
         "description": "Kerning City: The Secret Garden",
