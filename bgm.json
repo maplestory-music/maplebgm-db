@@ -8199,6 +8199,24 @@
         "youtube": "xfq61ugRGBo"
     },
     {
+        "description": "Pathfinder tutorial",
+        "filename": "Pathfinder",
+        "mark": "Partem",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Pathfinder",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-01-17",
+            "structure": "Bgm51",
+            "version": "1.2.081"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Mechanical Hearts: Episode 2",
         "filename": "PeacefulDays",
         "mark": "PL_Beautyroid",
@@ -10657,6 +10675,24 @@
         "youtube": "sW2zoOX8iUc"
     },
     {
+        "description": "Partem Ruins",
+        "filename": "ThePartemRuins",
+        "mark": "Partem",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "The Partem Ruins",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-01-17",
+            "structure": "Bgm51",
+            "version": "1.2.081"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Xenon tutorial",
         "filename": "thePhoto",
         "mark": "Leben",
@@ -10797,6 +10833,24 @@
             "version": "1.2.046"
         },
         "youtube": "rdDtnDmKQtY"
+    },
+    {
+        "description": "Partem",
+        "filename": "TheVillageOfKarupa",
+        "mark": "Partem",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "The Village of Karupa",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-01-17",
+            "structure": "Bgm51",
+            "version": "1.2.081"
+        },
+        "youtube": ""
     },
     {
         "description": "Ludibrium Clocktower: Forgotten Passage",
