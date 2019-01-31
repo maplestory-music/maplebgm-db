@@ -8701,7 +8701,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Retro World Boss",
+            "subtitle": "Retro World Boss",
+            "title": "The Final Stage",
             "year": "2018"
         },
         "source": {
@@ -8710,7 +8711,7 @@
             "structure": "BgmPL",
             "version": "1.43"
         },
-        "youtube": ""
+        "youtube": "zvXnHdqbCNk"
     },
     {
         "description": "Retro World dungeon",
@@ -8719,7 +8720,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Retro World Dungeon",
+            "subtitle": "Retro World Dungeon",
+            "title": "Action Trap",
             "year": "2018"
         },
         "source": {
@@ -8728,7 +8730,7 @@
             "structure": "BgmPL",
             "version": "1.43"
         },
-        "youtube": ""
+        "youtube": "GSG5FxqIu4g"
     },
     {
         "description": "Retro World minigame",
@@ -8737,7 +8739,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Retro World Minigame",
+            "subtitle": "Retro World Minigame",
+            "title": "Watch Out!",
             "year": "2018"
         },
         "source": {
@@ -8746,7 +8749,7 @@
             "structure": "BgmPL",
             "version": "1.43"
         },
-        "youtube": ""
+        "youtube": "VGznt8fdh6w"
     },
     {
         "description": "Retro World",
@@ -8755,7 +8758,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Retro World Town",
+            "subtitle": "Retro World Town",
+            "title": "Ordinary Day",
             "year": "2018"
         },
         "source": {
@@ -8764,7 +8768,7 @@
             "structure": "BgmPL",
             "version": "1.43"
         },
-        "youtube": ""
+        "youtube": "7alGu8gUCgQ"
     },
     {
         "description": "Monad: Act 3 Julieta epilogue",
