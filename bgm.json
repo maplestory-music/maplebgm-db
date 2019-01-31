@@ -997,6 +997,24 @@
         "youtube": "6sn8HkQCe5U"
     },
     {
+        "description": "Battle Horizon",
+        "filename": "battleHorizonTheme",
+        "mark": "BattleHorizon",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Battle Horizon Theme",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2019-01-31",
+            "structure": "Bgm51",
+            "version": "1.2.312"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Black Heaven - Lumiere, Scrapyard",
         "filename": "BattleOnTheDeck",
         "mark": "BlockBuster",
