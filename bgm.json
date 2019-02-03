@@ -10176,6 +10176,24 @@
         "youtube": "L9CYYgoZVAo"
     },
     {
+        "description": "Superstar Pink Bean chair effect",
+        "filename": "SuperstarPinkBeanChairBGM",
+        "mark": "FreeMarket",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Superstar Pink Bean Chair",
+            "year": "2019"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2019-02-01",
+            "structure": "BgmWz2Chair",
+            "version": "1.48"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Morass: Coral Forest",
         "filename": "SwampOfMemoryMoras",
         "mark": "Morass",
