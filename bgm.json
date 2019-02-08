@@ -2115,13 +2115,14 @@
         "youtube": ""
     },
     {
-        "description": "2019 Chinese New Year event",
+        "description": "2019 Lunar New Year event",
         "filename": "CNY_LoveLetter",
         "mark": "PL_CNY2018",
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Chinese New Year: Love Letter",
+            "subtitle": "Lunar New Year: Love Letter",
+            "title": "Season's Greeting",
             "year": "2018"
         },
         "source": {
@@ -2130,16 +2131,16 @@
             "structure": "BgmWz2",
             "version": "2.13"
         },
-        "youtube": ""
+        "youtube": "1VzASddjwtE"
     },
     {
-        "description": "2019 Chinese New Year event",
+        "description": "2019 Lunar New Year event",
         "filename": "CNY_LoveLetterA",
         "mark": "PL_CNY2018",
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Chinese New Year: Love Letter A",
+            "title": "Lunar New Year: Love Letter A",
             "year": "2018"
         },
         "source": {
@@ -2148,16 +2149,16 @@
             "structure": "BgmWz2",
             "version": "2.13"
         },
-        "youtube": ""
+        "youtube": "m8MB56duRb0"
     },
     {
-        "description": "2019 Chinese New Year event",
+        "description": "2019 Lunar New Year event",
         "filename": "CNY_LoveLetterB",
         "mark": "PL_CNY2018",
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Chinese New Year: Love Letter B",
+            "title": "Lunar New Year: Love Letter B",
             "year": "2018"
         },
         "source": {
@@ -2166,7 +2167,7 @@
             "structure": "BgmWz2",
             "version": "2.13"
         },
-        "youtube": ""
+        "youtube": "q4he8niW-gk"
     },
     {
         "description": "Coke Town",
