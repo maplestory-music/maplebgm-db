@@ -411,8 +411,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Appearance",
             "title": "Fragment of Fears",
+            "title-alt": "Appearance",
             "year": "2018"
         },
         "source": {
@@ -484,8 +484,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Arcana Boss",
             "title": "Shadow of Incongruity",
+            "title-alt": "Arcana Boss",
             "year": "2017"
         },
         "source": {
@@ -752,8 +752,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Attack",
             "title": "Assault!",
+            "title-alt": "Attack",
             "year": "2018"
         },
         "source": {
@@ -840,8 +840,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Battle",
             "title": "Unforgettable Gun",
+            "title-alt": "Battle",
             "year": "2018"
         },
         "source": {
@@ -1417,8 +1417,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Blood Cage",
             "title": "The Bloody Cage",
+            "title-alt": "Blood Cage",
             "year": "2018"
         },
         "source": {
@@ -1436,8 +1436,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Blood Cage (Original)",
             "title": "The Bloody Cage (Original)",
+            "title-alt": "Blood Cage (Original)",
             "year": "2018"
         },
         "source": {
@@ -1542,8 +1542,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Broken Dream",
             "title": "Dream Fragments",
+            "title-alt": "Broken Dream",
             "year": "2016"
         },
         "source": {
@@ -1651,8 +1651,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Captain Vaga",
             "title": "Escape",
+            "title-alt": "Captain Vaga",
             "year": "2018"
         },
         "source": {
@@ -1865,8 +1865,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Cave of Rest",
             "title": "The Cave of Peace",
+            "title-alt": "Cave of Rest",
             "year": "2016"
         },
         "source": {
@@ -1938,8 +1938,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Chew Chew: Main Theme",
             "title": "Expedition to Chew Chew Island",
+            "title-alt": "Chew Chew: Main Theme",
             "year": "2016"
         },
         "source": {
@@ -1957,8 +1957,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Chew Chew: Wild World",
             "title": "Welcome to Chew Chew Island",
+            "title-alt": "Chew Chew: Wild World",
             "year": "2016"
         },
         "source": {
@@ -2084,8 +2084,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Clocktower of Nightmare",
             "title": "Shattered Time",
+            "title-alt": "Clocktower of Nightmare",
             "year": "2016"
         },
         "source": {
@@ -2121,8 +2121,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Lunar New Year: Love Letter",
             "title": "Season's Greeting",
+            "title-alt": "Lunar New Year: Love Letter",
             "year": "2018"
         },
         "source": {
@@ -2929,8 +2929,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Demian",
             "title": "The Tragic Fate of Demian",
+            "title-alt": "Demian",
             "year": "2016"
         },
         "source": {
@@ -2966,8 +2966,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Demian True",
             "title": "Corrupted Blood",
+            "title-alt": "Demian True",
             "year": "2016"
         },
         "source": {
@@ -3612,8 +3612,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Eluna",
             "title": "Off the Beaten Path -upbeat-",
+            "title-alt": "Eluna",
             "year": "2017"
         },
         "source": {
@@ -4444,8 +4444,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Galaxy is Dangerous",
             "title": "14th Anniversary Dynamic Universe",
+            "title-alt": "Galaxy is Dangerous",
             "year": "2017"
         },
         "source": {
@@ -4892,8 +4892,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Gunman",
             "title": "Western Gunman",
+            "title-alt": "Gunman",
             "year": "2018"
         },
         "source": {
@@ -5301,8 +5301,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Hidden Tales: Mystery",
             "title": "Greetings of the Death Angel",
+            "title-alt": "Hidden Tales: Mystery",
             "year": "2016"
         },
         "source": {
@@ -5320,8 +5320,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Hidden Tales: Sorrow",
             "title": "Frozen Heart",
+            "title-alt": "Hidden Tales: Sorrow",
             "year": "2016"
         },
         "source": {
@@ -5339,8 +5339,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Hidden Tales: Tension",
             "title": "The Shadow of Chaos",
+            "title-alt": "Hidden Tales: Tension",
             "year": "2016"
         },
         "source": {
@@ -5643,8 +5643,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Into the Stars",
             "title": "Tomorrow",
+            "title-alt": "Into the Stars",
             "year": "2018"
         },
         "source": {
@@ -6073,8 +6073,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Labor",
             "title": "Ready, Steady, Solid!",
+            "title-alt": "Labor",
             "year": "2018"
         },
         "source": {
@@ -6092,8 +6092,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Labor MR",
             "title": "Ready, Steady, Solid! -instrumental-",
+            "title-alt": "Labor MR",
             "year": "2018"
         },
         "source": {
@@ -6111,8 +6111,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Lacheln, The Illusion City",
             "title": "Lacheln, The City of Dreams",
+            "title-alt": "Lacheln, The Illusion City",
             "year": "2016"
         },
         "source": {
@@ -6148,8 +6148,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Land of Contemplation ~day~",
             "title": "Can You Read My Thoughts?",
+            "title-alt": "Land of Contemplation ~day~",
             "year": "2016"
         },
         "source": {
@@ -6167,8 +6167,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Land of Contemplation ~night~",
             "title": "Can You Read My Thoughts? -night-",
+            "title-alt": "Land of Contemplation ~night~",
             "year": "2016"
         },
         "source": {
@@ -6186,8 +6186,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Land of Innocence ~day~",
             "title": "The Dancing Weathercock",
+            "title-alt": "Land of Innocence ~day~",
             "year": "2016"
         },
         "source": {
@@ -6205,8 +6205,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Land of Innocence ~night~",
             "title": "The Dancing Weathercock -night-",
+            "title-alt": "Land of Innocence ~night~",
             "year": "2016"
         },
         "source": {
@@ -6224,8 +6224,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Land of Innocence ~night~ (Alternate)",
             "title": "The Dancing Weathercock -night- (Alternate)",
+            "title-alt": "Land of Innocence ~night~ (Alternate)",
             "year": "2016"
         },
         "source": {
@@ -6243,8 +6243,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Land of Riches ~day~",
             "title": "The World of Paradox",
+            "title-alt": "Land of Riches ~day~",
             "year": "2016"
         },
         "source": {
@@ -6262,8 +6262,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Land of Riches ~night~",
             "title": "The World of Paradox -night-",
+            "title-alt": "Land of Riches ~night~",
             "year": "2016"
         },
         "source": {
@@ -6281,8 +6281,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Land of Riches ~night~ (Alternate)",
             "title": "The World of Paradox -night- (Alternate)",
+            "title-alt": "Land of Riches ~night~ (Alternate)",
             "year": "2016"
         },
         "source": {
@@ -6300,8 +6300,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Land of Warriors ~day~",
             "title": "Bottoms Up!",
+            "title-alt": "Land of Warriors ~day~",
             "year": "2016"
         },
         "source": {
@@ -6319,8 +6319,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Land of Warriors ~night~",
             "title": "Bottoms Up! -night-",
+            "title-alt": "Land of Warriors ~night~",
             "year": "2016"
         },
         "source": {
@@ -6536,8 +6536,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Little Maple Planet",
             "title": "14th Anniversary Frozen Link -piano-",
+            "title-alt": "Little Maple Planet",
             "year": "2017"
         },
         "source": {
@@ -6771,8 +6771,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Maple Galaxy",
             "title": "14th Anniversary Cosmic Main",
+            "title-alt": "Maple Galaxy",
             "year": "2017"
         },
         "source": {
@@ -6790,8 +6790,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Maple Galaxy 2",
             "title": "14th Anniversary Frozen Link",
+            "title-alt": "Maple Galaxy 2",
             "year": "2017"
         },
         "source": {
@@ -6881,8 +6881,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Masteria Through Time C",
             "title": "War for the Castle",
+            "title-alt": "Masteria Through Time C",
             "year": "2016"
         },
         "source": {
@@ -6900,8 +6900,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Masteria Through Time E1",
             "title": "An Eternal Breath -instrumental-",
+            "title-alt": "Masteria Through Time E1",
             "year": "2016"
         },
         "source": {
@@ -6919,8 +6919,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Masteria Through Time E2",
             "title": "An Eternal Breath",
+            "title-alt": "Masteria Through Time E2",
             "year": "2016"
         },
         "source": {
@@ -6938,8 +6938,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Masteria Through Time J",
             "title": "Jungle Pursuit",
+            "title-alt": "Masteria Through Time J",
             "year": "2016"
         },
         "source": {
@@ -6957,8 +6957,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Maple Detective: Acorn Detective AR",
             "title": "Stellar Detectives",
+            "title-alt": "Maple Detective: Acorn Detective AR",
             "year": "2016"
         },
         "source": {
@@ -6976,8 +6976,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Maple Detective: Acorn Detective MR",
             "title": "Stellar Detectives -instrumental-",
+            "title-alt": "Maple Detective: Acorn Detective MR",
             "year": "2016"
         },
         "source": {
@@ -6995,8 +6995,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Maple Detective: Invade Operation",
             "title": "Mission: Invasion",
+            "title-alt": "Maple Detective: Invade Operation",
             "year": "2016"
         },
         "source": {
@@ -7014,8 +7014,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Memory",
             "title": "Recollecting Memories",
+            "title-alt": "Memory",
             "year": "2018"
         },
         "source": {
@@ -8242,8 +8242,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Peaceful Days",
             "title": "Peaceful Life",
+            "title-alt": "Peaceful Days",
             "year": "2017"
         },
         "source": {
@@ -8720,8 +8720,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Retro World Boss",
             "title": "The Final Stage",
+            "title-alt": "Retro World Boss",
             "year": "2018"
         },
         "source": {
@@ -8739,8 +8739,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Retro World Dungeon",
             "title": "Action Trap",
+            "title-alt": "Retro World Dungeon",
             "year": "2018"
         },
         "source": {
@@ -8758,8 +8758,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Retro World Minigame",
             "title": "Watch Out!",
+            "title-alt": "Retro World Minigame",
             "year": "2018"
         },
         "source": {
@@ -8777,8 +8777,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Retro World Town",
             "title": "Ordinary Day",
+            "title-alt": "Retro World Town",
             "year": "2018"
         },
         "source": {
@@ -8796,8 +8796,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Reunite",
             "title": "The Veiled Truth",
+            "title-alt": "Reunite",
             "year": "2018"
         },
         "source": {
@@ -9676,8 +9676,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Song of Hawar",
             "title": "Would You Listen to My Story?",
+            "title-alt": "Song of Hawar",
             "year": "2018"
         },
         "source": {
@@ -9695,8 +9695,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Song of Hawar MR",
             "title": "Would You Listen to My Story? -instrumental-",
+            "title-alt": "Song of Hawar MR",
             "year": "2018"
         },
         "source": {
@@ -9714,8 +9714,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Song of the Nati",
             "title": "Song of Naty",
+            "title-alt": "Song of the Nati",
             "year": "2017"
         },
         "source": {
@@ -9751,8 +9751,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Soup of Life",
             "title": "A Place Where Life Begins",
+            "title-alt": "Soup of Life",
             "year": "2018"
         },
         "source": {
@@ -9770,8 +9770,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Soup of Life (Original)",
             "title": "A Place Where Life Begins (Original)",
+            "title-alt": "Soup of Life (Original)",
             "year": "2018"
         },
         "source": {
@@ -9843,8 +9843,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Spiritual Weight",
             "title": "Weight of the Soul",
+            "title-alt": "Spiritual Weight",
             "year": "2017"
         },
         "source": {
@@ -10273,8 +10273,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Temple in the Mirror",
             "title": "Le Temple du Miroir",
+            "title-alt": "Temple in the Mirror",
             "year": "2018"
         },
         "source": {
@@ -10292,8 +10292,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Temple in the Mirror (Original)",
             "title": "Le Temple du Miroir (Original)",
+            "title-alt": "Temple in the Mirror (Original)",
             "year": "2018"
         },
         "source": {
@@ -10863,8 +10863,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "The Tune of the Azure Light 2",
             "title": "The Tune of the Azure Light -gleam-",
+            "title-alt": "The Tune of the Azure Light 2",
             "year": "2017"
         },
         "source": {
@@ -10936,8 +10936,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "The Way to Hope -gloomy-",
             "title": "The Sorrowful Way",
+            "title-alt": "The Way to Hope -gloomy-",
             "year": "2018"
         },
         "source": {
@@ -10955,8 +10955,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "The Way to Hope -gloomy- MR",
             "title": "The Sorrowful Way -instrumental-",
+            "title-alt": "The Way to Hope -gloomy- MR",
             "year": "2018"
         },
         "source": {
@@ -11295,8 +11295,8 @@
         "metadata": {
             "album-artist": "Wizet",
             "artist": "Idina Menzel",
-            "subtitle": "Title Frozen",
             "title": "Let It Go",
+            "title-alt": "Title Frozen",
             "year": "2014"
         },
         "source": {
@@ -11710,8 +11710,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Unexplored Eluna",
             "title": "Off the Beaten Path",
+            "title-alt": "Unexplored Eluna",
             "year": "2017"
         },
         "source": {
@@ -11981,8 +11981,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Volcanic Zone Of Extinction",
             "title": "Volcanic Mountain",
+            "title-alt": "Volcanic Zone Of Extinction",
             "year": "2016"
         },
         "source": {
@@ -12000,8 +12000,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Walk Together",
             "title": "Along With You",
+            "title-alt": "Walk Together",
             "year": "2018"
         },
         "source": {
@@ -12145,8 +12145,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Water Gun Game",
             "title": "Outlaw of the Lonely Island",
+            "title-alt": "Water Gun Game",
             "year": "2017"
         },
         "source": {
@@ -12233,8 +12233,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "We Are the Pioneers",
             "title": "Pioneer Headquarters",
+            "title-alt": "We Are the Pioneers",
             "year": "2017"
         },
         "source": {
@@ -12423,8 +12423,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Weird Forest in the Girl's Dream",
             "title": "Phantasmal Woods",
+            "title-alt": "Weird Forest in the Girl's Dream",
             "year": "2016"
         },
         "source": {
@@ -12496,8 +12496,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Winter Castle",
             "title": "Melting Snow",
+            "title-alt": "Winter Castle",
             "year": "2017"
         },
         "source": {
@@ -12515,8 +12515,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Winter Castle -Downhill-",
             "title": "Downhill Ride",
+            "title-alt": "Winter Castle -Downhill-",
             "year": "2017"
         },
         "source": {
@@ -12534,8 +12534,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Winter Frenzy Boss (All)",
             "title": "Frenzy Winter (Alternate)",
+            "title-alt": "Winter Frenzy Boss (All)",
             "year": "2016"
         },
         "source": {
@@ -12553,8 +12553,8 @@
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "subtitle": "Winter Frenzy Boss (BGM)",
             "title": "Frenzy Winter",
+            "title-alt": "Winter Frenzy Boss (BGM)",
             "year": "2016"
         },
         "source": {
