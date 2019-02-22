@@ -5959,6 +5959,24 @@
         "youtube": "MmWrqpV7f0Q"
     },
     {
+        "description": "Kinesis' Mental Overdrive skill",
+        "filename": "Kinesis Theme Skill",
+        "mark": "MSTown",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Kinesis Theme Skill",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-02-21",
+            "structure": "Bgm43",
+            "version": "1.2.083"
+        },
+        "youtube": "I1KQv48Y34U"
+    },
+    {
         "description": "New Year's Eve kite event",
         "filename": "kiteBgm",
         "mark": "Kite",
