@@ -641,13 +641,31 @@
         "youtube": "DzyjPxP0GSg"
     },
     {
-        "description": "Asiasoft splash",
+        "description": "Playpark-Asiasoft splash",
         "filename": "AsLogo",
         "mark": "TestServer",
         "metadata": {
             "album-artist": "Wizet",
-            "artist": "StudioEIM",
-            "title": "AsiaSoft Logo",
+            "artist": "Wizet",
+            "title": "Asiasoft Logo",
+            "year": "2018"
+        },
+        "source": {
+            "client": "MSEA",
+            "date": "2018-11-14",
+            "structure": "BgmUI",
+            "version": "1.80"
+        },
+        "youtube": "oAFLPYk6IvY"
+    },
+    {
+        "description": "Asiasoft splash",
+        "filename": "AsLogo (Original)",
+        "mark": "TestServer",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "Wizet",
+            "title": "Asiasoft Logo (Original)",
             "year": "2005"
         },
         "source": {
