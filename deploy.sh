@@ -8,14 +8,14 @@ setup_git() {
 git_commit() {
     cd build
     git checkout --orphan prod
-    timestamp=$(date +%b %d %Y)
+    timestamp=$(date +%B %d %Y)
     git add bgm.min.json
     git commit -m "Travis CI update: $timestamp (Build $TRAVIS_BUILD_NUMBER)"
 }
 
 git_push() {
     git remote rm origin
-    git remote add origin https://nanochromatic:${GITHUB_TOKEN}@github.com/maplestory-music/maplebgm-db.git > /dev/null 2>&1
+    git remote add origin https://${GITHUB_TOKEN}@github.com/maplestory-music/maplebgm-db.git > /dev/null 2>&1
     git push origin prod --force --quiet
 }
 
