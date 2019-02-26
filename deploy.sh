@@ -6,9 +6,8 @@ setup_git() {
 }
 
 git_commit() {
-    cd build
     git checkout --orphan prod
-    timestamp=$(date +%B %d %Y)
+    timestamp=$(date "+%b %d %Y")
     git add bgm.min.json
     git commit -m "Travis CI update: $timestamp (Build $TRAVIS_BUILD_NUMBER)"
 }
