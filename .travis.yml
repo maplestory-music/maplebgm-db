@@ -2,8 +2,16 @@ language: node_js
 node_js:
   - '10'
 sudo: false
+before_install:
+  - sudo apt-get update
+  - sudo apt-get install -y jq
 cache:
   yarn: true
   directories:
     - node_modules
-script: yarn test
+script:
+  - yarn test
+  - mkdir -p build
+  - jq -c . < ./bgm.json > ./build/bgm.min.json
+after_success:
+  - ./deploy.sh
