@@ -1,8 +1,8 @@
 #!/bin/sh
 
 setup_git() {
-    git config --global user.email "travis@travis-ci.org"
-    git config --global user.name "Travis CI"
+    git config --global user.email "deploy@travis-ci.org"
+    git config --global user.name "Deployment Bot (from Travis CI)"
 }
 
 git_commit() {
@@ -19,10 +19,12 @@ git_push() {
 }
 
 setup_git
-git_commit
+changed=$(git diff --name-only HEAD~1 HEAD | grep bgm.json | wc -l)
 
-if [ $? -eq 0 ]; then
-    echo "Change in bgm.json detected. Pushing to prod branch..."
+if [ $changed -ne 0 ]; then
+    echo "Change in bgm.json detected. Minifying and pushing to prod branch..."
+    jq -c . < ./bgm.json > ./bgm.min.json
+    git_commit
     git_push
 else
     echo "No changes in bgm.json"
