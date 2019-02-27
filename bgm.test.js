@@ -19,4 +19,9 @@ describe('bgm database', () => {
       a.localeCompare(b, 'en', {ignorePunctuation: true}));
     expect(songNames).toEqual(sortedSongNames);
   });
+  test('filename should be unique', () => {
+    let songNames = bgmDatabase.map(song => song.filename);
+    let distinctSongNames = new Set(songNames);
+    expect(songNames.length).toEqual(distinctSongNames.size);
+  });
 });
