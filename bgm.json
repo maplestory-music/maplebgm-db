@@ -6875,6 +6875,24 @@
         "youtube": "9D7nLxP4w9A"
     },
     {
+        "description": "Maple Squad event",
+        "filename": "MapleSquadS1",
+        "mark": "ADSquad",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Maple Squad S1",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2019-02-28",
+            "structure": "Bgm51",
+            "version": "1.2.313"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Star Planet: Typing Defense",
         "filename": "masterOfKeyBoard",
         "mark": "Starplanet",
