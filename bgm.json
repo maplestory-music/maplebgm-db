@@ -5313,6 +5313,24 @@
         "youtube": "kMW_CaKNrRY"
     },
     {
+        "description": "Spot the Difference event",
+        "filename": "HiddenCatch",
+        "mark": "BZ_HiddenCatch",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Hidden Catch",
+            "year": "2019"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2019-03-06",
+            "structure": "BgmPL",
+            "version": "2.03"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Secret Stories - Chapter 1",
         "filename": "HiddenTales_Mystery",
         "mark": "ArbrenBT",
