@@ -2,6 +2,42 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2019.2 - 2019-04-09
+
+### Added
+
+- New music from Q1 2019
+- Links for 'Retro World', 'Lunar New Year' and Superstar Pink Bean Chair
+- Set up automated minification deployment
+
+### Changed
+
+- Sync song descriptions to GlobalMS localization
+- Rename 'subtitle' property to 'title-alt'
+- Ensure unique filenames in database
+
+### Fixed
+
+- Fix database sorting ambiguity with 'NLCtown'
+
+### New Additions
+
+| Update        | Description                |
+| ------------- | ----------------           |
+| KMST 1.2.080  | Elodin & Adventure Island  |
+| KMST 1.2.081  | Pathfinder & Partem        |
+| KMS 1.2.312   | Battle Horizon             |
+| CMST 1.48     | Superstar Pink Bean Chair  |
+| KMST 1.2.083  | Kinesis Theme Skill        |
+| KMS 1.2.313   | Maple Squad                |
+| GMS 2.03      | Spot the Difference        |
+
+### Retroactive Additions
+
+| Update     | Description               |
+| ---------  | ----------------          |
+| MSEA 1.80  | Playpark-Asiasoft Splash  |
+
 ## 2019.1 - 2019-01-02
 
 ### Added
