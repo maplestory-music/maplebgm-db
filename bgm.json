@@ -243,7 +243,7 @@
             "structure": "BgmEvent2",
             "version": "1.2.080"
         },
-        "youtube": ""
+        "youtube": "bA6SLeKHS-c"
     },
     {
         "description": "Black Mage's Room",
@@ -1015,13 +1015,14 @@
         "youtube": "6sn8HkQCe5U"
     },
     {
-        "description": "Battle Horizon",
+        "description": "Battle Horizon event",
         "filename": "battleHorizonTheme",
         "mark": "BattleHorizon",
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Battle Horizon Theme",
+            "title": "Battle Horizon",
+            "title-alt": "Battle Horizon Theme",
             "year": "2019"
         },
         "source": {
@@ -1030,7 +1031,7 @@
             "structure": "Bgm51",
             "version": "1.2.312"
         },
-        "youtube": ""
+        "youtube": "u4NhFBzD5qg"
     },
     {
         "description": "Black Heaven - Lumiere, Scrapyard",
@@ -6744,7 +6745,7 @@
             "structure": "Bgm51",
             "version": "1.2.080"
         },
-        "youtube": ""
+        "youtube": "P8SFaafyKSo"
     },
     {
         "description": "2015 Halloween: Madhouse",
@@ -6893,13 +6894,14 @@
         "youtube": "9D7nLxP4w9A"
     },
     {
-        "description": "Maple Squad event",
+        "description": "Maple Squad: Immortal Gorgons event",
         "filename": "MapleSquadS1",
         "mark": "ADSquad",
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Maple Squad S1",
+            "title": "Immortal Gorgons",
+            "title-alt": "Maple Squad S1",
             "year": "2019"
         },
         "source": {
@@ -6908,7 +6910,7 @@
             "structure": "Bgm51",
             "version": "1.2.313"
         },
-        "youtube": ""
+        "youtube": "fEBYirzkjOI"
     },
     {
         "description": "Star Planet: Typing Defense",
@@ -8305,7 +8307,7 @@
             "structure": "Bgm51",
             "version": "1.2.081"
         },
-        "youtube": ""
+        "youtube": "Wt9qVpmSvN0"
     },
     {
         "description": "Mechanical Hearts: Episode 2",
@@ -9238,7 +9240,7 @@
             "structure": "Bgm51",
             "version": "1.2.080"
         },
-        "youtube": ""
+        "youtube": "VOD3PtOQr2Q"
     },
     {
         "description": "Kerning City: The Secret Garden",
@@ -10803,7 +10805,7 @@
             "structure": "Bgm51",
             "version": "1.2.081"
         },
-        "youtube": ""
+        "youtube": "wK8Q1d3Rzbs"
     },
     {
         "description": "Xenon tutorial",
@@ -10963,7 +10965,7 @@
             "structure": "Bgm51",
             "version": "1.2.081"
         },
-        "youtube": ""
+        "youtube": "UGcwgTaX5-c"
     },
     {
         "description": "Ludibrium Clocktower: Forgotten Passage",
