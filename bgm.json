@@ -7761,6 +7761,132 @@
         "youtube": "oOq9gzCv0cA"
     },
     {
+        "description": "16th anniversary: Newtro Time",
+        "filename": "Newtro_ChuChu",
+        "mark": "16thEvent",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Newtro: Chu Chu",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-04-18",
+            "structure": "BgmEvent2",
+            "version": "1.2.085"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "16th anniversary: Newtro Time",
+        "filename": "Newtro_Disco",
+        "mark": "16thEvent",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Newtro: Disco",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-04-18",
+            "structure": "BgmEvent2",
+            "version": "1.2.085"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "16th anniversary: Newtro Time",
+        "filename": "Newtro_Henesys",
+        "mark": "16thEvent",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Newtro: Henesys",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-04-18",
+            "structure": "BgmEvent2",
+            "version": "1.2.085"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "16th anniversary: Newtro Time",
+        "filename": "Newtro_Kingdom",
+        "mark": "16thEvent",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Newtro Kingdom",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-04-18",
+            "structure": "BgmEvent2",
+            "version": "1.2.085"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "16th anniversary: Newtro Time",
+        "filename": "Newtro_Login",
+        "mark": "16thEvent",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Newtro: Login",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-04-18",
+            "structure": "BgmEvent2",
+            "version": "1.2.085"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "16th anniversary: Newtro Time",
+        "filename": "Newtro_Ludibrium",
+        "mark": "16thEvent",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Newtro: Ludibrium",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-04-18",
+            "structure": "BgmEvent2",
+            "version": "1.2.085"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "16th anniversary: Newtro Time",
+        "filename": "Newtro_Orbis",
+        "mark": "16thEvent",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Newtro: Orbis",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-04-18",
+            "structure": "BgmEvent2",
+            "version": "1.2.085"
+        },
+        "youtube": ""
+    },
+    {
         "description": "China: Shanghai - The Bund",
         "filename": "newWaitan",
         "mark": "ShangHai",
