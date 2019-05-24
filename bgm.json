@@ -7878,6 +7878,24 @@
     },
     {
         "description": "16th anniversary: Newtro Time",
+        "filename": "Newtro_FlorinaBeach",
+        "mark": "16thEvent",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Newtro: Florina Beach",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2019-05-23",
+            "structure": "BgmEvent2",
+            "version": "1.2.316"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "16th anniversary: Newtro Time",
         "filename": "Newtro_Henesys",
         "mark": "16thEvent",
         "metadata": {
