@@ -7761,6 +7761,54 @@
         "youtube": "oOq9gzCv0cA"
     },
     {
+        "description": "16th anniversary: Newtro Time DJ track (Lith Harbor)",
+        "filename": "Newtro_AboveTheTreetops",
+        "mark": "16thEvent",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Above the Treetops -Newtro ver.-",
+            "year": "2019"
+        },
+        "source": {
+            "date": "2019-04-25",
+            "structure": "Website"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "16th anniversary: Newtro Time DJ track (Ariant)",
+        "filename": "Newtro_Ariant",
+        "mark": "16thEvent",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Ariant -Newtro ver.-",
+            "year": "2019"
+        },
+        "source": {
+            "date": "2019-04-25",
+            "structure": "Website"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "16th anniversary: Newtro Time DJ track (Kerning City)",
+        "filename": "Newtro_BadGuys",
+        "mark": "16thEvent",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Bad Guys -Newtro ver.-",
+            "year": "2019"
+        },
+        "source": {
+            "date": "2019-04-25",
+            "structure": "Website"
+        },
+        "youtube": ""
+    },
+    {
         "description": "16th anniversary: Newtro Time",
         "filename": "Newtro_ChuChu",
         "mark": "16thEvent",
@@ -7779,6 +7827,22 @@
         "youtube": ""
     },
     {
+        "description": "16th anniversary: Newtro Time DJ track (Grand Athenaeum)",
+        "filename": "Newtro_DimensionLibrary",
+        "mark": "16thEvent",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Dimension Library -Newtro ver.-",
+            "year": "2019"
+        },
+        "source": {
+            "date": "2019-04-25",
+            "structure": "Website"
+        },
+        "youtube": ""
+    },
+    {
         "description": "16th anniversary: Newtro Time",
         "filename": "Newtro_Disco",
         "mark": "16thEvent",
@@ -7793,6 +7857,22 @@
             "date": "2019-04-18",
             "structure": "BgmEvent2",
             "version": "1.2.085"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "16th anniversary: Newtro Time DJ track (Edelstein)",
+        "filename": "Newtro_EdelsteinCity",
+        "mark": "16thEvent",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Edelstein -Newtro ver.-",
+            "year": "2019"
+        },
+        "source": {
+            "date": "2019-04-25",
+            "structure": "Website"
         },
         "youtube": ""
     },
@@ -7883,6 +7963,22 @@
             "date": "2019-04-18",
             "structure": "BgmEvent2",
             "version": "1.2.085"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "16th anniversary: Newtro Time DJ track (Elluel)",
+        "filename": "Newtro_WindAndFlower",
+        "mark": "16thEvent",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Wind and Flower -Newtro ver.-",
+            "year": "2019"
+        },
+        "source": {
+            "date": "2019-04-25",
+            "structure": "Website"
         },
         "youtube": ""
     },
