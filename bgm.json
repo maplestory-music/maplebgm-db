@@ -3574,6 +3574,24 @@
         "youtube": "mJhPiB4Y1Sk"
     },
     {
+        "description": "MapleStory Glory: The Day After",
+        "filename": "EdelsteinCity_Mastered",
+        "mark": "Edelstein",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Edelstein City -Mastered ver.-",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-06-15",
+            "structure": "Bgm52",
+            "version": "1.2.087"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Unused",
         "filename": "Elfwood",
         "mark": "Quest",
@@ -5832,6 +5850,24 @@
             "version": "1.2.464"
         },
         "youtube": "RrUuiOV7DmY"
+    },
+    {
+        "description": "MapleStory Glory: The Day After",
+        "filename": "Journey_Music Box_Mastered",
+        "mark": "FreeMarket",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Journey Music Box -Mastered ver.-",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-06-15",
+            "structure": "Bgm52",
+            "version": "1.2.087"
+        },
+        "youtube": ""
     },
     {
         "description": "Root Abyss: Pierre boss theme",
