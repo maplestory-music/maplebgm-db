@@ -4602,6 +4602,24 @@
         "youtube": "i-wfyqyxWeM"
     },
     {
+        "description": "Maple Alliance Outpost (MapleStory Glory)",
+        "filename": "glory_Base",
+        "mark": "aliance",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Glory Base",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2019-06-20",
+            "structure": "BgmEvent2",
+            "version": "1.2.317"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Illium's Wings of Glory skill",
         "filename": "gloryWing",
         "mark": "Asylum",
