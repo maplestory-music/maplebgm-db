@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2019.3 - 2019-07-12
+
+### Added
+
+- New music from Q2 2019
+- Links for 'Adventure', '16th Anniversary' and various other tracks
+
+### New Additions
+
+| Update        | Description                                            |
+| ------------- | ---------------------------------------------          |
+| KMST 1.2.085  | 16th Anniversary                                       |
+| Web 1         | 16th Anniversary - Newtro Time DJ tracks (Set 1)       |
+| KMS 1.2.316   | 16th Anniversary, Part 2                               |
+| Web 2         | 16th Anniversary - Newtro Time DJ tracks (Set 2)       |
+| KMST 1.2.087  | MapleStory Glory: The Day After (Edelstein & Journey)  |
+| KMS 1.2.317   | MapleStory Glory: The Day After (Glory Base)           |
+
 ## 2019.2 - 2019-04-09
 
 ### Added
