@@ -1555,6 +1555,24 @@
         "youtube": "cxqCXm9_LsI"
     },
     {
+        "description": "Glorion: Border of Worlds",
+        "filename": "Borderless",
+        "mark": "Glorion",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Borderless",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2019-07-04",
+            "structure": "Bgm52",
+            "version": "1.2.319"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Lucid boss theme (Phase 2)",
         "filename": "BrokenDream",
         "mark": "Lacheln",
