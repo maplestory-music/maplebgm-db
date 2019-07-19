@@ -7761,6 +7761,60 @@
         "youtube": "eSfkxogXQRE"
     },
     {
+        "description": "My Home system content",
+        "filename": "myHome_room",
+        "mark": "myHome",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "My Home - Room",
+            "year": "2019"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2019-07-15",
+            "structure": "BgmWz2",
+            "version": "1.52"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "My Home system content",
+        "filename": "myHome_room2",
+        "mark": "myHome",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "My Home - Room 2",
+            "year": "2019"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2019-07-15",
+            "structure": "BgmWz2",
+            "version": "1.52"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "My Home system content",
+        "filename": "myHome_village",
+        "mark": "myHome",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "My Home - Village",
+            "year": "2019"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2019-07-15",
+            "structure": "BgmWz2",
+            "version": "1.52"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Shadowvale, Zero storyline",
         "filename": "NastyLiar",
         "mark": "ShadowKnight",
