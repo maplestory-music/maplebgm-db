@@ -4674,6 +4674,24 @@
         "youtube": "BjIJTO2SFAk"
     },
     {
+        "description": "Ancient Ruins Party Quest",
+        "filename": "GL_AdvPQ",
+        "mark": "GL_AdvPQ",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Adventure Party Quest",
+            "year": "2019"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2019-07-24",
+            "structure": "BgmPL",
+            "version": "2.06"
+        },
+        "youtube": ""
+    },
+    {
         "description": "2015 Sizzling Santa event",
         "filename": "GLBurningSanta",
         "mark": "HappyVillage",
