@@ -8705,6 +8705,24 @@
         "youtube": "RXzIAPda5Aw"
     },
     {
+        "description": "Cernium: Royal Library",
+        "filename": "OverloadOfLife",
+        "mark": "Glorion",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Overload of Life",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-08-01",
+            "structure": "Bgm53",
+            "version": "1.2.090"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Fox Valley",
         "filename": "OverTheClouds",
         "mark": "foxValley",
