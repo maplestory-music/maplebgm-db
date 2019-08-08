@@ -9258,6 +9258,24 @@
         "youtube": "DhUdOO9UNwY"
     },
     {
+        "description": "Cernium: Lefgun Garrison",
+        "filename": "RedMoon",
+        "mark": "Glorion",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Red Moon",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2019-08-08",
+            "structure": "Bgm53",
+            "version": "1.2.321"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Mirror World Control Room",
         "filename": "RedRoom",
         "mark": "RedTemple",
@@ -9582,6 +9600,24 @@
             "version": "1.2.380"
         },
         "youtube": "oyLNri1VuOM"
+    },
+    {
+        "description": "Cernium",
+        "filename": "RisingSun",
+        "mark": "Glorion",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Rising Sun",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2019-08-08",
+            "structure": "Bgm53",
+            "version": "1.2.321"
+        },
+        "youtube": ""
     },
     {
         "description": "Neo Tokyo: 2102 Shibuya / Roppongi Mall",
