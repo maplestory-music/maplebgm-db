@@ -4689,7 +4689,7 @@
             "structure": "BgmPL",
             "version": "2.06"
         },
-        "youtube": ""
+        "youtube": "uLKwfP50iwE"
     },
     {
         "description": "2015 Sizzling Santa event",
@@ -7869,13 +7869,14 @@
         "youtube": "eSfkxogXQRE"
     },
     {
-        "description": "My Home system content",
+        "description": "My Home system content - room decoration",
         "filename": "myHome_room",
         "mark": "myHome",
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "My Home - Room",
+            "title": "Sweet Rest",
+            "title-alt": "My Home - Room",
             "year": "2019"
         },
         "source": {
@@ -7884,16 +7885,17 @@
             "structure": "BgmWz2",
             "version": "1.52"
         },
-        "youtube": ""
+        "youtube": "_qrZyuh0Rj8"
     },
     {
-        "description": "My Home system content",
+        "description": "My Home system content - room decoration",
         "filename": "myHome_room2",
         "mark": "myHome",
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "My Home - Room 2",
+            "title": "Sweet Rest -Guitar ver.-",
+            "title-alt": "My Home - Room 2",
             "year": "2019"
         },
         "source": {
@@ -7902,16 +7904,17 @@
             "structure": "BgmWz2",
             "version": "1.52"
         },
-        "youtube": ""
+        "youtube": "sHTeqhDj2Y8"
     },
     {
-        "description": "My Home system content",
+        "description": "My Home system content - Kelanza Square",
         "filename": "myHome_village",
         "mark": "myHome",
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "My Home - Village",
+            "title": "Brand New Morning in the Plaza",
+            "title-alt": "My Home - Village",
             "year": "2019"
         },
         "source": {
@@ -7920,7 +7923,7 @@
             "structure": "BgmWz2",
             "version": "1.52"
         },
-        "youtube": ""
+        "youtube": "fsQ6o8IVfXY"
     },
     {
         "description": "Shadowvale, Zero storyline",
