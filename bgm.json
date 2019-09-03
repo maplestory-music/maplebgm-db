@@ -4764,6 +4764,24 @@
         "youtube": "W_7Rx3xW7as"
     },
     {
+        "description": "Full Moon Goblin Night Market",
+        "filename": "goblinMarket",
+        "mark": "goblinMarket",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Goblin Market",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2019-08-29",
+            "structure": "BgmEvent2",
+            "version": "1.2.323"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Divine Intelligence event",
         "filename": "GodOfBrain",
         "mark": "PL_GodOfBrain",
