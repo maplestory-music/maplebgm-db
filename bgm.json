@@ -3682,24 +3682,6 @@
         "youtube": "mJhPiB4Y1Sk"
     },
     {
-        "description": "MapleStory Glory: The Day After",
-        "filename": "EdelsteinCity_Mastered",
-        "mark": "Edelstein",
-        "metadata": {
-            "album-artist": "NECORD",
-            "artist": "ASTERIA",
-            "title": "Edelstein City -Mastered ver.-",
-            "year": "2019"
-        },
-        "source": {
-            "client": "KMST",
-            "date": "2019-06-15",
-            "structure": "Bgm52",
-            "version": "1.2.087"
-        },
-        "youtube": ""
-    },
-    {
         "description": "Unused",
         "filename": "Elfwood",
         "mark": "Quest",
@@ -6051,12 +6033,12 @@
     },
     {
         "description": "MapleStory Glory: The Day After",
-        "filename": "Journey_Music Box_Mastered",
+        "filename": "JourneyMusicBox",
         "mark": "FreeMarket",
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
-            "title": "Journey Music Box -Mastered ver.-",
+            "title": "Journey -Music Box ver.-",
             "year": "2019"
         },
         "source": {
@@ -6781,6 +6763,24 @@
             "version": "3.42"
         },
         "youtube": "AY1m7dQ-P6I"
+    },
+    {
+        "description": "MapleStory Glory: The Day After",
+        "filename": "LiberatedEdelsteinCity",
+        "mark": "Edelstein",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Liberated Edelstein City",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-06-15",
+            "structure": "Bgm52",
+            "version": "1.2.087"
+        },
+        "youtube": ""
     },
     {
         "description": "FriendStory gag scene",
