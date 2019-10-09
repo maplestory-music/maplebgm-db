@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2019.4 - 2019-10-08
+
+### Added
+
+- New music from Q3 2019
+- Links for 'My Home' and 'Adventure Party Quest'
+
+### New Additions
+
+| Update        | Description                                               |
+| ------------- | ------------------------------------------------          |
+| KMS 1.2.319   | Glorion: Border of Worlds                                 |
+| KMST 1.2.089  | Cheongungol                                               |
+| CMST 1.52     | My Home                                                   |
+| KMS 1.2.320   | Cernium                                                   |
+| GMS 2.06      | Ancient Ruins Party Quest                                 |
+| KMST 1.2.090  | MapleStory Glory: The Chosen One (Overload of Life)       |
+| KMS 1.2.321   | MapleStory Glory: The Chosen One (Red Moon & Rising Sun)  |
+| KMS 1.2.323   | Full Moon Goblin Night Market                             |
+
 ## 2019.3 - 2019-07-12
 
 ### Added

@@ -1,6 +1,6 @@
 {
   "name": "maplebgm-db",
-  "version": "2019.3",
+  "version": "2019.4",
   "devDependencies": {
     "ajv": "^6.5.5",
     "jest": "^23.6.0"
