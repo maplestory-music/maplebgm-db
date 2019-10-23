@@ -2582,6 +2582,60 @@
         "youtube": "-E-O8wMa5d0"
     },
     {
+        "description": "Corona Festival event",
+        "filename": "CoronaFestival",
+        "mark": "CoronaFestival",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Corona Festival",
+            "year": "2019"
+        },
+        "source": {
+            "client": "CMS",
+            "date": "2019-10-23",
+            "structure": "BgmWz2",
+            "version": "1.66"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "Corona Festival event",
+        "filename": "CoronaFestival2",
+        "mark": "CoronaFestival",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Corona Festival 2",
+            "year": "2019"
+        },
+        "source": {
+            "client": "CMS",
+            "date": "2019-10-23",
+            "structure": "BgmWz2",
+            "version": "1.66"
+        },
+        "youtube": ""
+    },
+    {
+        "description": "Corona Festival event",
+        "filename": "CoronaFestival3",
+        "mark": "CoronaFestival",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Corona Festival 3",
+            "year": "2019"
+        },
+        "source": {
+            "client": "CMS",
+            "date": "2019-10-23",
+            "structure": "BgmWz2",
+            "version": "1.66"
+        },
+        "youtube": ""
+    },
+    {
         "description": "Silent Crusade storyline",
         "filename": "CorruptioSanguinis",
         "mark": "CrossHunter",
