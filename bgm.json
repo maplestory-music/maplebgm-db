@@ -5494,6 +5494,24 @@
         "youtube": "923LpjaA9Ps"
     },
     {
+        "description": "Maple Tourist Event: Henesys Cherry Blossom Festival",
+        "filename": "henesys_remix",
+        "mark": "Henesys",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "StudioEIM",
+            "title": "Henesys Remix",
+            "year": "2011"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2011-03-31",
+            "structure": "BgmEvent",
+            "version": "1.2.129"
+        },
+        "youtube": "lPg1OGPepew"
+    },
+    {
         "description": "Black Heaven deck battle",
         "filename": "HeroComes",
         "mark": "BlockBuster",
