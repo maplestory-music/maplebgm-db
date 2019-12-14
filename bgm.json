@@ -7425,6 +7425,24 @@
         "youtube": "McglYq6k4eU"
     },
     {
+        "description": "Reverse City cutscene",
+        "filename": "MemoryOfSunset",
+        "mark": "Reverse_City",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Memory of Sunset",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-12-12",
+            "structure": "Bgm54",
+            "version": "1.2.095"
+        },
+        "youtube": "eTneN70g90M"
+    },
+    {
         "description": "Leafre: Minar Forest",
         "filename": "Minar'sDream",
         "mark": "Leafre",
@@ -9587,6 +9605,42 @@
         "youtube": "EOWkL4YKFHo"
     },
     {
+        "description": "Reverse City underground",
+        "filename": "ReverseCity",
+        "mark": "Reverse_City",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Reverse City",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-12-12",
+            "structure": "Bgm54",
+            "version": "1.2.095"
+        },
+        "youtube": "Z5sInHxNTRg"
+    },
+    {
+        "description": "Reverse City: M Tower",
+        "filename": "ReverseCity2",
+        "mark": "Reverse_City",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Reverse City 2",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-12-12",
+            "structure": "Bgm54",
+            "version": "1.2.095"
+        },
+        "youtube": "CSAsQCLnB7U"
+    },
+    {
         "description": "Mesoranger dance event",
         "filename": "rhythmBgm1",
         "mark": "mRhythm",
@@ -9855,6 +9909,24 @@
             "version": "1.2.195"
         },
         "youtube": "Cejub3b907A"
+    },
+    {
+        "description": "Salon RISE",
+        "filename": "salonRise",
+        "mark": "Rise",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Salon RISE",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-12-12",
+            "structure": "BgmEvent",
+            "version": "1.2.095"
+        },
+        "youtube": "_tEnTUZafVE"
     },
     {
         "description": "Cernium",
@@ -11097,6 +11169,24 @@
             "version": "1.57"
         },
         "youtube": "hrZNYd5uYyI"
+    },
+    {
+        "description": "Reverse City: M Tower boss theme",
+        "filename": "T-bomb",
+        "mark": "Reverse_City",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "T-bomb",
+            "year": "2019"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2019-12-12",
+            "structure": "Bgm54",
+            "version": "1.2.095"
+        },
+        "youtube": "b6k9HwW5EE0"
     },
     {
         "description": "Tokyo City Hall boss theme",
