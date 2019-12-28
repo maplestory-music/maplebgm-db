@@ -3,7 +3,7 @@
   "version": "2019.4",
   "devDependencies": {
     "ajv": "^6.5.5",
-    "jest": "^23.6.0"
+    "jest": "^24.9.0"
   },
   "jest": {
     "testEnvironment": "node"
