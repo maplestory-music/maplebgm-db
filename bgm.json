@@ -816,6 +816,21 @@
         "youtube": "uv8QObpL2EY"
     },
     {
+        "description": "Kerning City",
+        "filename": "BadGuys (Band)",
+        "mark": "KerningCity",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "CODASOUND",
+            "title": "Bad Guys (Band Version)",
+            "year": "2003"
+        },
+        "source": {
+            "structure": "CODASOUND SoundCloud"
+        },
+        "youtube": "U5HVEQrVKhY"
+    },
+    {
         "description": "Rien: Aran Bamboo Gym",
         "filename": "BambooGym",
         "mark": "Rien",
@@ -6824,7 +6839,7 @@
         "mark": "OmegaSector",
         "metadata": {
             "album-artist": "Wizet",
-            "artist": "StudioEIM",
+            "artist": "CODASOUND",
             "title": "Let's Hunt Aliens",
             "year": "2004"
         },
@@ -6837,12 +6852,27 @@
         "youtube": "pZ6Fuv6BLx4"
     },
     {
+        "description": "Omega Sector: Boswell Field",
+        "filename": "LetsHuntAliens (Alternate)",
+        "mark": "OmegaSector",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "CODASOUND",
+            "title": "Let's Hunt Aliens (Alternate Version)",
+            "year": "2004"
+        },
+        "source": {
+            "structure": "CODASOUND SoundCloud"
+        },
+        "youtube": "1mf2Cq5npOw"
+    },
+    {
         "description": "Omega Sector",
         "filename": "LetsMarch",
         "mark": "OmegaSector",
         "metadata": {
             "album-artist": "Wizet",
-            "artist": "StudioEIM",
+            "artist": "CODASOUND",
             "title": "Let's March",
             "year": "2004"
         },
@@ -6853,6 +6883,21 @@
             "version": "1.81"
         },
         "youtube": "LxQt8EVhBOs"
+    },
+    {
+        "description": "Omega Sector",
+        "filename": "LetsMarch (Alternate)",
+        "mark": "OmegaSector",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "CODASOUND",
+            "title": "Let's March (Alternate Version)",
+            "year": "2004"
+        },
+        "source": {
+            "structure": "KMS Official Site"
+        },
+        "youtube": "kkQZoKwEnXw"
     },
     {
         "description": "Silent Crusade storyline",
@@ -9855,6 +9900,21 @@
             "version": "1.2.321"
         },
         "youtube": "GB32gvkH94o"
+    },
+    {
+        "description": "Unused",
+        "filename": "RoadToYou",
+        "mark": "Quest",
+        "metadata": {
+            "album-artist": "Wizet",
+            "artist": "CODASOUND",
+            "title": "Road To You",
+            "year": "2004"
+        },
+        "source": {
+            "structure": "CODASOUND SoundCloud"
+        },
+        "youtube": "Ohkh6GwpwrQ"
     },
     {
         "description": "Neo Tokyo: 2102 Shibuya / Roppongi Mall",
