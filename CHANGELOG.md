@@ -2,6 +2,28 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2020.1 - 2020-01-05
+
+### Added
+
+- New music from Q4 2019
+- Links for 'Glory' and 'Corona Festival'
+
+### New Additions
+
+| Date       | Source       | Description               |
+| ---------- | ------------ | ------------------------- |
+| 2019-10-23 | CMS 1.66     | Corona Festival           |
+| 2019-12-12 | KMST 1.2.095 | Reverse City & Salon RISE |
+| 2019-12-18 | GMS 2.10     | Masteria Revamp           |
+
+### Retroactive Additions
+
+| Date       | Source      | Description                     |
+| ---------- | ----------- | ------------------------------- |
+| 2003-2004  | Web         | Additional CODASOUND tracks     |
+| 2011-03-31 | KMS 1.2.129 | Henesys Cherry Blossom Festival |
+
 ## 2019.4 - 2019-10-08
 
 ### Added
@@ -11,7 +33,7 @@ All notable changes to this project will be documented in this file.
 
 ### New Additions
 
-| Date       | Update       | Description                                              |
+| Date       | Source       | Description                                              |
 | ---------- | ------------ | -------------------------------------------------------- |
 | 2019-07-04 | KMS 1.2.319  | Glorion: Border of Worlds                                |
 | 2019-07-11 | KMST 1.2.089 | Cheongungol                                              |
@@ -31,7 +53,7 @@ All notable changes to this project will be documented in this file.
 
 ### New Additions
 
-| Date       | Update       | Description                                           |
+| Date       | Source       | Description                                           |
 | ---------- | ------------ | ----------------------------------------------------- |
 | 2019-04-18 | KMST 1.2.085 | 16th Anniversary                                      |
 | 2019-04-25 | Web 1        | 16th Anniversary - Newtro Time DJ tracks (Set 1)      |
@@ -60,7 +82,7 @@ All notable changes to this project will be documented in this file.
 
 ### New Additions
 
-| Date       | Update       | Description               |
+| Date       | Source       | Description               |
 | ---------- | ------------ | ------------------------- |
 | 2019-01-03 | KMST 1.2.080 | Elodin & Adventure Island |
 | 2019-01-17 | KMST 1.2.081 | Pathfinder & Partem       |
@@ -72,7 +94,7 @@ All notable changes to this project will be documented in this file.
 
 ### Retroactive Additions
 
-| Date       | Update    | Description              |
+| Date       | Source    | Description              |
 | ---------- | --------- | ------------------------ |
 | 2018-11-14 | MSEA 1.80 | Playpark-Asiasoft Splash |
 
@@ -100,7 +122,7 @@ All notable changes to this project will be documented in this file.
 - Normalize apostrophes in song names
 - Fix database sort order
 
-| Date       | Update       | Description                   |
+| Date       | Source       | Description                   |
 | ---------- | ------------ | ----------------------------- |
 | 2018-10-18 | KMS 1.2.307  | Club Halloween                |
 | 2018-11-08 | KMST 1.2.077 | Savage Terminal Theme Dungeon |
@@ -114,7 +136,7 @@ All notable changes to this project will be documented in this file.
 - Links for 'Captain Vaga' and 'Monad'
 - Map icon and filename updates
 
-| Date       | Update       | Description                  |
+| Date       | Source       | Description                  |
 | ---------- | ------------ | ---------------------------- |
 | 2018-07-05 | KMS 1.2.300  | Additional Moonbridge tracks |
 | 2018-07-12 | KMST 1.2.071 | The Labyrinth of Suffering   |
@@ -129,7 +151,7 @@ All notable changes to this project will be documented in this file.
 
 - New music from Q2 2018
 
-| Date       | Update       | Description                 |
+| Date       | Source       | Description                 |
 | ---------- | ------------ | --------------------------- |
 | 2018-04-19 | KMST 1.2.067 | 15th Anniversary            |
 | 2018-04-27 | CMST 1.37    | Captain Vaga + Gunman event |
@@ -143,7 +165,7 @@ All notable changes to this project will be documented in this file.
 - New music from Q1 2018
 - Links for 'Snowdrift Lodge' and 'MapleStory Ark'
 
-| Date       | Update       | Description       |
+| Date       | Source       | Description       |
 | ---------- | ------------ | ----------------- |
 | 2018-01-11 | KMS 1.2.290  | Ark BGM: 'Memory' |
 | 2018-01-18 | KMST 1.2.063 | Esfera            |
@@ -155,7 +177,7 @@ All notable changes to this project will be documented in this file.
 
 - New music from Q4 2017
 
-| Date       | Update       | Description                               |
+| Date       | Source       | Description                               |
 | ---------- | ------------ | ----------------------------------------- |
 | 2017-10-19 | KMST 1.2.058 | Fox Valley                                |
 | 2017-11-16 | CMST 1.32    | Mechanical Hearts Season 2 + other events |
@@ -171,7 +193,7 @@ All notable changes to this project will be documented in this file.
 - Descriptions for songs released up to the end of 2012
 - New music from Q3 2017
 
-| Date       | Update       | Description                |
+| Date       | Source       | Description                |
 | ---------- | ------------ | -------------------------- |
 | 2017-07-07 | CMST 1.27    | Eluna                      |
 | 2017-07-13 | KMST 1.2.053 | Grand Athenaeum, Episode 4 |
