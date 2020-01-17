@@ -228,6 +228,42 @@
         "youtube": "fdoT7nTWMO8"
     },
     {
+        "description": "Adele storyline cutscene",
+        "filename": "AdelesOath",
+        "mark": "Ristonia",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Adele's Oath",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2020-01-09",
+            "structure": "Bgm53",
+            "version": "1.2.097"
+        },
+        "youtube": "CHHMxYwvVbI"
+    },
+    {
+        "description": "Adele's Infinite skill",
+        "filename": "AdelesOathInfinite",
+        "mark": "Ristonia",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Adele's Oath Infinite (Original)",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2020-01-09",
+            "structure": "Bgm53",
+            "version": "1.2.097"
+        },
+        "youtube": "I-KQr-0CO6I"
+    },
+    {
         "description": "Adventure Island",
         "filename": "adventureIsland",
         "mark": "adventureIsland",
@@ -7300,6 +7336,24 @@
         "youtube": "fEBYirzkjOI"
     },
     {
+        "description": "Ristonia Mansion",
+        "filename": "MaskedHeart",
+        "mark": "Ristonia",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Masked Heart",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2020-01-09",
+            "structure": "Bgm53",
+            "version": "1.2.097"
+        },
+        "youtube": "01ZKfnYCBNg"
+    },
+    {
         "description": "Star Planet: Typing Defense",
         "filename": "masterOfKeyBoard",
         "mark": "Starplanet",
@@ -9969,6 +10023,24 @@
             "version": "1.37"
         },
         "youtube": "vlVRgdYxFXk"
+    },
+    {
+        "description": "Ristonia",
+        "filename": "RomanticSunset",
+        "mark": "Ristonia",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Romantic Sunset",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2020-01-09",
+            "structure": "Bgm53",
+            "version": "1.2.097"
+        },
+        "youtube": "HM5WTDbZCFc"
     },
     {
         "description": "Elite Boss theme",
@@ -13472,6 +13544,24 @@
             "structure": "Bgm01"
         },
         "youtube": "OC-b2p-D28s"
+    },
+    {
+        "description": "Ristonia: Underground Passage",
+        "filename": "WhereTheSecretLies",
+        "mark": "Ristonia",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Where the Secret Lies",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2020-01-09",
+            "structure": "Bgm53",
+            "version": "1.2.097"
+        },
+        "youtube": "Ke0GYnF3990"
     },
     {
         "description": "Ludibrium Clocktower: Path of Time",
