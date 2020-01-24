@@ -105,6 +105,24 @@
         "youtube": "nPEUYAvLVGQ"
     },
     {
+        "description": "Adele's Infinite skill",
+        "filename": "5thAdelesOathInfinite",
+        "mark": "Ristonia",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Adele's Oath Infinite",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2020-01-16",
+            "structure": "Bgm53",
+            "version": "1.2.329"
+        },
+        "youtube": "U2YERB4MjQ8"
+    },
+    {
         "description": "Angelic Buster's Superstar Spotlight skill",
         "filename": "5thSpotLightFlyAway",
         "mark": "Pantheon",
@@ -4530,6 +4548,24 @@
             "version": "1.2.411"
         },
         "youtube": "ZpVpjZJyDJA"
+    },
+    {
+        "description": "Adele storyline - recollection",
+        "filename": "ForEinherjar",
+        "mark": "Ristonia",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "For Einherjar",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2020-01-16",
+            "structure": "Bgm53",
+            "version": "1.2.329"
+        },
+        "youtube": "JaoG3psmavI"
     },
     {
         "description": "Temple of Time: Path of Oblivion",
@@ -11216,6 +11252,24 @@
         "youtube": "AZU1lB4WrlU"
     },
     {
+        "description": "Ristonia - Emil's performance",
+        "filename": "Streetpiano",
+        "mark": "Ristonia",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Street Piano",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2020-01-16",
+            "structure": "Bgm53",
+            "version": "1.2.329"
+        },
+        "youtube": "RdmREs3WAgg"
+    },
+    {
         "description": "Limina: Guard Captain Darknell boss theme",
         "filename": "SubterminalPoint",
         "mark": "Limen",
@@ -12090,6 +12144,24 @@
             "version": "1.2.081"
         },
         "youtube": "UGcwgTaX5-c"
+    },
+    {
+        "description": "Ristonia: Tragedy Walls",
+        "filename": "TheWallsofTragedy",
+        "mark": "Ristonia",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "The Walls of Tragedy",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMS",
+            "date": "2020-01-16",
+            "structure": "Bgm53",
+            "version": "1.2.329"
+        },
+        "youtube": "OOihxZSO3hE"
     },
     {
         "description": "Ludibrium Clocktower: Forgotten Passage",
