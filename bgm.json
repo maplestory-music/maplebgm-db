@@ -1229,6 +1229,78 @@
         "youtube": "Ol-Cy_VUDMM"
     },
     {
+        "description": "Mechanical Hearts: Aspire - Hidden Hallway",
+        "filename": "Beautyroid3_HiddenHallway",
+        "mark": "PL_Beautyroid",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Hidden Hallway",
+            "year": "2020"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2020-01-29",
+            "structure": "PL_Beautyroid",
+            "version": "2.11"
+        },
+        "youtube": "aentFD_-8uo"
+    },
+    {
+        "description": "Mechanical Hearts Season 3 ending",
+        "filename": "Beautyroid3_MoreHumanThanHuman",
+        "mark": "PL_Beautyroid",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "More Human Than Human",
+            "year": "2020"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2020-01-29",
+            "structure": "PL_Beautyroid",
+            "version": "2.11"
+        },
+        "youtube": "VrAPwZk0CFI"
+    },
+    {
+        "description": "Mechanical Hearts: Aspire - Scion's Lair",
+        "filename": "Beautyroid3_ScionsLair",
+        "mark": "PL_Beautyroid",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Scion's Lair",
+            "year": "2020"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2020-01-29",
+            "structure": "PL_Beautyroid",
+            "version": "2.11"
+        },
+        "youtube": "t6sLGm66uWY"
+    },
+    {
+        "description": "Mechanical Hearts - Scion's Invitation chair effect",
+        "filename": "Beautyroid3_UnseenPrison",
+        "mark": "PL_Beautyroid",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Unseen Prison",
+            "year": "2020"
+        },
+        "source": {
+            "client": "GMS",
+            "date": "2020-01-29",
+            "structure": "PL_Beautyroid",
+            "version": "2.11"
+        },
+        "youtube": "_t9zVOFNVlY"
+    },
+    {
         "description": "Mechanical Hearts: Aspire Industries factory",
         "filename": "Beautyroid_Factory",
         "mark": "PL_Beautyroid",
