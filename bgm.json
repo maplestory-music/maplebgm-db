@@ -210,6 +210,42 @@
         "youtube": "iU--7d3GLn8"
     },
     {
+        "description": "Abyss Expedition Headquarters",
+        "filename": "AbyssExpedition",
+        "mark": "AbyssExpedition",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Abyss Expedition",
+            "year": "2020"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2020-02-05",
+            "structure": "BgmWz2",
+            "version": "1.57"
+        },
+        "youtube": "zK7LchvlqSs"
+    },
+    {
+        "description": "Abyss Expedition Headquarters",
+        "filename": "AbyssExpeditionAmbie",
+        "mark": "AbyssExpedition",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Abyss Expedition -Ambience ver.-",
+            "year": "2020"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2020-02-05",
+            "structure": "BgmWz2",
+            "version": "1.57"
+        },
+        "youtube": "m8seC5IY-d4"
+    },
+    {
         "description": "Leafre: Kentaurus Field",
         "filename": "AcientForest",
         "mark": "Leafre",
@@ -352,6 +388,24 @@
             "version": "1.2.139"
         },
         "youtube": "eKf_ZjD9gb4"
+    },
+    {
+        "description": "Abyss Expedition Underground",
+        "filename": "AmazingAbyss",
+        "mark": "AbyssExpedition",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Amazing Abyss",
+            "year": "2020"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2020-02-05",
+            "structure": "BgmWz2",
+            "version": "1.57"
+        },
+        "youtube": "GRcGdhNMkUE"
     },
     {
         "description": "Amoria",
@@ -3045,6 +3099,24 @@
             "version": "1.2.413"
         },
         "youtube": "E7wxS2y6h6M"
+    },
+    {
+        "description": "Abyss Expedition Underground",
+        "filename": "DarkAbyss",
+        "mark": "AbyssExpedition",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Dark Abyss",
+            "year": "2020"
+        },
+        "source": {
+            "client": "CMST",
+            "date": "2020-02-05",
+            "structure": "BgmWz2",
+            "version": "1.57"
+        },
+        "youtube": "N9Mf6AjKey4"
     },
     {
         "description": "Luminous tutorial, Black Mage encounter",
