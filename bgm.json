@@ -10154,6 +10154,24 @@
         "youtube": "DrEYyRbxBSs"
     },
     {
+        "description": "Hoyoung's Sage: Wrath of Gods skill",
+        "filename": "RidingOnTheCloudsGodComing",
+        "mark": "CheongUn",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "Riding on the Clouds - God Coming",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2020-03-19",
+            "structure": "Bgm53",
+            "version": "1.2.100"
+        },
+        "youtube": "QlAMEnsw7Wc"
+    },
+    {
         "description": "Rien",
         "filename": "RienVillage",
         "mark": "Rien",
