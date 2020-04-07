@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2020.2 - 2020-04-06
+
+### Added
+
+- New music from Q1 2020
+
+### New Additions
+
+| Date       | Source       | Description                         |
+| ---------- | ------------ | ----------------------------------- |
+| 2020-01-09 | KMST 1.2.097 | Adele & Ristonia                    |
+| 2020-01-16 | KMS 1.2.329  | Adele & Ristonia                    |
+| 2020-01-29 | GMS 2.11     | Mechanical Hearts S3                |
+| 2020-02-05 | CMST 1.57    | Abyss Expedition                    |
+| 2020-02-06 | KMST 1.2.098 | Yum Yum Island & Dusk Hallucination |
+| 2020-03-19 | KMST 1.2.100 | Hoyoung's Sage: Wrath of Gods skill |
+
 ## 2020.1 - 2020-01-05
 
 ### Added
