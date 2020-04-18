@@ -69,6 +69,24 @@
         "youtube": "iRxal9QpFb8"
     },
     {
+        "description": "17th anniversary: Hotel Maple",
+        "filename": "17th_Event",
+        "mark": "17th_Event",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "17th Anniversary Event",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2020-04-16",
+            "structure": "BgmEvent",
+            "version": "1.2.101"
+        },
+        "youtube": "VAbkgEPj7aw"
+    },
+    {
         "description": "Gamania 20th anniversary event: Tangerine Heaven minigame",
         "filename": "2015gamaday_minigame",
         "mark": "Gamaday",
