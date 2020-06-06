@@ -2656,7 +2656,7 @@
     {
         "description": "Concert Group chair effect: bass",
         "filename": "concertchair_bass",
-        "mark": "FreeMarket",
+        "mark": "3016100",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -2674,7 +2674,7 @@
     {
         "description": "Concert Group chair effect: drum",
         "filename": "concertchair_drum",
-        "mark": "FreeMarket",
+        "mark": "3016100",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -2692,7 +2692,7 @@
     {
         "description": "Concert Group chair effect: drum + bass",
         "filename": "concertchair_drum_bass",
-        "mark": "FreeMarket",
+        "mark": "3016100",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -2710,7 +2710,7 @@
     {
         "description": "Concert Group chair effect: drum + bass + keyboard",
         "filename": "concertchair_drum_bass_keyboard",
-        "mark": "FreeMarket",
+        "mark": "3016100",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -2728,7 +2728,7 @@
     {
         "description": "Concert Group chair effect: drum + bass + keyboard + guitar",
         "filename": "concertchair_drum_bass_keyboard_guitar",
-        "mark": "FreeMarket",
+        "mark": "3016100",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -2746,7 +2746,7 @@
     {
         "description": "Concert Group chair effect: guitar",
         "filename": "concertchair_guitar",
-        "mark": "FreeMarket",
+        "mark": "3016100",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -2764,7 +2764,7 @@
     {
         "description": "Concert Group chair effect: keyboard",
         "filename": "concertchair_keyboard",
-        "mark": "FreeMarket",
+        "mark": "3016100",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -7698,7 +7698,7 @@
     {
         "description": "Level 250 chair effect",
         "filename": "maxLevelChair",
-        "mark": "FreeMarket",
+        "mark": "3014028",
         "metadata": {
             "album-artist": "Wizet",
             "artist": "StudioEIM",
@@ -11773,7 +11773,7 @@
     {
         "description": "Superstar Pink Bean chair effect",
         "filename": "SuperstarPinkBeanChairBGM",
-        "mark": "FreeMarket",
+        "mark": "3018286",
         "metadata": {
             "album-artist": "NECORD",
             "artist": "ASTERIA",
@@ -13589,7 +13589,7 @@
     {
         "description": "DJ booth chair effect",
         "filename": "VEvent",
-        "mark": "FreeMarket",
+        "mark": "3015804",
         "metadata": {
             "album-artist": "NECORD",
             "artist": "DJ Searcher",
