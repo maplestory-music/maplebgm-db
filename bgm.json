@@ -963,6 +963,24 @@
         "youtube": "d4pdDMxdgxQ"
     },
     {
+        "description": "Awakening Mountain (MapleStory AWAKE)",
+        "filename": "awake_Event",
+        "mark": "awake_Event",
+        "metadata": {
+            "album-artist": "NECORD",
+            "artist": "ASTERIA",
+            "title": "AWAKE Event",
+            "year": "2020"
+        },
+        "source": {
+            "client": "KMST",
+            "date": "2020-06-18",
+            "structure": "BgmEvent",
+            "version": "1.2.103"
+        },
+        "youtube": "t5sTjl9lPt8"
+    },
+    {
         "description": "Kerning City",
         "filename": "BadGuys",
         "mark": "KerningCity",
