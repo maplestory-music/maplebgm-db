@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2020.3 - 2020-07-02
+
+### Added
+
+- New music from Q2 2020
+- Chair effect track icons
+
+### New Additions
+
+| Date       | Source       | Description      |
+| ---------- | ------------ | ---------------- |
+| 2020-04-16 | KMST 1.2.101 | 17th Anniversary |
+| 2020-05-20 | MSEA 1.95    | Headset BGMs     |
+| 2020-06-18 | KMST 1.2.103 | MapleStory Awake |
+
 ## 2020.2 - 2020-04-06
 
 ### Added
