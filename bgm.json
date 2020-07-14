@@ -4281,7 +4281,7 @@
             "year": "2003"
         },
         "source": {
-            "structure": "Bgm03"
+            "structure": "Bgm02"
         },
         "youtube": "N49FmJJnfy0"
     },
@@ -6581,7 +6581,7 @@
         "source": {
             "client": "KMS",
             "date": "2003-06-21",
-            "structure": "Bgm03",
+            "structure": "Bgm02",
             "version": "1.27"
         },
         "youtube": "YYTuDFsvZNU"
@@ -8022,7 +8022,7 @@
         "source": {
             "client": "KMS",
             "date": "2003-12-01",
-            "structure": "Bgm03",
+            "structure": "Bgm02",
             "version": "1.49"
         },
         "youtube": "2NoF8PHQJqQ"
@@ -14048,7 +14048,7 @@
             "year": "2003"
         },
         "source": {
-            "structure": "Bgm03"
+            "structure": "Bgm02"
         },
         "youtube": "gfgBDs8z6WE"
     },
