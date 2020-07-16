@@ -1,0 +1,47 @@
+[
+  {
+    "description": "Kerning City",
+    "filename": "BadGuys (Band)",
+    "mark": "KerningCity",
+    "metadata": {
+      "album-artist": "Wizet",
+      "artist": "CODASOUND",
+      "title": "Bad Guys (Band Version)",
+      "year": "2003"
+    },
+    "source": {
+      "structure": "CODASOUND SoundCloud"
+    },
+    "youtube": "U5HVEQrVKhY"
+  },
+  {
+    "description": "Omega Sector: Boswell Field",
+    "filename": "LetsHuntAliens (Alternate)",
+    "mark": "OmegaSector",
+    "metadata": {
+      "album-artist": "Wizet",
+      "artist": "CODASOUND",
+      "title": "Let's Hunt Aliens (Alternate Version)",
+      "year": "2004"
+    },
+    "source": {
+      "structure": "CODASOUND SoundCloud"
+    },
+    "youtube": "1mf2Cq5npOw"
+  },
+  {
+    "description": "Unused",
+    "filename": "RoadToYou",
+    "mark": "Quest",
+    "metadata": {
+      "album-artist": "Wizet",
+      "artist": "CODASOUND",
+      "title": "Road To You",
+      "year": "2004"
+    },
+    "source": {
+      "structure": "CODASOUND SoundCloud"
+    },
+    "youtube": "Ohkh6GwpwrQ"
+  }
+]

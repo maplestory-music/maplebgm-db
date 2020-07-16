@@ -1,0 +1,40 @@
+[
+  {
+    "description": "2016 Icy Onslaught event",
+    "filename": "WinterFrenzy_Boss_All",
+    "mark": "Event",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Frenzy Winter (Alternate)",
+      "title-alt": "Winter Frenzy Boss (All)",
+      "year": "2016"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2016-11-30",
+      "structure": "PL_WinterFrenzy",
+      "version": "1.78"
+    },
+    "youtube": "dwlGJS1b08g"
+  },
+  {
+    "description": "2016 Icy Onslaught event",
+    "filename": "WinterFrenzy_Boss_Bgm",
+    "mark": "Event",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Frenzy Winter",
+      "title-alt": "Winter Frenzy Boss (BGM)",
+      "year": "2016"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2016-11-30",
+      "structure": "PL_WinterFrenzy",
+      "version": "1.78"
+    },
+    "youtube": "w9FJhoIyLqs"
+  }
+]

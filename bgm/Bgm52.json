@@ -1,0 +1,56 @@
+[
+  {
+    "description": "Glorion: Border of Worlds",
+    "filename": "Borderless",
+    "mark": "Glorion",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Borderless",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2019-07-04",
+      "structure": "Bgm52",
+      "version": "1.2.319"
+    },
+    "youtube": "qTycdjpeWyQ"
+  },
+  {
+    "description": "MapleStory Glory: The Day After",
+    "filename": "JourneyMusicBox",
+    "mark": "FreeMarket",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Journey -Music Box ver.-",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2019-06-15",
+      "structure": "Bgm52",
+      "version": "1.2.087"
+    },
+    "youtube": "_OI6K5yQ1-0"
+  },
+  {
+    "description": "MapleStory Glory: The Day After",
+    "filename": "LiberatedEdelsteinCity",
+    "mark": "Edelstein",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Liberated Edelstein City",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2019-06-15",
+      "structure": "Bgm52",
+      "version": "1.2.087"
+    },
+    "youtube": "lWUVqxA1IqM"
+  }
+]

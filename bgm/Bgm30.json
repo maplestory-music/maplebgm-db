@@ -1,0 +1,110 @@
+[
+  {
+    "description": "Angelic Buster's Superstar Spotlight skill",
+    "filename": "5thSpotLightFlyAway",
+    "mark": "Pantheon",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "Wizet",
+      "title": "5th Spotlight Fly Away",
+      "year": "2016"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2016-12-15",
+      "structure": "Bgm30",
+      "version": "1.2.043"
+    },
+    "youtube": "njzZP2857Yc"
+  },
+  {
+    "description": "Xenon tutorial",
+    "filename": "fromUnderToUpper",
+    "mark": "Leben",
+    "metadata": {
+      "album-artist": "Wizet",
+      "artist": "Takkyu Ishino\u0000Wizet",
+      "title": "From Under to Upper",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-12-17",
+      "structure": "Bgm30",
+      "version": "1.2.460"
+    },
+    "youtube": "6qjUzKeTpOo"
+  },
+  {
+    "description": "Aqua Road: Veritas",
+    "filename": "inAllVerity",
+    "mark": "AquaRoad",
+    "metadata": {
+      "album-artist": "Wizet",
+      "artist": "Wizet",
+      "title": "In All Verity",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-12-17",
+      "structure": "Bgm30",
+      "version": "1.2.460"
+    },
+    "youtube": "vViTIGuujaY"
+  },
+  {
+    "description": "Beryl boss theme, Xenon storyline",
+    "filename": "pulseResonance",
+    "mark": "Leben",
+    "metadata": {
+      "album-artist": "Wizet",
+      "artist": "Takkyu Ishino",
+      "title": "Pulse Resonance",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-12-17",
+      "structure": "Bgm30",
+      "version": "1.2.460"
+    },
+    "youtube": "McPZ2XTRv1g"
+  },
+  {
+    "description": "Xenon tutorial",
+    "filename": "thePhoto",
+    "mark": "Leben",
+    "metadata": {
+      "album-artist": "Wizet",
+      "artist": "Wizet",
+      "title": "The Photo",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-12-17",
+      "structure": "Bgm30",
+      "version": "1.2.460"
+    },
+    "youtube": "wMyUZqe0Fus"
+  },
+  {
+    "description": "Xenon tutorial",
+    "filename": "underside",
+    "mark": "Leben",
+    "metadata": {
+      "album-artist": "Wizet",
+      "artist": "Wizet",
+      "title": "Underside",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-12-17",
+      "structure": "Bgm30",
+      "version": "1.2.460"
+    },
+    "youtube": "pY1Du__m00w"
+  }
+]

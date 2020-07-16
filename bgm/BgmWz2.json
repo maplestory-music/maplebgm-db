@@ -1,0 +1,240 @@
+[
+  {
+    "description": "Abyss Expedition Headquarters",
+    "filename": "AbyssExpedition",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Abyss Expedition",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-02-05",
+      "structure": "BgmWz2",
+      "version": "1.57"
+    },
+    "youtube": "zK7LchvlqSs"
+  },
+  {
+    "description": "Abyss Expedition Headquarters",
+    "filename": "AbyssExpeditionAmbie",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Abyss Expedition -Ambience ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-02-05",
+      "structure": "BgmWz2",
+      "version": "1.57"
+    },
+    "youtube": "m8seC5IY-d4"
+  },
+  {
+    "description": "Abyss Expedition Underground",
+    "filename": "AmazingAbyss",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Amazing Abyss",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-02-05",
+      "structure": "BgmWz2",
+      "version": "1.57"
+    },
+    "youtube": "GRcGdhNMkUE"
+  },
+  {
+    "description": "2019 Lunar New Year event",
+    "filename": "CNY_LoveLetter",
+    "mark": "PL_CNY2018",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Season's Greeting",
+      "title-alt": "Lunar New Year: Love Letter",
+      "year": "2018"
+    },
+    "source": {
+      "client": "TMST",
+      "date": "2018-12-21",
+      "structure": "BgmWz2",
+      "version": "2.13"
+    },
+    "youtube": "1VzASddjwtE"
+  },
+  {
+    "description": "2019 Lunar New Year event",
+    "filename": "CNY_LoveLetterA",
+    "mark": "PL_CNY2018",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Lunar New Year: Love Letter A",
+      "year": "2018"
+    },
+    "source": {
+      "client": "TMST",
+      "date": "2018-12-21",
+      "structure": "BgmWz2",
+      "version": "2.13"
+    },
+    "youtube": "m8MB56duRb0"
+  },
+  {
+    "description": "2019 Lunar New Year event",
+    "filename": "CNY_LoveLetterB",
+    "mark": "PL_CNY2018",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Lunar New Year: Love Letter B",
+      "year": "2018"
+    },
+    "source": {
+      "client": "TMST",
+      "date": "2018-12-21",
+      "structure": "BgmWz2",
+      "version": "2.13"
+    },
+    "youtube": "q4he8niW-gk"
+  },
+  {
+    "description": "Corona Festival event",
+    "filename": "CoronaFestival",
+    "mark": "CoronaFestival",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Corona Festival",
+      "year": "2019"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2019-10-23",
+      "structure": "BgmWz2",
+      "version": "1.66"
+    },
+    "youtube": "LeVuQMIp8LU"
+  },
+  {
+    "description": "Corona Festival event",
+    "filename": "CoronaFestival2",
+    "mark": "CoronaFestival",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Corona Festival 2",
+      "year": "2019"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2019-10-23",
+      "structure": "BgmWz2",
+      "version": "1.66"
+    },
+    "youtube": "uacIrAAFoUg"
+  },
+  {
+    "description": "Corona Festival event",
+    "filename": "CoronaFestival3",
+    "mark": "CoronaFestival",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Corona Festival 3",
+      "year": "2019"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2019-10-23",
+      "structure": "BgmWz2",
+      "version": "1.66"
+    },
+    "youtube": "Rum7J6MVrEk"
+  },
+  {
+    "description": "Abyss Expedition Underground",
+    "filename": "DarkAbyss",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Dark Abyss",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-02-05",
+      "structure": "BgmWz2",
+      "version": "1.57"
+    },
+    "youtube": "N9Mf6AjKey4"
+  },
+  {
+    "description": "My Home system content - room decoration",
+    "filename": "myHome_room",
+    "mark": "myHome",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Sweet Rest",
+      "title-alt": "My Home - Room",
+      "year": "2019"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2019-07-15",
+      "structure": "BgmWz2",
+      "version": "1.52"
+    },
+    "youtube": "_qrZyuh0Rj8"
+  },
+  {
+    "description": "My Home system content - room decoration",
+    "filename": "myHome_room2",
+    "mark": "myHome",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Sweet Rest -Guitar ver.-",
+      "title-alt": "My Home - Room 2",
+      "year": "2019"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2019-07-15",
+      "structure": "BgmWz2",
+      "version": "1.52"
+    },
+    "youtube": "sHTeqhDj2Y8"
+  },
+  {
+    "description": "My Home system content - Kelanza Square",
+    "filename": "myHome_village",
+    "mark": "myHome",
+    "metadata": {
+      "album-artist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Brand New Morning in the Plaza",
+      "title-alt": "My Home - Village",
+      "year": "2019"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2019-07-15",
+      "structure": "BgmWz2",
+      "version": "1.52"
+    },
+    "youtube": "fsQ6o8IVfXY"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "description": "2014 Hatsune Miku collaboration",
+    "filename": "DAYBREAK",
+    "mark": "Event",
+    "metadata": {
+      "album-artist": "Wizet",
+      "artist": "まふまふ feat. 初音ミク",
+      "title": "DAYBREAK",
+      "year": "2012"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2014-08-26",
+      "structure": "BgmMIKU",
+      "version": "3.31"
+    },
+    "youtube": "jwCWnyuAJFY"
+  },
+  {
+    "description": "2014 Hatsune Miku collaboration",
+    "filename": "Monokuro",
+    "mark": "Event",
+    "metadata": {
+      "album-artist": "Wizet",
+      "artist": "まふまふ feat. 初音ミク",
+      "title": "モノクロと勇者の遺伝子",
+      "year": "2014"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2014-08-26",
+      "structure": "BgmMIKU",
+      "version": "3.31"
+    },
+    "youtube": "JF1Nn5fWMLs"
+  },
+  {
+    "description": "2014 Hatsune Miku collaboration",
+    "filename": "next",
+    "mark": "Event",
+    "metadata": {
+      "album-artist": "Wizet",
+      "artist": "さつき が てんこもり feat. 初音ミク",
+      "title": "ネクストネスト",
+      "year": "2014"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2014-08-26",
+      "structure": "BgmMIKU",
+      "version": "3.31"
+    },
+    "youtube": "STGuvHe5NGs"
+  },
+  {
+    "description": "2014 Hatsune Miku collaboration",
+    "filename": "Sprechchor",
+    "mark": "Event",
+    "metadata": {
+      "album-artist": "Wizet",
+      "artist": "さつき が てんこもり feat. 初音ミク",
+      "title": "ネトゲ廃人シュプレヒコール",
+      "year": "2010"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2014-08-26",
+      "structure": "BgmMIKU",
+      "version": "3.31"
+    },
+    "youtube": "HxquE6d_a3k"
+  }
+]
