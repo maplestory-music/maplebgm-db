@@ -19,13 +19,13 @@ git_push() {
 }
 
 setup_git
-changed=$(git diff --name-only HEAD~1 HEAD | grep bgm.json | wc -l)
+changed=$(git diff --name-only HEAD~1 HEAD | grep "bgm/" | wc -l)
 
 if [ $changed -ne 0 ]; then
-    echo "Change in bgm.json detected. Minifying and pushing to prod branch..."
-    jq -c . < ./bgm.json > ./bgm.min.json
+    echo "Change in ./bgm detected. Merging and pushing to prod branch..."
+    yarn merge
     git_commit
     git_push
 else
-    echo "No changes in bgm.json"
+    echo "No changes in ./bgm"
 fi

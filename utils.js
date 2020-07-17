@@ -24,7 +24,13 @@ function getBgmDatabase(dir) {
   return bgmCollection;
 }
 
+function mergeBgmDatabase(dir) {
+  const db = getBgmDatabase(dir);
+  fs.writeFileSync('bgm.min.json', JSON.stringify(db));
+}
+
 module.exports = {
-  getBgmDatabase,
   traverseDirectory,
+  getBgmDatabase,
+  mergeBgmDatabase,
 };
