@@ -4,7 +4,7 @@
     "filename": "Fantasia",
     "mark": "AbandonTower",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Fantasia",
       "year": "2005"
@@ -22,7 +22,7 @@
     "filename": "FunnyTimeMaker",
     "mark": "LudiTower1",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Funny Time Maker",
       "year": "2004"
@@ -40,7 +40,7 @@
     "filename": "HighEnough",
     "mark": "LudiTower1",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "High Enough",
       "year": "2004"
@@ -58,7 +58,7 @@
     "filename": "WaltzForWork",
     "mark": "Ludibrium",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Waltz For Work",
       "year": "2004"
@@ -76,7 +76,7 @@
     "filename": "WhereverYouAre",
     "mark": "Ludibrium",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Wherever You Are",
       "year": "2004"

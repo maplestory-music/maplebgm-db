@@ -4,7 +4,7 @@
     "filename": "LetsMarch (Alternate)",
     "mark": "OmegaSector",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Let's March (Alternate Version)",
       "year": "2004"
@@ -19,7 +19,7 @@
     "filename": "Newtro_AboveTheTreetops",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Above the Treetops -Newtro ver.-",
       "year": "2019"
@@ -35,7 +35,7 @@
     "filename": "Newtro_Ariant",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Ariant -Newtro ver.-",
       "year": "2019"
@@ -51,7 +51,7 @@
     "filename": "Newtro_BadGuys",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Bad Guys -Newtro ver.-",
       "year": "2019"
@@ -67,7 +67,7 @@
     "filename": "Newtro_DimensionLibrary",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Dimension Library -Newtro ver.-",
       "year": "2019"
@@ -83,7 +83,7 @@
     "filename": "Newtro_Dispute",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Dispute -Newtro ver.-",
       "year": "2019"
@@ -99,7 +99,7 @@
     "filename": "Newtro_EdelsteinCity",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Edelstein City -Newtro ver.-",
       "year": "2019"
@@ -115,7 +115,7 @@
     "filename": "Newtro_LachelntheIllusionCity",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Lacheln, The City of Dreams -Newtro ver.-",
       "title-alt": "Lacheln, The Illusion City -Newtro ver.-",
@@ -132,7 +132,7 @@
     "filename": "Newtro_Lake Of Oblivion",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Lake of Oblivion -Newtro ver.-",
       "year": "2019"
@@ -148,7 +148,7 @@
     "filename": "Newtro_MureungHill",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Mureung Hill -Newtro ver.-",
       "year": "2019"
@@ -164,7 +164,7 @@
     "filename": "Newtro_WindAndFlower",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Wind and Flower -Newtro ver.-",
       "year": "2019"
@@ -180,7 +180,7 @@
     "filename": "TheThirdFlight",
     "mark": "Quest",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "The Third Flight",
       "year": "2005"

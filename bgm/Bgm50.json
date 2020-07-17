@@ -4,7 +4,7 @@
     "filename": "BlackFury",
     "mark": "Limen",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Black Fury",
       "year": "2018"
@@ -22,7 +22,7 @@
     "filename": "LostSpace",
     "mark": "Limen",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Lost Space",
       "year": "2018"
@@ -40,7 +40,7 @@
     "filename": "NewBeginningNotTheEnd",
     "mark": "Limen",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "New Beginning, Not the End",
       "year": "2018"
@@ -58,7 +58,7 @@
     "filename": "SubterminalPoint",
     "mark": "Limen",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Subterminal Point",
       "year": "2018"
@@ -76,7 +76,7 @@
     "filename": "TearsOfTheWorld",
     "mark": "Limen",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Tears of the World",
       "year": "2018"
@@ -94,7 +94,7 @@
     "filename": "TempleOfDarkness",
     "mark": "Limen",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Temple of Darkness",
       "year": "2018"
@@ -112,7 +112,7 @@
     "filename": "TheWorld'sEnd",
     "mark": "Limen",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The World's End",
       "year": "2018"
@@ -130,7 +130,7 @@
     "filename": "ThroneOfDarkness",
     "mark": "Limen",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Throne of Darkness",
       "year": "2018"
@@ -148,7 +148,7 @@
     "filename": "WorldHorizon",
     "mark": "Limen",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "World Horizon",
       "year": "2018"

@@ -4,7 +4,7 @@
     "filename": "citadelofTyrant",
     "mark": "citadel",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Citadel of Tyrant",
       "year": "2012"
@@ -22,7 +22,7 @@
     "filename": "funkyBlackmarket",
     "mark": "helisium",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Funky Black Market",
       "year": "2012"
@@ -40,7 +40,7 @@
     "filename": "HelisiumField",
     "mark": "helisium",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Helisium Field",
       "year": "2012"
@@ -58,7 +58,7 @@
     "filename": "helisiumMysticforest",
     "mark": "helisium",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Helisium Mystic Forest",
       "year": "2012"
@@ -76,7 +76,7 @@
     "filename": "helisiumWarcry",
     "mark": "helisium",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Helisium War Cry",
       "year": "2012"
@@ -94,7 +94,7 @@
     "filename": "retake",
     "mark": "retakeHQ",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Retake",
       "year": "2012"
@@ -112,7 +112,7 @@
     "filename": "thefinalWar",
     "mark": "Magnus",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "The Final War",
       "year": "2012"
@@ -130,7 +130,7 @@
     "filename": "thefinalWar (Original)",
     "mark": "Magnus",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "The Final War (Original)",
       "year": "2012"
@@ -148,7 +148,7 @@
     "filename": "trinityForce",
     "mark": "citadel",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Trinity Force",
       "year": "2012"

@@ -4,7 +4,7 @@
     "filename": "AltarOfAkayrum",
     "mark": "Akairum",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Altar of Akayrum",
       "year": "2011"
@@ -22,7 +22,7 @@
     "filename": "CrackOfDimension",
     "mark": "Akayrum",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Crack of Dimension",
       "year": "2011"
@@ -40,7 +40,7 @@
     "filename": "CygnusGarden",
     "mark": "Signus",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Cygnus Garden",
       "year": "2010"
@@ -58,7 +58,7 @@
     "filename": "destructionPerion",
     "mark": "destructionPerion",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Destruction Perion",
       "year": "2013"
@@ -76,7 +76,7 @@
     "filename": "destructionPerion (Original)",
     "mark": "destructionPerion",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Destruction Perion (Original)",
       "year": "2013"
@@ -94,7 +94,7 @@
     "filename": "destructionPerionShelter",
     "mark": "destructionPerion",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Destruction Perion Shelter",
       "year": "2013"
@@ -112,7 +112,7 @@
     "filename": "destructionTown",
     "mark": "destructionTown",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Destruction Town",
       "year": "2010"
@@ -130,7 +130,7 @@
     "filename": "FlowerInBlue",
     "mark": "SilentEurel",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Flower in Blue",
       "year": "2011"
@@ -148,7 +148,7 @@
     "filename": "knightsStronghold",
     "mark": "darkEreb",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Knight's Stronghold",
       "year": "2010"
@@ -166,7 +166,7 @@
     "filename": "profession",
     "mark": "profession",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Profession",
       "year": "2010"
@@ -184,7 +184,7 @@
     "filename": "SoundOfElf",
     "mark": "Eurel",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Sound of Elf",
       "year": "2011"
@@ -202,7 +202,7 @@
     "filename": "timeGate",
     "mark": "destructionTown",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Time Gate",
       "year": "2011"
@@ -220,7 +220,7 @@
     "filename": "WindAndFlower",
     "mark": "Eurel",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Wind and Flower",
       "year": "2011"

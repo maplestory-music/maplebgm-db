@@ -4,7 +4,7 @@
     "filename": "Akiabara",
     "mark": "Tokyo",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Akihabara",
       "year": "2008"
@@ -22,7 +22,7 @@
     "filename": "Kamuna",
     "mark": "TokyoK",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Kamuna",
       "year": "2008"
@@ -40,7 +40,7 @@
     "filename": "Odaiba",
     "mark": "Tokyo",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Odaiba",
       "year": "2008"
@@ -58,7 +58,7 @@
     "filename": "Office",
     "mark": "Tokyo",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Office",
       "year": "2008"
@@ -76,7 +76,7 @@
     "filename": "Park",
     "mark": "Tokyo",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Park",
       "year": "2008"
@@ -94,7 +94,7 @@
     "filename": "Rockbongi1",
     "mark": "Tokyo",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Rockbongi 1",
       "year": "2009"
@@ -112,7 +112,7 @@
     "filename": "Rockbongi2",
     "mark": "Tokyo",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Rockbongi 2",
       "year": "2009"
@@ -130,7 +130,7 @@
     "filename": "Tokyosky",
     "mark": "Tokyo",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Tokyo Sky",
       "year": "2008"

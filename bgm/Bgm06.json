@@ -4,7 +4,7 @@
     "filename": "ComeWithMe",
     "mark": "Orbis",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Come With Me",
       "year": "2004"
@@ -22,7 +22,7 @@
     "filename": "FantasticThinking",
     "mark": "Ludibrium",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Fantastic Thinking",
       "year": "2004"
@@ -40,7 +40,7 @@
     "filename": "FinalFight",
     "mark": "Zakum",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Final Fight",
       "year": "2004"
@@ -58,7 +58,7 @@
     "filename": "FlyingInABlueDream",
     "mark": "Ludibrium",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Flying in a Blue Dream",
       "year": "2004"
@@ -76,7 +76,7 @@
     "filename": "WelcomeToTheHell",
     "mark": "Zakum",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Welcome to Hell",
       "year": "2004"

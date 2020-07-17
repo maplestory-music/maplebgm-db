@@ -4,7 +4,7 @@
     "filename": "AbyssCave",
     "mark": "Bellum",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Abyss Cave",
       "year": "2012"
@@ -22,7 +22,7 @@
     "filename": "JoyfulTeaParty",
     "mark": "Piere",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Joyful Tea Party",
       "year": "2012"
@@ -40,7 +40,7 @@
     "filename": "QueenPalace",
     "mark": "BloodyQueen",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Queen's Palace",
       "year": "2012"
@@ -58,7 +58,7 @@
     "filename": "TimeChaos",
     "mark": "BanBan",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Time Chaos",
       "year": "2012"
@@ -76,7 +76,7 @@
     "filename": "YggdrasilPrayer",
     "mark": "rootabyss",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Yggdrasil Prayer",
       "year": "2012"

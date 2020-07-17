@@ -4,7 +4,7 @@
     "filename": "Bathroom",
     "mark": "JP_shouwa",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Bathroom",
       "year": "2005"
@@ -22,7 +22,7 @@
     "filename": "BattleField",
     "mark": "JP_shouwa",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Battlefield",
       "year": "2005"
@@ -40,7 +40,7 @@
     "filename": "BizarreForest",
     "mark": "jipangu",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Bizarre Forest",
       "year": "2004"
@@ -58,7 +58,7 @@
     "filename": "CastleBoss",
     "mark": "jipangu",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Castle Boss",
       "year": "2007"
@@ -76,7 +76,7 @@
     "filename": "CastleInside",
     "mark": "jipangu",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Castle Inside",
       "year": "2007"
@@ -94,7 +94,7 @@
     "filename": "CastleOutSide",
     "mark": "jipangu",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Castle Outside",
       "year": "2007"
@@ -112,7 +112,7 @@
     "filename": "CastleTrap",
     "mark": "jipangu",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Castle Trap",
       "year": "2007"
@@ -130,7 +130,7 @@
     "filename": "CityHall",
     "mark": "JP_TokyoCentral",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "City Hall",
       "year": "2014"
@@ -148,7 +148,7 @@
     "filename": "CityWarfare",
     "mark": "JP_TokyoCentral",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "City Warfare",
       "year": "2014"
@@ -166,7 +166,7 @@
     "filename": "Feeling",
     "mark": "jipangu",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Feeling",
       "year": "2004"
@@ -184,7 +184,7 @@
     "filename": "FirstStepMaster",
     "mark": "MushroomVillage",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "First Step Master",
       "year": "2006"
@@ -202,7 +202,7 @@
     "filename": "Gabuki",
     "mark": "JP_Kabukicho",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Kabuki",
       "year": "2014"
@@ -220,7 +220,7 @@
     "filename": "Hana",
     "mark": "JP_shouwa",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Hana",
       "year": "2004"
@@ -238,7 +238,7 @@
     "filename": "MorningShot",
     "mark": "Quest",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Morning Shot",
       "year": "2007"
@@ -253,7 +253,7 @@
     "filename": "TCBoss",
     "mark": "JP_TokyoCentral",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Tokyo Central Boss",
       "year": "2014"
@@ -271,7 +271,7 @@
     "filename": "Yume",
     "mark": "JP_shouwa",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Yume",
       "year": "2004"

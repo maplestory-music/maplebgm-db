@@ -4,7 +4,7 @@
     "filename": "TheColossalHeart",
     "mark": "Colossus",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "The Colossal Heart",
       "year": "2013"
@@ -22,7 +22,7 @@
     "filename": "TheLivingMountain",
     "mark": "Colossus",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "The Living Mountain",
       "year": "2013"
@@ -40,7 +40,7 @@
     "filename": "TheRaiders",
     "mark": "Colossus",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "The Raiders",
       "year": "2013"
@@ -58,7 +58,7 @@
     "filename": "TheRush",
     "mark": "MinigameStation",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "The Rush",
       "year": "2013"

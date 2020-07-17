@@ -4,7 +4,7 @@
     "filename": "AbandonedMine",
     "mark": "ElNathDungeon",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Abandoned Mine",
       "year": "2004"
@@ -22,7 +22,7 @@
     "filename": "HellGate",
     "mark": "ElNathDungeon",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Hell Gate",
       "year": "2004"
@@ -40,7 +40,7 @@
     "filename": "MineQuest",
     "mark": "ElNathDungeon",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Mine Quest",
       "year": "2004"
@@ -58,7 +58,7 @@
     "filename": "WolfWood",
     "mark": "ElNath",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Wolf Woods",
       "year": "2004"

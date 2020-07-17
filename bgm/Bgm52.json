@@ -4,7 +4,7 @@
     "filename": "Borderless",
     "mark": "Glorion",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Borderless",
       "year": "2019"
@@ -22,7 +22,7 @@
     "filename": "JourneyMusicBox",
     "mark": "FreeMarket",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Journey -Music Box ver.-",
       "year": "2019"
@@ -40,7 +40,7 @@
     "filename": "LiberatedEdelsteinCity",
     "mark": "Edelstein",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Liberated Edelstein City",
       "year": "2019"

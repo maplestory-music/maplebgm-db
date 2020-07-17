@@ -4,7 +4,7 @@
     "filename": "AcientRemain",
     "mark": "Perion",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Ancient Remains",
       "year": "2006"
@@ -22,7 +22,7 @@
     "filename": "AquaCave",
     "mark": "Pianus",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Aqua Cave",
       "year": "2006"
@@ -40,7 +40,7 @@
     "filename": "DeepSee",
     "mark": "AquaRoad",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Deep Sea",
       "year": "2006"
@@ -58,7 +58,7 @@
     "filename": "Dispute",
     "mark": "Magatia",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dispute",
       "year": "2007"
@@ -76,7 +76,7 @@
     "filename": "RuinCastle",
     "mark": "Perion",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Castle Ruins",
       "year": "2006"
@@ -94,7 +94,7 @@
     "filename": "WaterWay",
     "mark": "Guild",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Water Way",
       "year": "2006"

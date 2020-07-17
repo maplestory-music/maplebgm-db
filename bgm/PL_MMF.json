@@ -4,7 +4,7 @@
     "filename": "MMF_ariant",
     "mark": "Event",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "DJ Searcher",
       "title": "MMF Ariant",
       "year": "2016"
@@ -22,7 +22,7 @@
     "filename": "MMF_badGuys",
     "mark": "Event",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "DJ Searcher",
       "title": "MMF Bad Guys",
       "year": "2016"
@@ -40,7 +40,7 @@
     "filename": "MMF_kinesis",
     "mark": "Event",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "DJ Searcher",
       "title": "MMF Kinesis",
       "year": "2016"
@@ -58,7 +58,7 @@
     "filename": "MMF_mapleIsland",
     "mark": "Event",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "DJ Searcher",
       "title": "MMF Maple Island",
       "year": "2016"
@@ -76,7 +76,7 @@
     "filename": "MMF_timeTemple",
     "mark": "Event",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "DJ Searcher",
       "title": "MMF Time Temple",
       "year": "2016"

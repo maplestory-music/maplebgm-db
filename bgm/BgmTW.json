@@ -4,7 +4,7 @@
     "filename": "101Building",
     "mark": "101Building",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "101 Building",
       "year": "2007"
@@ -22,7 +22,7 @@
     "filename": "101BuildingField",
     "mark": "101Building",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "101 Building Field",
       "year": "2007"
@@ -40,7 +40,7 @@
     "filename": "101BuildingSubway",
     "mark": "101Building",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "101 Building Subway",
       "year": "2007"
@@ -58,7 +58,7 @@
     "filename": "2015gamaday_minigame",
     "mark": "Gamaday",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "2015 Gamaday Minigame",
       "year": "2015"
@@ -76,7 +76,7 @@
     "filename": "2015gamaday_park",
     "mark": "Gamaday",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "2015 Gamaday Park",
       "year": "2015"
@@ -94,7 +94,7 @@
     "filename": "arisanBoss",
     "mark": "Arisan",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Arisan Boss",
       "year": "2015"
@@ -112,7 +112,7 @@
     "filename": "arisanCity",
     "mark": "Arisan",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Arisan City",
       "year": "2015"
@@ -130,7 +130,7 @@
     "filename": "arisanField",
     "mark": "Arisan",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Arisan Field",
       "year": "2015"
@@ -148,7 +148,7 @@
     "filename": "arisanForest",
     "mark": "Arisan",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Arisan Forest",
       "year": "2015"
@@ -166,7 +166,7 @@
     "filename": "arisanTrain",
     "mark": "Arisan",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Arisan Train",
       "year": "2015"
@@ -184,7 +184,7 @@
     "filename": "bugworld(bug)",
     "mark": "Event",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Bug World",
       "year": "2014"
@@ -202,7 +202,7 @@
     "filename": "CakeMap",
     "mark": "Event",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Cake Map",
       "year": "2008"
@@ -220,7 +220,7 @@
     "filename": "CakeMap4th",
     "mark": "Event",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Cake Map 4th",
       "year": "2009"
@@ -238,7 +238,7 @@
     "filename": "ChivalrousFighter",
     "mark": "YuYuanCN",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Chivalrous Fighter",
       "year": "2012"
@@ -256,7 +256,7 @@
     "filename": "concertchair_bass",
     "mark": "3016100",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Concert Chair (Bass)",
       "year": "2015"
@@ -274,7 +274,7 @@
     "filename": "concertchair_drum",
     "mark": "3016100",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Concert Chair (Drum)",
       "year": "2015"
@@ -292,7 +292,7 @@
     "filename": "concertchair_drum_bass",
     "mark": "3016100",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Concert Chair (Drum + Bass)",
       "year": "2015"
@@ -310,7 +310,7 @@
     "filename": "concertchair_drum_bass_keyboard",
     "mark": "3016100",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Concert Chair (Drum + Bass + Keyboard)",
       "year": "2015"
@@ -328,7 +328,7 @@
     "filename": "concertchair_drum_bass_keyboard_guitar",
     "mark": "3016100",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Concert Chair (Drum + Bass + Keyboard + Guitar)",
       "year": "2015"
@@ -346,7 +346,7 @@
     "filename": "concertchair_guitar",
     "mark": "3016100",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Concert Chair (Guitar)",
       "year": "2015"
@@ -364,7 +364,7 @@
     "filename": "concertchair_keyboard",
     "mark": "3016100",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Concert Chair (Keyboard)",
       "year": "2015"
@@ -382,7 +382,7 @@
     "filename": "ImDev_Room",
     "mark": "Event",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dev Room",
       "year": "2015"
@@ -400,7 +400,7 @@
     "filename": "MapleHighSchool",
     "mark": "SeoMoonJung",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Maple High School",
       "year": "2012"
@@ -418,7 +418,7 @@
     "filename": "NightField",
     "mark": "NightMarket",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Night Field",
       "year": "2006"
@@ -436,7 +436,7 @@
     "filename": "NightMarket",
     "mark": "NightMarket",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Night Market",
       "year": "2006"
@@ -454,7 +454,7 @@
     "filename": "ThanksGivingDay",
     "mark": "Kite_JP",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Thanksgiving Day",
       "year": "2012"
@@ -472,7 +472,7 @@
     "filename": "YoTaipei",
     "mark": "SeoMoonJung",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Yo Taipei",
       "year": "2006"

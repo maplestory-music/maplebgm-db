@@ -4,7 +4,7 @@
     "filename": "Abrup",
     "mark": "PL_Abrup",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Abrup",
       "year": "2018"
@@ -22,7 +22,7 @@
     "filename": "Appearance",
     "mark": "PL_Abrup",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Fragment of Fears",
       "title-alt": "Appearance",
@@ -41,7 +41,7 @@
     "filename": "Attack",
     "mark": "PL_Abrup",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Assault!",
       "title-alt": "Attack",
@@ -60,7 +60,7 @@
     "filename": "FallenThings",
     "mark": "PL_Abrup",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Fallen Things",
       "year": "2018"
@@ -78,7 +78,7 @@
     "filename": "Julietta",
     "mark": "PL_Abrup",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Julietta",
       "year": "2018"
@@ -96,7 +96,7 @@
     "filename": "Labor",
     "mark": "PL_Abrup",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Ready, Steady, Solid!",
       "title-alt": "Labor",
@@ -115,7 +115,7 @@
     "filename": "Labor_MR",
     "mark": "PL_Abrup",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Ready, Steady, Solid! -instrumental-",
       "title-alt": "Labor MR",
@@ -134,7 +134,7 @@
     "filename": "Reunite",
     "mark": "PL_Abrup",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Veiled Truth",
       "title-alt": "Reunite",
@@ -153,7 +153,7 @@
     "filename": "SleepingForest",
     "mark": "PL_Abrup",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Sleeping Forest",
       "year": "2018"
@@ -171,7 +171,7 @@
     "filename": "SongOfHawar",
     "mark": "PL_Abrup",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Would You Listen to My Story?",
       "title-alt": "Song of Hawar",
@@ -190,7 +190,7 @@
     "filename": "SongOfHawar_MR",
     "mark": "PL_Abrup",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Would You Listen to My Story? -instrumental-",
       "title-alt": "Song of Hawar MR",
@@ -209,7 +209,7 @@
     "filename": "TheWaytoHope",
     "mark": "PL_Abrup",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Way to Hope",
       "year": "2018"
@@ -227,7 +227,7 @@
     "filename": "TheWaytoHope_gloomy",
     "mark": "PL_Abrup",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Sorrowful Way",
       "title-alt": "The Way to Hope -gloomy-",
@@ -246,7 +246,7 @@
     "filename": "TheWaytoHope_gloomy_MR",
     "mark": "PL_Abrup",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Sorrowful Way -instrumental-",
       "title-alt": "The Way to Hope -gloomy- MR",
@@ -265,7 +265,7 @@
     "filename": "TheWaytoHope_MR",
     "mark": "PL_Abrup",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Way to Hope MR",
       "year": "2018"
@@ -283,7 +283,7 @@
     "filename": "Turbulence",
     "mark": "PL_Abrup",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Turbulence",
       "year": "2018"
@@ -301,7 +301,7 @@
     "filename": "WalkTogether",
     "mark": "PL_Abrup",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Along With You",
       "title-alt": "Walk Together",

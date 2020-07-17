@@ -4,7 +4,7 @@
     "filename": "LegendOfZipang",
     "mark": "jipangu",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Legend of Zipang",
       "year": "2016"
@@ -22,7 +22,7 @@
     "filename": "LegendOfZipang_Reprise",
     "mark": "jipangu",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Legend of Zipang ~reprise~",
       "year": "2016"
@@ -40,7 +40,7 @@
     "filename": "LegendOfZipang_Sad",
     "mark": "jipangu",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Legend of Zipang ~sad~",
       "year": "2016"
@@ -58,7 +58,7 @@
     "filename": "LegendOfZipang_Silence",
     "mark": "jipangu",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Legend of Zipang ~silence~",
       "year": "2016"
@@ -76,7 +76,7 @@
     "filename": "LivingAgain",
     "mark": "jipangu",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Living Again",
       "year": "2016"
@@ -94,7 +94,7 @@
     "filename": "LivingAgain_Reprise",
     "mark": "jipangu",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Living Again ~reprise~",
       "year": "2016"
@@ -112,7 +112,7 @@
     "filename": "Tengou'sTrial",
     "mark": "jipangu",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Tengou's Trial",
       "year": "2016"
@@ -130,7 +130,7 @@
     "filename": "YokaiBoso",
     "mark": "jipangu",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Yokai Boso",
       "year": "2016"
@@ -148,7 +148,7 @@
     "filename": "ZipangHero",
     "mark": "jipangu",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Zipang Hero",
       "year": "2016"

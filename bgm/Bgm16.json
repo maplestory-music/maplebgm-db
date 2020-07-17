@@ -4,7 +4,7 @@
     "filename": "Duskofgod",
     "mark": "TimeTemple",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dusk of God",
       "year": "2008"
@@ -22,7 +22,7 @@
     "filename": "FightingPinkBeen",
     "mark": "PinkBean",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Fighting Pink Bean",
       "year": "2008"
@@ -40,7 +40,7 @@
     "filename": "Forgetfulness",
     "mark": "TimeTemple",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Forgetfulness",
       "year": "2008"
@@ -58,7 +58,7 @@
     "filename": "InWartime",
     "mark": "Aswan",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "In Wartime",
       "year": "2012"
@@ -76,7 +76,7 @@
     "filename": "RedWitch",
     "mark": "Hilla",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Red Witch",
       "year": "2012"
@@ -94,7 +94,7 @@
     "filename": "Remembrance",
     "mark": "TimeTemple",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Rememberance",
       "year": "2008"
@@ -112,7 +112,7 @@
     "filename": "Repentance",
     "mark": "TimeTemple",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Repentance",
       "year": "2008"
@@ -130,7 +130,7 @@
     "filename": "RustyThrone",
     "mark": "Aswan",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Rusty Throne",
       "year": "2012"
@@ -148,7 +148,7 @@
     "filename": "TimeTemple",
     "mark": "TimeTemple",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Temple of Time",
       "year": "2008"

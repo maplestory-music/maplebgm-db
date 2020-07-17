@@ -4,7 +4,7 @@
     "filename": "Cerberusian",
     "mark": "NLC",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Cerberusian",
       "year": "2019"
@@ -22,7 +22,7 @@
     "filename": "CrimsonMountain",
     "mark": "Crimsonwood",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Crimson Mountain",
       "year": "2019"
@@ -40,7 +40,7 @@
     "filename": "Nostalgia",
     "mark": "NLC",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Nostalgia",
       "year": "2019"
@@ -58,7 +58,7 @@
     "filename": "PhantomForest",
     "mark": "Crimsonwood",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Phantom Forest",
       "year": "2019"
@@ -76,7 +76,7 @@
     "filename": "Resurrection",
     "mark": "Crimsonwood",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Resurrection",
       "year": "2019"
@@ -94,7 +94,7 @@
     "filename": "toVersal",
     "mark": "Crimsonwood",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "To Versal",
       "year": "2019"
@@ -112,7 +112,7 @@
     "filename": "Whisper",
     "mark": "Crimsonwood",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Whisper",
       "year": "2019"

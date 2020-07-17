@@ -4,7 +4,7 @@
     "filename": "BloodCage",
     "mark": "esfera",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Bloody Cage",
       "title-alt": "Blood Cage",
@@ -23,7 +23,7 @@
     "filename": "BloodCage (Original)",
     "mark": "esfera",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Bloody Cage (Original)",
       "title-alt": "Blood Cage (Original)",
@@ -42,7 +42,7 @@
     "filename": "ConteminatedSea",
     "mark": "esfera",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Contaminated Sea",
       "year": "2018"
@@ -60,7 +60,7 @@
     "filename": "ConteminatedSea (Original)",
     "mark": "esfera",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Contaminated Sea (Original)",
       "year": "2018"
@@ -78,7 +78,7 @@
     "filename": "DepthOfPain",
     "mark": "TheLabyrinthOfSuffering",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Depth of Pain",
       "year": "2018"
@@ -96,7 +96,7 @@
     "filename": "Diffraction",
     "mark": "esfera",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Diffraction",
       "year": "2018"
@@ -114,7 +114,7 @@
     "filename": "DuskHallucination",
     "mark": "moonBridge",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Dusk Hallucination",
       "year": "2020"
@@ -132,7 +132,7 @@
     "filename": "EternalSwamp",
     "mark": "TheLabyrinthOfSuffering",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Eternal Swamp",
       "year": "2018"
@@ -150,7 +150,7 @@
     "filename": "FerociousBattlefield",
     "mark": "moonBridge",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Ferocious Battlefield",
       "year": "2018"
@@ -168,7 +168,7 @@
     "filename": "FerociousBattlefield_loop",
     "mark": "moonBridge",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Ferocious Battlefield -loop-",
       "year": "2018"
@@ -186,7 +186,7 @@
     "filename": "FerociousBattlefield_RiserEdit",
     "mark": "moonBridge",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Ferocious Battlefield -riser edit-",
       "year": "2018"
@@ -204,7 +204,7 @@
     "filename": "FerociousBattlefield_ShortEdit",
     "mark": "moonBridge",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Ferocious Battlefield -short edit-",
       "year": "2018"
@@ -222,7 +222,7 @@
     "filename": "HeartofSuffering",
     "mark": "TheLabyrinthOfSuffering",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Heart of Suffering",
       "year": "2018"
@@ -240,7 +240,7 @@
     "filename": "MirrorCage",
     "mark": "esfera",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Mirror Cage",
       "year": "2018"
@@ -258,7 +258,7 @@
     "filename": "MirrorCage (Original)",
     "mark": "esfera",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Mirror Cage (Original)",
       "year": "2018"
@@ -276,7 +276,7 @@
     "filename": "SecretLabyrinth",
     "mark": "TheLabyrinthOfSuffering",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Secret Labyrinth",
       "year": "2018"
@@ -294,7 +294,7 @@
     "filename": "SoupOfLife",
     "mark": "esfera",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "A Place Where Life Begins",
       "title-alt": "Soup of Life",
@@ -313,7 +313,7 @@
     "filename": "SoupOfLife (Original)",
     "mark": "esfera",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "A Place Where Life Begins (Original)",
       "title-alt": "Soup of Life (Original)",
@@ -332,7 +332,7 @@
     "filename": "StrangeFog",
     "mark": "moonBridge",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Strange Fog",
       "year": "2018"
@@ -350,7 +350,7 @@
     "filename": "TempleInTheMirror",
     "mark": "esfera",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Le Temple du Miroir",
       "title-alt": "Temple in the Mirror",
@@ -369,7 +369,7 @@
     "filename": "TempleInTheMirror (Original)",
     "mark": "esfera",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Le Temple du Miroir (Original)",
       "title-alt": "Temple in the Mirror (Original)",
@@ -388,7 +388,7 @@
     "filename": "WarCloud",
     "mark": "moonBridge",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "War Cloud",
       "year": "2018"
@@ -406,7 +406,7 @@
     "filename": "WaveofEmptiness",
     "mark": "moonBridge",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Wave of Emptiness",
       "year": "2018"

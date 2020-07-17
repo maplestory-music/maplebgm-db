@@ -4,7 +4,7 @@
     "filename": "Hekaton",
     "mark": "critias",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Hekaton",
       "year": "2013"
@@ -22,7 +22,7 @@
     "filename": "InRuinInVain",
     "mark": "critias",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "In Ruin in Vain",
       "year": "2013"
@@ -40,7 +40,7 @@
     "filename": "StopInEnds",
     "mark": "critias",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Stop in Ends",
       "year": "2013"
@@ -58,7 +58,7 @@
     "filename": "StopInHundreds",
     "mark": "critias",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Stop in Hundreds",
       "year": "2013"
@@ -76,7 +76,7 @@
     "filename": "TragicForest",
     "mark": "critias",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Tragic Forest",
       "year": "2013"
@@ -94,7 +94,7 @@
     "filename": "TragicRestart",
     "mark": "critias",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Tragic Restart",
       "year": "2013"

@@ -4,7 +4,7 @@
     "filename": "17th_Event",
     "mark": "17th_Event",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "17th Anniversary Event",
       "year": "2020"
@@ -22,7 +22,7 @@
     "filename": "awake_Event",
     "mark": "awake_Event",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Awake Event",
       "year": "2020"
@@ -40,7 +40,7 @@
     "filename": "captureTheFlag",
     "mark": "UnionPQ",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Capture the Flag",
       "year": "2013"
@@ -58,7 +58,7 @@
     "filename": "coordiKing",
     "mark": "MinigameStation",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Coordi King",
       "year": "2013"
@@ -76,7 +76,7 @@
     "filename": "dolphin_night",
     "mark": "MinigameStation",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dolphin - Night",
       "year": "2011"
@@ -94,7 +94,7 @@
     "filename": "dolphin_noon",
     "mark": "MinigameStation",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dolphin - Noon",
       "year": "2011"
@@ -112,7 +112,7 @@
     "filename": "FunnyRabbit",
     "mark": "MinigameStation",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Funny Rabbit",
       "year": "2003"
@@ -127,7 +127,7 @@
     "filename": "FunnyRabbitFaster",
     "mark": "MinigameStation",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Funny Rabbit (Faster)",
       "year": "2003"
@@ -142,7 +142,7 @@
     "filename": "GalaxyisDangerous",
     "mark": "MapleGalaxy",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "14th Anniversary Dynamic Universe",
       "title-alt": "Galaxy is Dangerous",
@@ -161,7 +161,7 @@
     "filename": "halloweenMainHall",
     "mark": "HuntedMansion",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Halloween Main Hall",
       "year": "2012"
@@ -179,7 +179,7 @@
     "filename": "halloweenParty",
     "mark": "HuntedMansion",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Halloween Party",
       "year": "2012"
@@ -197,7 +197,7 @@
     "filename": "halloweenracing",
     "mark": "HuntedMansion",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Halloween Racing",
       "year": "2012"
@@ -215,7 +215,7 @@
     "filename": "henesys_remix",
     "mark": "Henesys",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Henesys Remix",
       "year": "2011"
@@ -233,7 +233,7 @@
     "filename": "LittleMaplePlanet",
     "mark": "MapleGalaxy",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "14th Anniversary Frozen Link -piano-",
       "title-alt": "Little Maple Planet",
@@ -252,7 +252,7 @@
     "filename": "mapleGalaxy",
     "mark": "MapleGalaxy",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "14th Anniversary Cosmic Main",
       "title-alt": "Maple Galaxy",
@@ -271,7 +271,7 @@
     "filename": "mapleGalaxy2",
     "mark": "MapleGalaxy",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "14th Anniversary Frozen Link",
       "title-alt": "Maple Galaxy 2",
@@ -290,7 +290,7 @@
     "filename": "maxLevelChair",
     "mark": "3014028",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Max Level Chair",
       "year": "2014"
@@ -308,7 +308,7 @@
     "filename": "salonRise",
     "mark": "Rise",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Salon Rise",
       "year": "2019"
@@ -326,7 +326,7 @@
     "filename": "WelcomeToThe15thStreet",
     "mark": "15st",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Welcome to the 15th Street",
       "year": "2018"
@@ -344,7 +344,7 @@
     "filename": "wichTower",
     "mark": "MinigameStation",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Witch Tower",
       "year": "2009"

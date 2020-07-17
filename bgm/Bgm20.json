@@ -4,7 +4,7 @@
     "filename": "GhostShipSeaMist",
     "mark": "GhostShip",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Ghost Ship in the Sea Mist",
       "year": "2009"
@@ -22,7 +22,7 @@
     "filename": "NetsPiramid",
     "mark": "Pyramid",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Nett's Pyramid",
       "year": "2009"
@@ -40,7 +40,7 @@
     "filename": "UnderSubway",
     "mark": "KerningCity",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Under the Subway",
       "year": "2009"

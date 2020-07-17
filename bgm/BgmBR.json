@@ -4,7 +4,7 @@
     "filename": "FeelGood",
     "mark": "Quest",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Feel Good",
       "year": "2009"
@@ -19,7 +19,7 @@
     "filename": "HeatUP",
     "mark": "Quest",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Heat Up",
       "year": "2009"
@@ -34,7 +34,7 @@
     "filename": "TheAftermath",
     "mark": "Quest",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "The Aftermath",
       "year": "2009"

@@ -4,7 +4,7 @@
     "filename": "Dancing With Ghosts",
     "mark": "GhostPark",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dancing with Ghosts",
       "year": "2015"
@@ -22,7 +22,7 @@
     "filename": "Kinesis Theme I",
     "mark": "MSTown",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Kinesis Theme I",
       "year": "2015"
@@ -40,7 +40,7 @@
     "filename": "Kinesis Theme II",
     "mark": "MSTown",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Kinesis Theme II",
       "year": "2015"
@@ -58,7 +58,7 @@
     "filename": "Kinesis Theme Skill",
     "mark": "MSTown",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Kinesis Theme Skill",
       "year": "2019"
@@ -76,7 +76,7 @@
     "filename": "monsterWorld",
     "mark": "12th",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Monster World",
       "year": "2015"
@@ -94,7 +94,7 @@
     "filename": "Skyscraper",
     "mark": "MSTown",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Skyscraper",
       "year": "2015"
@@ -112,7 +112,7 @@
     "filename": "This too shall pass away",
     "mark": "Folkvillige",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "This Too Shall Pass Away",
       "year": "2015"
@@ -130,7 +130,7 @@
     "filename": "TresureGameMulti",
     "mark": "12th",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Treasure Game Multi",
       "year": "2015"
@@ -148,7 +148,7 @@
     "filename": "TresureGameSingle",
     "mark": "12th",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Treasure Game Single",
       "year": "2015"
@@ -166,7 +166,7 @@
     "filename": "Unexpected crisis",
     "mark": "Folkvillige",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Unexpected Crisis",
       "year": "2015"
@@ -184,7 +184,7 @@
     "filename": "Unknown Part Of City",
     "mark": "MSTown",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Unknown Part of City",
       "year": "2015"
@@ -202,7 +202,7 @@
     "filename": "Welcome To The Creepy Ghost Park",
     "mark": "GhostPark",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Welcome to the Creepy Ghost Park",
       "year": "2015"

@@ -4,7 +4,7 @@
     "filename": "BlackWing",
     "mark": "Ereb",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Black Wing",
       "year": "2008"
@@ -22,7 +22,7 @@
     "filename": "DrillHall",
     "mark": "Ereb",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Drill Hall",
       "year": "2008"
@@ -40,7 +40,7 @@
     "filename": "Injustice",
     "mark": "Ereb",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Injustice",
       "year": "2011"
@@ -58,7 +58,7 @@
     "filename": "QueensGarden",
     "mark": "Ereb",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Queen's Garden",
       "year": "2008"
@@ -76,7 +76,7 @@
     "filename": "RaindropFlower",
     "mark": "Ereb",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Raindrop Flower",
       "year": "2008"
@@ -94,7 +94,7 @@
     "filename": "WolfAndSheep",
     "mark": "MinigameStation",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Wolf and Sheep",
       "year": "2009"

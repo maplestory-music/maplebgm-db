@@ -4,7 +4,7 @@
     "filename": "EvolvingWorld",
     "mark": "EvolvingSystem",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Evolving World",
       "year": "2012"
@@ -22,7 +22,7 @@
     "filename": "GoldBeach",
     "mark": "Goldrich",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Gold Beach",
       "year": "2012"
@@ -40,7 +40,7 @@
     "filename": "MureungSchool1",
     "mark": "MuruengRaid",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Mu Lung Raid 1",
       "year": "2008"
@@ -58,7 +58,7 @@
     "filename": "MureungSchool2",
     "mark": "MuruengRaid",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Mu Lung Raid 2",
       "year": "2008"
@@ -76,7 +76,7 @@
     "filename": "MureungSchool3",
     "mark": "MuruengRaid",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Mu Lung Raid 3",
       "year": "2008"
@@ -94,7 +94,7 @@
     "filename": "MureungSchool4",
     "mark": "MuruengRaid",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Mu Lung Raid 4",
       "year": "2008"
@@ -112,7 +112,7 @@
     "filename": "secretFlower",
     "mark": "SecretFlower",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Secret Flower",
       "year": "2010"

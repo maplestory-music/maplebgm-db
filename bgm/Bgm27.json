@@ -4,7 +4,7 @@
     "filename": "AngelsRoom",
     "mark": "Pantheon",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Angel's Room",
       "year": "2012"
@@ -22,7 +22,7 @@
     "filename": "BaseOfBetrayers",
     "mark": "Pantheon",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Base of Betrayers",
       "year": "2012"
@@ -40,7 +40,7 @@
     "filename": "BorderArea",
     "mark": "Pantheon",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Border Area",
       "year": "2012"
@@ -58,7 +58,7 @@
     "filename": "GreatTemple",
     "mark": "Pantheon",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Great Temple",
       "year": "2012"
@@ -76,7 +76,7 @@
     "filename": "NovaSanctum",
     "mark": "Pantheon",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Nova Sanctum",
       "year": "2012"
@@ -94,7 +94,7 @@
     "filename": "Pantheon",
     "mark": "Pantheon",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Pantheon",
       "year": "2012"
@@ -112,7 +112,7 @@
     "filename": "PantheonField",
     "mark": "Pantheon",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Pantheon Field",
       "year": "2012"
@@ -130,7 +130,7 @@
     "filename": "StepOfKaiser",
     "mark": "Pantheon",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Step of Kaiser",
       "year": "2012"
@@ -148,7 +148,7 @@
     "filename": "TrappedKaiser",
     "mark": "Pantheon",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Trapped Kaiser",
       "year": "2012"

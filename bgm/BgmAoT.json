@@ -4,7 +4,7 @@
     "filename": "Traning",
     "mark": "AoT1",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Training",
       "year": "2014"
@@ -22,7 +22,7 @@
     "filename": "Wall01",
     "mark": "AoT2",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Wall 01",
       "year": "2014"
@@ -40,7 +40,7 @@
     "filename": "Wall02",
     "mark": "AoT2",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Wall 02",
       "year": "2014"
@@ -58,7 +58,7 @@
     "filename": "WallLoadCity",
     "mark": "AoT2",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Wall Load City",
       "year": "2014"

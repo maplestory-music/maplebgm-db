@@ -4,7 +4,7 @@
     "filename": "BlackDungeon",
     "mark": "Morass",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Black Dungeon",
       "year": "2017"
@@ -22,7 +22,7 @@
     "filename": "Doomsday_FULL",
     "mark": "verdel",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Doomsday",
       "year": "2017"
@@ -40,7 +40,7 @@
     "filename": "Doomsday_LOOP",
     "mark": "verdel",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Doomsday -loop-",
       "year": "2017"
@@ -58,7 +58,7 @@
     "filename": "EveningPrimrose",
     "mark": "Library",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Evening Primrose",
       "year": "2017"
@@ -76,7 +76,7 @@
     "filename": "ForgottenNames",
     "mark": "Library",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Forgotten Names",
       "year": "2017"
@@ -94,7 +94,7 @@
     "filename": "gloryWing",
     "mark": "Asylum",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Glory Wing",
       "year": "2017"
@@ -112,7 +112,7 @@
     "filename": "Memory",
     "mark": "verdel",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Recollecting Memories",
       "title-alt": "Memory",
@@ -131,7 +131,7 @@
     "filename": "MemoryOfKritias",
     "mark": "Morass",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Memory of Kritias",
       "year": "2017"
@@ -149,7 +149,7 @@
     "filename": "noname",
     "mark": "Library",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "No Name",
       "year": "2017"
@@ -167,7 +167,7 @@
     "filename": "Nowhere",
     "mark": "Library",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Nowhere",
       "year": "2017"
@@ -185,7 +185,7 @@
     "filename": "Outpost",
     "mark": "aliance",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Outpost",
       "year": "2018"
@@ -203,7 +203,7 @@
     "filename": "OverTheClouds",
     "mark": "foxValley",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Over the Clouds",
       "year": "2017"
@@ -221,7 +221,7 @@
     "filename": "OverTheClouds_RhythmicVer",
     "mark": "foxValley",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Over the Clouds -rhythmic-",
       "year": "2017"
@@ -239,7 +239,7 @@
     "filename": "SwampOfMemoryMoras",
     "mark": "Morass",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Swamp of Memory, Morass",
       "year": "2017"
@@ -257,7 +257,7 @@
     "filename": "VerdelDungeon",
     "mark": "verdel",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Verdel Dungeon",
       "year": "2017"
@@ -275,7 +275,7 @@
     "filename": "VerdelField",
     "mark": "verdel",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Verdel Field",
       "year": "2017"
@@ -293,7 +293,7 @@
     "filename": "VerdelTown",
     "mark": "verdel",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Verdel Town",
       "year": "2017"
@@ -311,7 +311,7 @@
     "filename": "WayBackHome",
     "mark": "Library",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Way Back Home",
       "year": "2017"

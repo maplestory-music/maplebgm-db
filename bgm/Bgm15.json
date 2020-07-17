@@ -4,7 +4,7 @@
     "filename": "DeepCave",
     "mark": "EilnForest",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Deep Cave",
       "year": "2011"
@@ -22,7 +22,7 @@
     "filename": "ElinCave",
     "mark": "EilnForest",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Elin Cave",
       "year": "2011"
@@ -40,7 +40,7 @@
     "filename": "ElinForest",
     "mark": "EilnForest",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Elin Forest",
       "year": "2008"
@@ -58,7 +58,7 @@
     "filename": "inNautilus",
     "mark": "Nautilus",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Interior of Nautilus",
       "year": "2007"
@@ -76,7 +76,7 @@
     "filename": "MureungForest",
     "mark": "Murueng",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Mureung Forest",
       "year": "2007"
@@ -94,7 +94,7 @@
     "filename": "MureungHill",
     "mark": "Murueng",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Mureung Hill",
       "year": "2007"
@@ -112,7 +112,7 @@
     "filename": "Nautilus",
     "mark": "Nautilus",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Nautilus",
       "year": "2007"
@@ -130,7 +130,7 @@
     "filename": "Pirate",
     "mark": "DevijonParty",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Pirate",
       "year": "2007"
@@ -148,7 +148,7 @@
     "filename": "PoisonForest",
     "mark": "PoisonForest",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Poison Forest",
       "year": "2008"
@@ -166,7 +166,7 @@
     "filename": "QueensHideout",
     "mark": "EilnForest",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Queen's Hideout",
       "year": "2011"
@@ -184,7 +184,7 @@
     "filename": "SunsetDesert",
     "mark": "Magatia",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Sunset Desert",
       "year": "2007"
@@ -202,7 +202,7 @@
     "filename": "WhiteHerb",
     "mark": "WhiteHerb",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "White Herb",
       "year": "2007"

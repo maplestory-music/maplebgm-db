@@ -4,7 +4,7 @@
     "filename": "AcientForest",
     "mark": "Leafre",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Ancient Forest",
       "year": "2006"
@@ -22,7 +22,7 @@
     "filename": "CokeTown",
     "mark": "CokeTown",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Coke Town",
       "year": "2006"
@@ -40,7 +40,7 @@
     "filename": "FightSand",
     "mark": "AriantMatch",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Fight Sand",
       "year": "2007"
@@ -58,7 +58,7 @@
     "filename": "Leafre",
     "mark": "Leafre",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Leafre",
       "year": "2006"
@@ -76,7 +76,7 @@
     "filename": "Minar'sDream",
     "mark": "Leafre",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Minar's Dream",
       "year": "2006"
@@ -94,7 +94,7 @@
     "filename": "TowerOfGoddess",
     "mark": "GoddessTower",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Tower of a Goddess",
       "year": "2006"

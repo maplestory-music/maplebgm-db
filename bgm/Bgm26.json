@@ -4,7 +4,7 @@
     "filename": "BurningWoods",
     "mark": "Ellinia",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Burning Woods",
       "year": "2012"
@@ -22,7 +22,7 @@
     "filename": "DarkMage",
     "mark": "TimeTemple",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dark Mage",
       "year": "2012"
@@ -40,7 +40,7 @@
     "filename": "DarkWoods",
     "mark": "Ellinia",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dark Woods",
       "year": "2012"
@@ -58,7 +58,7 @@
     "filename": "FinalFight (Tempest)",
     "mark": "TimeTemple",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Final Fight",
       "year": "2012"
@@ -76,7 +76,7 @@
     "filename": "Flood",
     "mark": "Ellinia",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Flood",
       "year": "2012"
@@ -94,7 +94,7 @@
     "filename": "PeacefulWoods",
     "mark": "Ellinia",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Peaceful Woods",
       "year": "2012"
@@ -112,7 +112,7 @@
     "filename": "Serenity",
     "mark": "Ellinia",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Serenity",
       "year": "2012"
@@ -130,7 +130,7 @@
     "filename": "SpeakInTheVoid",
     "mark": "TimeTemple",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Speak in the Void",
       "year": "2012"

@@ -4,7 +4,7 @@
     "filename": "amoria",
     "mark": "Wedding",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Amoria",
       "year": "2006"
@@ -22,7 +22,7 @@
     "filename": "Amorianchallenge",
     "mark": "Wedding",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Amorian Challenge",
       "year": "2007"
@@ -40,7 +40,7 @@
     "filename": "Bigfoot",
     "mark": "Crimsonwood",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Bigfoot",
       "year": "2008"
@@ -58,7 +58,7 @@
     "filename": "Blackgate",
     "mark": "BlackgateCity",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Blackgate",
       "year": "2015"
@@ -76,7 +76,7 @@
     "filename": "cathedral",
     "mark": "Wedding",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Cathedral",
       "year": "2006"
@@ -94,7 +94,7 @@
     "filename": "chapel",
     "mark": "Wedding",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Chapel",
       "year": "2006"
@@ -112,7 +112,7 @@
     "filename": "Courtyard",
     "mark": "Crimsonwood",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Courtyard",
       "year": "2009"
@@ -130,7 +130,7 @@
     "filename": "CrimsonwoodKeep",
     "mark": "Crimsonwood",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Crimsonwood Keep",
       "year": "2008"
@@ -148,7 +148,7 @@
     "filename": "CrimsonwoodKeepInterior",
     "mark": "Crimsonwood",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Crimsonwood Keep Interior",
       "year": "2009"
@@ -166,7 +166,7 @@
     "filename": "GLBurningSanta",
     "mark": "HappyVillage",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Burning Santa",
       "year": "2015"
@@ -184,7 +184,7 @@
     "filename": "GLBurningSanta (Alternate Version)",
     "mark": "HappyVillage",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Burning Santa (Alterate Version)",
       "year": "2015"
@@ -202,7 +202,7 @@
     "filename": "GrandmastersGauntlet",
     "mark": "Crimsonwood",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Grandmaster's Gauntlet",
       "year": "2009"
@@ -220,7 +220,7 @@
     "filename": "HauntedHouse",
     "mark": "Halloween",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Haunted House",
       "year": "2007"
@@ -238,7 +238,7 @@
     "filename": "MadHouse",
     "mark": "MadHouse",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Madhouse",
       "year": "2015"
@@ -256,7 +256,7 @@
     "filename": "MadHouseEnding",
     "mark": "MadHouse",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Madhouse Ending",
       "year": "2015"
@@ -274,7 +274,7 @@
     "filename": "MBlockbusterC",
     "mark": "GLblockbuster",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "War for the Castle",
       "title-alt": "Masteria Through Time C",
@@ -293,7 +293,7 @@
     "filename": "MBlockbusterE1",
     "mark": "GLblockbuster",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "An Eternal Breath -instrumental-",
       "title-alt": "Masteria Through Time E1",
@@ -312,7 +312,7 @@
     "filename": "MBlockbusterE2",
     "mark": "GLblockbuster",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "An Eternal Breath",
       "title-alt": "Masteria Through Time E2",
@@ -331,7 +331,7 @@
     "filename": "MBlockbusterJ",
     "mark": "GLblockbuster",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Jungle Pursuit",
       "title-alt": "Masteria Through Time J",
@@ -350,7 +350,7 @@
     "filename": "NLC_boss",
     "mark": "NLC",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "NLC Boss",
       "year": "2012"
@@ -368,7 +368,7 @@
     "filename": "NLC_field",
     "mark": "NLC",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "NLC Field",
       "year": "2012"
@@ -386,7 +386,7 @@
     "filename": "NLChunt",
     "mark": "NLC",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "New Leaf City - Hunt",
       "year": "2007"
@@ -404,7 +404,7 @@
     "filename": "NLC_kidnap",
     "mark": "NLC",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "NLC Kidnap",
       "year": "2012"
@@ -422,7 +422,7 @@
     "filename": "NLCtown",
     "mark": "NLC",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "New Leaf City - Town",
       "year": "2007"
@@ -440,7 +440,7 @@
     "filename": "NLC_town (2022 NLC)",
     "mark": "NLC",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "NLC Town",
       "year": "2012"
@@ -458,7 +458,7 @@
     "filename": "NLCupbeat",
     "mark": "NLC",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "New Leaf City - Upbeat",
       "year": "2007"
@@ -476,7 +476,7 @@
     "filename": "PartyQuestGL",
     "mark": "Crimsonwood",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Crimsonwood Party Quest",
       "year": "2009"
@@ -494,7 +494,7 @@
     "filename": "PhantomForest (Original)",
     "mark": "Crimsonwood",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Phantom Forest (Original)",
       "year": "2008"
@@ -512,7 +512,7 @@
     "filename": "VHIFIVE",
     "mark": "Event",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "DJ Searcher",
       "title": "V Hi-Five",
       "year": "2016"

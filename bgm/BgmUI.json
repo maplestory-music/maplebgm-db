@@ -4,7 +4,7 @@
     "filename": "AsLogo",
     "mark": "TestServer",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "Wizet",
       "title": "Asiasoft Logo",
       "year": "2018"
@@ -22,7 +22,7 @@
     "filename": "AsLogo (Original)",
     "mark": "TestServer",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "Wizet",
       "title": "Asiasoft Logo (Original)",
       "year": "2005"
@@ -37,7 +37,7 @@
     "filename": "NxLogo",
     "mark": "TestServer",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Nexon Logo",
       "year": "2003"
@@ -52,7 +52,7 @@
     "filename": "NxLogoMS",
     "mark": "TestServer",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Nexon America Logo",
       "year": "2009"
@@ -67,7 +67,7 @@
     "filename": "ShopBgm",
     "mark": "FreeMarket",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Shop Background Music",
       "year": "2003"
@@ -85,7 +85,7 @@
     "filename": "Title",
     "mark": "TestServer",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Title Screen",
       "year": "2003"
@@ -100,7 +100,7 @@
     "filename": "Title2010Winter",
     "mark": "TestServer",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Title - Winter 2010",
       "year": "2010"
@@ -118,7 +118,7 @@
     "filename": "Title_8th",
     "mark": "TestServer",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Title - 8th Anniversary",
       "year": "2011"
@@ -136,7 +136,7 @@
     "filename": "Title_Frozen",
     "mark": "TestServer",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "Idina Menzel",
       "title": "Let It Go",
       "title-alt": "Title Frozen",
@@ -155,7 +155,7 @@
     "filename": "Title_Japan",
     "mark": "TestServer",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "Mikuni Shimokawa",
       "title": "Memories of MapleStory",
       "year": "2009"
@@ -173,7 +173,7 @@
     "filename": "Title_Japan2",
     "mark": "TestServer",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "Euphonius",
       "title": "Divinity",
       "year": "2009"
@@ -191,7 +191,7 @@
     "filename": "Title_Japan3",
     "mark": "TestServer",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "Jimang",
       "title": "Sakura Pop",
       "year": "2009"
@@ -209,7 +209,7 @@
     "filename": "Title_Japan4",
     "mark": "TestServer",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "Haruka Shimotsuki",
       "title": "Hajimarino Story",
       "year": "2010"
@@ -227,7 +227,7 @@
     "filename": "Title_Japan5",
     "mark": "TestServer",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "Chata x Oster Project",
       "title": "Nanaironosekai",
       "year": "2010"
@@ -245,7 +245,7 @@
     "filename": "Title_Taiwan",
     "mark": "TestServer",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "Ren Longxin",
       "title": "A Whole New World",
       "year": "2016"
@@ -263,7 +263,7 @@
     "filename": "WCSelect",
     "mark": "Quest",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "World / Channel Select",
       "year": "2003"
@@ -278,7 +278,7 @@
     "filename": "WzLogo",
     "mark": "TestServer",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Wizet Logo",
       "year": "2003"

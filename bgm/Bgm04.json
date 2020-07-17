@@ -4,7 +4,7 @@
     "filename": "ArabPirate",
     "mark": "Orbis",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Arab Pirate",
       "year": "2004"
@@ -22,7 +22,7 @@
     "filename": "PlayWithMe",
     "mark": "PcZone",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Play With Me",
       "year": "2003"
@@ -37,7 +37,7 @@
     "filename": "Shinin'Harbor",
     "mark": "Orbis",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Shinin' Harbor",
       "year": "2004"
@@ -55,7 +55,7 @@
     "filename": "UponTheSky",
     "mark": "Orbis",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Upon the Sky",
       "year": "2004"
@@ -73,7 +73,7 @@
     "filename": "WarmRegard",
     "mark": "ElNath",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Warm Regard",
       "year": "2004"
@@ -91,7 +91,7 @@
     "filename": "WhiteChristmas",
     "mark": "HappyVillage",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "White Christmas",
       "year": "2003"
@@ -109,7 +109,7 @@
     "filename": "WhiteChristmasSea",
     "mark": "HappyVillage",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "White Christmas (Alternate Version)",
       "year": "2003"

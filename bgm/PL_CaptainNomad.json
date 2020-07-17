@@ -4,7 +4,7 @@
     "filename": "Battle",
     "mark": "PL_CaptainVaga",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Unforgettable Gun",
       "title-alt": "Battle",
@@ -23,7 +23,7 @@
     "filename": "CaptainVaga",
     "mark": "PL_CaptainVaga",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Escape",
       "title-alt": "Captain Vaga",
@@ -42,7 +42,7 @@
     "filename": "IntotheStars",
     "mark": "PL_CaptainVaga",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Tomorrow",
       "title-alt": "Into the Stars",

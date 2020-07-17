@@ -4,7 +4,7 @@
     "filename": "BambooGym",
     "mark": "Rien",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Bamboo Gym",
       "year": "2009"
@@ -22,7 +22,7 @@
     "filename": "CrystalCave",
     "mark": "SnowDragon",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Crystal Cave",
       "year": "2009"
@@ -40,7 +40,7 @@
     "filename": "DancingWitnTheMoon",
     "mark": "CristalGarden",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dancing with the Moon",
       "year": "2011"
@@ -58,7 +58,7 @@
     "filename": "FlytotheMoon",
     "mark": "CristalGarden",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Fly to the Moon",
       "year": "2011"
@@ -76,7 +76,7 @@
     "filename": "RienVillage",
     "mark": "Rien",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Rien Village",
       "year": "2009"
@@ -94,7 +94,7 @@
     "filename": "SnowDrop",
     "mark": "Rien",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Snow Drop",
       "year": "2009"

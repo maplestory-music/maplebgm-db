@@ -4,7 +4,7 @@
     "filename": "Aquarium",
     "mark": "AquaRoad",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Aquarium",
       "year": "2005"
@@ -22,7 +22,7 @@
     "filename": "BlueWorld",
     "mark": "AquaRoad",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Blue World",
       "year": "2005"
@@ -40,7 +40,7 @@
     "filename": "DarkMountain",
     "mark": "Folkvillige",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dark Mountain",
       "year": "2005"
@@ -58,7 +58,7 @@
     "filename": "DownTown",
     "mark": "Folkvillige",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Down Town",
       "year": "2005"
@@ -76,7 +76,7 @@
     "filename": "ShiningSea",
     "mark": "AquaRoad",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Shining Sea",
       "year": "2005"

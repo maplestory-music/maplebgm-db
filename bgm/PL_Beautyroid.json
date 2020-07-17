@@ -4,7 +4,7 @@
     "filename": "Beautyroid3_HiddenHallway",
     "mark": "PL_Beautyroid",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Hidden Hallway",
       "year": "2020"
@@ -22,7 +22,7 @@
     "filename": "Beautyroid3_MoreHumanThanHuman",
     "mark": "PL_Beautyroid",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "More Human Than Human",
       "year": "2020"
@@ -40,7 +40,7 @@
     "filename": "Beautyroid3_ScionsLair",
     "mark": "PL_Beautyroid",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Scion's Lair",
       "year": "2020"
@@ -58,7 +58,7 @@
     "filename": "Beautyroid3_UnseenPrison",
     "mark": "PL_Beautyroid",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Unseen Prison",
       "year": "2020"
@@ -76,7 +76,7 @@
     "filename": "Beautyroid_Factory",
     "mark": "PL_Beautyroid",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Beautyroid Factory",
       "year": "2017"
@@ -94,7 +94,7 @@
     "filename": "Beautyroid_Forrest",
     "mark": "PL_Beautyroid",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Beautyroid Forest",
       "year": "2017"
@@ -112,7 +112,7 @@
     "filename": "Beautyroid_Lab",
     "mark": "PL_Beautyroid",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Beautyroid Lab",
       "year": "2017"
@@ -130,7 +130,7 @@
     "filename": "Beautyroid_Lobby",
     "mark": "PL_Beautyroid",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Beautyroid Lobby",
       "year": "2017"
@@ -148,7 +148,7 @@
     "filename": "PeacefulDays",
     "mark": "PL_Beautyroid",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Peaceful Life",
       "title-alt": "Peaceful Days",
@@ -167,7 +167,7 @@
     "filename": "Primrose",
     "mark": "PL_Beautyroid",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Primrose",
       "year": "2017"

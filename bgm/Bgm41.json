@@ -4,7 +4,7 @@
     "filename": "BigMachine",
     "mark": "BlockBuster",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Big Machine",
       "year": "2014"
@@ -22,7 +22,7 @@
     "filename": "BigMachine_mission",
     "mark": "BlockBuster",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Big Machine Mission",
       "year": "2014"
@@ -40,7 +40,7 @@
     "filename": "Gravity Core",
     "mark": "BlockBuster",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Gravity Core",
       "year": "2014"
@@ -58,7 +58,7 @@
     "filename": "Gravity Lord",
     "mark": "BlockBuster",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Gravity Lord",
       "year": "2014"
@@ -76,7 +76,7 @@
     "filename": "Gravity Lord Rise",
     "mark": "BlockBuster",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Gravity Lord Rise",
       "year": "2014"
@@ -94,7 +94,7 @@
     "filename": "Haven Theme",
     "mark": "Haven",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Haven Theme",
       "year": "2015"
@@ -112,7 +112,7 @@
     "filename": "HeavenAgain",
     "mark": "BlockBuster",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Heaven Again",
       "year": "2014"
@@ -130,7 +130,7 @@
     "filename": "HeavenAgain_reprise",
     "mark": "BlockBuster",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Heaven Again ~reprise~",
       "year": "2014"
@@ -148,7 +148,7 @@
     "filename": "PromiseOfHeaven",
     "mark": "BlockBuster",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Promise of Heaven",
       "year": "2014"
@@ -166,7 +166,7 @@
     "filename": "PromiseOfHeaven_vocaless",
     "mark": "BlockBuster",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Promise of Heaven ~instrumental~",
       "year": "2014"

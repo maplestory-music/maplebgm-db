@@ -4,7 +4,7 @@
     "filename": "goldTempleDungeonTH",
     "mark": "GoldTempleTH",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Golden Temple Dungeon",
       "year": "2007"
@@ -22,7 +22,7 @@
     "filename": "goldTempleFieldTH",
     "mark": "GoldTempleTH",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Golden Temple Field",
       "year": "2007"
@@ -40,7 +40,7 @@
     "filename": "goldTempleTownTH",
     "mark": "GoldTempleTH",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Golden Temple Town",
       "year": "2007"
@@ -58,7 +58,7 @@
     "filename": "ThaiField",
     "mark": "Thai",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Floating Market Fields",
       "year": "2006"
@@ -76,7 +76,7 @@
     "filename": "ThaiTown",
     "mark": "Thai",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Floating Market",
       "year": "2006"

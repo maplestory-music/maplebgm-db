@@ -4,7 +4,7 @@
     "filename": "BeastTamerColloseum",
     "mark": "ArbrenBT",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Beast Tamer: Colosseum",
       "year": "2014"
@@ -22,7 +22,7 @@
     "filename": "BeastTamerKoboltCave",
     "mark": "ArbrenBT",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Beast Tamer: Kobolt Cave",
       "year": "2014"
@@ -40,7 +40,7 @@
     "filename": "BeastTamerWoodTown",
     "mark": "ArbrenBT",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Beast Tamer: Wood Town",
       "year": "2014"
@@ -58,7 +58,7 @@
     "filename": "commerceBattle",
     "mark": "CommerzBT",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Commerci Battle",
       "year": "2013"
@@ -76,7 +76,7 @@
     "filename": "commercIng",
     "mark": "CommerzBT",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Commerci Sailing",
       "year": "2013"
@@ -94,7 +94,7 @@
     "filename": "commerzBeach",
     "mark": "CommerzBT",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Commerci Beach",
       "year": "2013"
@@ -112,7 +112,7 @@
     "filename": "commerzCanal",
     "mark": "CommerzBT",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Commerci Canal",
       "year": "2013"
@@ -130,7 +130,7 @@
     "filename": "rock'nBattle",
     "mark": "FreeMarket",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Rock 'n Battle",
       "year": "2013"
@@ -148,7 +148,7 @@
     "filename": "velludBossBattle",
     "mark": "GiantVellud",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Gollux Boss Battle",
       "year": "2013"

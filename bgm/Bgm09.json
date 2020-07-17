@@ -4,7 +4,7 @@
     "filename": "DarkShadow",
     "mark": "AbandonTower",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dark Shadow",
       "year": "2005"
@@ -22,7 +22,7 @@
     "filename": "FairyTale",
     "mark": "Ludibrium",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Fairy Tale",
       "year": "2005"
@@ -40,7 +40,7 @@
     "filename": "FairyTalediffvers",
     "mark": "Ludibrium",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Fairy Tale (Faster Version)",
       "year": "2005"
@@ -58,7 +58,7 @@
     "filename": "TheyMenacingYou",
     "mark": "AbandonTower",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "They're Menacing You",
       "year": "2005"
@@ -76,7 +76,7 @@
     "filename": "TimeAttack",
     "mark": "Papulatus",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Time Attack",
       "year": "2005"

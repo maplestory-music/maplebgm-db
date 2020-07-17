@@ -4,7 +4,7 @@
     "filename": "AgainstTheDark",
     "mark": "MushroomVillage",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Against the Darkness",
       "year": "2013"
@@ -22,7 +22,7 @@
     "filename": "DimensionLibrary",
     "mark": "Library",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dimension Library",
       "year": "2013"
@@ -40,7 +40,7 @@
     "filename": "DimensionLibrary (Original)",
     "mark": "Library",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dimension Library (Original)",
       "year": "2013"
@@ -58,7 +58,7 @@
     "filename": "GlacierAdventure",
     "mark": "glacierExplorer",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Glacier Adventure",
       "year": "2013"
@@ -76,7 +76,7 @@
     "filename": "GoFight!ShowYourEnergy!",
     "mark": "MushroomVillage",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Go Fight! Show Your Energy!",
       "year": "2013"
@@ -94,7 +94,7 @@
     "filename": "MapleLeaf",
     "mark": "Amherst",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Maple Leaf",
       "year": "2013"
@@ -112,7 +112,7 @@
     "filename": "MoleKingRises",
     "mark": "fairyAcademy",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Mole King Rises",
       "year": "2013"
@@ -130,7 +130,7 @@
     "filename": "Sailing",
     "mark": "glacierExplorer",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Sailing",
       "year": "2013"
@@ -148,7 +148,7 @@
     "filename": "TheAurora",
     "mark": "Library",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "The Aurora",
       "year": "2013"
@@ -166,7 +166,7 @@
     "filename": "TheFairyAcademy",
     "mark": "fairyAcademy",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "The Fairy Academy",
       "year": "2013"
@@ -184,7 +184,7 @@
     "filename": "TheFairyForest",
     "mark": "fairyAcademy",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "The Fairy Forest",
       "year": "2013"
@@ -202,7 +202,7 @@
     "filename": "TheStormyForest",
     "mark": "Library",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "The Stormy Forest",
       "year": "2013"
@@ -220,7 +220,7 @@
     "filename": "WoundedLeaf",
     "mark": "MushroomVillage",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Wounded Leaf",
       "year": "2013"

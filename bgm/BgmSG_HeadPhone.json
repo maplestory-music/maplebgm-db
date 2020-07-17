@@ -4,7 +4,7 @@
     "filename": "1000010",
     "mark": "1005518",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "1000010",
       "year": "2020"
@@ -22,7 +22,7 @@
     "filename": "AGAIN",
     "mark": "1005518",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "AGAIN",
       "year": "2020"
@@ -40,7 +40,7 @@
     "filename": "Kill Mob 9999",
     "mark": "1005520",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Kill Mob 9999",
       "year": "2020"
@@ -58,7 +58,7 @@
     "filename": "Raid",
     "mark": "1005520",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Raid",
       "year": "2020"
@@ -76,7 +76,7 @@
     "filename": "Shampoo",
     "mark": "1005519",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Shampoo",
       "year": "2020"
@@ -94,7 +94,7 @@
     "filename": "Show Me Tha Meso",
     "mark": "1005520",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Show Me tha Meso",
       "year": "2020"
@@ -112,7 +112,7 @@
     "filename": "THE FOOL",
     "mark": "1005518",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "THE FOOL",
       "year": "2020"
@@ -130,7 +130,7 @@
     "filename": "Twinkle Twinkle",
     "mark": "1005519",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Twinkle Twinkle",
       "year": "2020"
@@ -148,7 +148,7 @@
     "filename": "What is Love?",
     "mark": "1005519",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "What is Love?",
       "year": "2020"

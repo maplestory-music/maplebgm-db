@@ -4,7 +4,7 @@
     "filename": "5thAdelesOathInfinite",
     "mark": "Ristonia",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Adele's Oath Infinite",
       "year": "2020"
@@ -22,7 +22,7 @@
     "filename": "AdelesOath",
     "mark": "Ristonia",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Adele's Oath",
       "year": "2020"
@@ -40,7 +40,7 @@
     "filename": "AdelesOathInfinite",
     "mark": "Ristonia",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Adele's Oath Infinite (Original)",
       "year": "2020"
@@ -58,7 +58,7 @@
     "filename": "Apostles",
     "mark": "Glorion",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Apostles",
       "year": "2019"
@@ -76,7 +76,7 @@
     "filename": "BattleOfCernium",
     "mark": "Glorion",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Battle of Cernium",
       "year": "2019"
@@ -94,7 +94,7 @@
     "filename": "BurningCity",
     "mark": "Glorion",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Burning City",
       "year": "2019"
@@ -112,7 +112,7 @@
     "filename": "CheongUn",
     "mark": "CheongUn",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Cheong Un",
       "year": "2019"
@@ -130,7 +130,7 @@
     "filename": "CreepyTemple",
     "mark": "CheongUn",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Creepy Temple",
       "year": "2019"
@@ -148,7 +148,7 @@
     "filename": "ForEinherjar",
     "mark": "Ristonia",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "For Einherjar",
       "year": "2020"
@@ -166,7 +166,7 @@
     "filename": "GraveyardOfSword",
     "mark": "Glorion",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Graveyard of Sword",
       "year": "2019"
@@ -184,7 +184,7 @@
     "filename": "HolyWar",
     "mark": "Glorion",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Holy War",
       "year": "2019"
@@ -202,7 +202,7 @@
     "filename": "MaskedHeart",
     "mark": "Ristonia",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Masked Heart",
       "year": "2020"
@@ -220,7 +220,7 @@
     "filename": "OverlordOfLife",
     "mark": "Glorion",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Overlord of Life",
       "year": "2019"
@@ -238,7 +238,7 @@
     "filename": "RedMoon",
     "mark": "Glorion",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Red Moon",
       "year": "2019"
@@ -256,7 +256,7 @@
     "filename": "RidingOnTheClouds",
     "mark": "CheongUn",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Riding on the Clouds",
       "year": "2019"
@@ -274,7 +274,7 @@
     "filename": "RidingOnTheCloudsGodComing",
     "mark": "CheongUn",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Riding on the Clouds - God Coming",
       "year": "2020"
@@ -292,7 +292,7 @@
     "filename": "RisingSun",
     "mark": "Glorion",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Rising Sun",
       "year": "2019"
@@ -310,7 +310,7 @@
     "filename": "RomanticSunset",
     "mark": "Ristonia",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Romantic Sunset",
       "year": "2020"
@@ -328,7 +328,7 @@
     "filename": "SanctuaryOfMitra",
     "mark": "Glorion",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Sanctuary of Mitra",
       "year": "2019"
@@ -346,7 +346,7 @@
     "filename": "SeaWave",
     "mark": "Glorion",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Sea Wave",
       "year": "2019"
@@ -364,7 +364,7 @@
     "filename": "SeonYuSan",
     "mark": "SeonYuSan",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Seon Yu San",
       "year": "2019"
@@ -382,7 +382,7 @@
     "filename": "Streetpiano",
     "mark": "Ristonia",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Street Piano",
       "year": "2020"
@@ -400,7 +400,7 @@
     "filename": "TheHolyLand",
     "mark": "Glorion",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Holy Land",
       "year": "2019"
@@ -418,7 +418,7 @@
     "filename": "TheWallsofTragedy",
     "mark": "Ristonia",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Walls of Tragedy",
       "year": "2020"
@@ -436,7 +436,7 @@
     "filename": "WhereTheSecretLies",
     "mark": "Ristonia",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Where the Secret Lies",
       "year": "2020"

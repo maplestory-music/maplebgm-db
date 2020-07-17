@@ -4,7 +4,7 @@
     "filename": "BrokenDream",
     "mark": "Lacheln",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Dream Fragments",
       "title-alt": "Broken Dream",
@@ -23,7 +23,7 @@
     "filename": "Cave Of Rest",
     "mark": "Road of Vanishing",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Cave of Peace",
       "title-alt": "Cave of Rest",
@@ -42,7 +42,7 @@
     "filename": "ChewChew MainTheme",
     "mark": "ChewChew",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Expedition to Chew Chew Island",
       "title-alt": "Chew Chew: Main Theme",
@@ -61,7 +61,7 @@
     "filename": "ChewChew WildWorld",
     "mark": "ChewChew",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Welcome to Chew Chew Island",
       "title-alt": "Chew Chew: Wild World",
@@ -80,7 +80,7 @@
     "filename": "ClockTowerofNightmare",
     "mark": "Lacheln",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Shattered Time",
       "title-alt": "Clocktower of Nightmare",
@@ -99,7 +99,7 @@
     "filename": "LachelntheIllusionCity",
     "mark": "Lacheln",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Lacheln, The City of Dreams",
       "title-alt": "Lacheln, The Illusion City",
@@ -118,7 +118,7 @@
     "filename": "Lake Of Oblivion",
     "mark": "Road of Vanishing",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Lake of Oblivion",
       "year": "2016"
@@ -136,7 +136,7 @@
     "filename": "Volcanic Zone Of Extinction",
     "mark": "Road of Vanishing",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Volcanic Mountain",
       "title-alt": "Volcanic Zone Of Extinction",
@@ -155,7 +155,7 @@
     "filename": "WierldForestIntheGirlsdream",
     "mark": "Lacheln",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Phantasmal Woods",
       "title-alt": "Weird Forest in the Girl's Dream",

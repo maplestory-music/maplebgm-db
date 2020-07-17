@@ -4,7 +4,7 @@
     "filename": "battleHorizonTheme",
     "mark": "BattleHorizon",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Battle Horizon",
       "title-alt": "Battle Horizon Theme",
@@ -23,7 +23,7 @@
     "filename": "LosGurugers",
     "mark": "SavageTerminal",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Los Gurugers",
       "year": "2018"
@@ -41,7 +41,7 @@
     "filename": "LuensHouse",
     "mark": "Elodin",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Luen's House",
       "year": "2019"
@@ -59,7 +59,7 @@
     "filename": "MapleSquadS1",
     "mark": "ADSquad",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Immortal Gorgons",
       "title-alt": "Maple Squad S1",
@@ -78,7 +78,7 @@
     "filename": "Pathfinder",
     "mark": "Partem",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Pathfinder",
       "year": "2019"
@@ -96,7 +96,7 @@
     "filename": "SecretElodin",
     "mark": "Elodin",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Secret Elodin",
       "year": "2019"
@@ -114,7 +114,7 @@
     "filename": "ThePartemRuins",
     "mark": "Partem",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Partem Ruins",
       "year": "2019"
@@ -132,7 +132,7 @@
     "filename": "TheVillageOfKarupa",
     "mark": "Partem",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Village of Karupa",
       "year": "2019"

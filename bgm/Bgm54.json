@@ -4,7 +4,7 @@
     "filename": "FungusForest",
     "mark": "YumYum",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Fungus Forest",
       "year": "2020"
@@ -22,7 +22,7 @@
     "filename": "FungusForestB",
     "mark": "YumYum",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Fungus Forest B",
       "year": "2020"
@@ -40,7 +40,7 @@
     "filename": "IlliyardMoor",
     "mark": "YumYum",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Illiyard Moor",
       "year": "2020"
@@ -58,7 +58,7 @@
     "filename": "MemoryOfSunset",
     "mark": "Reverse_City",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Memory of Sunset",
       "year": "2019"
@@ -76,7 +76,7 @@
     "filename": "MushbudForest",
     "mark": "YumYum",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Mushbud Forest",
       "year": "2020"
@@ -94,7 +94,7 @@
     "filename": "ReverseCity",
     "mark": "Reverse_City",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Reverse City",
       "year": "2019"
@@ -112,7 +112,7 @@
     "filename": "ReverseCity2",
     "mark": "Reverse_City",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Reverse City 2",
       "year": "2019"
@@ -130,7 +130,7 @@
     "filename": "T-bomb",
     "mark": "Reverse_City",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "T-bomb",
       "year": "2019"

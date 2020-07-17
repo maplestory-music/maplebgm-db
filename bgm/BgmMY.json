@@ -4,7 +4,7 @@
     "filename": "Highland",
     "mark": "Kampung",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Highland",
       "year": "2008"
@@ -22,7 +22,7 @@
     "filename": "KualaLumpur",
     "mark": "KualaLumpur",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Kuala Lumpur",
       "year": "2008"

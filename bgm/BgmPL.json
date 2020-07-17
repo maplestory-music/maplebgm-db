@@ -4,7 +4,7 @@
     "filename": "DiceMaster",
     "mark": "PL_DiceMaster",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Dice Master",
       "year": "2017"
@@ -22,7 +22,7 @@
     "filename": "Eluna",
     "mark": "PL_Eluna",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Off the Beaten Path -upbeat-",
       "title-alt": "Eluna",
@@ -41,7 +41,7 @@
     "filename": "ElunaExpress",
     "mark": "PL_Eluna",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Eluna Express",
       "year": "2017"
@@ -59,7 +59,7 @@
     "filename": "GL_AdvPQ",
     "mark": "GL_AdvPQ",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Adventure Party Quest",
       "year": "2019"
@@ -77,7 +77,7 @@
     "filename": "GodOfBrain",
     "mark": "PL_GodOfBrain",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "God of Brain",
       "year": "2017"
@@ -95,7 +95,7 @@
     "filename": "GunMan",
     "mark": "PL_Gunman",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Western Gunman",
       "title-alt": "Gunman",
@@ -114,7 +114,7 @@
     "filename": "HiddenCatch",
     "mark": "BZ_HiddenCatch",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Hidden Catch",
       "year": "2019"
@@ -132,7 +132,7 @@
     "filename": "HiddenTales_Mystery",
     "mark": "ArbrenBT",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Greetings of the Death Angel",
       "title-alt": "Hidden Tales: Mystery",
@@ -151,7 +151,7 @@
     "filename": "HiddenTales_Sorrow",
     "mark": "ArbrenBT",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Frozen Heart",
       "title-alt": "Hidden Tales: Sorrow",
@@ -170,7 +170,7 @@
     "filename": "HiddenTales_Tension",
     "mark": "ArbrenBT",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Shadow of Chaos",
       "title-alt": "Hidden Tales: Tension",
@@ -189,7 +189,7 @@
     "filename": "LandofContemplation_Day",
     "mark": "PL_AfterLand",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Can You Read My Thoughts?",
       "title-alt": "Land of Contemplation ~day~",
@@ -208,7 +208,7 @@
     "filename": "LandofContemplation_Night",
     "mark": "PL_AfterLand",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Can You Read My Thoughts? -night-",
       "title-alt": "Land of Contemplation ~night~",
@@ -227,7 +227,7 @@
     "filename": "LandofInnocence_Day",
     "mark": "PL_AfterLand",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Dancing Weathercock",
       "title-alt": "Land of Innocence ~day~",
@@ -246,7 +246,7 @@
     "filename": "LandofInnocence_Night",
     "mark": "PL_AfterLand",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Dancing Weathercock -night-",
       "title-alt": "Land of Innocence ~night~",
@@ -265,7 +265,7 @@
     "filename": "LandofInnocence_Night (Original)",
     "mark": "PL_AfterLand",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Dancing Weathercock -night- (Alternate)",
       "title-alt": "Land of Innocence ~night~ (Alternate)",
@@ -284,7 +284,7 @@
     "filename": "LandofRiches_Day",
     "mark": "PL_AfterLand",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The World of Paradox",
       "title-alt": "Land of Riches ~day~",
@@ -303,7 +303,7 @@
     "filename": "LandofRiches_Night",
     "mark": "PL_AfterLand",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The World of Paradox -night-",
       "title-alt": "Land of Riches ~night~",
@@ -322,7 +322,7 @@
     "filename": "LandofRiches_Night (Original)",
     "mark": "PL_AfterLand",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The World of Paradox -night- (Alternate)",
       "title-alt": "Land of Riches ~night~ (Alternate)",
@@ -341,7 +341,7 @@
     "filename": "LandofWarriors_Day",
     "mark": "PL_AfterLand",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Bottoms Up!",
       "title-alt": "Land of Warriors ~day~",
@@ -360,7 +360,7 @@
     "filename": "LandofWarriors_Night",
     "mark": "PL_AfterLand",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Bottoms Up! -night-",
       "title-alt": "Land of Warriors ~night~",
@@ -379,7 +379,7 @@
     "filename": "MD_AcornDetective_AR",
     "mark": "PL_MapleDetective",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Stellar Detectives",
       "title-alt": "Maple Detective: Acorn Detective AR",
@@ -398,7 +398,7 @@
     "filename": "MD_AcornDetective_MR",
     "mark": "PL_MapleDetective",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Stellar Detectives -instrumental-",
       "title-alt": "Maple Detective: Acorn Detective MR",
@@ -417,7 +417,7 @@
     "filename": "MD_InvadeOperation",
     "mark": "PL_MapleDetective",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Mission: Invasion",
       "title-alt": "Maple Detective: Invade Operation",
@@ -436,7 +436,7 @@
     "filename": "RetroWorldBoss",
     "mark": "PL_RetroWorld",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Final Stage",
       "title-alt": "Retro World Boss",
@@ -455,7 +455,7 @@
     "filename": "RetroWorldDungeon",
     "mark": "PL_RetroWorld",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Action Trap",
       "title-alt": "Retro World Dungeon",
@@ -474,7 +474,7 @@
     "filename": "RetroWorldMiniGame",
     "mark": "PL_RetroWorld",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Watch Out!",
       "title-alt": "Retro World Minigame",
@@ -493,7 +493,7 @@
     "filename": "RetroWorldTown",
     "mark": "PL_RetroWorld",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Ordinary Day",
       "title-alt": "Retro World Town",
@@ -512,7 +512,7 @@
     "filename": "SongOfTheNati",
     "mark": "PL_Eluna",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Song of Naty",
       "title-alt": "Song of the Nati",
@@ -531,7 +531,7 @@
     "filename": "SpiritualWeight",
     "mark": "PL_Eluna",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Weight of the Soul",
       "title-alt": "Spiritual Weight",
@@ -550,7 +550,7 @@
     "filename": "UnexploredEluna",
     "mark": "PL_Eluna",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Off the Beaten Path",
       "title-alt": "Unexplored Eluna",
@@ -569,7 +569,7 @@
     "filename": "WeAreThePioneers",
     "mark": "PL_Eluna",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Pioneer Headquarters",
       "title-alt": "We Are the Pioneers",
@@ -588,7 +588,7 @@
     "filename": "WinterCastle",
     "mark": "PL_WinterCastle",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Melting Snow",
       "title-alt": "Winter Castle",
@@ -607,7 +607,7 @@
     "filename": "WinterCastle_DownHill",
     "mark": "PL_WinterCastle",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Downhill Ride",
       "title-alt": "Winter Castle -Downhill-",

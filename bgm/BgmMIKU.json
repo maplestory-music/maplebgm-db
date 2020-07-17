@@ -4,7 +4,7 @@
     "filename": "DAYBREAK",
     "mark": "Event",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "まふまふ feat. 初音ミク",
       "title": "DAYBREAK",
       "year": "2012"
@@ -22,7 +22,7 @@
     "filename": "Monokuro",
     "mark": "Event",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "まふまふ feat. 初音ミク",
       "title": "モノクロと勇者の遺伝子",
       "year": "2014"
@@ -40,7 +40,7 @@
     "filename": "next",
     "mark": "Event",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "さつき が てんこもり feat. 初音ミク",
       "title": "ネクストネスト",
       "year": "2014"
@@ -58,7 +58,7 @@
     "filename": "Sprechchor",
     "mark": "Event",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "さつき が てんこもり feat. 初音ミク",
       "title": "ネトゲ廃人シュプレヒコール",
       "year": "2010"

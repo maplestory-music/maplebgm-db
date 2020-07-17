@@ -4,7 +4,7 @@
     "filename": "BoatQuay_field",
     "mark": "Singapore",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Boat Quay Field",
       "year": "2007"
@@ -22,7 +22,7 @@
     "filename": "BoatQuay_town",
     "mark": "Singapore",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Boat Quay Town",
       "year": "2007"
@@ -40,7 +40,7 @@
     "filename": "CBD_field",
     "mark": "Singapore",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "CBD Field",
       "year": "2007"
@@ -58,7 +58,7 @@
     "filename": "CBD_town",
     "mark": "Singapore",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "CBD Town",
       "year": "2007"
@@ -76,7 +76,7 @@
     "filename": "Ghostship",
     "mark": "Singapore",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Ghost Ship",
       "year": "2007"
@@ -94,7 +94,7 @@
     "filename": "Ulu_field",
     "mark": "Singapore",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Ulu Field",
       "year": "2008"

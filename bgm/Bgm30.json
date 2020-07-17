@@ -4,7 +4,7 @@
     "filename": "5thSpotLightFlyAway",
     "mark": "Pantheon",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "Wizet",
       "title": "5th Spotlight Fly Away",
       "year": "2016"
@@ -22,7 +22,7 @@
     "filename": "fromUnderToUpper",
     "mark": "Leben",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "Takkyu Ishino\u0000Wizet",
       "title": "From Under to Upper",
       "year": "2012"
@@ -40,7 +40,7 @@
     "filename": "inAllVerity",
     "mark": "AquaRoad",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "Wizet",
       "title": "In All Verity",
       "year": "2012"
@@ -58,7 +58,7 @@
     "filename": "pulseResonance",
     "mark": "Leben",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "Takkyu Ishino",
       "title": "Pulse Resonance",
       "year": "2012"
@@ -76,7 +76,7 @@
     "filename": "thePhoto",
     "mark": "Leben",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "Wizet",
       "title": "The Photo",
       "year": "2012"
@@ -94,7 +94,7 @@
     "filename": "underside",
     "mark": "Leben",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "Wizet",
       "title": "Underside",
       "year": "2012"

@@ -4,7 +4,7 @@
     "filename": "china",
     "mark": "Event",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Mr. Lee World Tour: China",
       "year": "2014"
@@ -22,7 +22,7 @@
     "filename": "europe",
     "mark": "Event",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Mr. Lee World Tour: Europe",
       "year": "2014"
@@ -40,7 +40,7 @@
     "filename": "japan",
     "mark": "Event",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Mr. Lee World Tour: Japan",
       "year": "2014"
@@ -58,7 +58,7 @@
     "filename": "malaysia",
     "mark": "Event",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Mr. Lee World Tour: Malaysia",
       "year": "2014"
@@ -76,7 +76,7 @@
     "filename": "mrleeisland",
     "mark": "Event",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Mr. Lee Island",
       "year": "2014"
@@ -94,7 +94,7 @@
     "filename": "singapore",
     "mark": "Event",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Mr. Lee World Tour: Singapore",
       "year": "2014"
@@ -112,7 +112,7 @@
     "filename": "taiwan",
     "mark": "Event",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Mr. Lee World Tour: Taiwan",
       "year": "2014"
@@ -130,7 +130,7 @@
     "filename": "thailand",
     "mark": "Event",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Mr. Lee World Tour: Thailand",
       "year": "2014"

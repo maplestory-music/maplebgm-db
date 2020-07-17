@@ -4,7 +4,7 @@
     "filename": "DragonTigerDungeon",
     "mark": "CN_DragonTiger",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dragon Tiger Dungeon",
       "year": "2014"
@@ -22,7 +22,7 @@
     "filename": "DragonTigerField",
     "mark": "CN_DragonTiger",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dragon Tiger Field",
       "year": "2014"
@@ -40,7 +40,7 @@
     "filename": "DragonTigerField2",
     "mark": "CN_DragonTiger",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dragon Tiger Field 2",
       "year": "2015"
@@ -58,7 +58,7 @@
     "filename": "EnSchool",
     "mark": "Event",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "English School",
       "year": "2007"
@@ -76,7 +76,7 @@
     "filename": "GoShanghai",
     "mark": "ShangHai",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Go Shanghai",
       "year": "2006"
@@ -94,7 +94,7 @@
     "filename": "GoShanghai (Original)",
     "mark": "ShangHai",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Go Shanghai (Original)",
       "year": "2006"
@@ -112,7 +112,7 @@
     "filename": "newNanjinglu",
     "mark": "ShangHai",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "China: Nanjing Lu",
       "year": "2015"
@@ -130,7 +130,7 @@
     "filename": "newWaitan",
     "mark": "ShangHai",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "China: Shanghai Waitan",
       "year": "2015"
@@ -148,7 +148,7 @@
     "filename": "newYuyuan",
     "mark": "YuYuanCN",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "China: Yuyuan",
       "year": "2015"
@@ -166,7 +166,7 @@
     "filename": "PvP",
     "mark": "YuYuanCN",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "PvP",
       "year": "2006"
@@ -184,7 +184,7 @@
     "filename": "ShanghaiField",
     "mark": "ShangHai",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Shanghai Field",
       "year": "2006"
@@ -202,7 +202,7 @@
     "filename": "shaolinBoss",
     "mark": "shaolinsi",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "China: Shaolin Boss",
       "year": "2015"
@@ -220,7 +220,7 @@
     "filename": "shaolin_cangjingge",
     "mark": "shaolinsi",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Shaolin Cangjingge",
       "year": "2007"
@@ -238,7 +238,7 @@
     "filename": "shaolin_daxiongbaodian",
     "mark": "shaolin_songshan",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Shaolin Daxiongbaodian",
       "year": "2007"
@@ -256,7 +256,7 @@
     "filename": "shaolin_mishi",
     "mark": "shaolinsi",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Shaolin Mishi",
       "year": "2007"
@@ -274,7 +274,7 @@
     "filename": "shaolin_shan",
     "mark": "shaolin_songshan",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Shaolin Shan",
       "year": "2007"
@@ -292,7 +292,7 @@
     "filename": "shaolin_songshan",
     "mark": "shaolin_songshan",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Shaolin Songshan",
       "year": "2007"
@@ -310,7 +310,7 @@
     "filename": "summerboating01",
     "mark": "Kite_JP",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Summer Boating 1",
       "year": "2008"
@@ -328,7 +328,7 @@
     "filename": "summerboating02",
     "mark": "Kite_JP",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Summer Boating 2",
       "year": "2008"
@@ -346,7 +346,7 @@
     "filename": "summerboating03",
     "mark": "Kite_JP",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Summer Boating 3",
       "year": "2008"
@@ -364,7 +364,7 @@
     "filename": "Yuyuan",
     "mark": "YuYuanCN",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Yuyuan",
       "year": "2006"

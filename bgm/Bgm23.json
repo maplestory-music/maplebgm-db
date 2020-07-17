@@ -4,7 +4,7 @@
     "filename": "BlizzardCastle",
     "mark": "LionCastle",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Blizzard Castle",
       "year": "2010"
@@ -22,7 +22,7 @@
     "filename": "CrimsonTower",
     "mark": "LionCastle",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Crimson Tower",
       "year": "2010"
@@ -40,7 +40,7 @@
     "filename": "LionHeart",
     "mark": "VanLeon",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Lion Heart",
       "year": "2010"
@@ -58,7 +58,7 @@
     "filename": "MPBonusMap",
     "mark": "Carnival",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "MP Bonus Map",
       "year": "2012"

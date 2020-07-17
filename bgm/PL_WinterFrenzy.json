@@ -4,7 +4,7 @@
     "filename": "WinterFrenzy_Boss_All",
     "mark": "Event",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Frenzy Winter (Alternate)",
       "title-alt": "Winter Frenzy Boss (All)",
@@ -23,7 +23,7 @@
     "filename": "WinterFrenzy_Boss_Bgm",
     "mark": "Event",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Frenzy Winter",
       "title-alt": "Winter Frenzy Boss (BGM)",

@@ -21,7 +21,7 @@
       "metadata": {
         "type": "object",
         "properties": {
-          "album-artist": {
+          "albumArtist": {
             "type": "string"
           },
           "artist": {
@@ -39,7 +39,7 @@
             "type": "string"
           }
         },
-        "required": ["album-artist", "artist", "title", "year"]
+        "required": ["albumArtist", "artist", "title", "year"]
       },
       "source": {
         "type": "object",

@@ -4,7 +4,7 @@
     "filename": "Beachway",
     "mark": "Nautilus",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Beachway",
       "year": "2003"
@@ -22,7 +22,7 @@
     "filename": "BlueSky",
     "mark": "MushCatle",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Blue Sky",
       "year": "2003"
@@ -37,7 +37,7 @@
     "filename": "Elfwood",
     "mark": "Quest",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Elfwood",
       "year": "2003"
@@ -52,7 +52,7 @@
     "filename": "SnowyVillage",
     "mark": "ElNath",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Snowy Village",
       "year": "2004"
@@ -70,7 +70,7 @@
     "filename": "Subway",
     "mark": "KerningCity",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Subway",
       "year": "2003"

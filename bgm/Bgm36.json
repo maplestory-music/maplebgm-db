@@ -4,7 +4,7 @@
     "filename": "decision",
     "mark": "TimeTemple",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Decision",
       "year": "2013"
@@ -22,7 +22,7 @@
     "filename": "Dominion",
     "mark": "Ereb",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dominion",
       "year": "2014"
@@ -40,7 +40,7 @@
     "filename": "foxvillage",
     "mark": "foxvillage",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Fox Village",
       "year": "2013"
@@ -58,7 +58,7 @@
     "filename": "HappyTimeLong",
     "mark": "MinigameStation",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Happy Time",
       "year": "2013"
@@ -76,7 +76,7 @@
     "filename": "HappyTimeShort",
     "mark": "FreeMarket",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Happy Time (Short Version)",
       "year": "2013"
@@ -94,7 +94,7 @@
     "filename": "RoyalGuard",
     "mark": "FreeMarket",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Royal Guard",
       "year": "2013"
@@ -112,7 +112,7 @@
     "filename": "sadfoxvillage",
     "mark": "foxvillage",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Sad Fox Village",
       "year": "2013"

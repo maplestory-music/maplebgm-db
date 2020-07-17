@@ -4,7 +4,7 @@
     "filename": "AncientMove",
     "mark": "Dungeon",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Ancient Move",
       "year": "2003"
@@ -19,7 +19,7 @@
     "filename": "BadGuys",
     "mark": "KerningCity",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Bad Guys",
       "year": "2003"
@@ -34,7 +34,7 @@
     "filename": "CavaBien",
     "mark": "Henesys",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Cava Bien",
       "year": "2003"
@@ -49,7 +49,7 @@
     "filename": "HighlandStar",
     "mark": "Perion",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Highland Star",
       "year": "2003"
@@ -64,7 +64,7 @@
     "filename": "MoonlightShadow",
     "mark": "Ellinia",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Moonlight Shadow",
       "year": "2003"
@@ -79,7 +79,7 @@
     "filename": "WhereTheBarlogFrom",
     "mark": "Quest",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Where the Balrog From",
       "year": "2003"

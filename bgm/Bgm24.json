@@ -4,7 +4,7 @@
     "filename": "battleBGMTypeA",
     "mark": "BattleSquare",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Battle BGM Type A",
       "year": "2011"
@@ -22,7 +22,7 @@
     "filename": "battleBGMTypeB",
     "mark": "BattleSquare",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Battle BGM Type B",
       "year": "2011"
@@ -40,7 +40,7 @@
     "filename": "battleBGMTypeC",
     "mark": "BattleSquare",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Battle BGM Type C",
       "year": "2011"
@@ -58,7 +58,7 @@
     "filename": "battleBGMTypeD",
     "mark": "BattleSquare",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Battle BGM Type D",
       "year": "2011"
@@ -76,7 +76,7 @@
     "filename": "battleChipi",
     "mark": "BattleSquare",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Battle Chipi",
       "year": "2011"
@@ -94,7 +94,7 @@
     "filename": "battleEntrance",
     "mark": "BattleSquare",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Battle Entrance",
       "year": "2011"
@@ -112,7 +112,7 @@
     "filename": "KreaseAgit",
     "mark": "Krease",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Krease Agit",
       "year": "2010"
@@ -130,7 +130,7 @@
     "filename": "KreaseColosseum",
     "mark": "Krease",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Krease Colosseum",
       "year": "2010"
@@ -148,7 +148,7 @@
     "filename": "KreaseField",
     "mark": "Krease",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Krease Field",
       "year": "2010"
@@ -166,7 +166,7 @@
     "filename": "monsterPark",
     "mark": "Carnival",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Monster Park",
       "year": "2011"

@@ -4,7 +4,7 @@
     "filename": "Assumptio",
     "mark": "CrossHunter",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Assumptio",
       "year": "2015"
@@ -22,7 +22,7 @@
     "filename": "CorruptioSanguinis",
     "mark": "CrossHunter",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Corruptio Sanguinis",
       "year": "2015"
@@ -40,7 +40,7 @@
     "filename": "DarknessSoul",
     "mark": "CrossHunter",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Darkness Soul",
       "year": "2015"
@@ -58,7 +58,7 @@
     "filename": "Hieijan",
     "mark": "JP_Hieijan",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Hieijan",
       "year": "2014"
@@ -76,7 +76,7 @@
     "filename": "Hieijan_nohime",
     "mark": "JP_Nohime",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Hieijan No Hime",
       "year": "2014"
@@ -94,7 +94,7 @@
     "filename": "InsideHonnouji",
     "mark": "Honnouji",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Inside Honnouji",
       "year": "2012"
@@ -112,7 +112,7 @@
     "filename": "Kecon",
     "mark": "Wedding",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Kecon",
       "year": "2010"
@@ -130,7 +130,7 @@
     "filename": "LexDivina",
     "mark": "CrossHunter",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Lex Divina",
       "year": "2015"
@@ -148,7 +148,7 @@
     "filename": "MagnusSigillo",
     "mark": "CrossHunter",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Magnus Sigillo",
       "year": "2015"
@@ -166,7 +166,7 @@
     "filename": "Momijigaoka",
     "mark": "JP_Momijigaoka",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Momijigaoka",
       "year": "2012"
@@ -184,7 +184,7 @@
     "filename": "MomijiNoSakamichi",
     "mark": "JP_Momijigaoka",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Momiji No Sakamichi",
       "year": "2012"
@@ -202,7 +202,7 @@
     "filename": "SengokuBoss",
     "mark": "Honnouji",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Sengoku Boss",
       "year": "2012"
@@ -220,7 +220,7 @@
     "filename": "SignumCrucis",
     "mark": "CrossHunter",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Signum Crucis",
       "year": "2015"
@@ -238,7 +238,7 @@
     "filename": "TheCrossBrigade",
     "mark": "CrossHunter",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "The Cross Brigade",
       "year": "2015"

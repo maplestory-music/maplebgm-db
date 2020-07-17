@@ -4,7 +4,7 @@
     "filename": "Ariant",
     "mark": "Ariant",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Ariant",
       "year": "2007"
@@ -22,7 +22,7 @@
     "filename": "Burningroad",
     "mark": "Ariant",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Burning Road",
       "year": "2007"
@@ -40,7 +40,7 @@
     "filename": "CaveOfHontale",
     "mark": "Leafre",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Cave of Horntail",
       "year": "2006"
@@ -58,7 +58,7 @@
     "filename": "DragonLoad",
     "mark": "Leafre",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dragon Load",
       "year": "2006"
@@ -76,7 +76,7 @@
     "filename": "DragonNest",
     "mark": "Leafre",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dragon's Nest",
       "year": "2006"
@@ -94,7 +94,7 @@
     "filename": "DragonRider",
     "mark": "Dragonrider",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dragon Rider",
       "year": "2009"
@@ -112,7 +112,7 @@
     "filename": "HonTale",
     "mark": "Hontale",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Horntail",
       "year": "2006"
@@ -130,7 +130,7 @@
     "filename": "HotDesert",
     "mark": "Ariant",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Hot Desert",
       "year": "2007"

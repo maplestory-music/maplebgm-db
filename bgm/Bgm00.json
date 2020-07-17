@@ -4,7 +4,7 @@
     "filename": "DragonDream",
     "mark": "DragonDream",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Dragon Dream",
       "year": "2009"
@@ -22,7 +22,7 @@
     "filename": "FloralLife",
     "mark": "Henesys",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Floral Life",
       "year": "2003"
@@ -37,7 +37,7 @@
     "filename": "GoPicnic",
     "mark": "Henesys",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Go Picnic",
       "year": "2003"
@@ -52,7 +52,7 @@
     "filename": "Nightmare",
     "mark": "Perion",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Nightmare",
       "year": "2003"
@@ -67,7 +67,7 @@
     "filename": "RestNPeace",
     "mark": "Henesys",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "CODASOUND",
       "title": "Rest 'N Peace",
       "year": "2003"
@@ -82,7 +82,7 @@
     "filename": "SleepyWood",
     "mark": "Dungeon",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Sleepywood",
       "year": "2003"

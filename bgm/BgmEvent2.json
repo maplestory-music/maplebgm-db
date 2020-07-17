@@ -4,7 +4,7 @@
     "filename": "adventureIsland",
     "mark": "adventureIsland",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Adventure Island",
       "year": "2019"
@@ -22,7 +22,7 @@
     "filename": "clubHalloween",
     "mark": "event_clubHalloween",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Club Halloween",
       "year": "2018"
@@ -40,7 +40,7 @@
     "filename": "glory_Base",
     "mark": "aliance",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Glory Base",
       "year": "2019"
@@ -58,7 +58,7 @@
     "filename": "goblinMarket",
     "mark": "goblinMarket",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Goblin Market",
       "year": "2019"
@@ -76,7 +76,7 @@
     "filename": "kiteBgm",
     "mark": "Kite",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Kite",
       "year": "2013"
@@ -94,7 +94,7 @@
     "filename": "miniGameStation",
     "mark": "MinigameStation",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Mini Game Station",
       "year": "2013"
@@ -112,7 +112,7 @@
     "filename": "Newtro_ChuChu",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Expedition to Chew Chew Island -Newtro ver.-",
       "year": "2019"
@@ -130,7 +130,7 @@
     "filename": "Newtro_Disco",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Newtro Disco",
       "year": "2019"
@@ -148,7 +148,7 @@
     "filename": "Newtro_FlorinaBeach",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Beachway -Newtro ver.-",
       "year": "2019"
@@ -166,7 +166,7 @@
     "filename": "Newtro_Henesys",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Floral Life -Newtro ver.-",
       "year": "2019"
@@ -184,7 +184,7 @@
     "filename": "Newtro_Kingdom",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Newtro Kingdom",
       "year": "2019"
@@ -202,7 +202,7 @@
     "filename": "Newtro_Login",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Start the Adventure -Newtro ver.-",
       "year": "2019"
@@ -220,7 +220,7 @@
     "filename": "Newtro_Ludibrium",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Fantastic Thinking -Newtro ver.-",
       "year": "2019"
@@ -238,7 +238,7 @@
     "filename": "Newtro_Orbis",
     "mark": "16thEvent",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Arab Pirate -Newtro ver.-",
       "year": "2019"
@@ -256,7 +256,7 @@
     "filename": "rhythmBgm1",
     "mark": "mRhythm",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Rhythm",
       "year": "2013"
@@ -274,7 +274,7 @@
     "filename": "rhythmBgm2",
     "mark": "mRhythm",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Rhythm 2",
       "year": "2013"
@@ -292,7 +292,7 @@
     "filename": "risingStar",
     "mark": "MinigameStation",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Rising Star",
       "year": "2011"
@@ -310,7 +310,7 @@
     "filename": "risingStar2",
     "mark": "MinigameStation",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Rising Star 2",
       "year": "2011"
@@ -328,7 +328,7 @@
     "filename": "santaBeats",
     "mark": "mRhythm",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Santa Beats",
       "year": "2013"
@@ -346,7 +346,7 @@
     "filename": "santaRocks",
     "mark": "mRhythm",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "Santa Rocks",
       "year": "2013"
@@ -364,7 +364,7 @@
     "filename": "tenthBoard",
     "mark": "12th",
     "metadata": {
-      "album-artist": "Wizet",
+      "albumArtist": "Wizet",
       "artist": "StudioEIM",
       "title": "10th Anniversary Board",
       "year": "2013"
@@ -382,7 +382,7 @@
     "filename": "VEvent",
     "mark": "3015804",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "DJ Searcher",
       "title": "V Event",
       "year": "2016"
@@ -400,7 +400,7 @@
     "filename": "WaterGunGame",
     "mark": "WaterGun",
     "metadata": {
-      "album-artist": "NECORD",
+      "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Outlaw of the Lonely Island",
       "title-alt": "Water Gun Game",
