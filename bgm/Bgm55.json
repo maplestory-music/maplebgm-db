@@ -1,0 +1,56 @@
+[
+  {
+    "description": "Grand Athenaeum: Episode 6 cutscene",
+    "filename": "MyPrinceMyKingdom",
+    "mark": "Library",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "My Prince, My Kingdom",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-07-16",
+      "structure": "Bgm55",
+      "version": "1.2.105"
+    },
+    "youtube": "-XkJ2duNLOg"
+  },
+  {
+    "description": "Grand Athenaeum: Episode 6",
+    "filename": "TheKnightOfSharenian",
+    "mark": "Library",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Knight of Sharenian",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-07-16",
+      "structure": "Bgm55",
+      "version": "1.2.105"
+    },
+    "youtube": "otFwc8jP8Dk"
+  },
+  {
+    "description": "Grand Athenaeum: Episode 6",
+    "filename": "WhiteNight",
+    "mark": "Library",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "White Night",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-07-16",
+      "structure": "Bgm55",
+      "version": "1.2.105"
+    },
+    "youtube": "7mxQ0D88tvs"
+  }
+]
