@@ -12,7 +12,7 @@ Use Yarn to install development dependencies for this project.
 
 ## Development and Usage
 
-The database is stored in `bgm.json`, tests are specified in `bgm.test.js`, and schema defined in `schema.json`. Changes to `bgm.json` should pass the specified test cases and validate against the JSON schema.
+The database is stored in `./bgm`, tests are specified in `bgm.test.js`, and schema defined in `schema.json`. Changes to the database partitions should pass the specified test cases and validate against the JSON schema.
 
 Tests can be run through Jest.
 
