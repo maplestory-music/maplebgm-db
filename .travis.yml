@@ -1,14 +1,16 @@
 language: node_js
 node_js:
-  - '10'
+  - lts/*
 sudo: false
 before_install:
   - sudo apt-get update
-  - sudo apt-get install -y jq
 cache:
   yarn: true
   directories:
     - node_modules
+branches:
+  except:
+    - prod
 script:
   - yarn test
 after_success:

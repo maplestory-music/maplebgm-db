@@ -9,7 +9,7 @@ git_commit() {
     git checkout --orphan prod
     timestamp=$(date "+%b %d %Y")
     git add bgm.min.json
-    git commit -m "Travis CI update: $timestamp (Build $TRAVIS_BUILD_NUMBER)" -m "[skip ci]"
+    git commit -m "Travis CI update: $timestamp (Build $TRAVIS_BUILD_NUMBER)"
 }
 
 git_push() {
