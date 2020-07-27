@@ -181,6 +181,24 @@
     "youtube": "N9Mf6AjKey4"
   },
   {
+    "description": "Maple Explorer event",
+    "filename": "MapleExplorer",
+    "mark": "MExplorer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Maple Explorer",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-07-21",
+      "structure": "BgmWz2",
+      "version": "1.62"
+    },
+    "youtube": "EV9D9CIe44k"
+  },
+  {
     "description": "My Home system content - room decoration",
     "filename": "myHome_room",
     "mark": "myHome",
@@ -236,5 +254,59 @@
       "version": "1.52"
     },
     "youtube": "fsQ6o8IVfXY"
+  },
+  {
+    "description": "Maple Explorer event",
+    "filename": "UnchartedIsland_Day",
+    "mark": "MExplorerIsland",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Uncharted Island -Day-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-07-21",
+      "structure": "BgmWz2",
+      "version": "1.62"
+    },
+    "youtube": "fgnfYD84u0Q"
+  },
+  {
+    "description": "Maple Explorer event",
+    "filename": "UnchartedIsland_Night",
+    "mark": "MExplorerIsland",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Uncharted Island -Night-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-07-21",
+      "structure": "BgmWz2",
+      "version": "1.62"
+    },
+    "youtube": "PDxQ-hHhww4"
+  },
+  {
+    "description": "Maple Explorer event",
+    "filename": "UnchartedIsland_Raid",
+    "mark": "MExplorerIsland",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Uncharted Island -Raid-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-07-21",
+      "structure": "BgmWz2",
+      "version": "1.62"
+    },
+    "youtube": "ubdQ9SgRY80"
   }
 ]
