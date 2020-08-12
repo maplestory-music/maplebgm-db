@@ -378,6 +378,24 @@
     "youtube": "3yvTD3d9OLQ"
   },
   {
+    "description": "Union Arena",
+    "filename": "unionArena",
+    "mark": "BattlePvP",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Union Arena",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-08-11",
+      "structure": "BgmEvent2",
+      "version": "1.2.107"
+    },
+    "youtube": "LOQ7HeMndvo"
+  },
+  {
     "description": "DJ booth chair effect",
     "filename": "VEvent",
     "mark": "3015804",

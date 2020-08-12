@@ -1,5 +1,23 @@
 [
   {
+    "description": "Sellas",
+    "filename": "GoodbyeMyFriends",
+    "mark": "Sellas",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Goodbye, My Friends",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-08-11",
+      "structure": "Bgm55",
+      "version": "1.2.107"
+    },
+    "youtube": "s0n-cvX87o4"
+  },
+  {
     "description": "Grand Athenaeum: Episode 6 cutscene",
     "filename": "MyPrinceMyKingdom",
     "mark": "Library",
@@ -18,6 +36,24 @@
     "youtube": "-XkJ2duNLOg"
   },
   {
+    "description": "Sellas: Sinking Deep Sea",
+    "filename": "SinkingThings",
+    "mark": "Sellas",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Sinking Things",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-08-11",
+      "structure": "Bgm55",
+      "version": "1.2.107"
+    },
+    "youtube": "qeOWrkvyJaM"
+  },
+  {
     "description": "Grand Athenaeum: Episode 6",
     "filename": "TheKnightOfSharenian",
     "mark": "Library",
@@ -34,6 +70,42 @@
       "version": "1.2.105"
     },
     "youtube": "otFwc8jP8Dk"
+  },
+  {
+    "description": "Sellas: Star Swallowed Deep Sea",
+    "filename": "WhaleBelly",
+    "mark": "Sellas",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Whale Belly",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-08-11",
+      "structure": "Bgm55",
+      "version": "1.2.107"
+    },
+    "youtube": "sldMc60a1Ns"
+  },
+  {
+    "description": "Sellas: Where the Light Lasts",
+    "filename": "WhereStarsRest",
+    "mark": "Sellas",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Where Stars Rest",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-08-11",
+      "structure": "Bgm55",
+      "version": "1.2.107"
+    },
+    "youtube": "9VtoysqhzVk"
   },
   {
     "description": "Grand Athenaeum: Episode 6",
