@@ -1,6 +1,6 @@
 [
   {
-    "description": "Sellas",
+    "description": "Sellas storyline",
     "filename": "GoodbyeMyFriends",
     "mark": "Sellas",
     "metadata": {
@@ -16,6 +16,24 @@
       "version": "1.2.107"
     },
     "youtube": "s0n-cvX87o4"
+  },
+  {
+    "description": "Jazz for Dr. Lim (Radio Version)",
+    "filename": "JazzForDrLimRadio",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Jazz for Dr. Lim -Radio ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2020-08-20",
+      "structure": "Bgm55",
+      "version": "1.2.337"
+    },
+    "youtube": "f8absQczPlQ"
   },
   {
     "description": "Grand Athenaeum: Episode 6 cutscene",
@@ -97,6 +115,24 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Where Stars Rest",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2020-08-20",
+      "structure": "Bgm55",
+      "version": "1.2.337"
+    },
+    "youtube": "c8vFuvYtPZI"
+  },
+  {
+    "description": "Sellas: Where the Light Lasts",
+    "filename": "WhereStarsRest (Original)",
+    "mark": "Sellas",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Where Stars Rest (Original)",
       "year": "2020"
     },
     "source": {

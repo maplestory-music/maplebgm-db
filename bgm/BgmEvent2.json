@@ -380,7 +380,7 @@
   {
     "description": "Union Arena",
     "filename": "unionArena",
-    "mark": "BattlePvP",
+    "mark": "autoPvP",
     "metadata": {
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
@@ -394,6 +394,24 @@
       "version": "1.2.107"
     },
     "youtube": "LOQ7HeMndvo"
+  },
+  {
+    "description": "Union Arena",
+    "filename": "unionArena2",
+    "mark": "autoPvP",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Union Arena 2",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2020-08-20",
+      "structure": "BgmEvent2",
+      "version": "1.2.337"
+    },
+    "youtube": "D5f8O1NTSGc"
   },
   {
     "description": "DJ booth chair effect",
