@@ -28,7 +28,10 @@
       "year": "2003"
     },
     "source": {
-      "structure": "Bgm03"
+      "client": "KMS",
+      "date": "2004-02-09",
+      "structure": "Bgm03",
+      "version": "1.55"
     },
     "youtube": "ClLLtA3naSo"
   },
@@ -43,7 +46,10 @@
       "year": "2003"
     },
     "source": {
-      "structure": "Bgm03"
+      "client": "KMS",
+      "date": "2004-02-09",
+      "structure": "Bgm03",
+      "version": "1.55"
     },
     "youtube": "uBUfQcIhim0"
   },

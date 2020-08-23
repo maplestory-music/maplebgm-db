@@ -28,7 +28,10 @@
       "year": "2003"
     },
     "source": {
-      "structure": "Bgm04"
+      "client": "KMS",
+      "date": "2004-02-09",
+      "structure": "Bgm04",
+      "version": "1.55"
     },
     "youtube": "3Wwk2CDkV44"
   },

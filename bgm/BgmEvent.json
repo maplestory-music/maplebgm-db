@@ -118,7 +118,10 @@
       "year": "2003"
     },
     "source": {
-      "structure": "BgmEvent"
+      "client": "KMS",
+      "date": "2004-02-09",
+      "structure": "BgmEvent",
+      "version": "1.55"
     },
     "youtube": "rfM5oalkRDI"
   },
@@ -133,7 +136,10 @@
       "year": "2003"
     },
     "source": {
-      "structure": "BgmEvent"
+      "client": "KMS",
+      "date": "2004-02-09",
+      "structure": "BgmEvent",
+      "version": "1.55"
     },
     "youtube": "43UmtCfYn54"
   },

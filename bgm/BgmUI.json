@@ -43,7 +43,10 @@
       "year": "2003"
     },
     "source": {
-      "structure": "BgmUI"
+      "client": "KMS",
+      "date": "2003-06-03",
+      "structure": "BgmUI",
+      "version": "1.22"
     },
     "youtube": "xgQdq4awens"
   },
@@ -91,7 +94,10 @@
       "year": "2003"
     },
     "source": {
-      "structure": "BgmUI"
+      "client": "KMS",
+      "date": "2003-10-16",
+      "structure": "BgmUI",
+      "version": "1.44"
     },
     "youtube": "BVSPMg-GWDc"
   },
@@ -269,7 +275,10 @@
       "year": "2003"
     },
     "source": {
-      "structure": "BgmUI"
+      "client": "KMS",
+      "date": "2003-06-03",
+      "structure": "BgmUI",
+      "version": "1.22"
     },
     "youtube": "jUkjEGFwN1A"
   },
@@ -284,7 +293,10 @@
       "year": "2003"
     },
     "source": {
-      "structure": "BgmUI"
+      "client": "KMS",
+      "date": "2003-06-03",
+      "structure": "BgmUI",
+      "version": "1.22"
     },
     "youtube": "gP_nqrfimxU"
   }
