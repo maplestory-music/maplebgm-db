@@ -234,9 +234,9 @@
     "youtube": "1nj0TXt_23c"
   },
   {
-    "description": "No apparent use (JapanMS)",
+    "description": "2007 Funky Monkey Babys collaboration",
     "filename": "MorningShot",
-    "mark": "Quest",
+    "mark": "Event",
     "metadata": {
       "albumArtist": "Wizet",
       "artist": "StudioEIM",
@@ -244,7 +244,10 @@
       "year": "2007"
     },
     "source": {
-      "structure": "BgmJp"
+      "client": "JMS",
+      "date": "2007-12-20",
+      "structure": "BgmJp",
+      "version": "1.37"
     },
     "youtube": "He-cxSXHS8A"
   },
