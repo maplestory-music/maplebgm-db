@@ -10,7 +10,10 @@
       "year": "2009"
     },
     "source": {
-      "structure": "BgmBR"
+      "client": "BMS",
+      "date": "2009-12-02",
+      "structure": "BgmBR",
+      "version": "0.19"
     },
     "youtube": "Toxr3wrvQm8"
   },
@@ -25,7 +28,10 @@
       "year": "2009"
     },
     "source": {
-      "structure": "BgmBR"
+      "client": "BMS",
+      "date": "2009-12-02",
+      "structure": "BgmBR",
+      "version": "0.19"
     },
     "youtube": "fFPEeCpJ1I4"
   },
@@ -40,7 +46,10 @@
       "year": "2009"
     },
     "source": {
-      "structure": "BgmBR"
+      "client": "BMS",
+      "date": "2009-12-02",
+      "structure": "BgmBR",
+      "version": "0.19"
     },
     "youtube": "3fm6C-FyoRQ"
   }
