@@ -61,7 +61,10 @@
       "year": "2009"
     },
     "source": {
-      "structure": "BgmUI"
+      "client": "GMS",
+      "date": "2009-08-26",
+      "structure": "BgmUI",
+      "version": "0.75"
     },
     "youtube": "IUnEmjvparM"
   },
