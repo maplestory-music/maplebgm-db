@@ -28,7 +28,10 @@
       "year": "2005"
     },
     "source": {
-      "structure": "BgmUI"
+      "client": "MSEA",
+      "date": "2009-07-15",
+      "structure": "BgmUI",
+      "version": "0.77"
     },
     "youtube": "2WWEkxSNljM"
   },
