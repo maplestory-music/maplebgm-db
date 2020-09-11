@@ -108,6 +108,24 @@
     "youtube": "FbxAXcvyHns"
   },
   {
+    "description": "Ellinel Full Moon Party event",
+    "filename": "fullMoonParty",
+    "mark": "FullMoonParty",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Full Moon Party",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-09-10",
+      "structure": "BgmEvent",
+      "version": "1.2.108"
+    },
+    "youtube": "4t4CxHRxaeY"
+  },
+  {
     "description": "Generic event background music",
     "filename": "FunnyRabbit",
     "mark": "MinigameStation",
