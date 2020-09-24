@@ -2,7 +2,7 @@
   {
     "description": "Maple Music Festival - Ariant stage",
     "filename": "MMF_ariant",
-    "mark": "Event",
+    "mark": "3015605",
     "metadata": {
       "albumArtist": "NECORD",
       "artist": "DJ Searcher",
@@ -20,7 +20,7 @@
   {
     "description": "Maple Music Festival - Kerning City stage",
     "filename": "MMF_badGuys",
-    "mark": "Event",
+    "mark": "3015606",
     "metadata": {
       "albumArtist": "NECORD",
       "artist": "DJ Searcher",
@@ -38,7 +38,7 @@
   {
     "description": "Maple Music Festival - Sleepywood stage",
     "filename": "MMF_kinesis",
-    "mark": "Event",
+    "mark": "3015608",
     "metadata": {
       "albumArtist": "NECORD",
       "artist": "DJ Searcher",
@@ -56,7 +56,7 @@
   {
     "description": "Maple Music Festival - Henesys stage",
     "filename": "MMF_mapleIsland",
-    "mark": "Event",
+    "mark": "3015604",
     "metadata": {
       "albumArtist": "NECORD",
       "artist": "DJ Searcher",
@@ -74,7 +74,7 @@
   {
     "description": "Maple Music Festival - Temple of Time stage",
     "filename": "MMF_timeTemple",
-    "mark": "Event",
+    "mark": "3015607",
     "metadata": {
       "albumArtist": "NECORD",
       "artist": "DJ Searcher",
