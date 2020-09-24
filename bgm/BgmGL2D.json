@@ -2,7 +2,7 @@
   {
     "description": "Mr. Lee World Tour: China",
     "filename": "china",
-    "mark": "Event",
+    "mark": "worldTour",
     "metadata": {
       "albumArtist": "Wizet",
       "artist": "StudioEIM",
@@ -20,7 +20,7 @@
   {
     "description": "Mr. Lee World Tour: Europe",
     "filename": "europe",
-    "mark": "Event",
+    "mark": "worldTour",
     "metadata": {
       "albumArtist": "Wizet",
       "artist": "StudioEIM",
@@ -38,7 +38,7 @@
   {
     "description": "Mr. Lee World Tour: Japan",
     "filename": "japan",
-    "mark": "Event",
+    "mark": "worldTour",
     "metadata": {
       "albumArtist": "Wizet",
       "artist": "StudioEIM",
@@ -56,7 +56,7 @@
   {
     "description": "Mr. Lee World Tour: Malaysia",
     "filename": "malaysia",
-    "mark": "Event",
+    "mark": "worldTour",
     "metadata": {
       "albumArtist": "Wizet",
       "artist": "StudioEIM",
@@ -74,7 +74,7 @@
   {
     "description": "Mr. Lee World Tour: Island 7",
     "filename": "mrleeisland",
-    "mark": "Event",
+    "mark": "worldTour",
     "metadata": {
       "albumArtist": "Wizet",
       "artist": "StudioEIM",
@@ -92,7 +92,7 @@
   {
     "description": "Mr. Lee World Tour: Singapore",
     "filename": "singapore",
-    "mark": "Event",
+    "mark": "worldTour",
     "metadata": {
       "albumArtist": "Wizet",
       "artist": "StudioEIM",
@@ -110,7 +110,7 @@
   {
     "description": "Mr. Lee World Tour: Taiwan",
     "filename": "taiwan",
-    "mark": "Event",
+    "mark": "worldTour",
     "metadata": {
       "albumArtist": "Wizet",
       "artist": "StudioEIM",
@@ -128,7 +128,7 @@
   {
     "description": "Mr. Lee World Tour: Thailand",
     "filename": "thailand",
-    "mark": "Event",
+    "mark": "worldTour",
     "metadata": {
       "albumArtist": "Wizet",
       "artist": "StudioEIM",
