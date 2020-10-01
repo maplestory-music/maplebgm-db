@@ -181,6 +181,24 @@
     "youtube": "N9Mf6AjKey4"
   },
   {
+    "description": "Henesys Night Circus event",
+    "filename": "FlowerPig_DreamRider",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Flower Pig Dream Rider",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-09-30",
+      "structure": "BgmWz2",
+      "version": "1.64"
+    },
+    "youtube": "vPqBD7zhxQM"
+  },
+  {
     "description": "Maple Explorer event",
     "filename": "MapleExplorer",
     "mark": "MExplorer",
@@ -254,6 +272,24 @@
       "version": "1.52"
     },
     "youtube": "fsQ6o8IVfXY"
+  },
+  {
+    "description": "Henesys Night Circus event",
+    "filename": "NightFestival_In_Henesys",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Night Festival in Henesys",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-09-30",
+      "structure": "BgmWz2",
+      "version": "1.64"
+    },
+    "youtube": "IY_MJz4FVOI"
   },
   {
     "description": "Maple Explorer event",
