@@ -2,6 +2,36 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2020.4 - 2020-10-14
+
+### Added
+
+- New music from Q3 2020
+- New icon for Hatsune Miku, Mr. Lee World Tour and Maple Music Festival tracks
+- Update metadata for Korea, Brazil, Japan, Global and SEA tracks
+- \[Test\] Ensure unique link identifiers in database
+
+### Changed
+
+- Split database into partitions
+- Rename 'album-artist' property to 'albumArtist'
+
+### Fixed
+
+- Fix metadata and links for several songs
+
+### New Additions
+
+| Date       | Source       | Description                |
+| ---------- | ------------ | -------------------------- |
+| 2020-07-16 | KMST 1.2.105 | Grand Athenaeum, Episode 6 |
+| 2020-07-21 | CMST 1.62    | Maple Explorer             |
+| 2020-08-11 | KMST 1.2.107 | Sellas & Union Arena       |
+| 2020-08-19 | JMS 3.89     | Sengoku III                |
+| 2020-08-20 | KMS 1.2.337  | Sellas & Union Arena       |
+| 2020-09-10 | KMST 1.2.108 | Full Moon Party            |
+| 2020-09-30 | CMST 1.64    | Henesys Night Circus       |
+
 ## 2020.3 - 2020-07-02
 
 ### Added
@@ -100,13 +130,13 @@ All notable changes to this project will be documented in this file.
 
 - New music from Q1 2019
 - Links for 'Retro World', 'Lunar New Year' and Superstar Pink Bean Chair
+- Sync song descriptions to GlobalMS localization
 - Set up automated minification deployment
+- \[Test\] Ensure unique filenames in database
 
 ### Changed
 
-- Sync song descriptions to GlobalMS localization
 - Rename 'subtitle' property to 'title-alt'
-- Ensure unique filenames in database
 
 ### Fixed
 
@@ -138,6 +168,7 @@ All notable changes to this project will be documented in this file.
 - Links for 'Tenebris', Hatsune Miku collaboration
 - Update remaining missing song information
 - Set up testing framework
+- \[Test\] Ensure database is sorted by filename
 
 ### Changed
 
