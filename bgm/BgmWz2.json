@@ -199,6 +199,96 @@
     "youtube": "vPqBD7zhxQM"
   },
   {
+    "description": "Jazz of Maple",
+    "filename": "JazzOfMaple_Ariant",
+    "mark": "Ariant",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ariant -Jazz ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-11-10",
+      "structure": "BgmWz2",
+      "version": "1.65"
+    },
+    "youtube": "HvklAUY_JIQ"
+  },
+  {
+    "description": "Jazz of Maple",
+    "filename": "JazzOfMaple_Cygnus",
+    "mark": "Signus",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Cygnus Garden -Jazz ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-11-10",
+      "structure": "BgmWz2",
+      "version": "1.65"
+    },
+    "youtube": "IrW3dV1VDFw"
+  },
+  {
+    "description": "Jazz of Maple",
+    "filename": "JazzOfMaple_Login",
+    "mark": "TestServer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Login -Jazz ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-11-10",
+      "structure": "BgmWz2",
+      "version": "1.65"
+    },
+    "youtube": "RcmDpwxm2vo"
+  },
+  {
+    "description": "Jazz of Maple",
+    "filename": "JazzOfMaple_Raindrop",
+    "mark": "Ereb",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Raindrop Flower -Jazz ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-11-10",
+      "structure": "BgmWz2",
+      "version": "1.65"
+    },
+    "youtube": "8E6RxMAGDWo"
+  },
+  {
+    "description": "Jazz of Maple",
+    "filename": "JazzOfMaple_Rudibrium",
+    "mark": "Ludibrium",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fantastic Thinking -Jazz ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-11-10",
+      "structure": "BgmWz2",
+      "version": "1.65"
+    },
+    "youtube": "ZTwasFGhNuI"
+  },
+  {
     "description": "Maple Explorer event",
     "filename": "MapleExplorer",
     "mark": "MExplorer",
@@ -215,6 +305,62 @@
       "version": "1.62"
     },
     "youtube": "EV9D9CIe44k"
+  },
+  {
+    "description": "My Home system content - Christmas event",
+    "filename": "MyHomeJazz_Elnath",
+    "mark": "myHome",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "El Nath -Jazz ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-11-10",
+      "structure": "BgmWz2",
+      "version": "1.65"
+    },
+    "youtube": "R7t3G_kuR40"
+  },
+  {
+    "description": "My Home system content - room decoration (Christmas)",
+    "filename": "MyHomeJazz_Home",
+    "mark": "myHome",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Sweet Rest -Jazz ver.-",
+      "titleAlt": "My Home: Home -Jazz ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-11-10",
+      "structure": "BgmWz2",
+      "version": "1.65"
+    },
+    "youtube": "s1cyTiAsl3w"
+  },
+  {
+    "description": "My Home system content - Kelanza Square (Christmas)",
+    "filename": "MyHomeJazz_Village",
+    "mark": "myHome",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Brand New Morning in the Plaza -Jazz ver.-",
+      "titleAlt": "My Home: Village -Jazz ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-11-10",
+      "structure": "BgmWz2",
+      "version": "1.65"
+    },
+    "youtube": "eeYt-f3EhN4"
   },
   {
     "description": "My Home system content - room decoration",
