@@ -25,7 +25,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Off the Beaten Path -upbeat-",
-      "title-alt": "Eluna",
+      "titleAlt": "Eluna",
       "year": "2017"
     },
     "source": {
@@ -98,7 +98,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Western Gunman",
-      "title-alt": "Gunman",
+      "titleAlt": "Gunman",
       "year": "2018"
     },
     "source": {
@@ -135,7 +135,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Greetings of the Death Angel",
-      "title-alt": "Hidden Tales: Mystery",
+      "titleAlt": "Hidden Tales: Mystery",
       "year": "2016"
     },
     "source": {
@@ -154,7 +154,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Frozen Heart",
-      "title-alt": "Hidden Tales: Sorrow",
+      "titleAlt": "Hidden Tales: Sorrow",
       "year": "2016"
     },
     "source": {
@@ -173,7 +173,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Shadow of Chaos",
-      "title-alt": "Hidden Tales: Tension",
+      "titleAlt": "Hidden Tales: Tension",
       "year": "2016"
     },
     "source": {
@@ -192,7 +192,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Can You Read My Thoughts?",
-      "title-alt": "Land of Contemplation ~day~",
+      "titleAlt": "Land of Contemplation ~day~",
       "year": "2016"
     },
     "source": {
@@ -211,7 +211,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Can You Read My Thoughts? -night-",
-      "title-alt": "Land of Contemplation ~night~",
+      "titleAlt": "Land of Contemplation ~night~",
       "year": "2016"
     },
     "source": {
@@ -230,7 +230,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Dancing Weathercock",
-      "title-alt": "Land of Innocence ~day~",
+      "titleAlt": "Land of Innocence ~day~",
       "year": "2016"
     },
     "source": {
@@ -249,7 +249,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Dancing Weathercock -night-",
-      "title-alt": "Land of Innocence ~night~",
+      "titleAlt": "Land of Innocence ~night~",
       "year": "2016"
     },
     "source": {
@@ -268,7 +268,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Dancing Weathercock -night- (Alternate)",
-      "title-alt": "Land of Innocence ~night~ (Alternate)",
+      "titleAlt": "Land of Innocence ~night~ (Alternate)",
       "year": "2016"
     },
     "source": {
@@ -287,7 +287,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The World of Paradox",
-      "title-alt": "Land of Riches ~day~",
+      "titleAlt": "Land of Riches ~day~",
       "year": "2016"
     },
     "source": {
@@ -306,7 +306,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The World of Paradox -night-",
-      "title-alt": "Land of Riches ~night~",
+      "titleAlt": "Land of Riches ~night~",
       "year": "2016"
     },
     "source": {
@@ -325,7 +325,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The World of Paradox -night- (Alternate)",
-      "title-alt": "Land of Riches ~night~ (Alternate)",
+      "titleAlt": "Land of Riches ~night~ (Alternate)",
       "year": "2016"
     },
     "source": {
@@ -344,7 +344,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Bottoms Up!",
-      "title-alt": "Land of Warriors ~day~",
+      "titleAlt": "Land of Warriors ~day~",
       "year": "2016"
     },
     "source": {
@@ -363,7 +363,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Bottoms Up! -night-",
-      "title-alt": "Land of Warriors ~night~",
+      "titleAlt": "Land of Warriors ~night~",
       "year": "2016"
     },
     "source": {
@@ -382,7 +382,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Stellar Detectives",
-      "title-alt": "Maple Detective: Acorn Detective AR",
+      "titleAlt": "Maple Detective: Acorn Detective AR",
       "year": "2016"
     },
     "source": {
@@ -401,7 +401,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Stellar Detectives -instrumental-",
-      "title-alt": "Maple Detective: Acorn Detective MR",
+      "titleAlt": "Maple Detective: Acorn Detective MR",
       "year": "2016"
     },
     "source": {
@@ -420,7 +420,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Mission: Invasion",
-      "title-alt": "Maple Detective: Invade Operation",
+      "titleAlt": "Maple Detective: Invade Operation",
       "year": "2016"
     },
     "source": {
@@ -439,7 +439,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Final Stage",
-      "title-alt": "Retro World Boss",
+      "titleAlt": "Retro World Boss",
       "year": "2018"
     },
     "source": {
@@ -458,7 +458,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Action Trap",
-      "title-alt": "Retro World Dungeon",
+      "titleAlt": "Retro World Dungeon",
       "year": "2018"
     },
     "source": {
@@ -477,7 +477,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Watch Out!",
-      "title-alt": "Retro World Minigame",
+      "titleAlt": "Retro World Minigame",
       "year": "2018"
     },
     "source": {
@@ -496,7 +496,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Ordinary Day",
-      "title-alt": "Retro World Town",
+      "titleAlt": "Retro World Town",
       "year": "2018"
     },
     "source": {
@@ -515,7 +515,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Song of Naty",
-      "title-alt": "Song of the Nati",
+      "titleAlt": "Song of the Nati",
       "year": "2017"
     },
     "source": {
@@ -534,7 +534,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Weight of the Soul",
-      "title-alt": "Spiritual Weight",
+      "titleAlt": "Spiritual Weight",
       "year": "2017"
     },
     "source": {
@@ -553,7 +553,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Off the Beaten Path",
-      "title-alt": "Unexplored Eluna",
+      "titleAlt": "Unexplored Eluna",
       "year": "2017"
     },
     "source": {
@@ -572,7 +572,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Pioneer Headquarters",
-      "title-alt": "We Are the Pioneers",
+      "titleAlt": "We Are the Pioneers",
       "year": "2017"
     },
     "source": {
@@ -591,7 +591,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Melting Snow",
-      "title-alt": "Winter Castle",
+      "titleAlt": "Winter Castle",
       "year": "2017"
     },
     "source": {
@@ -610,7 +610,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Downhill Ride",
-      "title-alt": "Winter Castle -Downhill-",
+      "titleAlt": "Winter Castle -Downhill-",
       "year": "2017"
     },
     "source": {

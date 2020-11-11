@@ -7,7 +7,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Unforgettable Gun",
-      "title-alt": "Battle",
+      "titleAlt": "Battle",
       "year": "2018"
     },
     "source": {
@@ -26,7 +26,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Escape",
-      "title-alt": "Captain Vaga",
+      "titleAlt": "Captain Vaga",
       "year": "2018"
     },
     "source": {
@@ -45,7 +45,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Tomorrow",
-      "title-alt": "Into the Stars",
+      "titleAlt": "Into the Stars",
       "year": "2018"
     },
     "source": {

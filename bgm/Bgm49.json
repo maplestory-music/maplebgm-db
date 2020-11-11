@@ -7,7 +7,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Bloody Cage",
-      "title-alt": "Blood Cage",
+      "titleAlt": "Blood Cage",
       "year": "2018"
     },
     "source": {
@@ -26,7 +26,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Bloody Cage (Original)",
-      "title-alt": "Blood Cage (Original)",
+      "titleAlt": "Blood Cage (Original)",
       "year": "2018"
     },
     "source": {
@@ -297,7 +297,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "A Place Where Life Begins",
-      "title-alt": "Soup of Life",
+      "titleAlt": "Soup of Life",
       "year": "2018"
     },
     "source": {
@@ -316,7 +316,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "A Place Where Life Begins (Original)",
-      "title-alt": "Soup of Life (Original)",
+      "titleAlt": "Soup of Life (Original)",
       "year": "2018"
     },
     "source": {
@@ -353,7 +353,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Le Temple du Miroir",
-      "title-alt": "Temple in the Mirror",
+      "titleAlt": "Temple in the Mirror",
       "year": "2018"
     },
     "source": {
@@ -372,7 +372,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Le Temple du Miroir (Original)",
-      "title-alt": "Temple in the Mirror (Original)",
+      "titleAlt": "Temple in the Mirror (Original)",
       "year": "2018"
     },
     "source": {

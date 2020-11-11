@@ -7,7 +7,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Shadow of Incongruity",
-      "title-alt": "Arcana Boss",
+      "titleAlt": "Arcana Boss",
       "year": "2017"
     },
     "source": {
@@ -296,7 +296,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Tune of the Azure Light -gleam-",
-      "title-alt": "The Tune of the Azure Light 2",
+      "titleAlt": "The Tune of the Azure Light 2",
       "year": "2017"
     },
     "source": {

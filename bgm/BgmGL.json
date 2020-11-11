@@ -277,7 +277,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "War for the Castle",
-      "title-alt": "Masteria Through Time C",
+      "titleAlt": "Masteria Through Time C",
       "year": "2016"
     },
     "source": {
@@ -296,7 +296,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "An Eternal Breath -instrumental-",
-      "title-alt": "Masteria Through Time E1",
+      "titleAlt": "Masteria Through Time E1",
       "year": "2016"
     },
     "source": {
@@ -315,7 +315,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "An Eternal Breath",
-      "title-alt": "Masteria Through Time E2",
+      "titleAlt": "Masteria Through Time E2",
       "year": "2016"
     },
     "source": {
@@ -334,7 +334,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Jungle Pursuit",
-      "title-alt": "Masteria Through Time J",
+      "titleAlt": "Masteria Through Time J",
       "year": "2016"
     },
     "source": {

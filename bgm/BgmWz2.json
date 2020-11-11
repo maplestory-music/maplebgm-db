@@ -61,7 +61,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Season's Greeting",
-      "title-alt": "Lunar New Year: Love Letter",
+      "titleAlt": "Lunar New Year: Love Letter",
       "year": "2018"
     },
     "source": {
@@ -224,7 +224,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Sweet Rest",
-      "title-alt": "My Home - Room",
+      "titleAlt": "My Home - Room",
       "year": "2019"
     },
     "source": {
@@ -243,7 +243,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Sweet Rest -Guitar ver.-",
-      "title-alt": "My Home - Room 2",
+      "titleAlt": "My Home - Room 2",
       "year": "2019"
     },
     "source": {
@@ -262,7 +262,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Brand New Morning in the Plaza",
-      "title-alt": "My Home - Village",
+      "titleAlt": "My Home - Village",
       "year": "2019"
     },
     "source": {

@@ -169,7 +169,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "14th Anniversary Dynamic Universe",
-      "title-alt": "Galaxy is Dangerous",
+      "titleAlt": "Galaxy is Dangerous",
       "year": "2017"
     },
     "source": {
@@ -260,7 +260,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "14th Anniversary Frozen Link -piano-",
-      "title-alt": "Little Maple Planet",
+      "titleAlt": "Little Maple Planet",
       "year": "2017"
     },
     "source": {
@@ -279,7 +279,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "14th Anniversary Cosmic Main",
-      "title-alt": "Maple Galaxy",
+      "titleAlt": "Maple Galaxy",
       "year": "2017"
     },
     "source": {
@@ -298,7 +298,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "14th Anniversary Frozen Link",
-      "title-alt": "Maple Galaxy 2",
+      "titleAlt": "Maple Galaxy 2",
       "year": "2017"
     },
     "source": {

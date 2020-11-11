@@ -7,7 +7,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Frenzy Winter (Alternate)",
-      "title-alt": "Winter Frenzy Boss (All)",
+      "titleAlt": "Winter Frenzy Boss (All)",
       "year": "2016"
     },
     "source": {
@@ -26,7 +26,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Frenzy Winter",
-      "title-alt": "Winter Frenzy Boss (BGM)",
+      "titleAlt": "Winter Frenzy Boss (BGM)",
       "year": "2016"
     },
     "source": {

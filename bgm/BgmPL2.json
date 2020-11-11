@@ -25,7 +25,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Fragment of Fears",
-      "title-alt": "Appearance",
+      "titleAlt": "Appearance",
       "year": "2018"
     },
     "source": {
@@ -44,7 +44,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Assault!",
-      "title-alt": "Attack",
+      "titleAlt": "Attack",
       "year": "2018"
     },
     "source": {
@@ -99,7 +99,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Ready, Steady, Solid!",
-      "title-alt": "Labor",
+      "titleAlt": "Labor",
       "year": "2018"
     },
     "source": {
@@ -118,7 +118,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Ready, Steady, Solid! -instrumental-",
-      "title-alt": "Labor MR",
+      "titleAlt": "Labor MR",
       "year": "2018"
     },
     "source": {
@@ -137,7 +137,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Veiled Truth",
-      "title-alt": "Reunite",
+      "titleAlt": "Reunite",
       "year": "2018"
     },
     "source": {
@@ -174,7 +174,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Would You Listen to My Story?",
-      "title-alt": "Song of Hawar",
+      "titleAlt": "Song of Hawar",
       "year": "2018"
     },
     "source": {
@@ -193,7 +193,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Would You Listen to My Story? -instrumental-",
-      "title-alt": "Song of Hawar MR",
+      "titleAlt": "Song of Hawar MR",
       "year": "2018"
     },
     "source": {
@@ -230,7 +230,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Sorrowful Way",
-      "title-alt": "The Way to Hope -gloomy-",
+      "titleAlt": "The Way to Hope -gloomy-",
       "year": "2018"
     },
     "source": {
@@ -249,7 +249,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Sorrowful Way -instrumental-",
-      "title-alt": "The Way to Hope -gloomy- MR",
+      "titleAlt": "The Way to Hope -gloomy- MR",
       "year": "2018"
     },
     "source": {
@@ -304,7 +304,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Along With You",
-      "title-alt": "Walk Together",
+      "titleAlt": "Walk Together",
       "year": "2018"
     },
     "source": {

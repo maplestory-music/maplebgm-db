@@ -61,7 +61,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Tragic Fate of Demian",
-      "title-alt": "Demian",
+      "titleAlt": "Demian",
       "year": "2016"
     },
     "source": {
@@ -98,7 +98,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Corrupted Blood",
-      "title-alt": "Demian True",
+      "titleAlt": "Demian True",
       "year": "2016"
     },
     "source": {

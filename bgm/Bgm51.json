@@ -7,7 +7,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Battle Horizon",
-      "title-alt": "Battle Horizon Theme",
+      "titleAlt": "Battle Horizon Theme",
       "year": "2019"
     },
     "source": {
@@ -62,7 +62,7 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "Immortal Gorgons",
-      "title-alt": "Maple Squad S1",
+      "titleAlt": "Maple Squad S1",
       "year": "2019"
     },
     "source": {
