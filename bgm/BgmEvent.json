@@ -328,6 +328,24 @@
     "youtube": "Y3is9OyoGGU"
   },
   {
+    "description": "Neo Castle (MapleStory Neo)",
+    "filename": "NeoCastle",
+    "mark": "NeoCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Neo Castle",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-12-10",
+      "structure": "BgmEvent",
+      "version": "1.2.112"
+    },
+    "youtube": "4xVlmNHG_v0"
+  },
+  {
     "description": "Salon Rise",
     "filename": "salonRise",
     "mark": "Rise",
