@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2021.1 - 2021-01-07
+
+### Added
+
+- New music from Q4 2020
+- New icon for Cernium
+
+### Changed
+
+- Rename 'title-alt' property to 'titleAlt'
+
+### New Additions
+
+| Date       | Source       | Description                         |
+| ---------- | ------------ | ----------------------------------- |
+| 2020-11-10 | CMST 1.65    | My Home (Christmas) & Jazz of Maple |
+| 2020-11-11 | MSEA 1.99    | Headset BGMs (Series 2)             |
+| 2020-12-10 | KMST 1.2.112 | Neo Castle & Cernium                |
+| 2020-12-31 | KMST 1.2.114 | Kain & Toolen City                  |
+
 ## 2020.4 - 2020-10-14
 
 ### Added
