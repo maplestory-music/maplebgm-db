@@ -1,0 +1,92 @@
+[
+  {
+    "description": "Hotel Arcs storyline",
+    "filename": "A mecanic with a wander",
+    "mark": "Arcs",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "A Mechanic with a Wander",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-01-21",
+      "structure": "Bgm57",
+      "version": "1.2.115"
+    },
+    "youtube": ""
+  },
+  {
+    "description": "Hotel Arcs: Romantic Car Theater",
+    "filename": "Lonesome Cinema",
+    "mark": "Arcs",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Lonesome Cinema",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-01-21",
+      "structure": "Bgm57",
+      "version": "1.2.115"
+    },
+    "youtube": "vlWk1jO31U0"
+  },
+  {
+    "description": "Hotel Arcs: Train Heading Nowhere",
+    "filename": "Train heading nowhere",
+    "mark": "Arcs",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Train Heading Nowhere",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-01-21",
+      "structure": "Bgm57",
+      "version": "1.2.115"
+    },
+    "youtube": "C0P-N0ub7dc"
+  },
+  {
+    "description": "Hotel Arcs Wilderness",
+    "filename": "Wayout of the wilderness",
+    "mark": "Arcs",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Way Out of the Wilderness",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-01-21",
+      "structure": "Bgm57",
+      "version": "1.2.115"
+    },
+    "youtube": "gKMeID5RiGg"
+  },
+  {
+    "description": "Hotel Arcs Lobby",
+    "filename": "Welcome to Arcs Hotel",
+    "mark": "Arcs",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Welcome to Arcs Hotel",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-01-21",
+      "structure": "Bgm57",
+      "version": "1.2.115"
+    },
+    "youtube": "dzrBrgVBPCA"
+  }
+]

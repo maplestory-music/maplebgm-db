@@ -1,0 +1,74 @@
+[
+  {
+    "description": "Seren - Phase 2: Dawn of Hope",
+    "filename": "SolarDeity-DawnOfHope",
+    "mark": "Cernium",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Solar Deity - Dawn of Hope",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-01-21",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.115"
+    },
+    "youtube": "DV3VKsqN_a0"
+  },
+  {
+    "description": "Seren - Phase 2: Midnight of Silence",
+    "filename": "SolarDeity-MidnightOfSilence",
+    "mark": "Cernium",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Solar Deity - Midnight of Silence",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-01-21",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.115"
+    },
+    "youtube": "vRBtXd_31fE"
+  },
+  {
+    "description": "Seren - Phase 2: Noon of Justice",
+    "filename": "SolarDeity-NoonOfJustice",
+    "mark": "Cernium",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Solar Deity - Noon of Justice",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-01-21",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.115"
+    },
+    "youtube": "_ZJJc1cFFto"
+  },
+  {
+    "description": "Seren - Phase 2: Twilight of Flame",
+    "filename": "SolarDeity-TwilightOfFlame",
+    "mark": "Cernium",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Solar Deity - Twilight of Flame",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-01-21",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.115"
+    },
+    "youtube": "u3fisrTnOHI"
+  }
+]

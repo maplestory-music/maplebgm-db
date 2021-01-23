@@ -72,6 +72,24 @@
     "youtube": "a7j3BzzaBAo"
   },
   {
+    "description": "Seren - Phase 1",
+    "filename": "AwakeningOfOldGod",
+    "mark": "Cernium",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Awakening of Old God",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-01-21",
+      "structure": "Bgm53",
+      "version": "1.2.115"
+    },
+    "youtube": "mD7YFjm5RpM"
+  },
+  {
     "description": "Cernium",
     "filename": "BattleOfCernium",
     "mark": "Cernium",
