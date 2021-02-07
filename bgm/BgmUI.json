@@ -144,6 +144,24 @@
     "youtube": "1GA7nJdEvN8"
   },
   {
+    "description": "Login theme (Beta)",
+    "filename": "Title_Beta",
+    "mark": "TestServer",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "CODASOUND",
+      "title": "Title Screen (Beta)",
+      "year": "2003"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2003-06-03",
+      "structure": "BgmUI",
+      "version": "1.22"
+    },
+    "youtube": "iKVmHtZMUno"
+  },
+  {
     "description": "Frozen collaboration login theme",
     "filename": "Title_Frozen",
     "mark": "TestServer",
