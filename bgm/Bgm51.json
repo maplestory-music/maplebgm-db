@@ -92,6 +92,24 @@
     "youtube": "Wt9qVpmSvN0"
   },
   {
+    "description": "Pathfinder's Relic Evolution skill",
+    "filename": "PathfinderRelicEvolution",
+    "mark": "Partem",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Relic Evolution",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-02-18",
+      "structure": "Bgm51",
+      "version": "1.2.117"
+    },
+    "youtube": "ZaNV4dAHSdU"
+  },
+  {
     "description": "Secret Forest Elodin",
     "filename": "SecretElodin",
     "mark": "Elodin",
