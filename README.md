@@ -1,7 +1,7 @@
-# maplebgm-db
-
 [![Build Status](https://travis-ci.com/maplestory-music/maplebgm-db.svg?branch=master)](https://travis-ci.com/maplestory-music/maplebgm-db)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+# maplebgm-db
 
 Definitive MapleStory music database
 
