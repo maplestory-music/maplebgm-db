@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2021.2 - 2021-04-14
+
+### Added
+
+- New music from Q1 2021
+- Update metadata for formerly used tracks
+
+### New Additions
+
+| Date       | Source       | Description                        |
+| ---------- | ------------ | ---------------------------------- |
+| 2021-01-21 | KMST 1.2.115 | Hotel Arcs & Seren                 |
+| 2021-02-02 | CMST 1.67    | Jianghu & Mo Xuan                  |
+| 2021-02-18 | KMST 1.2.117 | Pathfinder's Relic Evolution Skill |
+
+### Retroactive Additions
+
+| Date       | Source   | Description        |
+| ---------- | -------- | ------------------ |
+| 2003-06-03 | KMS 1.22 | Login Theme (Beta) |
+
 ## 2021.1 - 2021-01-07
 
 ### Added
