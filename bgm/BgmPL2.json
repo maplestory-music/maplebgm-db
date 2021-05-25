@@ -130,6 +130,60 @@
     "youtube": "nnDUioqF7Wg"
   },
   {
+    "description": "Fluffy Moo Island",
+    "filename": "PL_MooIsland_Main",
+    "mark": "PL_Moo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Moo Island",
+      "year": "2021"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2021-05-26",
+      "structure": "BgmPL2",
+      "version": "3.96"
+    },
+    "youtube": "xh3AOLAosEE"
+  },
+  {
+    "description": "Fluffy Moo Island: Moo Ruins",
+    "filename": "PL_MooIsland_Play",
+    "mark": "PL_Moo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Moo Island - Play",
+      "year": "2021"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2021-05-26",
+      "structure": "BgmPL2",
+      "version": "3.96"
+    },
+    "youtube": "MCKZJ6KUDcU"
+  },
+  {
+    "description": "Fluffy Moo Island: Moo's Resting Place",
+    "filename": "PL_MooIsland_Rest",
+    "mark": "PL_Moo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Moo Island - Rest",
+      "year": "2021"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2021-05-26",
+      "structure": "BgmPL2",
+      "version": "3.96"
+    },
+    "youtube": "gjMrVCh1ZNc"
+  },
+  {
     "description": "Monad: Act 3 Julieta epilogue",
     "filename": "Reunite",
     "mark": "PL_Abrup",
