@@ -328,6 +328,42 @@
     "youtube": "d9L1LSCUrk8"
   },
   {
+    "description": "Maple Live",
+    "filename": "mapleLIVE",
+    "mark": "mapleLIVE",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Maple Live",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-06-10",
+      "structure": "BgmEvent",
+      "version": "1.2.122"
+    },
+    "youtube": "Q4pkDpkktfA"
+  },
+  {
+    "description": "Maple Live - Pink Bean",
+    "filename": "mapleLIVE_pinkbean",
+    "mark": "mapleLIVE",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Maple Live - Pink Bean",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-06-10",
+      "structure": "BgmEvent",
+      "version": "1.2.122"
+    },
+    "youtube": "L5xTgPPBJKk"
+  },
+  {
     "description": "Level 250 chair effect",
     "filename": "maxLevelChair",
     "mark": "3014028",
