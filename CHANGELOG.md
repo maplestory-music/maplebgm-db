@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2021.3 - 2021-07-11
+
+### Added
+
+- New music from Q2 2021
+- Update metadata for older tracks
+
+### New Additions
+
+| Date       | Source       | Description      |
+| ---------- | ------------ | ---------------- |
+| 2021-04-22 | KMS 1.2.347  | 18th Anniversary |
+| 2021-05-26 | JMS 3.96     | Moo Island       |
+| 2021-06-10 | KMST 1.2.122 | Maple Live       |
+
 ## 2021.2 - 2021-04-14
 
 ### Added
