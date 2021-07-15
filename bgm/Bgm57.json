@@ -18,6 +18,42 @@
     "youtube": "RkdFCsBZGGE"
   },
   {
+    "description": "Lara storyline - Twilight Workshop",
+    "filename": "AnotherdayOfTheAtelier",
+    "mark": "Narin",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Another Day of the Atelier",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2021-07-15",
+      "structure": "Bgm57",
+      "version": "1.2.351"
+    },
+    "youtube": "KaKd2coOCQY"
+  },
+  {
+    "description": "Lara storyline - Twilight Workshop",
+    "filename": "AnotherdayOfTheAtelier_NoIntro",
+    "mark": "Narin",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Another Day of the Atelier -No Intro-",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2021-07-15",
+      "structure": "Bgm57",
+      "version": "1.2.351"
+    },
+    "youtube": "JR36lK9WPIc"
+  },
+  {
     "description": "Narin: Quiet Back Alley",
     "filename": "BetweenAlley",
     "mark": "Narin",
