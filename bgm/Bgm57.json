@@ -18,6 +18,60 @@
     "youtube": "RkdFCsBZGGE"
   },
   {
+    "description": "Narin: Quiet Back Alley",
+    "filename": "BetweenAlley",
+    "mark": "Narin",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Between Alley",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-07-08",
+      "structure": "Bgm57",
+      "version": "1.2.124"
+    },
+    "youtube": "4Ak93ol6Cv4"
+  },
+  {
+    "description": "Lara's Breathtakingly Large Tree skill",
+    "filename": "HyperLifeIsFullOfHappinessHomeOfSpirits",
+    "mark": "Narin",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Life is Full of Happiness -Home of Spirits-",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-07-08",
+      "structure": "Bgm57",
+      "version": "1.2.124"
+    },
+    "youtube": "FjGPY1ChtAA"
+  },
+  {
+    "description": "Lara storyline",
+    "filename": "LifeIsFullOfHappiness",
+    "mark": "Narin",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Life is Full of Happiness",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-07-08",
+      "structure": "Bgm57",
+      "version": "1.2.124"
+    },
+    "youtube": "FtDyxkzpFes"
+  },
+  {
     "description": "Hotel Arcs: Romantic Car Theater",
     "filename": "Lonesome Cinema",
     "mark": "Arcs",
@@ -34,6 +88,24 @@
       "version": "1.2.115"
     },
     "youtube": "vlWk1jO31U0"
+  },
+  {
+    "description": "Narin: Dalbodre Workshop",
+    "filename": "OnedayAtTheAtelier",
+    "mark": "Narin",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "One Day at the Atelier",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-07-08",
+      "structure": "Bgm57",
+      "version": "1.2.124"
+    },
+    "youtube": "5CaWcn840ss"
   },
   {
     "description": "Hotel Arcs: Train Heading Nowhere",
@@ -88,5 +160,23 @@
       "version": "1.2.115"
     },
     "youtube": "dzrBrgVBPCA"
+  },
+  {
+    "description": "Narin",
+    "filename": "WonderfulMomentsInNarin",
+    "mark": "Narin",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Wonderful Moments in Narin",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-07-08",
+      "structure": "Bgm57",
+      "version": "1.2.124"
+    },
+    "youtube": "DwQ8zXlOYjs"
   }
 ]
