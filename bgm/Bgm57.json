@@ -72,6 +72,24 @@
     "youtube": "4Ak93ol6Cv4"
   },
   {
+    "description": "Ramuramu Valley: Altar of Guardian Angel Slime",
+    "filename": "Historical Site of Slime",
+    "mark": "Ramuramu",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Historical Site of Slime",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-08-05",
+      "structure": "Bgm57",
+      "version": "1.2.126"
+    },
+    "youtube": "2DCtrNL0QCg"
+  },
+  {
     "description": "Lara's Breathtakingly Large Tree skill",
     "filename": "HyperLifeIsFullOfHappinessHomeOfSpirits",
     "mark": "Narin",
@@ -196,6 +214,24 @@
       "version": "1.2.115"
     },
     "youtube": "dzrBrgVBPCA"
+  },
+  {
+    "description": "Ramuramu Valley",
+    "filename": "Welcome to Ramuramu Valley",
+    "mark": "Ramuramu",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Welcome to Ramuramu Valley",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-08-05",
+      "structure": "Bgm57",
+      "version": "1.2.126"
+    },
+    "youtube": "OkBhkoBvtYY"
   },
   {
     "description": "Narin",

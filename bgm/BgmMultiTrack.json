@@ -1,5 +1,41 @@
 [
   {
+    "description": "Guardian Angel Slime",
+    "filename": "GuardianSlime-Battle",
+    "mark": "Ramuramu",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guardian Angel Slime - Battle",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-08-05",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.126"
+    },
+    "youtube": "mBlj8bvXZO0"
+  },
+  {
+    "description": "Guardian Angel Slime - Wave Phase",
+    "filename": "GuardianSlime-Wave",
+    "mark": "Ramuramu",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guardian Angel Slime - Wave",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-08-05",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.126"
+    },
+    "youtube": "Kv80AdkRshs"
+  },
+  {
     "description": "Seren - Phase 2: Dawn of Hope",
     "filename": "SolarDeity-DawnOfHope",
     "mark": "Cernium",
