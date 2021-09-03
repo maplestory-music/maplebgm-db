@@ -72,6 +72,24 @@
     "youtube": "kCG2WU5PkF0"
   },
   {
+    "description": "Chu Chu Food Festival event",
+    "filename": "chuchu",
+    "mark": "eChuchu",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Chu Chu Chuseok",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-09-02",
+      "structure": "BgmEvent",
+      "version": "1.2.128"
+    },
+    "youtube": "AUyIcdrEp60"
+  },
+  {
     "description": "Coordi King event",
     "filename": "coordiKing",
     "mark": "MinigameStation",
