@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2021.4 - 2021-10-01
+
+### Added
+
+- New music from Q3 2021
+
+### New Additions
+
+| Date       | Source       | Description                            |
+| ---------- | ------------ | -------------------------------------- |
+| 2021-07-08 | KMST 1.2.124 | Lara & Narin                           |
+| 2021-07-15 | KMS 1.2.351  | Lara storyline                         |
+| 2021-08-05 | KMST 1.2.126 | Ramuramu Valley & Guardian Angel Slime |
+| 2021-09-02 | KMST 1.2.128 | Chu Chu Chuseok                        |
+| 2021-09-29 | JMS 3.99     | Hokto collaboration                    |
+| 2021-09-30 | KMST 1.2.128 | Rien Night Circus                      |
+
 ## 2021.3 - 2021-07-11
 
 ### Added
