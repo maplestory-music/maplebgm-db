@@ -181,6 +181,42 @@
     "youtube": "N9Mf6AjKey4"
   },
   {
+    "description": "Rien Night Circus event",
+    "filename": "Dizzy_BumperCar",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Dizzy Bumper Car",
+      "year": "2021"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2021-09-30",
+      "structure": "BgmWz2",
+      "version": "1.73"
+    },
+    "youtube": "38wfZsVNvH4"
+  },
+  {
+    "description": "Rien Night Circus event",
+    "filename": "ExcitingDiving_In_Glacier",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Exciting Diving in Glacier",
+      "year": "2021"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2021-09-30",
+      "structure": "BgmWz2",
+      "version": "1.73"
+    },
+    "youtube": "Wv0sAZad8Aw"
+  },
+  {
     "description": "Henesys Night Circus event",
     "filename": "FlowerPig_DreamRider",
     "mark": "Wz2_annual",
@@ -436,6 +472,24 @@
       "version": "1.64"
     },
     "youtube": "IY_MJz4FVOI"
+  },
+  {
+    "description": "Rien Night Circus event",
+    "filename": "NightFestival_In_Rien",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Night Festival in Rien",
+      "year": "2021"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2021-09-30",
+      "structure": "BgmWz2",
+      "version": "1.73"
+    },
+    "youtube": "_qcl2XaCvQg"
   },
   {
     "description": "Maple Explorer event",
