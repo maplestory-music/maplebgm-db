@@ -90,6 +90,60 @@
     "youtube": "cOatjxHHAEw"
   },
   {
+    "description": "Santa's Visit: Protect the Land Turtle",
+    "filename": "MeowDefence",
+    "mark": "KualaLumpur",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Meow Defence",
+      "year": "2021"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2021-12-22",
+      "structure": "BgmSG",
+      "version": "2.10"
+    },
+    "youtube": "ggwY4Nk3rhA"
+  },
+  {
+    "description": "Santa's Visit: Santa Surfer's Beach",
+    "filename": "SantaSurfer_Beach",
+    "mark": "Singapore",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Santa Surfer - Beach",
+      "year": "2021"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2021-12-22",
+      "structure": "BgmSG",
+      "version": "2.10"
+    },
+    "youtube": "3JjHSIAP1FM"
+  },
+  {
+    "description": "Santa's Visit: Santa Surfer's Sea",
+    "filename": "SantaSurfer_Sea",
+    "mark": "Singapore",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Santa Surfer - Sea",
+      "year": "2021"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2021-12-22",
+      "structure": "BgmSG",
+      "version": "2.10"
+    },
+    "youtube": "iQSE7YXgZ6Q"
+  },
+  {
     "description": "Singapore: Ulu City",
     "filename": "Ulu_field",
     "mark": "Singapore",
