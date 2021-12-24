@@ -36,6 +36,24 @@
     "youtube": "-10jd1l4ioU"
   },
   {
+    "description": "Aquarium Chair effect",
+    "filename": "Aquarium_Lofi",
+    "mark": "3018789",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Aquarium -Lofi ver.-",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-12-23",
+      "structure": "BgmEvent",
+      "version": "1.2.133"
+    },
+    "youtube": "-n9U1sMBSfo"
+  },
+  {
     "description": "Awakening Mountain (MapleStory Awake)",
     "filename": "awake_Event",
     "mark": "awake_Event",
@@ -142,6 +160,24 @@
       "version": "1.2.129"
     },
     "youtube": "FbxAXcvyHns"
+  },
+  {
+    "description": "Starlight Symphony - Sentimental Band effect",
+    "filename": "FrozenLink_Lofi",
+    "mark": "5121124",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Frozen Link -Lofi ver.-",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-12-23",
+      "structure": "BgmEvent",
+      "version": "1.2.133"
+    },
+    "youtube": "-FmEMz7qw0g"
   },
   {
     "description": "Ellinel Full Moon Party event",
@@ -289,6 +325,42 @@
     "youtube": "lPg1OGPepew"
   },
   {
+    "description": "Starlight Symphony - Sentimental Band effect",
+    "filename": "IlliyardMoor_Lofi",
+    "mark": "5121124",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Illiyard Moor -Lofi ver.-",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-12-23",
+      "structure": "BgmEvent",
+      "version": "1.2.133"
+    },
+    "youtube": "zsBbw0IftIM"
+  },
+  {
+    "description": "Starlight Symphony - Sentimental Band effect",
+    "filename": "Leafre_Lofi",
+    "mark": "5121124",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Leafre -Lofi ver.-",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-12-23",
+      "structure": "BgmEvent",
+      "version": "1.2.133"
+    },
+    "youtube": "Srl1tWFutQE"
+  },
+  {
     "description": "14th anniversary: Petite Planet",
     "filename": "LittleMaplePlanet",
     "mark": "MapleGalaxy",
@@ -434,6 +506,24 @@
       "version": "1.2.095"
     },
     "youtube": "_tEnTUZafVE"
+  },
+  {
+    "description": "Starlight Symphony (MapleStory Destiny)",
+    "filename": "StarlightSymphony",
+    "mark": "eStella",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Starlight Symphony",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-12-23",
+      "structure": "BgmEvent",
+      "version": "1.2.133"
+    },
+    "youtube": "mEhEkAi1rU0"
   },
   {
     "description": "15th anniversary: Maple 15th Street",
