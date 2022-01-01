@@ -19,7 +19,7 @@ git_push() {
 }
 
 setup_git
-changed=$(git diff --name-only HEAD~1 HEAD | grep "bgm/" | wc -l)
+changed=$(git diff --name-only HEAD~1 HEAD | grep -E "bgm/|locale/" | wc -l)
 
 if [ $changed -ne 0 ]; then
     echo "Change in ./bgm detected. Merging and pushing to prod branch..."
