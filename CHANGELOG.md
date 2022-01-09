@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2022.1 - 2022-01-08
+
+### Added
+
+- New music from Q4 2021
+- Language support for Korean, Japanese and Chinese (Simplified & Traditional)
+- Update metadata for older tracks
+
+### New Additions
+
+| Date       | Source       | Description        |
+| ---------- | ------------ | ------------------ |
+| 2021-12-22 | MSEA 2.10    | Santa's Visit      |
+| 2021-12-23 | KMST 1.2.133 | MapleStory Destiny |
+
 ## 2021.4 - 2021-10-01
 
 ### Added
