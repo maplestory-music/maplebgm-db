@@ -1,0 +1,56 @@
+[
+  {
+    "description": "Explorer storyline",
+    "filename": "Endless Curse",
+    "mark": "MushroomVillage",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Endless Curse",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-01-18",
+      "structure": "Bgm58",
+      "version": "1.2.136"
+    },
+    "youtube": "UwuyxDRPkmI"
+  },
+  {
+    "description": "Explorer storyline - character progression",
+    "filename": "Just Another Maple Leaf",
+    "mark": "MushroomVillage",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Just Another Maple Leaf",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-01-18",
+      "structure": "Bgm58",
+      "version": "1.2.136"
+    },
+    "youtube": "7NN_k0auDWQ"
+  },
+  {
+    "description": "Maple Island",
+    "filename": "The Beginnig of The Adventure",
+    "mark": "MushroomVillage",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Beginning of the Adventure",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-01-18",
+      "structure": "Bgm58",
+      "version": "1.2.136"
+    },
+    "youtube": "-bSIQVSEdgM"
+  }
+]
