@@ -492,6 +492,150 @@
     "youtube": "_qcl2XaCvQg"
   },
   {
+    "description": "Treasure of Pharaoh event",
+    "filename": "TreasureOfPharaoh_Boss",
+    "mark": "MExplorer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Treasure of Pharaoh - Boss",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-01-28",
+      "structure": "BgmWz2",
+      "version": "1.77"
+    },
+    "youtube": "aFPdamHVaaE"
+  },
+  {
+    "description": "Treasure of Pharaoh event",
+    "filename": "TreasureOfPharaoh_Chap1",
+    "mark": "MExplorer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Treasure of Pharaoh - Chapter 1",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-01-28",
+      "structure": "BgmWz2",
+      "version": "1.77"
+    },
+    "youtube": "-DHH5TWyFmQ"
+  },
+  {
+    "description": "Treasure of Pharaoh event",
+    "filename": "TreasureOfPharaoh_Chap2",
+    "mark": "MExplorer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Treasure of Pharaoh - Chapter 2",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-01-28",
+      "structure": "BgmWz2",
+      "version": "1.77"
+    },
+    "youtube": "aeE_9MhFNuU"
+  },
+  {
+    "description": "Treasure of Pharaoh event",
+    "filename": "TreasureOfPharaoh_Chap3",
+    "mark": "MExplorer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Treasure of Pharaoh - Chapter 3",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-01-28",
+      "structure": "BgmWz2",
+      "version": "1.77"
+    },
+    "youtube": "A-Vyi6uuve4"
+  },
+  {
+    "description": "Treasure of Pharaoh event",
+    "filename": "TreasureOfPharaoh_Chap4",
+    "mark": "MExplorer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Treasure of Pharaoh - Chapter 4",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-01-28",
+      "structure": "BgmWz2",
+      "version": "1.77"
+    },
+    "youtube": "STeCIlQfIuY"
+  },
+  {
+    "description": "Treasure of Pharaoh event",
+    "filename": "TreasureOfPharaoh_Chap5",
+    "mark": "MExplorer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Treasure of Pharaoh - Chapter 5",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-01-28",
+      "structure": "BgmWz2",
+      "version": "1.77"
+    },
+    "youtube": "7g4kgFKpYXE"
+  },
+  {
+    "description": "Treasure of Pharaoh event",
+    "filename": "TreasureOfPharaoh_Enter",
+    "mark": "MExplorer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Treasure of Pharaoh - Entrance",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-01-28",
+      "structure": "BgmWz2",
+      "version": "1.77"
+    },
+    "youtube": "0rym7kt-p4Y"
+  },
+  {
+    "description": "Treasure of Pharaoh event",
+    "filename": "TreasureOfPharaoh_Shop",
+    "mark": "MExplorer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Treasure of Pharaoh - Shop",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-01-28",
+      "structure": "BgmWz2",
+      "version": "1.77"
+    },
+    "youtube": "IkM2f1c73eg"
+  },
+  {
     "description": "Maple Explorer event",
     "filename": "UnchartedIsland_Day",
     "mark": "MExplorerIsland",
