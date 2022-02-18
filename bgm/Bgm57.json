@@ -144,6 +144,42 @@
     "youtube": "vlWk1jO31U0"
   },
   {
+    "description": "Watcher Kalos - Phase 1",
+    "filename": "OccupiedFortress",
+    "mark": "karotte",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Occupied Fortress",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-02-17",
+      "structure": "Bgm57",
+      "version": "1.2.138"
+    },
+    "youtube": "Tr2DH10nKI8"
+  },
+  {
+    "description": "Karotte",
+    "filename": "Once upon a time in Karotte",
+    "mark": "karotte",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Once Upon a Time in Karotte",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-02-17",
+      "structure": "Bgm57",
+      "version": "1.2.138"
+    },
+    "youtube": "MN9OrjESFgA"
+  },
+  {
     "description": "Narin: Dalbodre Workshop",
     "filename": "OnedayAtTheAtelier",
     "mark": "Narin",
@@ -160,6 +196,24 @@
       "version": "1.2.124"
     },
     "youtube": "5CaWcn840ss"
+  },
+  {
+    "description": "Karotte: Skyscraper",
+    "filename": "PreparationForBreakthrough",
+    "mark": "karotte",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Preparation for Breakthrough",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-02-17",
+      "structure": "Bgm57",
+      "version": "1.2.138"
+    },
+    "youtube": "-lWcKfl9FfE"
   },
   {
     "description": "Hotel Arcs: Train Heading Nowhere",

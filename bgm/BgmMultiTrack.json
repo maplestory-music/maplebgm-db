@@ -1,5 +1,23 @@
 [
   {
+    "description": "Watcher Kalos - Phase 2",
+    "filename": "FuryOfTheWatcher",
+    "mark": "karotte",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fury of the Watcher",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-02-17",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.138"
+    },
+    "youtube": "fwLnfRHqicI"
+  },
+  {
     "description": "Guardian Angel Slime",
     "filename": "GuardianSlime-Battle",
     "mark": "Ramuramu",
@@ -106,5 +124,23 @@
       "version": "1.2.115"
     },
     "youtube": "u3fisrTnOHI"
+  },
+  {
+    "description": "Watcher Kalos - Phase 2",
+    "filename": "WornOutFury",
+    "mark": "karotte",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Worn Out Fury",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-02-17",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.138"
+    },
+    "youtube": "L-jmUldd5j4"
   }
 ]
