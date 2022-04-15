@@ -36,6 +36,24 @@
     "youtube": "-10jd1l4ioU"
   },
   {
+    "description": "19th anniversary: Maple Momentree",
+    "filename": "19th_Event",
+    "mark": "momentree",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "19th Anniversary Event",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-04-14",
+      "structure": "BgmEvent",
+      "version": "1.2.140"
+    },
+    "youtube": "mpQ-J_mu4iw"
+  },
+  {
     "description": "Aquarium Chair effect",
     "filename": "Aquarium_Lofi",
     "mark": "3018789",
