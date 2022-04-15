@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2022.2 - 2022-04-14
+
+### Added
+
+- New music from Q1 2022
+
+### New Additions
+
+| Date       | Source       | Description              |
+| ---------- | ------------ | ------------------------ |
+| 2022-01-18 | KMST 1.2.136 | Explorer Remaster        |
+| 2022-01-26 | MSEA 2.11    | PlayPark-Asiasoft Splash |
+| 2022-01-28 | CMST 1.77    | Treasure of Pharaoh      |
+| 2022-02-17 | KMST 1.2.138 | Karotte & Watcher Kalos  |
+
 ## 2022.1 - 2022-01-08
 
 ### Added
