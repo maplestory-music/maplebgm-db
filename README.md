@@ -11,6 +11,11 @@ This database is a record all MapleStory background music tracks and related
 metadata. A visual representation of the data can be found at
 [MapleStory Music](https://maplestory-music.github.io/).
 
+## Scope
+
+The scope of this project is limited to [MapleStory](https://wikipedia.org/wiki/MapleStory),
+originally published in 2003. It does not cover other titles within the franchise.
+
 ## Installation
 
 Use Yarn to install development dependencies for this project.
