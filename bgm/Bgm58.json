@@ -36,6 +36,60 @@
     "youtube": "7NN_k0auDWQ"
   },
   {
+    "description": "Cygnus Knights - Mihile storyline",
+    "filename": "Knight of Light",
+    "mark": "Ereb",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Knight of Light",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-06-23",
+      "structure": "Bgm58",
+      "version": "1.2.143"
+    },
+    "youtube": "_e9YXlxlCqA"
+  },
+  {
+    "description": "Ereve: Nobleman's Estate",
+    "filename": "Noblesse nostalgia",
+    "mark": "Ereb",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Noblesse Nostalgia",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-06-23",
+      "structure": "Bgm58",
+      "version": "1.2.143"
+    },
+    "youtube": "u2TQ4DFqSSw"
+  },
+  {
+    "description": "Cygnus Knights storyline - God's Shelter",
+    "filename": "Resting place of God",
+    "mark": "Ereb",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Resting Place of God",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-06-23",
+      "structure": "Bgm58",
+      "version": "1.2.143"
+    },
+    "youtube": "QstADc5R4GI"
+  },
+  {
     "description": "Maple Island",
     "filename": "The Beginnig of The Adventure",
     "mark": "MushroomVillage",

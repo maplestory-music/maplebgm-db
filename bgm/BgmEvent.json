@@ -343,6 +343,24 @@
     "youtube": "lPg1OGPepew"
   },
   {
+    "description": "Ignition Fireworks Festival (MapleStory Ignition)",
+    "filename": "ignition",
+    "mark": "ignition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ignition Fireworks Festival",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-06-23",
+      "structure": "BgmEvent",
+      "version": "1.2.143"
+    },
+    "youtube": "n2C4_dlfNj0"
+  },
+  {
     "description": "Starlight Symphony - Sentimental Band effect",
     "filename": "IlliyardMoor_Lofi",
     "mark": "5121124",
