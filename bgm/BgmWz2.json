@@ -343,6 +343,42 @@
     "youtube": "EV9D9CIe44k"
   },
   {
+    "description": "Maple Explorer - Misty Island event",
+    "filename": "MIstyIsland_HugeRuinCenters",
+    "mark": "MExplorerIsland",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Misty Island - Huge Ruin Centers",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-07-13",
+      "structure": "BgmWz2",
+      "version": "1.82"
+    },
+    "youtube": "WCpwLmTLcJw"
+  },
+  {
+    "description": "Maple Explorer - Misty Island event",
+    "filename": "MistyIsland_TempHeadquaters",
+    "mark": "MExplorer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Misty Island - Temporary Headquaters",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-07-13",
+      "structure": "BgmWz2",
+      "version": "1.82"
+    },
+    "youtube": "a9Cco4fLaBE"
+  },
+  {
     "description": "My Home system content - Christmas event",
     "filename": "MyHomeJazz_Elnath",
     "mark": "myHome",
