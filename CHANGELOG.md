@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2022.3 - 2022-07-14
+
+### Added
+
+- New music from Q2 2022
+- Update Blooming Forest track title
+
+### New Additions
+
+| Date       | Source       | Description                           |
+| ---------- | ------------ | ------------------------------------- |
+| 2022-04-14 | KMST 1.2.140 | 19th Anniversary                      |
+| 2022-06-23 | KMST 1.2.143 | MapleStory Ignition & Cygnus Remaster |
+
 ## 2022.2 - 2022-04-14
 
 ### Added
