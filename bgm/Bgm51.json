@@ -74,6 +74,24 @@
     "youtube": "fEBYirzkjOI"
   },
   {
+    "description": "Bounty Hunter portals",
+    "filename": "MysteriousTotemintheJungle",
+    "mark": "Partem",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Mysterious Totem in the Jungle",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2022-07-28",
+      "structure": "Bgm51",
+      "version": "1.2.367"
+    },
+    "youtube": "jRV5PAqIzc0"
+  },
+  {
     "description": "Pathfinder tutorial",
     "filename": "Pathfinder",
     "mark": "Partem",
