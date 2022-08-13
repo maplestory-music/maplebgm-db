@@ -54,6 +54,9 @@
     "youtube": "MmWrqpV7f0Q"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Kinesis' Mental Overdrive skill",
     "filename": "Kinesis Theme Skill",
     "mark": "MSTown",

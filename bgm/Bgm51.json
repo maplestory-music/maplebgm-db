@@ -110,6 +110,9 @@
     "youtube": "Wt9qVpmSvN0"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Pathfinder's Relic Evolution skill",
     "filename": "PathfinderRelicEvolution",
     "mark": "Partem",

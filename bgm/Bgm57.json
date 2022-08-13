@@ -36,6 +36,9 @@
     "youtube": "KaKd2coOCQY"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Lara storyline - Twilight Workshop",
     "filename": "AnotherdayOfTheAtelier_NoIntro",
     "mark": "Narin",
@@ -90,6 +93,9 @@
     "youtube": "2DCtrNL0QCg"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Lara's Breathtakingly Large Tree skill",
     "filename": "HyperLifeIsFullOfHappinessHomeOfSpirits",
     "mark": "Narin",

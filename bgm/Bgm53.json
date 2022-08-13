@@ -1,5 +1,8 @@
 [
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Adele's Infinite skill",
     "filename": "5thAdelesOathInfinite",
     "mark": "Ristonia",
@@ -36,6 +39,9 @@
     "youtube": "CHHMxYwvVbI"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Adele's Infinite skill",
     "filename": "AdelesOathInfinite",
     "mark": "Ristonia",
@@ -288,6 +294,9 @@
     "youtube": "DrEYyRbxBSs"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Hoyoung's Sage: Wrath of Gods skill",
     "filename": "RidingOnTheCloudsGodComing",
     "mark": "CheongUn",

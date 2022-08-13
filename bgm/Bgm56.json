@@ -1,5 +1,8 @@
 [
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Kain's Thanatos Descent skill",
     "filename": "5thKainThanatosDescent",
     "mark": "ToolenCity",
@@ -72,6 +75,9 @@
     "youtube": "SG_YVRlU7wI"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Kain storyline",
     "filename": "HappyBirthdayMyDearShort",
     "mark": "ToolenCity",

@@ -182,6 +182,9 @@
     "youtube": "kXt2NUTc4hE"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Moonbridge: Giant Monster Gloom cutscene",
     "filename": "FerociousBattlefield_RiserEdit",
     "mark": "moonBridge",
@@ -200,6 +203,9 @@
     "youtube": "40VT7lX6mls"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Moonbridge: Giant Monster Gloom cutscene",
     "filename": "FerociousBattlefield_ShortEdit",
     "mark": "moonBridge",

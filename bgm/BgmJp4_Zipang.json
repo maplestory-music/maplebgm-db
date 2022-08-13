@@ -18,6 +18,9 @@
     "youtube": "48u6RCI9hSg"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Mushroom Shrine Tales - Act 5 ending",
     "filename": "LegendOfZipang_Reprise",
     "mark": "jipangu",
@@ -90,6 +93,9 @@
     "youtube": "kNGnsV_4mxE"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Mushroom Shrine Tales ending credits",
     "filename": "LivingAgain_Reprise",
     "mark": "jipangu",

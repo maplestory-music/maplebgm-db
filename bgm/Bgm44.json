@@ -54,6 +54,9 @@
     "youtube": "krltH4ZKh04"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Ursus boss theme (Phase 1)",
     "filename": "TheKingOfDestruction (Original Version)",
     "mark": "Urus",

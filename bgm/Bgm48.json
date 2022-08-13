@@ -36,6 +36,9 @@
     "youtube": "L9RYGQYiaSU"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Ark storyline",
     "filename": "Doomsday_LOOP",
     "mark": "verdel",
@@ -90,6 +93,9 @@
     "youtube": "cplA5pbGHEQ"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Illium's Wings of Glory skill",
     "filename": "gloryWing",
     "mark": "Asylum",

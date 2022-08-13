@@ -1,5 +1,8 @@
 [
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Mo Xuan's Unleashed Energy skill",
     "filename": "5thHyunsanpaUnleashedEnergy",
     "mark": "Hajin",

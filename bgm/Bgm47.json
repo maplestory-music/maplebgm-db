@@ -127,6 +127,9 @@
     "youtube": "14B3XZLxKZM"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Sanctuary: Crystal Academy invasion",
     "filename": "DeathOfAsylum",
     "mark": "Asylum",
@@ -145,6 +148,9 @@
     "youtube": "W3PLmFx6emk"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Sanctuary invasion",
     "filename": "DeathOfAsylumChoir",
     "mark": "Asylum",

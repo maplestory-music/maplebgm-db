@@ -126,6 +126,9 @@
     "youtube": "vVcbVrfH4NE"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Black Heaven epilogue",
     "filename": "HeavenAgain_reprise",
     "mark": "BlockBuster",

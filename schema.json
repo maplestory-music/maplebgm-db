@@ -7,6 +7,15 @@
     "title": "MapleStory music",
     "type": "object",
     "properties": {
+      "decoration": {
+        "type": "object",
+        "properties": {
+          "minorTrack": {
+            "description": "Track is a segment of another song",
+            "type": "boolean"
+          }
+        }
+      },
       "description": {
         "description": "Description of the song's usage",
         "type": "string"

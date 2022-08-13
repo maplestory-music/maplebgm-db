@@ -73,6 +73,9 @@
     "youtube": "1VzASddjwtE"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "2019 Lunar New Year event",
     "filename": "CNY_LoveLetterA",
     "mark": "PL_CNY2018",
@@ -91,6 +94,9 @@
     "youtube": "m8MB56duRb0"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "2019 Lunar New Year event",
     "filename": "CNY_LoveLetterB",
     "mark": "PL_CNY2018",
