@@ -1,5 +1,23 @@
 [
   {
+    "description": "Odium: Occupied Alley",
+    "filename": "Alley on the Other Side",
+    "mark": "odium",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Alley on the Other Side",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-08-18",
+      "structure": "Bgm58",
+      "version": "1.2.145"
+    },
+    "youtube": "Dhoag52TV_w"
+  },
+  {
     "description": "Explorer storyline",
     "filename": "Endless Curse",
     "mark": "MushroomVillage",
@@ -16,6 +34,42 @@
       "version": "1.2.136"
     },
     "youtube": "UwuyxDRPkmI"
+  },
+  {
+    "description": "Odium storyline",
+    "filename": "Four Perils Astray",
+    "mark": "odium",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Four Perils Astray",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-08-18",
+      "structure": "Bgm58",
+      "version": "1.2.145"
+    },
+    "youtube": "Orjgsq8R-CU"
+  },
+  {
+    "description": "Odium: Laboratory Behind Locked Doors",
+    "filename": "Irreversible Abomination",
+    "mark": "odium",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Irreversible Abomination",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-08-18",
+      "structure": "Bgm58",
+      "version": "1.2.145"
+    },
+    "youtube": "XCg3agTZ7t8"
   },
   {
     "description": "Explorer storyline - character progression",
@@ -90,6 +144,24 @@
     "youtube": "QstADc5R4GI"
   },
   {
+    "description": "Odium: Sunny Laboratory",
+    "filename": "Sunshine blurring the Unknown",
+    "mark": "odium",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Sunshine Blurring the Unknown",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-08-18",
+      "structure": "Bgm58",
+      "version": "1.2.145"
+    },
+    "youtube": "N2dyV-2UeK8"
+  },
+  {
     "description": "Maple Island",
     "filename": "The Beginnig of The Adventure",
     "mark": "MushroomVillage",
@@ -106,6 +178,24 @@
       "version": "1.2.136"
     },
     "youtube": "-bSIQVSEdgM"
+  },
+  {
+    "description": "Odium",
+    "filename": "The Lost City among the Clouds",
+    "mark": "odium",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Lost City Among the Clouds",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-08-18",
+      "structure": "Bgm58",
+      "version": "1.2.145"
+    },
+    "youtube": "34Tb70dLN3Q"
   },
   {
     "description": "Monster Park Extreme",
