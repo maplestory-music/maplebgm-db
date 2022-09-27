@@ -516,6 +516,78 @@
     "youtube": "IY_MJz4FVOI"
   },
   {
+    "description": "Nautilus Night Circus event",
+    "filename": "NightFestival_In_Nautilus_Festival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Night Festival in Nautilus",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-09-26",
+      "structure": "BgmWz2",
+      "version": "1.84"
+    },
+    "youtube": "j15ZonbX10k"
+  },
+  {
+    "description": "Nautilus Night Circus event",
+    "filename": "NightFestival_In_Nautilus_Food Party",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Night Festival in Nautilus - Food Party",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-09-26",
+      "structure": "BgmWz2",
+      "version": "1.84"
+    },
+    "youtube": "5ndMuZkpSaE"
+  },
+  {
+    "description": "Nautilus Night Circus event",
+    "filename": "NightFestival_In_Nautilus_Minigame",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Night Festival in Nautilus - Minigame",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-09-26",
+      "structure": "BgmWz2",
+      "version": "1.84"
+    },
+    "youtube": "s5m8Rk_LhhQ"
+  },
+  {
+    "description": "Nautilus Night Circus event",
+    "filename": "NightFestival_In_Nautilus_Pub",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Night Festival in Nautilus - Pub",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-09-26",
+      "structure": "BgmWz2",
+      "version": "1.84"
+    },
+    "youtube": "7Qc-r0tnm94"
+  },
+  {
     "description": "Rien Night Circus event",
     "filename": "NightFestival_In_Rien",
     "mark": "Wz2_annual",
