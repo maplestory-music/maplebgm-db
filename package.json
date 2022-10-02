@@ -1,6 +1,6 @@
 {
   "name": "maplebgm-db",
-  "version": "2022.3",
+  "version": "2022.4",
   "devDependencies": {
     "ajv": "^6.5.5",
     "eslint": "^7.4.0",

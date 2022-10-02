@@ -2,6 +2,31 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2022.4 - 2022-10-02
+
+### Added
+
+- New music from Q3 2022
+- Update metadata for older tracks
+- Introduce `minorTrack` decoration
+
+### New Additions
+
+| Date       | Source       | Description                                  |
+| ---------- | ------------ | -------------------------------------------- |
+| 2022-07-13 | CMST 1.82    | Maple Explorer: Misty Island                 |
+| 2022-07-28 | KMS 1.2.367  | Monster Park Extreme & Bounty Hunter portals |
+| 2022-08-10 | JMS 4.07     | Neo Tokyo                                    |
+| 2022-08-18 | KMST 1.2.145 | Odium & Full Moon Party                      |
+| 2022-09-26 | CMST 1.84    | Nautilus Night Circus                        |
+
+### Retroactive Additions
+
+| Date       | Source   | Description        |
+| ---------- | -------- | ------------------ |
+| 2003-2004  | Web      | From the Beginning |
+| 2003-2004  | Web      | Elfwood (Slower)   |
+
 ## 2022.3 - 2022-07-14
 
 ### Added
