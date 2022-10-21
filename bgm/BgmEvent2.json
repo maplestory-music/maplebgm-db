@@ -252,6 +252,27 @@
     "youtube": "M-CUrhHhZAQ"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Pink Bean's Triple Color Spotlight skill",
+    "filename": "pinkbeanSpotlight",
+    "mark": "PinkBean",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Pink Bean Spotlight",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-10-20",
+      "structure": "BgmEvent2",
+      "version": "1.2.147"
+    },
+    "youtube": "HLxZnFxhW-I"
+  },
+  {
     "description": "Mesoranger dance event",
     "filename": "rhythmBgm1",
     "mark": "mRhythm",

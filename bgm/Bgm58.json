@@ -198,6 +198,24 @@
     "youtube": "34Tb70dLN3Q"
   },
   {
+    "description": "Grand Athenaeum: Maple Chronicles",
+    "filename": "The other side of the dimension",
+    "mark": "Library",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Other Side of the Dimension",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-10-20",
+      "structure": "Bgm58",
+      "version": "1.2.147"
+    },
+    "youtube": "1dUnek_TBRk"
+  },
+  {
     "description": "Monster Park Extreme",
     "filename": "Warning! Unknown Area",
     "mark": "Carnival",
