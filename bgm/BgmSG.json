@@ -108,6 +108,42 @@
     "youtube": "ggwY4Nk3rhA"
   },
   {
+    "description": "Meowmas",
+    "filename": "Meowmas_JingleBells_Disco",
+    "mark": "Singapore",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Meowmas Jingle Bells - Disco",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-11-07",
+      "structure": "BgmSG",
+      "version": "1.85"
+    },
+    "youtube": "QrPlxl8MGl8"
+  },
+  {
+    "description": "Meowmas",
+    "filename": "Meowmas_JingleBells_Jazz",
+    "mark": "Singapore",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Meowmas Jingle Bells - Jazz",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-11-07",
+      "structure": "BgmSG",
+      "version": "1.85"
+    },
+    "youtube": "fHX7P8Nnluo"
+  },
+  {
     "description": "Santa's Visit: Santa Surfer's Beach",
     "filename": "SantaSurfer_Beach",
     "mark": "Singapore",
