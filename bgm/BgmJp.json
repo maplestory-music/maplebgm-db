@@ -216,6 +216,24 @@
     "youtube": "K4Lg7Ny5kX0"
   },
   {
+    "description": "Reina Kondo - Goddess Mark (Ignition theme)",
+    "filename": "GoddessMark",
+    "mark": "TestServer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Reina Kondo",
+      "title": "Goddess Mark",
+      "year": "2022"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2022-12-14",
+      "structure": "BgmJp",
+      "version": "4.10"
+    },
+    "youtube": "iQbq7o-kyBY"
+  },
+  {
     "description": "Similar to Yume, but unused",
     "filename": "Hana",
     "mark": "JP_shouwa",
