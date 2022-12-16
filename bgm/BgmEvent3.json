@@ -16,5 +16,23 @@
       "version": "1.2.145"
     },
     "youtube": "_UlS4xxGcag"
+  },
+  {
+    "description": "Wonstaurant (MapleStory Savior)",
+    "filename": "wonstaurant",
+    "mark": "2022winter",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Wonstaurant",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-12-15",
+      "structure": "BgmEvent3",
+      "version": "1.2.149"
+    },
+    "youtube": "wCWq736XLao"
   }
 ]
