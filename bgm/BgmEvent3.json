@@ -34,5 +34,59 @@
       "version": "1.2.149"
     },
     "youtube": "wCWq736XLao"
+  },
+  {
+    "description": "2022 Christmas - Henesys",
+    "filename": "Xmas_01_Henesys",
+    "mark": "Henesys",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Floral Life -Xmas ver.-",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2022-12-22",
+      "structure": "BgmEvent3",
+      "version": "1.2.372"
+    },
+    "youtube": "tMCICVxXrVY"
+  },
+  {
+    "description": "2022 Christmas - Leafre",
+    "filename": "Xmas_02_Leafre",
+    "mark": "Leafre",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Leafre -Xmas ver.-",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2022-12-22",
+      "structure": "BgmEvent3",
+      "version": "1.2.372"
+    },
+    "youtube": "LgFDYq-gOQI"
+  },
+  {
+    "description": "2022 Christmas - Nameless Town",
+    "filename": "Xmas_03_TheLakeofOblivion",
+    "mark": "Road of Vanishing",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Lake Of Oblivion -Xmas ver.-",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2022-12-22",
+      "structure": "BgmEvent3",
+      "version": "1.2.372"
+    },
+    "youtube": "FJzdLSaqQzI"
   }
 ]
