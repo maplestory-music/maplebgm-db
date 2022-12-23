@@ -1,15 +1,15 @@
 #!/bin/sh
 
 setup_git() {
-    git config --global user.email "deploy@travis-ci.org"
-    git config --global user.name "Deployment Bot (from Travis CI)"
+    git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+    git config --global user.name "github-actions[bot]"
 }
 
 git_commit() {
     git checkout --orphan prod
     timestamp=$(date "+%b %d %Y")
     git add bgm.min.json
-    git commit -m "Travis CI update: $timestamp (Build $TRAVIS_BUILD_NUMBER)"
+    git commit -m "GitHub Actions: $timestamp (Build $GITHUB_RUN_NUMBER)"
 }
 
 git_push() {
