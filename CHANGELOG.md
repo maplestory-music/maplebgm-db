@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023.1 - 2023-01-02
+
+### Added
+
+- New music from Q4 2022
+- Update metadata for older tracks
+
+### New Additions
+
+| Date       | Source       | Description                           |
+| ---------- | ------------ | ------------------------------------- |
+| 2022-10-20 | KMST 1.2.147 | Grand Athenaeum & Pink Bean Spotlight |
+| 2022-11-07 | CMST 1.85    | Meowmas                               |
+| 2022-12-14 | JMS 4.10     | Goddess Mark                          |
+| 2022-12-15 | KMST 1.2.149 | MapleStory Savior                     |
+| 2022-12-22 | KMS 1.2.372  | 2022 Christmas                        |
+
 ## 2022.4 - 2022-10-02
 
 ### Added
