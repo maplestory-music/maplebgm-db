@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/maplestory-music/maplebgm-db.svg?branch=master)](https://travis-ci.com/maplestory-music/maplebgm-db)
+[![Build Status](https://github.com/maplestory-music/maplebgm-db/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/maplestory-music/maplebgm-db/actions/workflows/build.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 # maplebgm-db
