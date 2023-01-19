@@ -54,6 +54,27 @@
     "youtube": "WbOuijd0-30"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Khali's Oblivion skill",
+    "filename": "Oblivion",
+    "mark": "Erimos",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Oblivion",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2023-01-19",
+      "structure": "Bgm59",
+      "version": "1.2.373"
+    },
+    "youtube": "QChvnprfrSg"
+  },
+  {
     "description": "Erimos desert",
     "filename": "Outskirts of Erimos",
     "mark": "Erimos",
