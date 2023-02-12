@@ -241,6 +241,366 @@
     "youtube": "vPqBD7zhxQM"
   },
   {
+    "description": "Guild Castle rooms",
+    "filename": "GuildCastle_Comfort",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Comfort",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "8WvbkyUOIq0"
+  },
+  {
+    "description": "Guild Castle storyline",
+    "filename": "GuildCastle_FallenApart",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Fallen Apart",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "R80N1l0yLx4"
+  },
+  {
+    "description": "Guild Castle dungeon",
+    "filename": "GuildCastle_FollowTheLightLeaks",
+    "mark": "GuildCastle_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Follow the Light Leaks",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "kjccd3lrGPM"
+  },
+  {
+    "description": "Guild Castle rooms",
+    "filename": "GuildCastle_FullofJoyandLaughter",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Full of Joy and Laughter",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "fCNVyxYUPVI"
+  },
+  {
+    "description": "Guild Castle storyline",
+    "filename": "GuildCastle_HisReminiscence",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - His Reminiscence",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "KhOENRUu5cU"
+  },
+  {
+    "description": "Guild Castle",
+    "filename": "GuildCastle_Lobby",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Lobby",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "qmascDrqSlk"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_01_Borderless",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Borderless -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "3VBdAYVSrBA"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_02_NeoCastle",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Neo Castle -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "nmf7IdQDZXc"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_03_ForEinherjar",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "For Einherjar -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "surMcwFVg8E"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_04_TempleofTime",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Temple of Time -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "puBPCl0I82k"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_05_Pantheon",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Pantheon -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "HfuK1JlKqnM"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_06_MyPrinceMyKingdom",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "My Prince, My Kingdom -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "sDBj8OqZ4uk"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_07_OutlawoftheLonelyIsland",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Outlaw of the Lonely Island -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "C5IgJL5DYR8"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_08_HelisiumForest",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Helisium Mystic Forest -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "ltnQzIqyKF8"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_09_SecretElodin",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Secret Elodin -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "qxbh5YiM6kI"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_10_TheVillageofKarupa",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Village of Karupa -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "tlvClm9as_g"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_11_FairyTale",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fairy Tale -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "r_h_JrFA5kA"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_12_Login",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Start the Adventure -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "xwWAeFrbG5s"
+  },
+  {
+    "description": "Guild Castle rooms",
+    "filename": "GuildCastle_Room",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Room",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "qgi93spqOis"
+  },
+  {
+    "description": "Guild Castle rooms",
+    "filename": "GuildCastle_Teatime",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Teatime",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "Srw9LRU0glM"
+  },
+  {
     "description": "Buddy Headset: Jazz of Maple ft. Maple Studio Band",
     "filename": "JazzOfMaple_Ariant",
     "mark": "Ariant",
