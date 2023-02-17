@@ -18,6 +18,24 @@
     "youtube": "kVG41FevqdU"
   },
   {
+    "description": "Kaling - boss reward room",
+    "filename": "Four Auspicious Beasts",
+    "mark": "dowonkyung",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Four Auspicious Beasts",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-02-16",
+      "structure": "Bgm59",
+      "version": "1.2.151"
+    },
+    "youtube": "pNUO1eFYfBY"
+  },
+  {
     "description": "Erimos palace",
     "filename": "Lord's Castle",
     "mark": "Erimos",
@@ -109,5 +127,23 @@
       "version": "1.2.150"
     },
     "youtube": "3ahM1xFHFNE"
+  },
+  {
+    "description": "Shangri-La",
+    "filename": "The land of peach blossoms",
+    "mark": "dowonkyung",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Land of Peach Blossoms",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-02-16",
+      "structure": "Bgm59",
+      "version": "1.2.151"
+    },
+    "youtube": "WfL64ILvW0A"
   }
 ]
