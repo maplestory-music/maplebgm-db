@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023.2 - 2023-04-02
+
+### Added
+
+- New music from Q1 2023
+
+### Changed
+
+- Start following the [Conventional Commits](https://www.conventionalcommits.org/)
+specification for commit messages
+
+### New Additions
+
+| Date       | Source       | Description            |
+| ---------- | ------------ | ---------------------- |
+| 2023-01-12 | KMST 1.2.150 | Khali & Erimos         |
+| 2023-01-19 | KMS 1.2.373  | Khali                  |
+| 2023-02-06 | CMST 1.88    | Guild Castle           |
+| 2023-02-14 | CMST 1.89    | Guild Castle rearrange |
+| 2023-02-16 | KMST 1.2.151 | Shangri-La & Kaling    |
+
 ## 2023.1 - 2023-01-02
 
 ### Added
