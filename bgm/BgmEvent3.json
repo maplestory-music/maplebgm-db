@@ -18,6 +18,24 @@
     "youtube": "_UlS4xxGcag"
   },
   {
+    "description": "20th anniversary: Mapril Island",
+    "filename": "Mapril_Island",
+    "mark": "20th_Event",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Mapril Island",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-04-13",
+      "structure": "BgmEvent3",
+      "version": "1.2.153"
+    },
+    "youtube": "J8KG_wQVHNw"
+  },
+  {
     "description": "Wonstaurant (MapleStory Savior)",
     "filename": "wonstaurant",
     "mark": "2022winter",
