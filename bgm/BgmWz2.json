@@ -1,5 +1,23 @@
 [
   {
+    "description": "Abyss Expedition Season 3 - Zone 2",
+    "filename": "Abyss_AbysmalRavine",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Abysmal Ravine",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-04-21",
+      "structure": "BgmWz2",
+      "version": "1.91"
+    },
+    "youtube": "4okUaUJX1f4"
+  },
+  {
     "description": "Abyss Expedition Headquarters",
     "filename": "AbyssExpedition",
     "mark": "AbyssExpedition",
@@ -34,6 +52,96 @@
       "version": "1.57"
     },
     "youtube": "m8seC5IY-d4"
+  },
+  {
+    "description": "Abyss Expedition Season 3 - Zone 1",
+    "filename": "Abyss_MysteriousJourney",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Mysterious Journey",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-04-21",
+      "structure": "BgmWz2",
+      "version": "1.91"
+    },
+    "youtube": "OHAHEdXAlwY"
+  },
+  {
+    "description": "Abyss Expedition Season 3 - Zone 3",
+    "filename": "Abyss_TheBottomEnd",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Bottom End",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-04-21",
+      "structure": "BgmWz2",
+      "version": "1.91"
+    },
+    "youtube": "Jkr7wR56rs0"
+  },
+  {
+    "description": "Abyss Expedition Season 3 - Boss",
+    "filename": "Abyss_WeAreNotAfraid",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "We Are Not Afraid",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-04-21",
+      "structure": "BgmWz2",
+      "version": "1.91"
+    },
+    "youtube": "Ki484AHm-SA"
+  },
+  {
+    "description": "Abyss Expedition Season 3 - Headquarters",
+    "filename": "Abyss_WheretheGreatExpeditionBegins_01",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Where the Great Expedition Begins -Ambience ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-04-21",
+      "structure": "BgmWz2",
+      "version": "1.91"
+    },
+    "youtube": "pY1vslezYIM"
+  },
+  {
+    "description": "Abyss Expedition Season 3 - Headquarters",
+    "filename": "Abyss_WheretheGreatExpeditionBegins_02",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Where the Great Expedition Begins",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-04-21",
+      "structure": "BgmWz2",
+      "version": "1.91"
+    },
+    "youtube": "-Tt0UfX-Sco"
   },
   {
     "description": "Abyss Expedition Underground",
