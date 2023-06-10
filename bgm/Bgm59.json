@@ -145,5 +145,23 @@
       "version": "1.2.151"
     },
     "youtube": "WfL64ILvW0A"
+  },
+  {
+    "description": "Shangri-La field",
+    "filename": "The other side of ShangriLa",
+    "mark": "dowonkyung",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Other Side of Shangri-La",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-06-10",
+      "structure": "Bgm59",
+      "version": "1.2.155"
+    },
+    "youtube": "tJksDYXZ4Vw"
   }
 ]
