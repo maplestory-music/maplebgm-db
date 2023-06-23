@@ -18,6 +18,24 @@
     "youtube": "njzZP2857Yc"
   },
   {
+    "description": "Angelic Buster's Grand Finale skill",
+    "filename": "6thGrandFinaleStarBubble",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "6th Grand Finale Star Bubble",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-06-22",
+      "structure": "Bgm30",
+      "version": "1.2.156"
+    },
+    "youtube": "qMKlpiiwVEc"
+  },
+  {
     "description": "Xenon tutorial",
     "filename": "fromUnderToUpper",
     "mark": "Leben",
