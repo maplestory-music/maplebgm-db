@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023.3 - 2023-07-05
+
+### Added
+
+- New music from Q2 2023
+
+### New Additions
+
+| Date       | Source       | Description                         |
+| ---------- | ------------ | ----------------------------------- |
+| 2023-04-13 | KMST 1.2.153 | 20th Anniversary                    |
+| 2023-04-21 | CMST 1.91    | Abyss Expedition Season 3           |
+| 2023-06-10 | KMST 1.2.155 | MapleStory New Age & Shangri-La     |
+| 2023-06-22 | KMST 1.2.156 | Angelic Buster's Grand Finale skill |
+
 ## 2023.2 - 2023-04-02
 
 ### Added
