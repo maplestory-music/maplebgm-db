@@ -289,6 +289,24 @@
     "youtube": "qM6ExgTX1KM"
   },
   {
+    "description": "New Age login theme",
+    "filename": "Title_NewAge",
+    "mark": "TestServer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Title - New Age",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-07-06",
+      "structure": "BgmUI",
+      "version": "1.2.157"
+    },
+    "youtube": "zFsulKE0jcQ"
+  },
+  {
     "description": "Ren Longxin - A Whole New World",
     "filename": "Title_Taiwan",
     "mark": "TestServer",

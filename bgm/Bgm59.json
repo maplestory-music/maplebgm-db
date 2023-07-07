@@ -1,5 +1,23 @@
 [
   {
+    "description": "Arteria storyline",
+    "filename": "Advance of Alliance",
+    "mark": "arteria",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Advance of Alliance",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-07-06",
+      "structure": "Bgm59",
+      "version": "1.2.157"
+    },
+    "youtube": "Q1LkJtB6EJc"
+  },
+  {
     "description": "Khali storyline",
     "filename": "Carnival of the Night",
     "mark": "Erimos",
@@ -16,6 +34,42 @@
       "version": "1.2.150"
     },
     "youtube": "kVG41FevqdU"
+  },
+  {
+    "description": "Arteria storyline",
+    "filename": "Cygnus's rest",
+    "mark": "arteria",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Cygnus's Rest",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-07-06",
+      "structure": "Bgm59",
+      "version": "1.2.157"
+    },
+    "youtube": "eGNqwaBGIow"
+  },
+  {
+    "description": "Arteria: Queen's Road",
+    "filename": "Fierce fortress",
+    "mark": "Ereb",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fierce Fortress",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-07-06",
+      "structure": "Bgm59",
+      "version": "1.2.157"
+    },
+    "youtube": "lT9xo36pADU"
   },
   {
     "description": "Kaling - boss reward room",
@@ -111,6 +165,63 @@
     "youtube": "ZlrwXQuBzxg"
   },
   {
+    "description": "Arteria",
+    "filename": "Painful and lingering death",
+    "mark": "arteria",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Painful and Lingering Death",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-07-06",
+      "structure": "Bgm59",
+      "version": "1.2.157"
+    },
+    "youtube": "I8TW0DEcQjc"
+  },
+  {
+    "description": "6th Job Advancement - Sol Erda",
+    "filename": "Radiant Triumph",
+    "mark": "solerda",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Radiant Triumph",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-07-06",
+      "structure": "Bgm59",
+      "version": "1.2.157"
+    },
+    "youtube": "bYE20OjWEbs"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "6th Job Advancement - Sol Erda",
+    "filename": "Radiant Triumph Reprise",
+    "mark": "solerda",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Radiant Triumph -reprise-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-07-06",
+      "structure": "Bgm59",
+      "version": "1.2.157"
+    },
+    "youtube": "P3xCJBvoz8o"
+  },
+  {
     "description": "Khali storyline",
     "filename": "Realize truth",
     "mark": "Erimos",
@@ -127,6 +238,42 @@
       "version": "1.2.150"
     },
     "youtube": "3ahM1xFHFNE"
+  },
+  {
+    "description": "Arteria",
+    "filename": "Shadowy passage",
+    "mark": "arteria",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shadowy Passage",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-07-06",
+      "structure": "Bgm59",
+      "version": "1.2.157"
+    },
+    "youtube": "EPpkgs7GI54"
+  },
+  {
+    "description": "6th Job Advancement - Sol Erda",
+    "filename": "Tangled Nebula",
+    "mark": "solerda",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Tangled Nebula",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-07-06",
+      "structure": "Bgm59",
+      "version": "1.2.157"
+    },
+    "youtube": "YznuOT5yVKg"
   },
   {
     "description": "Shangri-La",
