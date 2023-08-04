@@ -1,0 +1,113 @@
+[
+  {
+    "description": "Carcion: Sunken Ruins",
+    "filename": "An approaching abyss",
+    "mark": "carcion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "An Approaching Abyss",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-08-03",
+      "structure": "Bgm60",
+      "version": "1.2.158"
+    },
+    "youtube": "H5SNYI8oGlc"
+  },
+  {
+    "description": "Carcion: Calm Waterfront",
+    "filename": "An occupied coast",
+    "mark": "carcion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "An Occupied Coast",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-08-03",
+      "structure": "Bgm60",
+      "version": "1.2.158"
+    },
+    "youtube": "Emtn0U3bro4"
+  },
+  {
+    "description": "Carcion: Sacred Tree Summit",
+    "filename": "Tears of Eternity",
+    "mark": "carcion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Tears of Eternity",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-08-03",
+      "structure": "Bgm60",
+      "version": "1.2.158"
+    },
+    "youtube": "OWaIpWJzgx8"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Carcion storyline",
+    "filename": "Tears of Eternity -loop-",
+    "mark": "carcion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Tears of Eternity -loop-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-08-03",
+      "structure": "Bgm60",
+      "version": "1.2.158"
+    },
+    "youtube": "3u3sQlI6Jc0"
+  },
+  {
+    "description": "Carcion: Ishfira's Eye",
+    "filename": "The eyes of the ishfira",
+    "mark": "carcion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Eyes of the Ishfira",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-08-03",
+      "structure": "Bgm60",
+      "version": "1.2.158"
+    },
+    "youtube": "atxfdYd3SL0"
+  },
+  {
+    "description": "Carcion: Entangling Forest",
+    "filename": "The great tropics",
+    "mark": "carcion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Great Tropics",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-08-03",
+      "structure": "Bgm60",
+      "version": "1.2.158"
+    },
+    "youtube": "hbY-c7_zUUA"
+  }
+]
