@@ -54,6 +54,24 @@
     "youtube": "_UlS4xxGcag"
   },
   {
+    "description": "2023 DJMAX RESPECT V collaboration",
+    "filename": "jam-jam - The Lake of Oblivion(jam-jam Remix)",
+    "mark": "5204047",
+    "metadata": {
+      "albumArtist": "Neowiz",
+      "artist": "jam-jam",
+      "title": "The Lake of Oblivion (jam-jam Remix)",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2023-08-31",
+      "structure": "BgmEvent3",
+      "version": "1.2.381"
+    },
+    "youtube": "MeHzf8F9WOA"
+  },
+  {
     "description": "20th anniversary: Mapril Island",
     "filename": "Mapril_Island",
     "mark": "20th_Event",
@@ -70,6 +88,114 @@
       "version": "1.2.153"
     },
     "youtube": "J8KG_wQVHNw"
+  },
+  {
+    "description": "2023 DJMAX RESPECT V collaboration",
+    "filename": "Mycin.T x ned - Story of Maple_AR",
+    "mark": "5010268",
+    "metadata": {
+      "albumArtist": "Neowiz",
+      "artist": "Mycin.T x ned",
+      "title": "Story of Maple",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2023-08-31",
+      "structure": "BgmEvent3",
+      "version": "1.2.381"
+    },
+    "youtube": "kXijRwgZ7b8"
+  },
+  {
+    "description": "2023 DJMAX RESPECT V collaboration",
+    "filename": "ned - Ariant (ned Remix)",
+    "mark": "5204047",
+    "metadata": {
+      "albumArtist": "Neowiz",
+      "artist": "ned",
+      "title": "Ariant (ned Remix)",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2023-08-31",
+      "structure": "BgmEvent3",
+      "version": "1.2.381"
+    },
+    "youtube": "haIZ_AdoXfw"
+  },
+  {
+    "description": "2023 DJMAX RESPECT V collaboration",
+    "filename": "Pan - Fairytale (Pan Remix)",
+    "mark": "5204047",
+    "metadata": {
+      "albumArtist": "Neowiz",
+      "artist": "Pan",
+      "title": "Fairytale (Pan Remix)",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2023-08-31",
+      "structure": "BgmEvent3",
+      "version": "1.2.381"
+    },
+    "youtube": "huZ90iw0FOo"
+  },
+  {
+    "description": "2023 DJMAX RESPECT V collaboration",
+    "filename": "Parang - The Tune of the Azure Light (Parang Remix)",
+    "mark": "5204047",
+    "metadata": {
+      "albumArtist": "Neowiz",
+      "artist": "Parang",
+      "title": "The Tune of the Azure Light (Parang Remix)",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2023-08-31",
+      "structure": "BgmEvent3",
+      "version": "1.2.381"
+    },
+    "youtube": "9nwQTQtOyKg"
+  },
+  {
+    "description": "2023 DJMAX RESPECT V collaboration",
+    "filename": "Paul Bazooka - Moonlight Shadow (Paul Bazooka Remix)",
+    "mark": "5204047",
+    "metadata": {
+      "albumArtist": "Neowiz",
+      "artist": "Paul Bazooka",
+      "title": "Moonlight Shadow (Paul Bazooka Remix)",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2023-08-31",
+      "structure": "BgmEvent3",
+      "version": "1.2.381"
+    },
+    "youtube": "hysUL7OuzxU"
+  },
+  {
+    "description": "2023 DJMAX RESPECT V collaboration",
+    "filename": "SOPHI - Missing You (SOPHI Remix)",
+    "mark": "5204047",
+    "metadata": {
+      "albumArtist": "Neowiz",
+      "artist": "SOPHI",
+      "title": "Missing You (SOPHI Remix)",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2023-08-31",
+      "structure": "BgmEvent3",
+      "version": "1.2.381"
+    },
+    "youtube": "34Ukh7U_vVg"
   },
   {
     "description": "Wonstaurant (MapleStory Savior)",
