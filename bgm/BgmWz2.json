@@ -162,6 +162,24 @@
     "youtube": "GRcGdhNMkUE"
   },
   {
+    "description": "2023 BUGCAT CAPOO collaboration",
+    "filename": "Capoo's_Adventure",
+    "mark": "Capoo2",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Capoo's Adventure",
+      "year": "2023"
+    },
+    "source": {
+      "client": "TMS",
+      "date": "2023-09-06",
+      "structure": "BgmWz2",
+      "version": "2.55"
+    },
+    "youtube": "CmWbW46X5zc"
+  },
+  {
     "description": "2019 Lunar New Year event",
     "filename": "CNY_LoveLetter",
     "mark": "PL_CNY2018",
