@@ -90,6 +90,24 @@
     "youtube": "J8KG_wQVHNw"
   },
   {
+    "description": "2023 Minar Autumn Picnic event",
+    "filename": "Minar_Autumn_Picnic",
+    "mark": "minarPicnic",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Minar Autumn Picnic",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-09-14",
+      "structure": "BgmEvent3",
+      "version": "1.2.161"
+    },
+    "youtube": "_jA050cfdK8"
+  },
+  {
     "description": "2023 DJMAX RESPECT V collaboration",
     "filename": "Mycin.T x ned - Story of Maple_AR",
     "mark": "5010268",
@@ -196,6 +214,24 @@
       "version": "1.2.381"
     },
     "youtube": "34Ukh7U_vVg"
+  },
+  {
+    "description": "2023 Minar Autumn Picnic (Forest Blast) event",
+    "filename": "We Are Not Afraid_Boss_Master_Loop",
+    "mark": "abyssForest",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "We Are Not Afraid -boss master loop-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-09-14",
+      "structure": "BgmEvent3",
+      "version": "1.2.161"
+    },
+    "youtube": "ysoahiSOjf4"
   },
   {
     "description": "Wonstaurant (MapleStory Savior)",
