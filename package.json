@@ -1,6 +1,9 @@
 {
   "name": "maplebgm-db",
   "version": "2023.3",
+  "dependencies": {
+    "jsonc-parser": "^3.2.0"
+  },
   "devDependencies": {
     "ajv": "^6.5.5",
     "eslint": "^7.4.0",
@@ -16,6 +19,6 @@
   "scripts": {
     "test": "jest",
     "prettier": "prettier --write .",
-    "merge": "node -e \"require('./utils').mergeBgmDatabase('./bgm')\""
+    "merge": "node -e \"require('./utils').mergeBgmDatabase('./bgm', './playlist')\""
   }
 }

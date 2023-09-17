@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const jsoncParser = require('jsonc-parser');
 
 const locales = ['ko', 'ja', 'zh-CN', 'zh-TW'];
 
@@ -41,10 +42,22 @@ function mergeLocaleData(db) {
   });
 }
 
-function mergeBgmDatabase(dir) {
+function getPlaylists(dir) {
+  const playlists = [];
+  traverseDirectory(dir)
+    .filter((fullPath) => path.extname(fullPath) === '.jsonc')
+    .forEach((fullPath) => {
+      playlists.push(jsoncParser.parse(fs.readFileSync(fullPath, 'utf8')));
+    });
+  return playlists;
+}
+
+function mergeBgmDatabase(dir, playlistDir) {
   const db = getBgmDatabase(dir);
   mergeLocaleData(db);
   fs.writeFileSync('bgm.min.json', JSON.stringify(db));
+  const playlists = getPlaylists(playlistDir);
+  fs.writeFileSync('playlist.min.json', JSON.stringify(playlists));
 }
 
 module.exports = {
