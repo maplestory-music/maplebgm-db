@@ -7,7 +7,7 @@ Definitive MapleStory music database
 
 ## Description
 
-This database is a record all MapleStory background music tracks and related
+This database is a record of all MapleStory background music tracks and related
 metadata. A visual representation of the data can be found at
 [MapleStory Music](https://maplestory-music.github.io/).
 
