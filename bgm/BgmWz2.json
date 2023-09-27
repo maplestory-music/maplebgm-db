@@ -349,6 +349,24 @@
     "youtube": "Wv0sAZad8Aw"
   },
   {
+    "description": "Ludibrium Night Troupe event",
+    "filename": "Factoryofthedream_NightFestival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Factory of the Dream",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-09-26",
+      "structure": "BgmWz2",
+      "version": "1.95"
+    },
+    "youtube": "xjjoWjXClGo"
+  },
+  {
     "description": "Henesys Night Circus event",
     "filename": "FlowerPig_DreamRider",
     "mark": "Wz2_annual",
@@ -365,6 +383,42 @@
       "version": "1.64"
     },
     "youtube": "vPqBD7zhxQM"
+  },
+  {
+    "description": "Ludibrium Night Troupe event",
+    "filename": "FlowingTime_NightFestival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Flowing Time",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-09-26",
+      "structure": "BgmWz2",
+      "version": "1.95"
+    },
+    "youtube": "R7FUsiwP72c"
+  },
+  {
+    "description": "Ludibrium Night Troupe event",
+    "filename": "FunnyTimeMaker_Orchestra_NightFestival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Funny Time Maker -Orchestra-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-09-26",
+      "structure": "BgmWz2",
+      "version": "1.95"
+    },
+    "youtube": "3b-9Q7lKZsI"
   },
   {
     "description": "Guild Castle rooms",
@@ -1180,6 +1234,24 @@
       "version": "1.73"
     },
     "youtube": "_qcl2XaCvQg"
+  },
+  {
+    "description": "Ludibrium Night Troupe event",
+    "filename": "TheFantasticThinking_NightFestival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Fantastic Thinking -Night Festival-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-09-26",
+      "structure": "BgmWz2",
+      "version": "1.95"
+    },
+    "youtube": "WtfqoAwve-c"
   },
   {
     "description": "Treasure of Pharaoh event",
