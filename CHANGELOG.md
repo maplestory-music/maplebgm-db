@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2023.4 - 2023-10-03
+
+### Added
+
+- New music from Q3 2023
+- Introduce playlist support
+
+### New Additions
+
+| Date       | Source       | Description                   |
+| ---------- | ------------ | ----------------------------- |
+| 2023-07-06 | KMST 1.2.157 | Arteria & 6th Job             |
+| 2023-08-03 | KMST 1.2.158 | Carcion                       |
+| 2023-08-31 | KMS 1.2.381  | DJMAX RESPECT V collaboration |
+| 2023-09-06 | TMS 2.55     | BUGCAT CAPOO collaboration    |
+| 2023-09-14 | KMST 1.2.161 | Minar Autumn Picnic           |
+| 2023-09-26 | CMST 1.95    | Ludibrium Night Troupe        |
+
 ## 2023.3 - 2023-07-05
 
 ### Added
