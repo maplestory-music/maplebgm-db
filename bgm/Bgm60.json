@@ -109,5 +109,41 @@
       "version": "1.2.158"
     },
     "youtube": "hbY-c7_zUUA"
+  },
+  {
+    "description": "Grand Athenaeum: Episode 7 - Sephiroth's Gardener",
+    "filename": "The neglected solitude of the sanctuary",
+    "mark": "Sefirot",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Neglected Solitude of the Sanctuary",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-10-19",
+      "structure": "Bgm60",
+      "version": "1.2.162"
+    },
+    "youtube": "uTAVrYadBDI"
+  },
+  {
+    "description": "Grand Athenaeum: Episode 7 - Sephiroth's Gardener",
+    "filename": "The saddest sanctuary, Sephiroth",
+    "mark": "Sefirot",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Saddest Sanctuary, Sephiroth",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-10-19",
+      "structure": "Bgm60",
+      "version": "1.2.162"
+    },
+    "youtube": "9aeqWJRfN0U"
   }
 ]
