@@ -90,6 +90,24 @@
     "youtube": "McPZ2XTRv1g"
   },
   {
+    "description": "Angelic Buster's On Stage skill",
+    "filename": "starBubbleFull",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Star Bubble",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-11-09",
+      "structure": "Bgm30",
+      "version": "1.2.163"
+    },
+    "youtube": "dlXrpq-6jHc"
+  },
+  {
     "description": "Xenon tutorial",
     "filename": "thePhoto",
     "mark": "Leben",
