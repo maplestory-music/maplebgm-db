@@ -36,6 +36,24 @@
     "youtube": "qMKlpiiwVEc"
   },
   {
+    "description": "On Stage chair effect",
+    "filename": "flyAwayRemixFull",
+    "mark": "3019147",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fly Away Remix -full-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2023-11-23",
+      "structure": "Bgm30",
+      "version": "1.2.384"
+    },
+    "youtube": "enW1yt1aN_g"
+  },
+  {
     "description": "Xenon tutorial",
     "filename": "fromUnderToUpper",
     "mark": "Leben",
@@ -90,13 +108,52 @@
     "youtube": "McPZ2XTRv1g"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Angelic Buster's Pretty Exaltation skill",
+    "filename": "shiningHeart",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shining Heart",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2023-11-23",
+      "structure": "Bgm30",
+      "version": "1.2.384"
+    },
+    "youtube": "tlJ8v4ZBegA"
+  },
+  {
+    "description": "On Stage chair effect",
+    "filename": "shiningHeartFull",
+    "mark": "3019147",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shining Heart -full-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2023-11-23",
+      "structure": "Bgm30",
+      "version": "1.2.384"
+    },
+    "youtube": "nNgM_kp5GjM"
+  },
+  {
     "description": "Angelic Buster's On Stage skill",
     "filename": "starBubbleFull",
     "mark": "Pantheon",
     "metadata": {
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
-      "title": "Star Bubble",
+      "title": "Star Bubble -full-",
       "year": "2023"
     },
     "source": {
