@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2024.1 - 2024-01-14
+
+### Added
+
+- New music from Q4 2023
+
+### New Additions
+
+| Date       | Source       | Description                 |
+| ---------- | ------------ | --------------------------- |
+| 2023-10-19 | KMST 1.2.162 | Grand Athenaeum, Episode 7  |
+| 2023-11-09 | KMST 1.2.163 | Angelic Buster: Star Bubble |
+| 2023-11-23 | KMS 1.2.384  | Angelic Buster              |
+| 2023-12-15 | KMST 1.2.165 | MapleStory Dreamer          |
+
 ## 2023.4 - 2023-10-03
 
 ### Added
