@@ -108,6 +108,24 @@
     "youtube": "OSaDIMldgiM"
   },
   {
+    "description": "Lucid Dream Festa (MapleStory Dreamer)",
+    "filename": "LucidDream3",
+    "mark": "lucidDream",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Lucid Dream 3",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2024-02-22",
+      "structure": "BgmEvent3",
+      "version": "1.2.388"
+    },
+    "youtube": "kootP0-YdQE"
+  },
+  {
     "description": "20th anniversary: Mapril Island",
     "filename": "Mapril_Island",
     "mark": "20th_Event",
