@@ -42,6 +42,24 @@
     "metadata": {
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
+      "title": "Fly Away Remix -full- (Instrumental)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-03-14",
+      "structure": "Bgm30",
+      "version": "1.2.170"
+    },
+    "youtube": "jyQKY4KspHA"
+  },
+  {
+    "description": "On Stage chair effect",
+    "filename": "flyAwayRemixFull (Original)",
+    "mark": "3019147",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
       "title": "Fly Away Remix -full-",
       "year": "2023"
     },
@@ -117,20 +135,38 @@
     "metadata": {
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
-      "title": "Shining Heart",
-      "year": "2023"
+      "title": "Shining Heart (Instrumental)",
+      "year": "2024"
     },
     "source": {
-      "client": "KMS",
-      "date": "2023-11-23",
+      "client": "KMST",
+      "date": "2024-03-14",
       "structure": "Bgm30",
-      "version": "1.2.384"
+      "version": "1.2.170"
     },
-    "youtube": "tlJ8v4ZBegA"
+    "youtube": "tRn8s72WodI"
   },
   {
     "description": "On Stage chair effect",
     "filename": "shiningHeartFull",
+    "mark": "3019147",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shining Heart -full- (Instrumental)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-03-14",
+      "structure": "Bgm30",
+      "version": "1.2.170"
+    },
+    "youtube": "PEnqtiary0k"
+  },
+  {
+    "description": "On Stage chair effect",
+    "filename": "shiningHeartFull (Original)",
     "mark": "3019147",
     "metadata": {
       "albumArtist": "NECORD",
@@ -145,6 +181,27 @@
       "version": "1.2.384"
     },
     "youtube": "nNgM_kp5GjM"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Angelic Buster's Pretty Exaltation skill",
+    "filename": "shiningHeart (Original)",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shining Heart",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2023-11-23",
+      "structure": "Bgm30",
+      "version": "1.2.384"
+    },
+    "youtube": "tlJ8v4ZBegA"
   },
   {
     "description": "Angelic Buster's On Stage skill",
