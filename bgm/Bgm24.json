@@ -1,0 +1,182 @@
+[
+  {
+    "description": "PvP: Background Music Type A",
+    "filename": "battleBGMTypeA",
+    "mark": "BattleSquare",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Battle BGM Type A",
+      "year": "2011"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2011-01-11",
+      "structure": "Bgm24",
+      "version": "1.2.364"
+    },
+    "youtube": "wRxKsZpqW2c"
+  },
+  {
+    "description": "PvP: Background Music Type B",
+    "filename": "battleBGMTypeB",
+    "mark": "BattleSquare",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Battle BGM Type B",
+      "year": "2011"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2011-01-11",
+      "structure": "Bgm24",
+      "version": "1.2.364"
+    },
+    "youtube": "oQXddgI_o2s"
+  },
+  {
+    "description": "PvP: Background Music Type C",
+    "filename": "battleBGMTypeC",
+    "mark": "BattleSquare",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Battle BGM Type C",
+      "year": "2011"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2011-01-13",
+      "structure": "Bgm24",
+      "version": "1.2.122"
+    },
+    "youtube": "LUxUY27-3r4"
+  },
+  {
+    "description": "PvP: Background Music Type D",
+    "filename": "battleBGMTypeD",
+    "mark": "BattleSquare",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Battle BGM Type D",
+      "year": "2011"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2011-01-13",
+      "structure": "Bgm24",
+      "version": "1.2.122"
+    },
+    "youtube": "Fjtl9PXDxeE"
+  },
+  {
+    "description": "PvP: Battle Square (ChinaMS version)",
+    "filename": "battleChipi",
+    "mark": "BattleSquare",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Battle Chipi",
+      "year": "2011"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2011-06-27",
+      "structure": "Bgm24",
+      "version": "0.93"
+    },
+    "youtube": "VV01F6REcnw"
+  },
+  {
+    "description": "PvP: Battle Square",
+    "filename": "battleEntrance",
+    "mark": "BattleSquare",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Battle Entrance",
+      "year": "2011"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2011-01-11",
+      "structure": "Bgm24",
+      "version": "1.2.364"
+    },
+    "youtube": "eky_ABtx2VE"
+  },
+  {
+    "description": "Chryse Hideout",
+    "filename": "KreaseAgit",
+    "mark": "Krease",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Krease Agit",
+      "year": "2010"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2010-10-27",
+      "structure": "Bgm24",
+      "version": "1.2.350"
+    },
+    "youtube": "3neiOSwgp7A"
+  },
+  {
+    "description": "Xerxes boss theme",
+    "filename": "KreaseColosseum",
+    "mark": "Krease",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Krease Colosseum",
+      "year": "2010"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2010-10-27",
+      "structure": "Bgm24",
+      "version": "1.2.350"
+    },
+    "youtube": "FT1qwL_p6aA"
+  },
+  {
+    "description": "Chryse field",
+    "filename": "KreaseField",
+    "mark": "Krease",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Krease Field",
+      "year": "2010"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2010-10-27",
+      "structure": "Bgm24",
+      "version": "1.2.350"
+    },
+    "youtube": "axgX2QRdBII"
+  },
+  {
+    "description": "Spiegelmann's Monster Park",
+    "filename": "monsterPark",
+    "mark": "Carnival",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Monster Park",
+      "year": "2011"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2011-03-29",
+      "structure": "Bgm24",
+      "version": "1.2.377"
+    },
+    "youtube": "SbUoiVCAkI0"
+  }
+]
