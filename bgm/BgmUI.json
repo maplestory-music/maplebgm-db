@@ -72,6 +72,24 @@
     "youtube": "xgQdq4awens"
   },
   {
+    "description": "Nexon splash (30th anniversary)",
+    "filename": "NxLogo (30th)",
+    "mark": "TestServer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Nexon Logo (30th Anniversary)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2024-03-21",
+      "structure": "BgmUI",
+      "version": "1.2.389"
+    },
+    "youtube": "SKB2GgUNLJU"
+  },
+  {
     "description": "Nexon America splash",
     "filename": "NxLogoMS",
     "mark": "TestServer",
