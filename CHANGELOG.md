@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2024.2 - 2024-04-04
+
+### Added
+
+- New music from Q1 2024
+
+### New Additions
+
+| Date       | Source       | Description                   |
+| ---------- | ------------ | ----------------------------- |
+| 2024-02-15 | KMST 1.2.169 | High Mountain                 |
+| 2024-02-21 | TMS 2.59     | Lynn & Forest of Eternity     |
+| 2024-02-22 | KMS 1.2.388  | MapleStory Dreamer, Part 2    |
+| 2024-03-14 | KMST 1.2.170 | Angelic Buster instrumental   |
+| 2024-03-21 | KMS 1.2.389  | Nexon Logo (30th Anniversary) |
+
 ## 2024.1 - 2024-01-14
 
 ### Added
