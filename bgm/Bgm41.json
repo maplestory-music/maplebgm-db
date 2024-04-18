@@ -181,5 +181,59 @@
       "version": "1.2.225"
     },
     "youtube": "usGdjxNEf2E"
+  },
+  {
+    "description": "Lotus - Phase 1 (2024)",
+    "filename": "Suu1phase",
+    "mark": "BlockBuster",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Lotus - Phase 1",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-04-11",
+      "structure": "Bgm41",
+      "version": "1.2.172"
+    },
+    "youtube": "PPgbQhR6eGQ"
+  },
+  {
+    "description": "Lotus - Phase 2 (2024)",
+    "filename": "Suu2phase",
+    "mark": "BlockBuster",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Lotus - Phase 2",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-04-11",
+      "structure": "Bgm41",
+      "version": "1.2.172"
+    },
+    "youtube": "0sRMWVziq7Q"
+  },
+  {
+    "description": "Lotus - Phase 3 (2024)",
+    "filename": "Suu3phase",
+    "mark": "BlockBuster",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Lotus - Phase 3",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-04-11",
+      "structure": "Bgm41",
+      "version": "1.2.172"
+    },
+    "youtube": "t7e8fazlIPw"
   }
 ]

@@ -1,5 +1,95 @@
 [
   {
+    "description": "21st anniversary - Maple Soccer Online minigame",
+    "filename": "21st_mapleSoccerOnline",
+    "mark": "victoriaCup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Maple Soccer Online",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-04-11",
+      "structure": "BgmEvent3",
+      "version": "1.2.172"
+    },
+    "youtube": "MfqGVcr-dPs"
+  },
+  {
+    "description": "Mabinogi Nao chair (Bard's Song) effect",
+    "filename": "An Old Story from Grandma",
+    "mark": "3019243",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "An Old Story From Grandma",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-04-11",
+      "structure": "BgmEvent3",
+      "version": "1.2.172"
+    },
+    "youtube": "7AVs339S-JM"
+  },
+  {
+    "description": "21st anniversary - Chipmunk Sweepers minigame",
+    "filename": "ChipmunkSweepers_Marionette",
+    "mark": "victoriaCup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Chipmunk Sweepers - Marionette",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-04-11",
+      "structure": "BgmEvent3",
+      "version": "1.2.172"
+    },
+    "youtube": "sVxJ87ntnps"
+  },
+  {
+    "description": "21st anniversary - Chipmunk Sweepers minigame",
+    "filename": "ChipmunkSweepers_Mouse",
+    "mark": "victoriaCup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Chipmunk Sweepers - Mouse",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-04-11",
+      "structure": "BgmEvent3",
+      "version": "1.2.172"
+    },
+    "youtube": "MA2xeWsep_g"
+  },
+  {
+    "description": "21st anniversary - Chipmunk Sweepers minigame",
+    "filename": "ChipmunkSweepers_Snake",
+    "mark": "victoriaCup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Chipmunk Sweepers - Snake",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-04-11",
+      "structure": "BgmEvent3",
+      "version": "1.2.172"
+    },
+    "youtube": "pWK8I7IDR3U"
+  },
+  {
     "description": "Identisk (MapleStory New Age)",
     "filename": "Dancing_Sea_Otter",
     "mark": "identisk",
@@ -268,6 +358,42 @@
       "version": "1.2.381"
     },
     "youtube": "34Ukh7U_vVg"
+  },
+  {
+    "description": "21st anniversary: Victoria Cup",
+    "filename": "VictoriaCup_Day",
+    "mark": "victoriaCup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Victoria Cup -Day-",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-04-11",
+      "structure": "BgmEvent3",
+      "version": "1.2.172"
+    },
+    "youtube": "hWNSMcmqKsk"
+  },
+  {
+    "description": "21st anniversary: Victoria Cup",
+    "filename": "VictoriaCup_Night",
+    "mark": "victoriaCup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Victoria Cup -Night-",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-04-11",
+      "structure": "BgmEvent3",
+      "version": "1.2.172"
+    },
+    "youtube": "o3h6eFu6dYg"
   },
   {
     "description": "2023 Minar Autumn Picnic (Forest Blast) event",
