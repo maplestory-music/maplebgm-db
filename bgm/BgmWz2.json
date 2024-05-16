@@ -18,6 +18,24 @@
     "youtube": "4okUaUJX1f4"
   },
   {
+    "description": "Abyss Expedition Season 4",
+    "filename": "Abyss_DeepandWhite",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Deep and White",
+      "year": "2024"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2024-05-16",
+      "structure": "BgmWz2",
+      "version": "2.07"
+    },
+    "youtube": "2ieG9WAhNrg"
+  },
+  {
     "description": "Abyss Expedition Headquarters",
     "filename": "AbyssExpedition",
     "mark": "AbyssExpedition",
@@ -70,6 +88,42 @@
       "version": "1.91"
     },
     "youtube": "OHAHEdXAlwY"
+  },
+  {
+    "description": "Abyss Expedition Season 4",
+    "filename": "Abyss_ParalyzedWaterfall",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Paralyzed Waterfall",
+      "year": "2024"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2024-05-16",
+      "structure": "BgmWz2",
+      "version": "2.07"
+    },
+    "youtube": "-D-4gH9sLBI"
+  },
+  {
+    "description": "Abyss Expedition Season 4",
+    "filename": "Abyss_SnowyAbyss",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Snowy Abyss",
+      "year": "2024"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2024-05-16",
+      "structure": "BgmWz2",
+      "version": "2.07"
+    },
+    "youtube": "u4cO-QLFWDQ"
   },
   {
     "description": "Abyss Expedition Season 3 - Zone 3",
