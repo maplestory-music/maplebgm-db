@@ -1,8 +1,44 @@
 [
   {
+    "description": "21st anniversary - Maple Racing minigame",
+    "filename": "21st_mapleRacingIngame",
+    "mark": "victoriaCup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Maple Racing -In Game-",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-05-16",
+      "structure": "BgmEvent3",
+      "version": "1.2.173"
+    },
+    "youtube": "qfMOIJ169mo"
+  },
+  {
+    "description": "21st anniversary - Maple Racing minigame",
+    "filename": "21st_mapleRacingLobby",
+    "mark": "victoriaCup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Maple Racing -Lobby-",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-05-16",
+      "structure": "BgmEvent3",
+      "version": "1.2.173"
+    },
+    "youtube": "qBIWtnD4sVM"
+  },
+  {
     "description": "21st anniversary - Maple Soccer Online minigame",
     "filename": "21st_mapleSoccerOnline",
-    "mark": "victoriaCup",
+    "mark": "multiSoccer",
     "metadata": {
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
