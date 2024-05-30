@@ -18,6 +18,24 @@
     "youtube": "njzZP2857Yc"
   },
   {
+    "description": "Angelic Buster's Superstar Spotlight skill",
+    "filename": "5thSpotLightFlyAway (English)",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Wizet",
+      "title": "5th Spotlight Fly Away (English)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-05-29",
+      "structure": "Bgm30",
+      "version": "2.32"
+    },
+    "youtube": "hkOtLzywHjY"
+  },
+  {
     "description": "Angelic Buster's Grand Finale skill",
     "filename": "6thGrandFinaleStarBubble",
     "mark": "Pantheon",
@@ -34,6 +52,24 @@
       "version": "1.2.156"
     },
     "youtube": "qMKlpiiwVEc"
+  },
+  {
+    "description": "Angelic Buster's Grand Finale skill",
+    "filename": "6thGrandFinaleStarBubble (English)",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "6th Grand Finale Star Bubble (English)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-05-29",
+      "structure": "Bgm30",
+      "version": "2.32"
+    },
+    "youtube": "8ptGYzhGkz4"
   },
   {
     "description": "On Stage chair effect",
@@ -145,6 +181,27 @@
       "version": "1.2.170"
     },
     "youtube": "tRn8s72WodI"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Angelic Buster's Pretty Exaltation skill",
+    "filename": "shiningHeart (English)",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shining Heart (English)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-05-29",
+      "structure": "Bgm30",
+      "version": "2.32"
+    },
+    "youtube": "qZed3_Isd6I"
   },
   {
     "description": "On Stage chair effect",
