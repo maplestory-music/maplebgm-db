@@ -90,6 +90,24 @@
     "youtube": "RknHVs7vDlw"
   },
   {
+    "description": "Shade's Reincarnated Fox God skill",
+    "filename": "LightOfTheFoxGoddess",
+    "mark": "foxvillage",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Light of the Fox Goddess",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-06-08",
+      "structure": "Bgm36",
+      "version": "1.2.174"
+    },
+    "youtube": "SfnK7L_rHaU"
+  },
+  {
     "description": "Elite Boss theme",
     "filename": "RoyalGuard",
     "mark": "FreeMarket",
