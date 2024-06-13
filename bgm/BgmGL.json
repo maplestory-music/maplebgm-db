@@ -198,6 +198,45 @@
     "youtube": "i-wfyqyxWeM"
   },
   {
+    "description": "MapleStory GO WEST! theme",
+    "filename": "GoWest_MapleBoys",
+    "mark": "Event",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Go West, Maple Boys",
+      "year": "2024"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2024-06-12",
+      "structure": "BgmGL",
+      "version": "2.51"
+    },
+    "youtube": "biwVhDM4B94"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "MapleStory GO WEST! theme",
+    "filename": "GoWest_MapleBoys_Loop",
+    "mark": "Event",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Go West, Maple Boys -loop-",
+      "year": "2024"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2024-06-12",
+      "structure": "BgmGL",
+      "version": "2.51"
+    },
+    "youtube": "tgc8zjJ-KJU"
+  },
+  {
     "description": "Crimsonwood Party Quest: Grandmaster boss theme",
     "filename": "GrandmastersGauntlet",
     "mark": "Crimsonwood",
