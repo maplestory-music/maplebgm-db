@@ -324,6 +324,24 @@
     "youtube": "haIZ_AdoXfw"
   },
   {
+    "description": "Origin of Records (MapleStory Milestone)",
+    "filename": "OriginOfRecords",
+    "mark": "2024SummerLibrary",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Origin of Records",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-06-13",
+      "structure": "BgmEvent3",
+      "version": "1.2.175"
+    },
+    "youtube": "L5874vOgeHY"
+  },
+  {
     "description": "2023 DJMAX RESPECT V collaboration",
     "filename": "Pan - Fairytale (Pan Remix)",
     "mark": "5204047",
