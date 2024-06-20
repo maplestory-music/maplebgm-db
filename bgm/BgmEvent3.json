@@ -252,6 +252,24 @@
     "youtube": "kootP0-YdQE"
   },
   {
+    "description": "Spirit's Memory event",
+    "filename": "mapleDanmak",
+    "mark": "square",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Maple Danmak",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2024-06-20",
+      "structure": "BgmEvent3",
+      "version": "1.2.392"
+    },
+    "youtube": "uiKbp1QbbFY"
+  },
+  {
     "description": "20th anniversary: Mapril Island",
     "filename": "Mapril_Island",
     "mark": "20th_Event",
