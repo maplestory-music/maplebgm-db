@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2024.3 - 2024-07-09
+
+### Added
+
+- New music from Q2 2024
+- Update metadata for older tracks
+
+### New Additions
+
+| Date       | Source       | Description               |
+| ---------- | ------------ | ------------------------- |
+| 2024-04-11 | KMST 1.2.172 | 21st Anniversary          |
+| 2024-05-16 | CMS 2.07     | Abyss Expedition Season 4 |
+| 2024-05-16 | KMST 1.2.173 | 21st Anniversary, Part 2  |
+| 2024-05-29 | MSEA 2.32    | Angelic Buster x Lucid    |
+| 2024-06-08 | KMST 1.2.174 | Eunwol remaster           |
+| 2024-06-12 | GMS 2.51     | MapleStory GO WEST!       |
+| 2024-06-13 | KMST 1.2.175 | MapleStory Milestone      |
+| 2024-06-20 | KMS 1.2.392  | Maple Danmak              |
+
 ## 2024.2 - 2024-04-04
 
 ### Added
