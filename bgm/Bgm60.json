@@ -36,6 +36,60 @@
     "youtube": "Emtn0U3bro4"
   },
   {
+    "description": "Limbo - Phase 2 Interlude",
+    "filename": "Passageway in the abyss",
+    "mark": "limbo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Passageway in the Abyss",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-07-11",
+      "structure": "Bgm60",
+      "version": "1.2.176"
+    },
+    "youtube": "M5DSwuwjeps"
+  },
+  {
+    "description": "Limbo - Phase 2A",
+    "filename": "Reproduced Abyss C",
+    "mark": "limbo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Reproduced Abyss C",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-07-11",
+      "structure": "Bgm60",
+      "version": "1.2.176"
+    },
+    "youtube": "5g7b5Vuo4vk"
+  },
+  {
+    "description": "Limbo - Phase 2B",
+    "filename": "Reproduced Abyss D",
+    "mark": "limbo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Reproduced Abyss D",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-07-11",
+      "structure": "Bgm60",
+      "version": "1.2.176"
+    },
+    "youtube": "Nh7MbtlTN-4"
+  },
+  {
     "description": "Carcion: Sacred Tree Summit",
     "filename": "Tears of Eternity",
     "mark": "carcion",

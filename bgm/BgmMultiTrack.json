@@ -54,6 +54,42 @@
     "youtube": "Kv80AdkRshs"
   },
   {
+    "description": "Limbo - Phase 1",
+    "filename": "Reproduced Abyss A",
+    "mark": "limbo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Reproduced Abyss A",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-07-11",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.176"
+    },
+    "youtube": "g4gxLP3HX3s"
+  },
+  {
+    "description": "Limbo - Phase 1",
+    "filename": "Reproduced Abyss B",
+    "mark": "limbo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Reproduced Abyss B",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-07-11",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.176"
+    },
+    "youtube": "iJPu7UNFF5E"
+  },
+  {
     "description": "Seren - Phase 2: Dawn of Hope",
     "filename": "SolarDeity-DawnOfHope",
     "mark": "Cernium",
@@ -124,6 +160,42 @@
       "version": "1.2.115"
     },
     "youtube": "u3fisrTnOHI"
+  },
+  {
+    "description": "Limbo - Phase 3",
+    "filename": "The Abyss of Truth A",
+    "mark": "limbo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Abyss of Truth A",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-07-11",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.176"
+    },
+    "youtube": "8okkwvVBEpE"
+  },
+  {
+    "description": "Limbo - Phase 3",
+    "filename": "The Abyss of Truth B",
+    "mark": "limbo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Abyss of Truth B",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-07-11",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.176"
+    },
+    "youtube": "bO7bBh4-tvs"
   },
   {
     "description": "Watcher Kalos - Phase 2",
