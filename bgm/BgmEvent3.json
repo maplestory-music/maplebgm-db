@@ -432,6 +432,24 @@
     "youtube": "34Ukh7U_vVg"
   },
   {
+    "description": "Tirnog Blueprint (MapleStory Milestone)",
+    "filename": "sunset over the horizon",
+    "mark": "tirnog",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Sunset Over the Horizon",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-08-08",
+      "structure": "BgmEvent3",
+      "version": "1.2.177"
+    },
+    "youtube": "5ssgcET1ADU"
+  },
+  {
     "description": "21st anniversary: Victoria Cup",
     "filename": "VictoriaCup_Day",
     "mark": "victoriaCup",
