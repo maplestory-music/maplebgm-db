@@ -1,0 +1,164 @@
+[
+  {
+    "description": "Heliseum: Tyrant's Castle",
+    "filename": "citadelofTyrant",
+    "mark": "citadel",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Citadel of Tyrant",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-08-30",
+      "structure": "Bgm28",
+      "version": "1.2.449"
+    },
+    "youtube": "m7xk5VfLpwY"
+  },
+  {
+    "description": "Heliseum Black Market",
+    "filename": "funkyBlackmarket",
+    "mark": "helisium",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Funky Black Market",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-08-06",
+      "structure": "Bgm28",
+      "version": "1.2.444"
+    },
+    "youtube": "MvBhDh4coJo"
+  },
+  {
+    "description": "Heliseum Downtown",
+    "filename": "HelisiumField",
+    "mark": "helisium",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Helisium Field",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-07-18",
+      "structure": "Bgm28",
+      "version": "1.2.439"
+    },
+    "youtube": "jlP7oASTb7w"
+  },
+  {
+    "description": "Heliseum Forest",
+    "filename": "helisiumMysticforest",
+    "mark": "helisium",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Helisium Mystic Forest",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-08-06",
+      "structure": "Bgm28",
+      "version": "1.2.444"
+    },
+    "youtube": "01M2hR6BMHY"
+  },
+  {
+    "description": "Heliseum: Tyrant's Castle",
+    "filename": "helisiumWarcry",
+    "mark": "helisium",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Helisium War Cry",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-08-06",
+      "structure": "Bgm28",
+      "version": "1.2.444"
+    },
+    "youtube": "HxwC4DQ_Gmo"
+  },
+  {
+    "description": "Heliseum Reclamation HQ",
+    "filename": "retake",
+    "mark": "retakeHQ",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Retake",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-08-10",
+      "structure": "Bgm28",
+      "version": "1.2.445"
+    },
+    "youtube": "CuoeZkWgDjk"
+  },
+  {
+    "description": "Magnus boss theme",
+    "filename": "thefinalWar",
+    "mark": "Magnus",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "The Final War",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-08-10",
+      "structure": "Bgm28",
+      "version": "1.2.445"
+    },
+    "youtube": "5rHW7L-DOJM"
+  },
+  {
+    "description": "Magnus boss theme (Original)",
+    "filename": "thefinalWar (Original)",
+    "mark": "Magnus",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "The Final War (Original)",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-08-06",
+      "structure": "Bgm28",
+      "version": "1.2.444"
+    },
+    "youtube": "BOnEdZbf3ms"
+  },
+  {
+    "description": "Heliseum: Tyrant's Castle boss theme",
+    "filename": "trinityForce",
+    "mark": "citadel",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Trinity Force",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-08-06",
+      "structure": "Bgm28",
+      "version": "1.2.444"
+    },
+    "youtube": "cOxp5RHqmjk"
+  }
+]
