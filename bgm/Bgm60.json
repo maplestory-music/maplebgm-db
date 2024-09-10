@@ -18,6 +18,24 @@
     "youtube": "H5SNYI8oGlc"
   },
   {
+    "description": "Tallahart sanctuary",
+    "filename": "An invitation to the night",
+    "mark": "tallahart",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "An Invitation to the Night",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-09-05",
+      "structure": "Bgm60",
+      "version": "1.2.178"
+    },
+    "youtube": "kP6O4ikTDr4"
+  },
+  {
     "description": "Carcion: Calm Waterfront",
     "filename": "An occupied coast",
     "mark": "carcion",
@@ -36,6 +54,42 @@
     "youtube": "Emtn0U3bro4"
   },
   {
+    "description": "Tallahart storyline",
+    "filename": "Cocked pistol",
+    "mark": "tallahart",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Cocked Pistol",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-09-05",
+      "structure": "Bgm60",
+      "version": "1.2.178"
+    },
+    "youtube": "XuLNdaKXiqc"
+  },
+  {
+    "description": "Tallahart storyline",
+    "filename": "Last requiem",
+    "mark": "tallahart",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Last Requiem",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-09-05",
+      "structure": "Bgm60",
+      "version": "1.2.178"
+    },
+    "youtube": "7ux2BU5gCbg"
+  },
+  {
     "description": "Limbo - Phase 2 Interlude",
     "filename": "Passageway in the abyss",
     "mark": "limbo",
@@ -52,6 +106,24 @@
       "version": "1.2.176"
     },
     "youtube": "M5DSwuwjeps"
+  },
+  {
+    "description": "Tallahart ruins",
+    "filename": "Reborn gods",
+    "mark": "tallahart",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Reborn Gods",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-09-05",
+      "structure": "Bgm60",
+      "version": "1.2.178"
+    },
+    "youtube": "0rvjE0Rl_vs"
   },
   {
     "description": "Limbo - Phase 2A",
@@ -145,6 +217,24 @@
       "version": "1.2.158"
     },
     "youtube": "atxfdYd3SL0"
+  },
+  {
+    "description": "Tallahart",
+    "filename": "The fate of an immortal",
+    "mark": "tallahart",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Fate of an Immortal",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-09-05",
+      "structure": "Bgm60",
+      "version": "1.2.178"
+    },
+    "youtube": "mrhVV70YhM4"
   },
   {
     "description": "Carcion: Entangling Forest",
