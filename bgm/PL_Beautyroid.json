@@ -1,0 +1,183 @@
+[
+  {
+    "description": "Mechanical Hearts: Aspire - Hidden Hallway",
+    "filename": "Beautyroid3_HiddenHallway",
+    "mark": "PL_Beautyroid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Hidden Hallway",
+      "year": "2020"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2020-01-29",
+      "structure": "PL_Beautyroid",
+      "version": "2.11"
+    },
+    "youtube": "aentFD_-8uo"
+  },
+  {
+    "description": "Mechanical Hearts Season 3 ending",
+    "filename": "Beautyroid3_MoreHumanThanHuman",
+    "mark": "PL_Beautyroid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "More Human Than Human",
+      "year": "2020"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2020-01-29",
+      "structure": "PL_Beautyroid",
+      "version": "2.11"
+    },
+    "youtube": "VrAPwZk0CFI"
+  },
+  {
+    "description": "Mechanical Hearts: Aspire - Scion's Lair",
+    "filename": "Beautyroid3_ScionsLair",
+    "mark": "PL_Beautyroid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Scion's Lair",
+      "year": "2020"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2020-01-29",
+      "structure": "PL_Beautyroid",
+      "version": "2.11"
+    },
+    "youtube": "t6sLGm66uWY"
+  },
+  {
+    "description": "Mechanical Hearts - Scion's Invitation chair effect",
+    "filename": "Beautyroid3_UnseenPrison",
+    "mark": "PL_Beautyroid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Unseen Prison",
+      "year": "2020"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2020-01-29",
+      "structure": "PL_Beautyroid",
+      "version": "2.11"
+    },
+    "youtube": "_t9zVOFNVlY"
+  },
+  {
+    "description": "Mechanical Hearts: Aspire Industries factory",
+    "filename": "Beautyroid_Factory",
+    "mark": "PL_Beautyroid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Beautyroid Factory",
+      "year": "2017"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2017-04-12",
+      "structure": "PL_Beautyroid",
+      "version": "1.25"
+    },
+    "youtube": "IqfKfW0KQ0g"
+  },
+  {
+    "description": "Mechanical Hearts: Aspire Industries forest hideout",
+    "filename": "Beautyroid_Forrest",
+    "mark": "PL_Beautyroid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Beautyroid Forest",
+      "year": "2017"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2017-04-12",
+      "structure": "PL_Beautyroid",
+      "version": "1.25"
+    },
+    "youtube": "wnSwoYrY70Q"
+  },
+  {
+    "description": "Mechanical Hearts: Aspire Industries lab",
+    "filename": "Beautyroid_Lab",
+    "mark": "PL_Beautyroid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Beautyroid Lab",
+      "year": "2017"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2017-04-12",
+      "structure": "PL_Beautyroid",
+      "version": "1.25"
+    },
+    "youtube": "aHR0xM6CVQ0"
+  },
+  {
+    "description": "Mechanical Hearts: Aspire Industries lobby",
+    "filename": "Beautyroid_Lobby",
+    "mark": "PL_Beautyroid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Beautyroid Lobby",
+      "year": "2017"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2017-04-12",
+      "structure": "PL_Beautyroid",
+      "version": "1.25"
+    },
+    "youtube": "-aT2UF3yW1I"
+  },
+  {
+    "description": "Mechanical Hearts: Episode 2",
+    "filename": "PeacefulDays",
+    "mark": "PL_Beautyroid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Peaceful Life",
+      "titleAlt": "Peaceful Days",
+      "year": "2017"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2017-11-16",
+      "structure": "PL_Beautyroid",
+      "version": "1.32"
+    },
+    "youtube": "_Gt9PQYmhIg"
+  },
+  {
+    "description": "Mechanical Hearts: Episode 2 ending",
+    "filename": "Primrose",
+    "mark": "PL_Beautyroid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Primrose",
+      "year": "2017"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2017-11-16",
+      "structure": "PL_Beautyroid",
+      "version": "1.32"
+    },
+    "youtube": "gw7gbAh0hZA"
+  }
+]
