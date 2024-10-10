@@ -36,6 +36,24 @@
     "youtube": "hkOtLzywHjY"
   },
   {
+    "description": "Angelic Buster's Superstar Spotlight skill",
+    "filename": "5thSpotLightFlyAway (Japanese)",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Wizet",
+      "title": "5th Spotlight Fly Away (Japanese)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2024-09-19",
+      "structure": "Bgm30",
+      "version": "4.27"
+    },
+    "youtube": "KHFv98ZdE_E"
+  },
+  {
     "description": "Angelic Buster's Grand Finale skill",
     "filename": "6thGrandFinaleStarBubble",
     "mark": "Pantheon",
@@ -72,6 +90,24 @@
     "youtube": "8ptGYzhGkz4"
   },
   {
+    "description": "Angelic Buster's Grand Finale skill",
+    "filename": "6thGrandFinaleStarBubble (Japanese)",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "6th Grand Finale Star Bubble (Japanese)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2024-09-19",
+      "structure": "Bgm30",
+      "version": "4.27"
+    },
+    "youtube": "9iOA5CfaLq0"
+  },
+  {
     "description": "On Stage chair effect",
     "filename": "flyAwayRemixFull",
     "mark": "3019147",
@@ -88,6 +124,22 @@
       "version": "1.2.170"
     },
     "youtube": "jyQKY4KspHA"
+  },
+  {
+    "description": "On Stage chair effect",
+    "filename": "flyAwayRemixFull (Japanese)",
+    "mark": "3019147",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fly Away Remix -full- (Japanese)",
+      "year": "2024"
+    },
+    "source": {
+      "date": "2024-09-19",
+      "structure": "JMS YouTube"
+    },
+    "youtube": "D8K0PCd7P1o"
   },
   {
     "description": "On Stage chair effect",
@@ -223,6 +275,24 @@
   },
   {
     "description": "On Stage chair effect",
+    "filename": "shiningHeartFull (Japanese)",
+    "mark": "3019147",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shining Heart -full- (Japanese)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2024-09-19",
+      "structure": "Bgm30",
+      "version": "4.27"
+    },
+    "youtube": "XwS3v4VWyhg"
+  },
+  {
+    "description": "On Stage chair effect",
     "filename": "shiningHeartFull (Original)",
     "mark": "3019147",
     "metadata": {
@@ -238,6 +308,27 @@
       "version": "1.2.384"
     },
     "youtube": "nNgM_kp5GjM"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Angelic Buster's Pretty Exaltation skill",
+    "filename": "shiningHeart (Japanese)",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shining Heart (Japanese)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2024-09-19",
+      "structure": "Bgm30",
+      "version": "4.27"
+    },
+    "youtube": "kxYkg8z01C0"
   },
   {
     "decoration": {
@@ -277,6 +368,24 @@
       "version": "1.2.163"
     },
     "youtube": "dlXrpq-6jHc"
+  },
+  {
+    "description": "Angelic Buster's On Stage skill",
+    "filename": "starBubbleFull (Japanese)",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Star Bubble -full- (Japanese)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2024-09-19",
+      "structure": "Bgm30",
+      "version": "4.27"
+    },
+    "youtube": "TQX6KSZr68U"
   },
   {
     "description": "Xenon tutorial",
