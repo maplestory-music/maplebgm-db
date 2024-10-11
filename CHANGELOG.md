@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2024.4 - 2024-10-10
+
+### Added
+
+- New music from Q3 2024
+- Update metadata for older tracks
+
+### New Additions
+
+| Date       | Source       | Description                    |
+| ---------- | ------------ | -----------------------------  |
+| 2024-07-11 | KMST 1.2.176 | Limbo                          |
+| 2024-07-17 | GMS 2.52     | MapleStory GO WEST! Maple Punk |
+| 2024-08-08 | KMST 1.2.177 | Angler Company & Tirnog        |
+| 2024-09-05 | KMST 1.2.178 | Tallahart                      |
+| 2024-09-19 | JMS 4.27     | Demon Slayer collaboration & Angelic Buster JP covers |
+
 ## 2024.3 - 2024-07-09
 
 ### Added
