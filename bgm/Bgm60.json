@@ -1,5 +1,23 @@
 [
   {
+    "description": "Azmoth Canyon",
+    "filename": "Aidan",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Aidan",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "d0Hk8lM97IQ"
+  },
+  {
     "description": "Carcion: Sunken Ruins",
     "filename": "An approaching abyss",
     "mark": "carcion",
@@ -54,6 +72,42 @@
     "youtube": "Emtn0U3bro4"
   },
   {
+    "description": "Azmoth Canyon",
+    "filename": "Azmoth Canyon Boundary",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Azmoth Canyon Boundary",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "3g2tGOtM9-k"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Azmoth Canyon Boundary_slow",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Azmoth Canyon Boundary -slow-",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "89LmnV4uj9I"
+  },
+  {
     "description": "Tallahart storyline",
     "filename": "Cocked pistol",
     "mark": "tallahart",
@@ -70,6 +124,150 @@
       "version": "1.2.178"
     },
     "youtube": "XuLNdaKXiqc"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Encounter_Arena",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Encounter - Arena",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "rTa0rKkr-Eo"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Encounter_Chapel",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Encounter - Chapel",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "a5nsEpMwHX4"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Encounter_Lab",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Encounter - Lab",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "x81zE7sWfUg"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Hunting_Arena",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Hunting - Arena",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "xw9Tv70sB_c"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Hunting_Chapel",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Hunting - Chapel",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "cyPJH1RtbiE"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Hunting_Lab",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Hunting - Lab",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "aV-qg0qkKlQ"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Infernus of Doom",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Infernus of Doom",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "vBEIhsS8YnU"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Kind Azrael",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Kind Azrael",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "h_ks9f2VcrI"
   },
   {
     "description": "Tallahart storyline",
@@ -160,6 +358,24 @@
       "version": "1.2.176"
     },
     "youtube": "Nh7MbtlTN-4"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Shooting_Lab",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shooting - Lab",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "B0ZDU-c6TnA"
   },
   {
     "description": "Carcion: Sacred Tree Summit",

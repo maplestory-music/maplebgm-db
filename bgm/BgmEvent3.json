@@ -162,6 +162,186 @@
     "youtube": "VoQ1D65vSDQ"
   },
   {
+    "description": "2024 Dave the Diver collaboration",
+    "filename": "Dave_the_Diver_01_Seals_and_Dolphins",
+    "mark": "Goldrich",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Mintrocket",
+      "title": "Seals and Dolphins",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "BgmEvent3",
+      "version": "1.2.179"
+    },
+    "youtube": "5eiit09VrWY"
+  },
+  {
+    "description": "2024 Dave the Diver collaboration chair effect",
+    "filename": "Dave_the_Diver_02_The_Blue_Hole",
+    "mark": "3019376",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Mintrocket",
+      "title": "The Blue Hole",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "BgmEvent3",
+      "version": "1.2.179"
+    },
+    "youtube": "sTq54A_OEQ8"
+  },
+  {
+    "description": "2024 Dave the Diver collaboration",
+    "filename": "Dave_the_Diver_03_Diver",
+    "mark": "Goldrich",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Mintrocket",
+      "title": "Diver",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "BgmEvent3",
+      "version": "1.2.179"
+    },
+    "youtube": "esEksoHCXqo"
+  },
+  {
+    "description": "2024 Dave the Diver collaboration",
+    "filename": "Dave_the_Diver_04_Darker_Trenches",
+    "mark": "Goldrich",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Mintrocket",
+      "title": "Darker Trenches",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "BgmEvent3",
+      "version": "1.2.179"
+    },
+    "youtube": "Fc33eRxf1j0"
+  },
+  {
+    "description": "2024 Dave the Diver collaboration",
+    "filename": "Dave_the_Diver_05_Restaraunt_Prep",
+    "mark": "Goldrich",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Mintrocket",
+      "title": "Restaurant Prep",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "BgmEvent3",
+      "version": "1.2.179"
+    },
+    "youtube": "LZZfx_aVPZw"
+  },
+  {
+    "description": "2024 Dave the Diver collaboration",
+    "filename": "Dave_the_Diver_06_Serve,_Sushi,_Serve!",
+    "mark": "Goldrich",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Mintrocket",
+      "title": "Serve, Sushi, Serve!",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "BgmEvent3",
+      "version": "1.2.179"
+    },
+    "youtube": "XItJXb9RyrU"
+  },
+  {
+    "description": "2024 Dave the Diver collaboration chair effect",
+    "filename": "Dave_the_Diver_09_On_the_boat",
+    "mark": "3019377",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Mintrocket",
+      "title": "On the Boat",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "BgmEvent3",
+      "version": "1.2.179"
+    },
+    "youtube": "vtU4m9d11Lc"
+  },
+  {
+    "description": "2024 Dave the Diver collaboration",
+    "filename": "Dave_the_Diver_13_Tunnel_of_Darkness",
+    "mark": "Goldrich",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Mintrocket",
+      "title": "Tunnel of Darkness",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "BgmEvent3",
+      "version": "1.2.179"
+    },
+    "youtube": "wEeYUbY_lO0"
+  },
+  {
+    "description": "2024 Dave the Diver collaboration",
+    "filename": "Dave_the_Diver_16_Timeworn_Tunnel",
+    "mark": "Goldrich",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Mintrocket",
+      "title": "Timeworn Tunnel",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "BgmEvent3",
+      "version": "1.2.179"
+    },
+    "youtube": "wQhV9Ppffyc"
+  },
+  {
+    "description": "2024 Dave the Diver collaboration",
+    "filename": "Dave_the_Diver_21_Sharks_Like_Games_Too",
+    "mark": "Goldrich",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Mintrocket",
+      "title": "Sharks Like Games Too",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "BgmEvent3",
+      "version": "1.2.179"
+    },
+    "youtube": "DQWjzmYBn70"
+  },
+  {
     "description": "2022 Ignition Full Moon Party event",
     "filename": "ignitionFullMoonParty",
     "mark": "ignition",
