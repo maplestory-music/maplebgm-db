@@ -216,6 +216,42 @@
     "youtube": "GRcGdhNMkUE"
   },
   {
+    "description": "Mu Lung Night Troupe event",
+    "filename": "BaekChoBoatParty_Muffled_NightFestival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Herb Town Boat Party -Muffled-",
+      "year": "2024"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2024-10-16",
+      "structure": "BgmWz2",
+      "version": "2.11"
+    },
+    "youtube": "YULtrwC3qVM"
+  },
+  {
+    "description": "Mu Lung Night Troupe event",
+    "filename": "BaekChoBoatParty_NightFestival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Herb Town Boat Party",
+      "year": "2024"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2024-10-16",
+      "structure": "BgmWz2",
+      "version": "2.11"
+    },
+    "youtube": "bFB9rGMdP4o"
+  },
+  {
     "description": "2023 BUGCAT CAPOO collaboration",
     "filename": "Capoo's_Adventure",
     "mark": "Capoo2",
@@ -1067,6 +1103,42 @@
       "version": "1.82"
     },
     "youtube": "a9Cco4fLaBE"
+  },
+  {
+    "description": "Mu Lung Night Troupe event",
+    "filename": "MureungFesta_NightFestival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Mu Lung Festa",
+      "year": "2024"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2024-10-16",
+      "structure": "BgmWz2",
+      "version": "2.11"
+    },
+    "youtube": "33afOdW8RvM"
+  },
+  {
+    "description": "Mu Lung Night Troupe event",
+    "filename": "MureungFightFloor_NightFestival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Mu Lung Fight Floor -Night Festival-",
+      "year": "2024"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2024-10-16",
+      "structure": "BgmWz2",
+      "version": "2.11"
+    },
+    "youtube": "mJN_vS1cWZg"
   },
   {
     "description": "My Home system content - Christmas event",
