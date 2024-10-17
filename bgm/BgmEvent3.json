@@ -1,5 +1,23 @@
 [
   {
+    "description": "2024 Halloween event",
+    "filename": "2024Halloween_dimentionHauntedMansion",
+    "mark": "HuntedMansion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Dimension Haunted Mansion",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2024-10-17",
+      "structure": "BgmEvent3",
+      "version": "1.2.396"
+    },
+    "youtube": "3K4TWAIP7ug"
+  },
+  {
     "description": "21st anniversary - Maple Racing minigame",
     "filename": "21st_mapleRacingIngame",
     "mark": "victoriaCup",
