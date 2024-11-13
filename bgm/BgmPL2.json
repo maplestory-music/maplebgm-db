@@ -130,6 +130,78 @@
     "youtube": "nnDUioqF7Wg"
   },
   {
+    "description": "Wedding Hall BGM Style 1",
+    "filename": "newWedding0",
+    "mark": "Wedding",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Wedding Hall 1",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-11-13",
+      "structure": "BgmPL2",
+      "version": "2.37"
+    },
+    "youtube": "uTusUDt93XA"
+  },
+  {
+    "description": "Wedding Hall BGM Style 2",
+    "filename": "newWedding1",
+    "mark": "Wedding",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Wedding Hall 2",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-11-13",
+      "structure": "BgmPL2",
+      "version": "2.37"
+    },
+    "youtube": "vq-uCg7Xrnw"
+  },
+  {
+    "description": "Wedding Hall BGM Style 3",
+    "filename": "newWedding2",
+    "mark": "Wedding",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Wedding Hall 3",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-11-13",
+      "structure": "BgmPL2",
+      "version": "2.37"
+    },
+    "youtube": "CJLMno8J2Yk"
+  },
+  {
+    "description": "Wedding - Honeymoon Resort",
+    "filename": "newWedding_HoneyMoon",
+    "mark": "Wedding",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Honeymoon Resort",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-11-13",
+      "structure": "BgmPL2",
+      "version": "2.37"
+    },
+    "youtube": "tP2Vl5k_R1g"
+  },
+  {
     "description": "Fluffy Moo Island",
     "filename": "PL_MooIsland_Main",
     "mark": "PL_Moo",
