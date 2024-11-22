@@ -325,6 +325,24 @@
     "youtube": "zFsulKE0jcQ"
   },
   {
+    "description": "2024 Ride or Die event login theme",
+    "filename": "Title_RideOrDie",
+    "mark": "2024DarkRide",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ride or Die - Title Theme",
+      "year": "2024"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2024-11-20",
+      "structure": "BgmUI",
+      "version": "2.55"
+    },
+    "youtube": "4IAVg2iqMRY"
+  },
+  {
     "description": "Ren Longxin - A Whole New World",
     "filename": "Title_Taiwan",
     "mark": "TestServer",
