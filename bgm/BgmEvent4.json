@@ -1,0 +1,74 @@
+[
+  {
+    "description": "MapleStory NEXT ending theme song",
+    "filename": "Ending_NextTo",
+    "mark": "DawnStar",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "NEXT TO -instrumental-",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-12-12",
+      "structure": "BgmEvent4",
+      "version": "1.2.182"
+    },
+    "youtube": "48lWbmLaQ_Y"
+  },
+  {
+    "description": "Dawn Star Banquet (MapleStory NEXT)",
+    "filename": "FlowerscentedCorridor",
+    "mark": "DawnStar",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Flower Scented Corridor",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-12-12",
+      "structure": "BgmEvent4",
+      "version": "1.2.182"
+    },
+    "youtube": "zt-FtBK5mmA"
+  },
+  {
+    "description": "MapleStory NEXT opening theme song",
+    "filename": "Intro_NextOne",
+    "mark": "DawnStar",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "NEXT ONE -instrumental-",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-12-12",
+      "structure": "BgmEvent4",
+      "version": "1.2.182"
+    },
+    "youtube": "g60imV0mdCE"
+  },
+  {
+    "description": "Dawn Star Banquet (MapleStory NEXT)",
+    "filename": "StarryDawngarden",
+    "mark": "DawnStar",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Starry Dawn Garden",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-12-12",
+      "structure": "BgmEvent4",
+      "version": "1.2.182"
+    },
+    "youtube": "-5k1aracOQo"
+  }
+]
