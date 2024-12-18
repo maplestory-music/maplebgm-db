@@ -198,6 +198,24 @@
     "youtube": "iKVmHtZMUno"
   },
   {
+    "description": "The Dark Ride: Limbo - login theme",
+    "filename": "Title_DarkRideLimbo",
+    "mark": "2024DarkRide",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Dark Ride: Limbo - Title Theme",
+      "year": "2024"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2024-12-17",
+      "structure": "BgmUI",
+      "version": "2.56"
+    },
+    "youtube": "H2g58kSwk7Q"
+  },
+  {
     "description": "Frozen collaboration login theme",
     "filename": "Title_Frozen",
     "mark": "TestServer",

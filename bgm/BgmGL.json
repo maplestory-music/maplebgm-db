@@ -162,6 +162,24 @@
     "youtube": "qbY2KUn3dmM"
   },
   {
+    "description": "2024 Dark Maplemas event",
+    "filename": "DarkMaplemasEve",
+    "mark": "DarkMaplemas",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Dark Maplemas Eve",
+      "year": "2024"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2024-12-17",
+      "structure": "BgmGL",
+      "version": "2.56"
+    },
+    "youtube": "x3z9YMomTkc"
+  },
+  {
     "description": "2015 Sizzling Santa event",
     "filename": "GLBurningSanta",
     "mark": "HappyVillage",
@@ -529,6 +547,24 @@
     "youtube": "d0kE_pLlE2U"
   },
   {
+    "description": "2024 Dark Maplemas event",
+    "filename": "OHolyFright",
+    "mark": "DarkMaplemas",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "O Holy Fright",
+      "year": "2024"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2024-12-17",
+      "structure": "BgmGL",
+      "version": "2.56"
+    },
+    "youtube": "dFyYUc9VSgg"
+  },
+  {
     "description": "Crimsonwood Keep Party Quest",
     "filename": "PartyQuestGL",
     "mark": "Crimsonwood",
@@ -563,6 +599,24 @@
       "version": "0.59"
     },
     "youtube": "JDK9B4IWxdg"
+  },
+  {
+    "description": "2024 Dark Maplemas event",
+    "filename": "SlayRide",
+    "mark": "DarkMaplemas",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Slay Ride",
+      "year": "2024"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2024-12-17",
+      "structure": "BgmGL",
+      "version": "2.56"
+    },
+    "youtube": "dTtTTpd7JvI"
   },
   {
     "description": "MapleStory Hi-Five showcase mashup login theme",
