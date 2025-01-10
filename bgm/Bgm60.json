@@ -36,6 +36,24 @@
     "youtube": "H5SNYI8oGlc"
   },
   {
+    "description": "Champion Raid - Dragon Island",
+    "filename": "Ancient Ruins of Blue Jade",
+    "mark": "championRaid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ancient Ruins of Blue Jade",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-01-09",
+      "structure": "Bgm60",
+      "version": "1.2.183"
+    },
+    "youtube": "3nAFSpjFFeo"
+  },
+  {
     "description": "Tallahart sanctuary",
     "filename": "An invitation to the night",
     "mark": "tallahart",
@@ -108,6 +126,24 @@
     "youtube": "89LmnV4uj9I"
   },
   {
+    "description": "Champion Raid - Dragon Island",
+    "filename": "Blazing Canyon",
+    "mark": "championRaid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Blazing Canyon",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-01-09",
+      "structure": "Bgm60",
+      "version": "1.2.183"
+    },
+    "youtube": "ajomvJzjzAE"
+  },
+  {
     "description": "Tallahart storyline",
     "filename": "Cocked pistol",
     "mark": "tallahart",
@@ -124,6 +160,24 @@
       "version": "1.2.178"
     },
     "youtube": "XuLNdaKXiqc"
+  },
+  {
+    "description": "Champion Raid - Dragon Island",
+    "filename": "Emerald Jungle",
+    "mark": "championRaid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Emerald Jungle",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-01-09",
+      "structure": "Bgm60",
+      "version": "1.2.183"
+    },
+    "youtube": "8qpl5IRUtbs"
   },
   {
     "description": "Azmoth Canyon",
@@ -505,5 +559,23 @@
       "version": "1.2.162"
     },
     "youtube": "9aeqWJRfN0U"
+  },
+  {
+    "description": "Champion Raid - Dragon Island",
+    "filename": "Wanderer's Hut",
+    "mark": "championRaid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Wanderer's Hut",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-01-09",
+      "structure": "Bgm60",
+      "version": "1.2.183"
+    },
+    "youtube": "rZIIJOjyLPI"
   }
 ]
