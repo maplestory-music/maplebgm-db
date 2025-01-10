@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2025.1 - 2025-01-09
+
+### Added
+
+- New music from Q4 2024
+
+### New Additions
+
+| Date       | Source       | Description                                   |
+| ---------- | ------------ | --------------------------------------------- |
+| 2024-10-10 | KMST 1.2.179 | Azmoth Canyon & Dave the Diver collaboration  |
+| 2024-10-16 | CMS 2.11     | Mu Lung Night Troupe                          |
+| 2024-10-17 | KMS 1.2.396  | 2024 Halloween                                |
+| 2024-11-13 | MSEA 2.37    | Wedding System revamp                         |
+| 2024-11-14 | Website      | MAPLE CON 2024                                |
+| 2024-11-20 | GMS 2.55     | Ride or Die                                   |
+| 2024-12-12 | KMST 1.2.182 | MapleStory NEXT                               |
+| 2024-12-17 | GMS 2.56     | Dark Maplemas                                 |
+
 ## 2024.4 - 2024-10-10
 
 ### Added
@@ -11,12 +30,12 @@ All notable changes to this project will be documented in this file.
 
 ### New Additions
 
-| Date       | Source       | Description                    |
-| ---------- | ------------ | -----------------------------  |
-| 2024-07-11 | KMST 1.2.176 | Limbo                          |
-| 2024-07-17 | GMS 2.52     | MapleStory GO WEST! Maple Punk |
-| 2024-08-08 | KMST 1.2.177 | Angler Company & Tirnog        |
-| 2024-09-05 | KMST 1.2.178 | Tallahart                      |
+| Date       | Source       | Description                                           |
+| ---------- | ------------ | ----------------------------------------------------- |
+| 2024-07-11 | KMST 1.2.176 | Limbo                                                 |
+| 2024-07-17 | GMS 2.52     | MapleStory GO WEST! Maple Punk                        |
+| 2024-08-08 | KMST 1.2.177 | Angler Company & Tirnog                               |
+| 2024-09-05 | KMST 1.2.178 | Tallahart                                             |
 | 2024-09-19 | JMS 4.27     | Demon Slayer collaboration & Angelic Buster JP covers |
 
 ## 2024.3 - 2024-07-09
