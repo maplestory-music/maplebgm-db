@@ -1,5 +1,41 @@
 [
   {
+    "description": "Dimensional Battlefield - Cross World Boss Content",
+    "filename": "Adventurers from Beyond",
+    "mark": "crossWorldBoss",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Adventurers from Beyond",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-02-13",
+      "structure": "Bgm60",
+      "version": "1.2.184"
+    },
+    "youtube": "8CbvXFP-Wv4"
+  },
+  {
+    "description": "Baldrix - reward map",
+    "filename": "After Ragnarok",
+    "mark": "baldrix",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "After Ragnarok",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-02-13",
+      "structure": "Bgm60",
+      "version": "1.2.184"
+    },
+    "youtube": "3F5oIwW-zdE"
+  },
+  {
     "description": "Azmoth Canyon",
     "filename": "Aidan",
     "mark": "AzmothCanyon",
@@ -342,6 +378,24 @@
     "youtube": "7ux2BU5gCbg"
   },
   {
+    "description": "Baldrix - Phase 2",
+    "filename": "Less Choir",
+    "mark": "baldrix",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Less Choir",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-02-13",
+      "structure": "Bgm60",
+      "version": "1.2.184"
+    },
+    "youtube": "fbyVvvt2qI0"
+  },
+  {
     "description": "Limbo - Phase 2 Interlude",
     "filename": "Passageway in the abyss",
     "mark": "limbo",
@@ -430,6 +484,24 @@
       "version": "1.2.179"
     },
     "youtube": "B0ZDU-c6TnA"
+  },
+  {
+    "description": "Baldrix - Phase 3",
+    "filename": "Snowfield Colored by Midnight Sun",
+    "mark": "baldrix",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Snowfield Colored by Midnight Sun",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-02-13",
+      "structure": "Bgm60",
+      "version": "1.2.184"
+    },
+    "youtube": "eZtagk-9nNU"
   },
   {
     "description": "Carcion: Sacred Tree Summit",

@@ -1,5 +1,41 @@
 [
   {
+    "description": "Baldrix - Phase 1B",
+    "filename": "A Stalker For Adversary",
+    "mark": "baldrix",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "A Stalker for Adversary",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-02-13",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.184"
+    },
+    "youtube": "myaoChF2E98"
+  },
+  {
+    "description": "Baldrix - Phase 1C",
+    "filename": "Echoes Of Ancient Deity",
+    "mark": "baldrix",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Echoes of Ancient Deity",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-02-13",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.184"
+    },
+    "youtube": "dJI4v7IpLEQ"
+  },
+  {
     "description": "Watcher Kalos - Phase 2",
     "filename": "FuryOfTheWatcher",
     "mark": "karotte",
@@ -196,6 +232,24 @@
       "version": "1.2.176"
     },
     "youtube": "bO7bBh4-tvs"
+  },
+  {
+    "description": "Baldrix - Phase 1A",
+    "filename": "The Knight Commander",
+    "mark": "baldrix",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Knight Commander",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-02-13",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.184"
+    },
+    "youtube": "rdevOYJ0jYA"
   },
   {
     "description": "Watcher Kalos - Phase 2",
