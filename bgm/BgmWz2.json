@@ -1362,6 +1362,150 @@
     "youtube": "_qcl2XaCvQg"
   },
   {
+    "description": "Lian Plateau: Chilly Trail",
+    "filename": "Redmoon_Bliss",
+    "mark": "RedMoon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Bliss",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-02-19",
+      "structure": "BgmWz2",
+      "version": "2.14"
+    },
+    "youtube": "4VoOdUK5hTY"
+  },
+  {
+    "description": "Lian Plateau field",
+    "filename": "Redmoon_BreezeofPeril",
+    "mark": "RedMoon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Breeze of Peril",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-02-19",
+      "structure": "BgmWz2",
+      "version": "2.14"
+    },
+    "youtube": "fkmRg-oHX54"
+  },
+  {
+    "description": "Red Moon Forest",
+    "filename": "Redmoon_ForestofSecrets",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Forest of Secrets",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-02-19",
+      "structure": "BgmWz2",
+      "version": "2.14"
+    },
+    "youtube": "RvhB86xuHBc"
+  },
+  {
+    "description": "Red Moon Forest",
+    "filename": "Redmoon_ForestoftheRedMoon",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Forest of the Red Moon",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-02-19",
+      "structure": "BgmWz2",
+      "version": "2.14"
+    },
+    "youtube": "jGzvSs4eglI"
+  },
+  {
+    "description": "Lian Plateau: Cool Breeze Village",
+    "filename": "Redmoon_GentleBreeze",
+    "mark": "RedMoon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Gentle Breeze",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-02-19",
+      "structure": "BgmWz2",
+      "version": "2.14"
+    },
+    "youtube": "0l3Jou8Q0O0"
+  },
+  {
+    "description": "Red Moon Forest storyline",
+    "filename": "Redmoon_Remember",
+    "mark": "RedMoon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Remember",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-02-19",
+      "structure": "BgmWz2",
+      "version": "2.14"
+    },
+    "youtube": "ZEQsmRCKXXQ"
+  },
+  {
+    "description": "Red Moon Forest entrance",
+    "filename": "Redmoon_TrailoftheRedMoon",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Trail of the Red Moon",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-02-19",
+      "structure": "BgmWz2",
+      "version": "2.14"
+    },
+    "youtube": "jNqAkqGflME"
+  },
+  {
+    "description": "Red Moon Forest: Red Moon Altar",
+    "filename": "Redmoon_UndertheRedMoon",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Under the Red Moon",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-02-19",
+      "structure": "BgmWz2",
+      "version": "2.14"
+    },
+    "youtube": "iaT9TlGfvFk"
+  },
+  {
     "description": "Ludibrium Night Troupe event",
     "filename": "TheFantasticThinking_NightFestival",
     "mark": "Wz2_annual",
