@@ -378,24 +378,6 @@
     "youtube": "7ux2BU5gCbg"
   },
   {
-    "description": "Baldrix - Phase 2",
-    "filename": "Less Choir",
-    "mark": "baldrix",
-    "metadata": {
-      "albumArtist": "NECORD",
-      "artist": "ASTERIA",
-      "title": "Less Choir",
-      "year": "2025"
-    },
-    "source": {
-      "client": "KMST",
-      "date": "2025-02-13",
-      "structure": "Bgm60",
-      "version": "1.2.184"
-    },
-    "youtube": "fbyVvvt2qI0"
-  },
-  {
     "description": "Limbo - Phase 2 Interlude",
     "filename": "Passageway in the abyss",
     "mark": "limbo",
@@ -487,12 +469,12 @@
   },
   {
     "description": "Baldrix - Phase 3",
-    "filename": "Snowfield Colored by Midnight Sun",
+    "filename": "Showdown in the Inverted Realm",
     "mark": "baldrix",
     "metadata": {
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
-      "title": "Snowfield Colored by Midnight Sun",
+      "title": "Showdown in the Inverted Realm",
       "year": "2025"
     },
     "source": {
@@ -631,6 +613,24 @@
       "version": "1.2.162"
     },
     "youtube": "9aeqWJRfN0U"
+  },
+  {
+    "description": "Baldrix - Phase 2",
+    "filename": "Turbulent Realm",
+    "mark": "baldrix",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Turbulent Realm",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-02-13",
+      "structure": "Bgm60",
+      "version": "1.2.184"
+    },
+    "youtube": "fbyVvvt2qI0"
   },
   {
     "description": "Champion Raid - Dragon Island",
