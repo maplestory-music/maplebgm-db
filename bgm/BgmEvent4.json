@@ -18,6 +18,24 @@
     "youtube": "wkLMCmmrfQk"
   },
   {
+    "description": "Carcion Octo Festival",
+    "filename": "CarcionOctofestivalwitheveryone",
+    "mark": "strangerTide",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Carcion Octo Festival with Everyone",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-03-13",
+      "structure": "BgmEvent4",
+      "version": "1.2.185"
+    },
+    "youtube": "nmd-NS9dmb8"
+  },
+  {
     "description": "MapleStory NEXT ending theme song",
     "filename": "Ending_NextTo",
     "mark": "DawnStar",
