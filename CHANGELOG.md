@@ -2,6 +2,22 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2025.2 - 2025-04-01
+
+### Added
+
+- New music from Q1 2025
+- Update metadata for older tracks
+
+### New Additions
+
+| Date       | Source       | Description                                       |
+| ---------- | ------------ | ------------------------------------------------- |
+| 2025-01-09 | KMST 1.2.183 | Champion Raid: Dragon Island                      |
+| 2025-02-13 | KMST 1.2.184 | Baldrix, Carcion Octo Festival & Cross World Boss |
+| 2025-02-19 | CMS 2.14     | Red Moon Forest                                   |
+| 2025-03-13 | KMST 1.2.185 | Carcion Octo Festival                             |
+
 ## 2025.1 - 2025-01-09
 
 ### Added
