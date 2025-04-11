@@ -72,6 +72,24 @@
     "youtube": "zt-FtBK5mmA"
   },
   {
+    "description": "22nd anniversary: Maple University",
+    "filename": "HopeBlossoms",
+    "mark": "22nd",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Hope Blossoms",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-04-10",
+      "structure": "BgmEvent4",
+      "version": "1.2.186"
+    },
+    "youtube": "ZGTF6rhWk9c"
+  },
+  {
     "description": "MapleStory NEXT opening theme song",
     "filename": "Intro_NextOne",
     "mark": "DawnStar",
@@ -88,6 +106,24 @@
       "version": "1.2.182"
     },
     "youtube": "g60imV0mdCE"
+  },
+  {
+    "description": "MVP Resort",
+    "filename": "MvpResortBGM",
+    "mark": "mvpResort",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "MVP Resort",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-04-10",
+      "structure": "BgmEvent4",
+      "version": "1.2.186"
+    },
+    "youtube": "UTD7W8aYw7A"
   },
   {
     "description": "Dawn Star Banquet (MapleStory NEXT)",
