@@ -54,6 +54,24 @@
     "youtube": "oAFLPYk6IvY"
   },
   {
+    "description": "Cash Shop theme",
+    "filename": "CashShop",
+    "mark": "FreeMarket",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Cash Shop",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-05-15",
+      "structure": "BgmUI",
+      "version": "1.2.187"
+    },
+    "youtube": "YC3D1BFpQ14"
+  },
+  {
     "description": "Nexon splash",
     "filename": "NxLogo",
     "mark": "TestServer",
