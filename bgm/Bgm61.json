@@ -1,0 +1,92 @@
+[
+  {
+    "description": "Vallora mountain zone",
+    "filename": "If you follow the mountain path",
+    "mark": "Vallora",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "If You Follow the Mountain Path",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-06-07",
+      "structure": "Bgm61",
+      "version": "1.2.188"
+    },
+    "youtube": "hLG-h805Wcc"
+  },
+  {
+    "description": "Vallora",
+    "filename": "Port city of Balora",
+    "mark": "Vallora",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Port City of Vallora",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-06-07",
+      "structure": "Bgm61",
+      "version": "1.2.188"
+    },
+    "youtube": "lyp4mlh3abI"
+  },
+  {
+    "description": "Vallora: Serpent's Lake",
+    "filename": "Serpent's Lake",
+    "mark": "Vallora",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Serpent's Lake",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-06-07",
+      "structure": "Bgm61",
+      "version": "1.2.188"
+    },
+    "youtube": "ipl9FrvjEPU"
+  },
+  {
+    "description": "Len storyline",
+    "filename": "When the wind blows",
+    "mark": "Vallora",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "When the Wind Blows",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-06-07",
+      "structure": "Bgm61",
+      "version": "1.2.188"
+    },
+    "youtube": "ArFkvhHvLsE"
+  },
+  {
+    "description": "Vallora beach zone",
+    "filename": "Wind flowing in the harbor",
+    "mark": "Vallora",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Wind Flowing in the Harbor",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-06-07",
+      "structure": "Bgm61",
+      "version": "1.2.188"
+    },
+    "youtube": "mKhyvIKVW18"
+  }
+]
