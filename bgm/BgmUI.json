@@ -379,6 +379,24 @@
     "youtube": "4IAVg2iqMRY"
   },
   {
+    "description": "2025 Stargazer login theme",
+    "filename": "Title_Stargazer",
+    "mark": "TestServer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Stargazer - Title Theme",
+      "year": "2025"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2025-06-11",
+      "structure": "BgmUI",
+      "version": "2.60"
+    },
+    "youtube": "CBSU7hPyuGM"
+  },
+  {
     "description": "Ren Longxin - A Whole New World",
     "filename": "Title_Taiwan",
     "mark": "TestServer",
