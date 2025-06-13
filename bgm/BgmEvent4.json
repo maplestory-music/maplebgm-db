@@ -1,5 +1,23 @@
 [
   {
+    "description": "Twilight Eve Festival (MapleStory Assemble)",
+    "filename": "A twilight eve festival",
+    "mark": "Evernia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "A Twilight Eve Festival",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-06-12",
+      "structure": "BgmEvent4",
+      "version": "1.2.189"
+    },
+    "youtube": "BaML2E64LPo"
+  },
+  {
     "description": "Carcion Octo Festival",
     "filename": "CarcionOctofestival",
     "mark": "strangerTide",
