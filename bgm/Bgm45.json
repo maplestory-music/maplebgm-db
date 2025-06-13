@@ -1,0 +1,364 @@
+[
+  {
+    "description": "Heroes of Maple - Act 2 Evan's Awakening",
+    "filename": "Anthem For Heroes",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Anthem for Heroes",
+      "year": "2016"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2016-01-14",
+      "structure": "Bgm45",
+      "version": "1.2.251"
+    },
+    "youtube": "4yW_ZefIg6Y"
+  },
+  {
+    "description": "Heroes of Maple - Demon Army theme",
+    "filename": "Army Of Fears Theme",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Army of Fears Theme",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2015-11-26",
+      "structure": "Bgm45",
+      "version": "1.2.024"
+    },
+    "youtube": "DzyjPxP0GSg"
+  },
+  {
+    "description": "Heroes of Maple Act 4, Dark World Tree",
+    "filename": "Climbing Up The WorldTree",
+    "mark": "fallenWorldTree",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Climbing Up the World Tree",
+      "year": "2016"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2016-02-18",
+      "structure": "Bgm45",
+      "version": "1.2.029"
+    },
+    "youtube": "fxUpCkGlrKE"
+  },
+  {
+    "description": "Damien boss theme (Phase 1)",
+    "filename": "Demian",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Tragic Fate of Demian",
+      "titleAlt": "Demian",
+      "year": "2016"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2016-02-25",
+      "structure": "Bgm45",
+      "version": "1.2.253"
+    },
+    "youtube": "hQGygfdaZrc"
+  },
+  {
+    "description": "Damien boss theme (Awakening)",
+    "filename": "Demian Spine",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Demian Spine",
+      "year": "2016"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2016-02-25",
+      "structure": "Bgm45",
+      "version": "1.2.253"
+    },
+    "youtube": "fQSf3-SpylY"
+  },
+  {
+    "description": "Damien boss theme (Phase 2)",
+    "filename": "Demian True",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Corrupted Blood",
+      "titleAlt": "Demian True",
+      "year": "2016"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2016-02-25",
+      "structure": "Bgm45",
+      "version": "1.2.253"
+    },
+    "youtube": "do6QC9kkmv4"
+  },
+  {
+    "description": "Heroes of Maple - Act 2 Abraxas",
+    "filename": "Endless Journey",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Endless Journey",
+      "year": "2016"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2016-01-14",
+      "structure": "Bgm45",
+      "version": "1.2.251"
+    },
+    "youtube": "qI2Q1iIIsEo"
+  },
+  {
+    "description": "Maple Runner lobby",
+    "filename": "God Of Control - Lobby",
+    "mark": "godOfControl",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "God of Control - Lobby",
+      "year": "2016"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2016-01-14",
+      "structure": "Bgm45",
+      "version": "1.2.251"
+    },
+    "youtube": "-XJ7T-4uGzE"
+  },
+  {
+    "description": "Maple Runner stage",
+    "filename": "God Of Control - Stage",
+    "mark": "godOfControl",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "God of Control - Stage",
+      "year": "2016"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2016-01-14",
+      "structure": "Bgm45",
+      "version": "1.2.251"
+    },
+    "youtube": "7rJDdM2cfLU"
+  },
+  {
+    "description": "Heroes of Maple theme",
+    "filename": "Heroes Of Maple Theme",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Heroes of Maple Theme",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2015-11-26",
+      "structure": "Bgm45",
+      "version": "1.2.024"
+    },
+    "youtube": "Vw_FeI2nL_c"
+  },
+  {
+    "description": "Heroes of Maple - Act 4 Demon & Damien",
+    "filename": "Heroes Of Maple Theme Piano",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Heroes of Maple Theme ~piano~",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2015-11-26",
+      "structure": "Bgm45",
+      "version": "1.2.024"
+    },
+    "youtube": "kMW_CaKNrRY"
+  },
+  {
+    "description": "Heroes of Maple - Act 3 Cosmic Museum",
+    "filename": "Jazz For Dr Lim",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Jazz for Dr. Lim",
+      "year": "2016"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2016-02-04",
+      "structure": "Bgm45",
+      "version": "1.2.252"
+    },
+    "youtube": "tKQaAZETKOE"
+  },
+  {
+    "description": "Heroes of Maple - Act 1 Afrien's Death, Dark World Tree",
+    "filename": "Pain And Sorrow",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Pain and Sorrow",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2015-11-26",
+      "structure": "Bgm45",
+      "version": "1.2.024"
+    },
+    "youtube": "SFaKLwz4blA"
+  },
+  {
+    "description": "Heroes of Maple epilogue",
+    "filename": "Pain To Hope",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Pain to Hope",
+      "year": "2016"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2016-02-25",
+      "structure": "Bgm45",
+      "version": "1.2.253"
+    },
+    "youtube": "9RuNBojwKSQ"
+  },
+  {
+    "description": "Heroes of Maple storyline",
+    "filename": "Showtime!",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Showtime!",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2015-11-26",
+      "structure": "Bgm45",
+      "version": "1.2.024"
+    },
+    "youtube": "9C4zWKiEnsc"
+  },
+  {
+    "description": "Heroes of Maple - Act 3 Alicia scene",
+    "filename": "The Devil Is Coming",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "The Devil is Coming",
+      "year": "2016"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2016-02-04",
+      "structure": "Bgm45",
+      "version": "1.2.252"
+    },
+    "youtube": "sywBzeuMOHc"
+  },
+  {
+    "description": "Heroes of Maple - Act 1 Slumbering Dragon Island",
+    "filename": "Through The Blizzard",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Through the Blizzard",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2015-11-26",
+      "structure": "Bgm45",
+      "version": "1.2.024"
+    },
+    "youtube": "5Bb-cQC5Uvo"
+  },
+  {
+    "description": "Heroes of Maple - Act 2 Abraxas trap",
+    "filename": "Time Is Gold",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Time is Gold",
+      "year": "2016"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2016-01-14",
+      "structure": "Bgm45",
+      "version": "1.2.251"
+    },
+    "youtube": "VG9eRCsqBjo"
+  },
+  {
+    "description": "Heroes of Maple - Act 2 Abraxas",
+    "filename": "Timeless Beholder",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Timeless Beholder",
+      "year": "2016"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2016-01-14",
+      "structure": "Bgm45",
+      "version": "1.2.251"
+    },
+    "youtube": "auVY17lLXmU"
+  },
+  {
+    "description": "Heroes of Maple ending credits",
+    "filename": "Travelers",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Travelers",
+      "year": "2016"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2016-02-25",
+      "structure": "Bgm45",
+      "version": "1.2.253"
+    },
+    "youtube": "CT5bI5PoUDA"
+  }
+]
