@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2025.3 - 2025-07-16
+
+### Added
+
+- New music from Q2 2025
+
+### New Additions
+
+| Date       | Source       | Description                       |
+| ---------- | ------------ | --------------------------------- |
+| 2025-04-01 | TMS 2.69     | VIP Lounge                        |
+| 2025-04-10 | KMST 1.2.186 | 22nd Anniversary & MVP Resort     |
+| 2025-04-10 | KMST 1.2.186 | Star Force system                 |
+| 2025-05-15 | KMST 1.2.187 | Cash Shop                         |
+| 2025-06-07 | KMST 1.2.188 | Len & Vallora                     |
+| 2025-06-11 | GMS 2.60     | Sia & Oort + MapleStory Stargazer |
+| 2025-06-12 | KMST 1.2.189 | MapleStory Assemble               |
+
 ## 2025.2 - 2025-04-01
 
 ### Added
