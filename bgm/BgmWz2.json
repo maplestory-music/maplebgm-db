@@ -252,6 +252,114 @@
     "youtube": "bFB9rGMdP4o"
   },
   {
+    "description": "Lian Plateau: Hut of the Wind",
+    "filename": "BossMalitia_HutOfTheWind",
+    "mark": "RedMoon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Hut of the Wind",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-07-30",
+      "structure": "BgmWz2",
+      "version": "2.18"
+    },
+    "youtube": "3r0aXK-leK8"
+  },
+  {
+    "description": "Malitia - Phase 1 Inside",
+    "filename": "BossMalitia_Inside",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Malitia - Inside",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-07-30",
+      "structure": "BgmWz2",
+      "version": "2.18"
+    },
+    "youtube": "TF9O_jSFGhk"
+  },
+  {
+    "description": "Malitia - Phase 2",
+    "filename": "BossMalitia_IntoTheDarkness",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Into the Darkness",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-07-30",
+      "structure": "BgmWz2",
+      "version": "2.18"
+    },
+    "youtube": "Py3FxqGW-pI"
+  },
+  {
+    "description": "Malitia - Phase 1 Outside",
+    "filename": "BossMalitia_Outside",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Malitia - Outside",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-07-30",
+      "structure": "BgmWz2",
+      "version": "2.18"
+    },
+    "youtube": "Du6P8xj0EpM"
+  },
+  {
+    "description": "Malitia - reward map",
+    "filename": "BossMalitia_TheBreezeThatCarriedSorrow",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Breeze That Carried Sorrow",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-07-30",
+      "structure": "BgmWz2",
+      "version": "2.18"
+    },
+    "youtube": "s_sBbxdA-jQ"
+  },
+  {
+    "description": "Malitia - Phase 3",
+    "filename": "BossMalitia_TheEnd",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Malitia - The End",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-07-30",
+      "structure": "BgmWz2",
+      "version": "2.18"
+    },
+    "youtube": "2-Vj0feWmT0"
+  },
+  {
     "description": "2023 BUGCAT CAPOO collaboration",
     "filename": "Capoo's_Adventure",
     "mark": "Capoo2",
