@@ -1,0 +1,33 @@
+[
+  {
+    "description": "2014 初音ミク コラボレーション",
+    "filename": "DAYBREAK",
+    "metadata": {
+      "artist": "まふまふ feat. 初音ミク"
+    }
+  },
+  {
+    "description": "2014 初音ミク コラボレーション",
+    "filename": "Monokuro",
+    "metadata": {
+      "artist": "まふまふ feat. 初音ミク",
+      "title": "モノクロと勇者の遺伝子"
+    }
+  },
+  {
+    "description": "2014 初音ミク コラボレーション",
+    "filename": "next",
+    "metadata": {
+      "artist": "さつき が てんこもり feat. 初音ミク",
+      "title": "ネクストネスト"
+    }
+  },
+  {
+    "description": "2014 初音ミク コラボレーション",
+    "filename": "Sprechchor",
+    "metadata": {
+      "artist": "さつき が てんこもり feat. 初音ミク",
+      "title": "ネトゲ廃人シュプレヒコール"
+    }
+  }
+]
