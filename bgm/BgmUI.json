@@ -72,6 +72,24 @@
     "youtube": "YC3D1BFpQ14"
   },
   {
+    "description": "MapleStory Universe splash",
+    "filename": "MsuLogo",
+    "mark": "TestServer",
+    "metadata": {
+      "albumArtist": "NEXPACE",
+      "artist": "NEXPACE",
+      "title": "MapleStory Universe Logo",
+      "year": "2025"
+    },
+    "source": {
+      "client": "MSN",
+      "date": "2025-05-15",
+      "structure": "BgmUI",
+      "version": "0.01"
+    },
+    "youtube": "whwLhGUv3zI"
+  },
+  {
     "description": "Nexon splash",
     "filename": "NxLogo",
     "mark": "TestServer",
@@ -124,6 +142,24 @@
       "version": "0.75"
     },
     "youtube": "IUnEmjvparM"
+  },
+  {
+    "description": "Nexpace splash",
+    "filename": "NxLogo (MSN)",
+    "mark": "TestServer",
+    "metadata": {
+      "albumArtist": "NEXPACE",
+      "artist": "NEXPACE",
+      "title": "Nexpace Logo",
+      "year": "2025"
+    },
+    "source": {
+      "client": "MSN",
+      "date": "2025-05-15",
+      "structure": "BgmUI",
+      "version": "0.01"
+    },
+    "youtube": "fwx8_FmRoRw"
   },
   {
     "description": "Cash Shop theme",
