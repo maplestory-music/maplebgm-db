@@ -72,6 +72,24 @@
     "youtube": "aHknrZHLlbY"
   },
   {
+    "description": "Heroes Fiesta event",
+    "filename": "HeroesFiesta",
+    "mark": "hFiesta",
+    "metadata": {
+      "albumArtist": "NEXPACE",
+      "artist": "ASTERIA",
+      "title": "Heroes Fiesta",
+      "year": "2025"
+    },
+    "source": {
+      "client": "MSN",
+      "date": "2025-07-24",
+      "structure": "BgmEvent2",
+      "version": "0.05"
+    },
+    "youtube": "pFeA45_Oes4"
+  },
+  {
     "description": "New Year's Eve kite event",
     "filename": "kiteBgm",
     "mark": "Kite",
