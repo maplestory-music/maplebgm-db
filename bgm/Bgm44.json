@@ -1,0 +1,131 @@
+[
+  {
+    "description": "Ursus boss theme (Phase 4)",
+    "filename": "Desperately",
+    "mark": "Urus",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Desperately",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2015-08-12",
+      "structure": "Bgm44",
+      "version": "1.2.018"
+    },
+    "youtube": "vZybFbSlUgc"
+  },
+  {
+    "description": "Ursus entrance map",
+    "filename": "SheSellsALuckyThing",
+    "mark": "Urus",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "She Sells a Lucky Thing",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2015-08-12",
+      "structure": "Bgm44",
+      "version": "1.2.018"
+    },
+    "youtube": "60pIpRzbMBg"
+  },
+  {
+    "description": "Ursus boss theme (Phase 1)",
+    "filename": "TheKingOfDestruction",
+    "mark": "Urus",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "The King of Destruction",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2015-08-20",
+      "structure": "Bgm44",
+      "version": "1.2.243"
+    },
+    "youtube": "krltH4ZKh04"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Ursus boss theme (Phase 1)",
+    "filename": "TheKingOfDestruction (Original Version)",
+    "mark": "Urus",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "The King of Destruction (Original Version)",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2015-08-12",
+      "structure": "Bgm44",
+      "version": "1.2.018"
+    },
+    "youtube": "23CSJNc0Vd8"
+  },
+  {
+    "description": "Ursus boss theme (Phase 2)",
+    "filename": "TheSilentWar",
+    "mark": "Urus",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "The Silent War",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2015-08-12",
+      "structure": "Bgm44",
+      "version": "1.2.018"
+    },
+    "youtube": "AC6D15z_1pU"
+  },
+  {
+    "description": "Ursus boss theme (Phase 3)",
+    "filename": "WildFury",
+    "mark": "Urus",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Wild Fury",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2015-08-20",
+      "structure": "Bgm44",
+      "version": "1.2.243"
+    },
+    "youtube": "mx-yZp8nC9A"
+  },
+  {
+    "description": "Ursus boss theme (Phase 3)",
+    "filename": "WildFury (Original Version)",
+    "mark": "Urus",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Wild Fury (Original Version)",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2015-08-12",
+      "structure": "Bgm44",
+      "version": "1.2.018"
+    },
+    "youtube": "f9gy70JX_8c"
+  }
+]
