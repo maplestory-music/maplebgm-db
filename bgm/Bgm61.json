@@ -1,5 +1,41 @@
 [
   {
+    "description": "First Adversary - Phase 1",
+    "filename": "Courage Unbreakable",
+    "mark": "firstAdversary",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Courage Unbreakable",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-08-14",
+      "structure": "Bgm61",
+      "version": "1.2.192"
+    },
+    "youtube": "IWXmRItfYsM"
+  },
+  {
+    "description": "First Adversary - Entrance",
+    "filename": "Gate of Proof",
+    "mark": "firstAdversary",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Gate of Proof",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-08-14",
+      "structure": "Bgm61",
+      "version": "1.2.192"
+    },
+    "youtube": "_5r-2JTJowM"
+  },
+  {
     "description": "Vallora mountain zone",
     "filename": "If you follow the mountain path",
     "mark": "Vallora",
@@ -54,6 +90,42 @@
     "youtube": "ipl9FrvjEPU"
   },
   {
+    "description": "First Adversary - Reward Map",
+    "filename": "Succession Bloom",
+    "mark": "firstAdversary",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Succession Bloom",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-08-14",
+      "structure": "Bgm61",
+      "version": "1.2.192"
+    },
+    "youtube": "pevUhp_jxnU"
+  },
+  {
+    "description": "First Adversary - Phase 3",
+    "filename": "Voice of Verdict",
+    "mark": "firstAdversary",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Voice of Verdict",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-08-14",
+      "structure": "Bgm61",
+      "version": "1.2.192"
+    },
+    "youtube": "3xpCpPHwsQ0"
+  },
+  {
     "description": "Len storyline",
     "filename": "When the wind blows",
     "mark": "Vallora",
@@ -88,5 +160,23 @@
       "version": "1.2.188"
     },
     "youtube": "mKhyvIKVW18"
+  },
+  {
+    "description": "First Adversary - Phase 2",
+    "filename": "Wisdom Beyond Aspirations",
+    "mark": "firstAdversary",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Wisdom Beyond Aspirations",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-08-14",
+      "structure": "Bgm61",
+      "version": "1.2.192"
+    },
+    "youtube": "OeKYxq_TX_Y"
   }
 ]
