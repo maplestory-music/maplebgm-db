@@ -1,5 +1,23 @@
 [
   {
+    "description": "Nightmare Wonderland",
+    "filename": "Ashes of spring",
+    "mark": "nightmareParadise",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ashes of Spring",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-09-11",
+      "structure": "Bgm61",
+      "version": "1.2.193"
+    },
+    "youtube": "hcCWV0lqQgs"
+  },
+  {
     "description": "First Adversary - Phase 1",
     "filename": "Courage Unbreakable",
     "mark": "firstAdversary",
@@ -16,6 +34,24 @@
       "version": "1.2.192"
     },
     "youtube": "IWXmRItfYsM"
+  },
+  {
+    "description": "Nightmare Wonderland",
+    "filename": "Feast of evil spirits",
+    "mark": "nightmareParadise",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Feast of Evil Spirits",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-09-11",
+      "structure": "Bgm61",
+      "version": "1.2.193"
+    },
+    "youtube": "-PLcCJV6s0g"
   },
   {
     "description": "First Adversary - Entrance",
@@ -72,6 +108,24 @@
     "youtube": "lyp4mlh3abI"
   },
   {
+    "description": "Nightmare Wonderland storyline",
+    "filename": "Rebirth of life",
+    "mark": "nightmareParadise",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Rebirth of Life",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-09-11",
+      "structure": "Bgm61",
+      "version": "1.2.193"
+    },
+    "youtube": "HlnALPLQut8"
+  },
+  {
     "description": "Vallora: Serpent's Lake",
     "filename": "Serpent's Lake",
     "mark": "Vallora",
@@ -106,6 +160,24 @@
       "version": "1.2.192"
     },
     "youtube": "pevUhp_jxnU"
+  },
+  {
+    "description": "Nightmare Wonderland",
+    "filename": "The downfall",
+    "mark": "nightmareParadise",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Downfall",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-09-11",
+      "structure": "Bgm61",
+      "version": "1.2.193"
+    },
+    "youtube": "rP5UgQ71d14"
   },
   {
     "description": "First Adversary - Phase 3",

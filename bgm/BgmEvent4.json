@@ -144,6 +144,24 @@
     "youtube": "UTD7W8aYw7A"
   },
   {
+    "description": "Maple Hideout",
+    "filename": "PlayWithMeAgain",
+    "mark": "mapleAgit",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Play With Me Again",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-09-11",
+      "structure": "BgmEvent4",
+      "version": "1.2.193"
+    },
+    "youtube": "SfAvtCj_a_M"
+  },
+  {
     "description": "Dawn Star Banquet (MapleStory NEXT)",
     "filename": "StarryDawngarden",
     "mark": "DawnStar",
