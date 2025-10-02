@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2025.4 - 2025-10-01
+
+### Added
+
+- New music from Q3 2025
+
+### New Additions
+
+| Date       | Source       | Description                          |
+| ---------- | ------------ | ------------------------------------ |
+| 2025-07-24 | MSN 0.05     | Heroes Fiesta                        |
+| 2025-07-30 | CMS 2.18     | Malitia                              |
+| 2025-08-14 | KMST 1.2.192 | First Adversary                      |
+| 2025-09-11 | KMST 1.2.193 | Nightmare Wonderland & Maple Hideout |
+
+### Retroactive Additions
+
+| Date       | Source   | Description  |
+| ---------- | -------- | ------------ |
+| 2025-05-15 | MSN 0.01 | MapleStory N |
+
 ## 2025.3 - 2025-07-16
 
 ### Added

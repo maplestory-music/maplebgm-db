@@ -1,6 +1,6 @@
 {
   "name": "maplebgm-db",
-  "version": "2025.3",
+  "version": "2025.4",
   "dependencies": {
     "jsonc-parser": "^3.2.0"
   },
