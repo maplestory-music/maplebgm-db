@@ -258,6 +258,24 @@
     "youtube": "_DP0KxDNsIA"
   },
   {
+    "description": "Wild Hunter's Primal Bloom skill",
+    "filename": "PrimalBloom",
+    "mark": "Edelstein",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Primal Bloom",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-10-16",
+      "structure": "Bgm53",
+      "version": "1.2.194"
+    },
+    "youtube": "BEgqrdwARXw"
+  },
+  {
     "description": "Cernium: Lefgun Garrison",
     "filename": "RedMoon",
     "mark": "Cernium",

@@ -162,6 +162,24 @@
     "youtube": "SfAvtCj_a_M"
   },
   {
+    "description": "Maple Hideout",
+    "filename": "PlayWithMeAllDay",
+    "mark": "mapleAgit",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Play With Me All Day",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-10-16",
+      "structure": "BgmEvent4",
+      "version": "1.2.194"
+    },
+    "youtube": "0PKOCUBh-fY"
+  },
+  {
     "description": "Dawn Star Banquet (MapleStory NEXT)",
     "filename": "StarryDawngarden",
     "mark": "DawnStar",
@@ -178,5 +196,23 @@
       "version": "1.2.182"
     },
     "youtube": "-5k1aracOQo"
+  },
+  {
+    "description": "2025 Halloween: Yeti Night",
+    "filename": "WarmRegard_Night",
+    "mark": "ElNath",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Warm Regard -Night-",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-10-16",
+      "structure": "BgmEvent4",
+      "version": "1.2.194"
+    },
+    "youtube": "8gWWBx-D5Wk"
   }
 ]
