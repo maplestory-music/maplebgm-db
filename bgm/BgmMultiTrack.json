@@ -1,0 +1,272 @@
+[
+  {
+    "description": "Baldrix - Phase 1B",
+    "filename": "A Stalker For Adversary",
+    "mark": "baldrix",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "A Stalker for Adversary",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-02-13",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.184"
+    },
+    "youtube": "myaoChF2E98"
+  },
+  {
+    "description": "Baldrix - Phase 1C",
+    "filename": "Echoes Of Ancient Deity",
+    "mark": "baldrix",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Echoes of Ancient Deity",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-02-13",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.184"
+    },
+    "youtube": "dJI4v7IpLEQ"
+  },
+  {
+    "description": "Watcher Kalos - Phase 2",
+    "filename": "FuryOfTheWatcher",
+    "mark": "karotte",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fury of the Watcher",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-02-17",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.138"
+    },
+    "youtube": "fwLnfRHqicI"
+  },
+  {
+    "description": "Guardian Angel Slime",
+    "filename": "GuardianSlime-Battle",
+    "mark": "Ramuramu",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guardian Slime - Battle",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-08-05",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.126"
+    },
+    "youtube": "mBlj8bvXZO0"
+  },
+  {
+    "description": "Guardian Angel Slime - Wave Phase",
+    "filename": "GuardianSlime-Wave",
+    "mark": "Ramuramu",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guardian Slime - Wave",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-08-05",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.126"
+    },
+    "youtube": "Kv80AdkRshs"
+  },
+  {
+    "description": "Limbo - Phase 1",
+    "filename": "Reproduced Abyss A",
+    "mark": "limbo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Reproduced Abyss A",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-07-11",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.176"
+    },
+    "youtube": "g4gxLP3HX3s"
+  },
+  {
+    "description": "Limbo - Phase 1",
+    "filename": "Reproduced Abyss B",
+    "mark": "limbo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Reproduced Abyss B",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-07-11",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.176"
+    },
+    "youtube": "iJPu7UNFF5E"
+  },
+  {
+    "description": "Seren - Phase 2: Dawn of Hope",
+    "filename": "SolarDeity-DawnOfHope",
+    "mark": "Cernium",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Initium SoundLab",
+      "title": "Solar Deity - Dawn of Hope",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-01-21",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.115"
+    },
+    "youtube": "DV3VKsqN_a0"
+  },
+  {
+    "description": "Seren - Phase 2: Midnight of Silence",
+    "filename": "SolarDeity-MidnightOfSilence",
+    "mark": "Cernium",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Initium SoundLab",
+      "title": "Solar Deity - Midnight of Silence",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-01-21",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.115"
+    },
+    "youtube": "vRBtXd_31fE"
+  },
+  {
+    "description": "Seren - Phase 2: Noon of Justice",
+    "filename": "SolarDeity-NoonOfJustice",
+    "mark": "Cernium",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Initium SoundLab",
+      "title": "Solar Deity - Noon of Justice",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-01-21",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.115"
+    },
+    "youtube": "_ZJJc1cFFto"
+  },
+  {
+    "description": "Seren - Phase 2: Twilight of Flame",
+    "filename": "SolarDeity-TwilightOfFlame",
+    "mark": "Cernium",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Initium SoundLab",
+      "title": "Solar Deity - Twilight of Flame",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-01-21",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.115"
+    },
+    "youtube": "u3fisrTnOHI"
+  },
+  {
+    "description": "Limbo - Phase 3",
+    "filename": "The Abyss of Truth A",
+    "mark": "limbo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Abyss of Truth A",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-07-11",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.176"
+    },
+    "youtube": "8okkwvVBEpE"
+  },
+  {
+    "description": "Limbo - Phase 3",
+    "filename": "The Abyss of Truth B",
+    "mark": "limbo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Abyss of Truth B",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-07-11",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.176"
+    },
+    "youtube": "bO7bBh4-tvs"
+  },
+  {
+    "description": "Baldrix - Phase 1A",
+    "filename": "The Knight Commander",
+    "mark": "baldrix",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Knight Commander",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-02-13",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.184"
+    },
+    "youtube": "rdevOYJ0jYA"
+  },
+  {
+    "description": "Watcher Kalos - Phase 2",
+    "filename": "WornOutFury",
+    "mark": "karotte",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Worn Out Fury",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-02-17",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.138"
+    },
+    "youtube": "L-jmUldd5j4"
+  }
+]
