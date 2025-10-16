@@ -565,6 +565,24 @@
     "youtube": "xjjoWjXClGo"
   },
   {
+    "description": "Omega Sector Night Troupe event",
+    "filename": "Festival_Under_Our_Protection",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Festival Under Our Protection",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-10-15",
+      "structure": "BgmWz2",
+      "version": "2.20"
+    },
+    "youtube": "y_SavuvIfq4"
+  },
+  {
     "description": "Henesys Night Circus event",
     "filename": "FlowerPig_DreamRider",
     "mark": "Wz2_annual",
@@ -599,6 +617,24 @@
       "version": "1.95"
     },
     "youtube": "R7FUsiwP72c"
+  },
+  {
+    "description": "Omega Sector Night Troupe event",
+    "filename": "Freeze_to_Our_Victory",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Freeze to Our Victory",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-10-15",
+      "structure": "BgmWz2",
+      "version": "2.20"
+    },
+    "youtube": "6vOpsLDVX2M"
   },
   {
     "description": "Ludibrium Night Troupe event",
@@ -1177,6 +1213,24 @@
     "youtube": "EV9D9CIe44k"
   },
   {
+    "description": "Omega Sector Night Troupe event",
+    "filename": "MesodyserS_All_Set",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Mesodizers All Set",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-10-15",
+      "structure": "BgmWz2",
+      "version": "2.20"
+    },
+    "youtube": "MioDekFkvQs"
+  },
+  {
     "description": "Maple Explorer - Misty Island event",
     "filename": "MIstyIsland_HugeRuinCenters",
     "mark": "MExplorerIsland",
@@ -1614,6 +1668,42 @@
     "youtube": "iaT9TlGfvFk"
   },
   {
+    "description": "Omega Sector Night Troupe event",
+    "filename": "Simulation_Training_SystemOnline",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Simulation Training System Online",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-10-15",
+      "structure": "BgmWz2",
+      "version": "2.20"
+    },
+    "youtube": "hzk0NhnP4Rc"
+  },
+  {
+    "description": "Omega Sector Night Troupe event",
+    "filename": "Stranger_Backstage",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Stranger Backstage",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-10-15",
+      "structure": "BgmWz2",
+      "version": "2.20"
+    },
+    "youtube": "AtXJuFwozvw"
+  },
+  {
     "description": "Ludibrium Night Troupe event",
     "filename": "TheFantasticThinking_NightFestival",
     "mark": "Wz2_annual",
@@ -1630,6 +1720,60 @@
       "version": "1.95"
     },
     "youtube": "WtfqoAwve-c"
+  },
+  {
+    "description": "Omega Sector Night Troupe event",
+    "filename": "TorinaoDooDo_cleanVersion",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Torinao Doo Do",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-10-15",
+      "structure": "BgmWz2",
+      "version": "2.20"
+    },
+    "youtube": "adrsMtwGpgc"
+  },
+  {
+    "description": "Omega Sector Night Troupe event",
+    "filename": "TorinaoDooDo_liveVersion_concerthall",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Torinao Doo Do - Concert Hall (Live ver.)",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-10-15",
+      "structure": "BgmWz2",
+      "version": "2.20"
+    },
+    "youtube": "tUbmUFeM0mk"
+  },
+  {
+    "description": "Omega Sector Night Troupe event",
+    "filename": "TorinaoDooDo_liveVersion_vipstandinghall",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Torinao Doo Do - VIP Standing Hall (Live ver.)",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-10-15",
+      "structure": "BgmWz2",
+      "version": "2.20"
+    },
+    "youtube": "HTpPhsCuMls"
   },
   {
     "description": "Treasure of Pharaoh event",
