@@ -126,6 +126,24 @@
     "youtube": "g60imV0mdCE"
   },
   {
+    "description": "Monster Park Turmoil",
+    "filename": "MonsterParkStaffRounge",
+    "mark": "monsterParkOffice",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Monster Park Staff Lounge",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2025-11-20",
+      "structure": "BgmEvent4",
+      "version": "1.2.409"
+    },
+    "youtube": "dsvrbnaTTjs"
+  },
+  {
     "description": "MVP Resort",
     "filename": "MvpResortBGM",
     "mark": "mvpResort",
@@ -196,6 +214,24 @@
       "version": "1.2.182"
     },
     "youtube": "-5k1aracOQo"
+  },
+  {
+    "description": "Monster Park Turmoil - Virtual Combat System",
+    "filename": "VirtualCombatSystemPhase1",
+    "mark": "monsterParkOffice",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Virtual Combat System",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2025-11-20",
+      "structure": "BgmEvent4",
+      "version": "1.2.409"
+    },
+    "youtube": "Zi4k-kmhF5k"
   },
   {
     "description": "2025 Halloween: Yeti Night",
