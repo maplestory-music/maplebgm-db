@@ -504,6 +504,24 @@
     "youtube": "_jA050cfdK8"
   },
   {
+    "description": "The Age of V event",
+    "filename": "MSU_Winter_Event",
+    "mark": "Henesys",
+    "metadata": {
+      "albumArtist": "NEXPACE",
+      "artist": "ASTERIA",
+      "title": "MSU Winter Event",
+      "year": "2025"
+    },
+    "source": {
+      "client": "MSN",
+      "date": "2025-12-18",
+      "structure": "BgmEvent3",
+      "version": "0.14"
+    },
+    "youtube": "FlAASALvIY0"
+  },
+  {
     "description": "2023 DJMAX RESPECT V collaboration",
     "filename": "Mycin.T x ned - Story of Maple_AR",
     "mark": "5010268",
