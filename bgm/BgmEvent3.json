@@ -790,5 +790,23 @@
       "version": "1.2.165"
     },
     "youtube": "9-HUOufRkcc"
+  },
+  {
+    "description": "2025 Christmas - Odium",
+    "filename": "Xmas_05_Odium",
+    "mark": "odium",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Lost City Among the Clouds -Xmas ver.-",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2025-12-18",
+      "structure": "BgmEvent3",
+      "version": "1.2.410"
+    },
+    "youtube": "8P94Ay-uuqQ"
   }
 ]
