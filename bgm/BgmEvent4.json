@@ -108,6 +108,24 @@
     "youtube": "ZGTF6rhWk9c"
   },
   {
+    "description": "Tallahart - Night of Illusions (MapleStory Crown)",
+    "filename": "IllusionFantasia",
+    "mark": "tallahart",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Illusion Fantasia",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-12-13",
+      "structure": "BgmEvent4",
+      "version": "1.2.196"
+    },
+    "youtube": "fsZt5a2K26Q"
+  },
+  {
     "description": "MapleStory NEXT opening theme song",
     "filename": "Intro_NextOne",
     "mark": "DawnStar",

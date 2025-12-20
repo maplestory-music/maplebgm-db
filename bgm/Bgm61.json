@@ -18,6 +18,24 @@
     "youtube": "hcCWV0lqQgs"
   },
   {
+    "description": "Kai - Reward Map",
+    "filename": "City of Eternal Night",
+    "mark": "Chrono",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "City of Eternal Night",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-12-13",
+      "structure": "Bgm61",
+      "version": "1.2.196"
+    },
+    "youtube": "aXhlh7gw9qM"
+  },
+  {
     "description": "First Adversary - Phase 1",
     "filename": "Courage Unbreakable",
     "mark": "firstAdversary",
@@ -90,6 +108,24 @@
     "youtube": "hLG-h805Wcc"
   },
   {
+    "description": "Kai - Phase 1",
+    "filename": "Neo Vandalism",
+    "mark": "Chrono",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Neo Vandalism",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-12-13",
+      "structure": "Bgm61",
+      "version": "1.2.196"
+    },
+    "youtube": "6vDylLAxtN0"
+  },
+  {
     "description": "Vallora",
     "filename": "Port city of Balora",
     "mark": "Vallora",
@@ -144,6 +180,24 @@
     "youtube": "ipl9FrvjEPU"
   },
   {
+    "description": "Kai - Entrance",
+    "filename": "Silent Protocol",
+    "mark": "Chrono",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Silent Protocol",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-12-13",
+      "structure": "Bgm61",
+      "version": "1.2.196"
+    },
+    "youtube": "HSveM-a-8U4"
+  },
+  {
     "description": "First Adversary - Reward Map",
     "filename": "Succession Bloom",
     "mark": "firstAdversary",
@@ -196,6 +250,24 @@
       "version": "1.2.192"
     },
     "youtube": "3xpCpPHwsQ0"
+  },
+  {
+    "description": "Kai - Phase 2",
+    "filename": "Voltage Overdrive",
+    "mark": "Chrono",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Voltage Overdrive",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-12-13",
+      "structure": "Bgm61",
+      "version": "1.2.196"
+    },
+    "youtube": "spCf0yFfQ5A"
   },
   {
     "description": "Len storyline",

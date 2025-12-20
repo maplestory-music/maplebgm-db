@@ -201,6 +201,24 @@
     "youtube": "RplLRguFptU"
   },
   {
+    "description": "Kinesis' Unleashed skill",
+    "filename": "Unleash",
+    "mark": "MSTown",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Unleash",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-12-13",
+      "structure": "Bgm43",
+      "version": "1.2.196"
+    },
+    "youtube": "sCaXv3Tb9Is"
+  },
+  {
     "description": "Ghost Park",
     "filename": "Welcome To The Creepy Ghost Park",
     "mark": "GhostPark",
