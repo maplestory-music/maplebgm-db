@@ -108,6 +108,42 @@
     "youtube": "hLG-h805Wcc"
   },
   {
+    "description": "Radiant Malefic Star - Preparation Map",
+    "filename": "Irresistible Calling",
+    "mark": "YmirIllusion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Irresistible Calling",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-01-08",
+      "structure": "Bgm61",
+      "version": "1.2.197"
+    },
+    "youtube": "53dmSYmaUNU"
+  },
+  {
+    "description": "Radiant Malefic Star - Entrance",
+    "filename": "Malefic Sonata",
+    "mark": "YmirIllusion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Malefic Sonata",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-01-08",
+      "structure": "Bgm61",
+      "version": "1.2.197"
+    },
+    "youtube": "u71__6ICIWo"
+  },
+  {
     "description": "Kai - Phase 1",
     "filename": "Neo Vandalism",
     "mark": "Chrono",
@@ -144,6 +180,24 @@
     "youtube": "lyp4mlh3abI"
   },
   {
+    "description": "Radiant Malefic Star - Illusion state",
+    "filename": "Pristine, Tender Illusion",
+    "mark": "YmirIllusion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Pristine, Tender Illusion",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-01-08",
+      "structure": "Bgm61",
+      "version": "1.2.197"
+    },
+    "youtube": "uwm-XyFS_2o"
+  },
+  {
     "description": "Nightmare Wonderland storyline",
     "filename": "Rebirth of life",
     "mark": "nightmareParadise",
@@ -160,6 +214,24 @@
       "version": "1.2.193"
     },
     "youtube": "HlnALPLQut8"
+  },
+  {
+    "description": "Radiant Malefic Star - Reward Map",
+    "filename": "Rest of the Broken Truth",
+    "mark": "YmirReality",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Rest of the Broken Truth",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-01-08",
+      "structure": "Bgm61",
+      "version": "1.2.197"
+    },
+    "youtube": "BYeEKwuAlfU"
   },
   {
     "description": "Vallora: Serpent's Lake",
@@ -232,6 +304,24 @@
       "version": "1.2.193"
     },
     "youtube": "rP5UgQ71d14"
+  },
+  {
+    "description": "Radiant Malefic Star - Reality state",
+    "filename": "Unveiled Deformity",
+    "mark": "YmirReality",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Unveiled Deformity",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-01-08",
+      "structure": "Bgm61",
+      "version": "1.2.197"
+    },
+    "youtube": "FVPTmDKf0M4"
   },
   {
     "description": "First Adversary - Phase 3",
