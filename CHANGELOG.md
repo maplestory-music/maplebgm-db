@@ -2,6 +2,27 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2026.1 - 2026-01-08
+
+### Added
+
+- New music from Q4 2025
+- Update metadata for older tracks
+
+### New Additions
+
+| Date       | Source       | Description                                   |
+| ---------- | ------------ | --------------------------------------------- |
+| 2025-10-15 | CMS 2.20     | Omega Sector Night Troupe                     |
+| 2025-10-16 | KMST 1.2.194 | Maple Hideout, Halloween & Wild Hunter        |
+| 2025-11-20 | KMS 1.2.409  | Monster Park Turmoil                          |
+| 2025-12-10 | JMS 4.38     | Ren login theme                               |
+| 2025-12-13 | KMST 1.2.196 | MapleStory Crown, Kai & Kinesis               |
+| 2025-12-17 | GMS 2.65     | 2025 MapleCon LA 'Build a Monster!' Twenteena |
+| 2025-12-18 | KMS 1.2.410  | Odium Xmas                                    |
+| 2025-12-18 | MSN 0.14     | The Age of V                                  |
+| 2025-12-19 | Web          | Ren: Kioku no Tabiji                          |
+
 ## 2025.4 - 2025-10-01
 
 ### Added
