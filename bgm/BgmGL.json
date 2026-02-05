@@ -619,6 +619,42 @@
     "youtube": "dTtTTpd7JvI"
   },
   {
+    "description": "New Leaf Mall event",
+    "filename": "TheNewLeafMall",
+    "mark": "mapleAgit",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The New Leaf Mall",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2026-02-04",
+      "structure": "BgmGL",
+      "version": "2.66"
+    },
+    "youtube": "mn9jFDR6KmM"
+  },
+  {
+    "description": "New Leaf Mall event",
+    "filename": "TheWholeNewLeafMall",
+    "mark": "mapleAgit",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Whole New Leaf Mall",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2026-02-04",
+      "structure": "BgmGL",
+      "version": "2.66"
+    },
+    "youtube": "VO_CNlOYohU"
+  },
+  {
     "description": "MapleStory Hi-Five showcase mashup login theme",
     "filename": "VHIFIVE",
     "mark": "Event",
