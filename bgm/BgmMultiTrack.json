@@ -234,6 +234,78 @@
     "youtube": "bO7bBh4-tvs"
   },
   {
+    "description": "Jupiter - Human Form",
+    "filename": "The Arena of Discipline and Command",
+    "mark": "Luppiter",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Arena of Discipline and Command",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-02-05",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.198"
+    },
+    "youtube": "8Sdo3JPpyrE"
+  },
+  {
+    "description": "Jupiter - Combination Form (Human Dominant)",
+    "filename": "The Arena of Discipline and Command Union",
+    "mark": "Luppiter",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Arena of Discipline and Command -Union-",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-02-05",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.198"
+    },
+    "youtube": "uC66QQmtUt8"
+  },
+  {
+    "description": "Jupiter - Entity Form",
+    "filename": "The Arena of Irregularity and Chaos",
+    "mark": "Luppiter",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Arena of Irregularity and Chaos",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-02-05",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.198"
+    },
+    "youtube": "dBIs93mbgDo"
+  },
+  {
+    "description": "Jupiter - Combination Form (Entity Dominant)",
+    "filename": "The Arena of Irregularity and Chaos Union",
+    "mark": "Luppiter",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Arena of Irregularity and Chaos -Union-",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-02-05",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.198"
+    },
+    "youtube": "V5dS8ZoDrsc"
+  },
+  {
     "description": "Baldrix - Phase 1A",
     "filename": "The Knight Commander",
     "mark": "baldrix",

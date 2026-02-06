@@ -1,0 +1,128 @@
+[
+  {
+    "description": "Jupiter - Reward Map",
+    "filename": "A desolate and lonely furnace",
+    "mark": "Luppiter",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "A Desolate and Lonely Furnace",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-02-05",
+      "structure": "Bgm62",
+      "version": "1.2.198"
+    },
+    "youtube": "W-zrwm-pKH4"
+  },
+  {
+    "description": "Geardrak: Underground",
+    "filename": "Secrets Hidden Under the Sand",
+    "mark": "Geardrak",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Secrets Hidden Under the Sand",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-02-05",
+      "structure": "Bgm62",
+      "version": "1.2.198"
+    },
+    "youtube": "ovDU4AmUMjQ"
+  },
+  {
+    "description": "Jupiter - Combination Form (Neutral)",
+    "filename": "The Arena of Rules and Rupture",
+    "mark": "Luppiter",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Arena of Rules and Rupture",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-02-05",
+      "structure": "Bgm62",
+      "version": "1.2.198"
+    },
+    "youtube": "awUBQZ122OU"
+  },
+  {
+    "description": "Jupiter - Entrance",
+    "filename": "The crossroads of control and disobedience",
+    "mark": "Luppiter",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Crossroads of Control and Disobedience",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-02-05",
+      "structure": "Bgm62",
+      "version": "1.2.198"
+    },
+    "youtube": "vXUy0AHUolg"
+  },
+  {
+    "description": "Geardrak",
+    "filename": "The furnace that swallowed the gods",
+    "mark": "Geardrak",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Furnace That Swallowed the Gods",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-02-05",
+      "structure": "Bgm62",
+      "version": "1.2.198"
+    },
+    "youtube": "MojbZp4FZbk"
+  },
+  {
+    "description": "Geardrak: Robot Warehouse",
+    "filename": "The gaze of abandoned robots",
+    "mark": "Geardrak",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Gaze of Abandoned Robots",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-02-05",
+      "structure": "Bgm62",
+      "version": "1.2.198"
+    },
+    "youtube": "TtDjTsWO3rY"
+  },
+  {
+    "description": "Geardrak: Gob's Workshop",
+    "filename": "The Ghosts of the Sleepless Gods",
+    "mark": "Geardrak",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Ghosts of the Sleepless Gods",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-02-05",
+      "structure": "Bgm62",
+      "version": "1.2.198"
+    },
+    "youtube": "XnpTknjzPMM"
+  }
+]
