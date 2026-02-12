@@ -28,6 +28,24 @@
       "year": "2026"
     },
     "source": {
+      "client": "KMS",
+      "date": "2026-02-12",
+      "structure": "Bgm62",
+      "version": "1.2.412"
+    },
+    "youtube": "-iofIzq5THU"
+  },
+  {
+    "description": "Geardrak: Underground",
+    "filename": "Secrets Hidden Under the Sand (Original)",
+    "mark": "Geardrak",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Secrets Hidden Under the Sand (Original)",
+      "year": "2026"
+    },
+    "source": {
       "client": "KMST",
       "date": "2026-02-05",
       "structure": "Bgm62",
@@ -82,6 +100,24 @@
       "year": "2026"
     },
     "source": {
+      "client": "KMS",
+      "date": "2026-02-12",
+      "structure": "Bgm62",
+      "version": "1.2.412"
+    },
+    "youtube": "oKKN6zr14-8"
+  },
+  {
+    "description": "Geardrak",
+    "filename": "The furnace that swallowed the gods (Original)",
+    "mark": "Geardrak",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Furnace That Swallowed the Gods (Original)",
+      "year": "2026"
+    },
+    "source": {
       "client": "KMST",
       "date": "2026-02-05",
       "structure": "Bgm62",
@@ -100,6 +136,24 @@
       "year": "2026"
     },
     "source": {
+      "client": "KMS",
+      "date": "2026-02-12",
+      "structure": "Bgm62",
+      "version": "1.2.412"
+    },
+    "youtube": "CoePzXC7Lv4"
+  },
+  {
+    "description": "Geardrak: Robot Warehouse",
+    "filename": "The gaze of abandoned robots (Original)",
+    "mark": "Geardrak",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Gaze of Abandoned Robots (Original)",
+      "year": "2026"
+    },
+    "source": {
       "client": "KMST",
       "date": "2026-02-05",
       "structure": "Bgm62",
@@ -115,6 +169,24 @@
       "albumArtist": "NECORD",
       "artist": "ASTERIA",
       "title": "The Ghosts of the Sleepless Gods",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2026-02-12",
+      "structure": "Bgm62",
+      "version": "1.2.412"
+    },
+    "youtube": "SSfJAkoX0eA"
+  },
+  {
+    "description": "Geardrak: Gob's Workshop",
+    "filename": "The Ghosts of the Sleepless Gods (Original)",
+    "mark": "Geardrak",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Ghosts of the Sleepless Gods (Original)",
       "year": "2026"
     },
     "source": {
