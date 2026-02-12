@@ -1,0 +1,1976 @@
+[
+  {
+    "description": "Abyss Expedition Season 3 - Zone 2",
+    "filename": "Abyss_AbysmalRavine",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Abysmal Ravine",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-04-21",
+      "structure": "BgmWz2",
+      "version": "1.91"
+    },
+    "youtube": "4okUaUJX1f4"
+  },
+  {
+    "description": "Abyss Expedition Season 4",
+    "filename": "Abyss_DeepandWhite",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Deep and White",
+      "year": "2024"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2024-05-16",
+      "structure": "BgmWz2",
+      "version": "2.07"
+    },
+    "youtube": "2ieG9WAhNrg"
+  },
+  {
+    "description": "Abyss Expedition Headquarters",
+    "filename": "AbyssExpedition",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Abyss Expedition",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-02-05",
+      "structure": "BgmWz2",
+      "version": "1.57"
+    },
+    "youtube": "zK7LchvlqSs"
+  },
+  {
+    "description": "Abyss Expedition Headquarters",
+    "filename": "AbyssExpeditionAmbie",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Abyss Expedition -Ambience ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-02-05",
+      "structure": "BgmWz2",
+      "version": "1.57"
+    },
+    "youtube": "m8seC5IY-d4"
+  },
+  {
+    "description": "Abyss Expedition Season 3 - Zone 1",
+    "filename": "Abyss_MysteriousJourney",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Mysterious Journey",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-04-21",
+      "structure": "BgmWz2",
+      "version": "1.91"
+    },
+    "youtube": "OHAHEdXAlwY"
+  },
+  {
+    "description": "Abyss Expedition Season 4",
+    "filename": "Abyss_ParalyzedWaterfall",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Paralyzed Waterfall",
+      "year": "2024"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2024-05-16",
+      "structure": "BgmWz2",
+      "version": "2.07"
+    },
+    "youtube": "-D-4gH9sLBI"
+  },
+  {
+    "description": "Abyss Expedition Season 4",
+    "filename": "Abyss_SnowyAbyss",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Snowy Abyss",
+      "year": "2024"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2024-05-16",
+      "structure": "BgmWz2",
+      "version": "2.07"
+    },
+    "youtube": "u4cO-QLFWDQ"
+  },
+  {
+    "description": "Abyss Expedition Season 3 - Zone 3",
+    "filename": "Abyss_TheBottomEnd",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Bottom End",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-04-21",
+      "structure": "BgmWz2",
+      "version": "1.91"
+    },
+    "youtube": "Jkr7wR56rs0"
+  },
+  {
+    "description": "Abyss Expedition Season 3 - Boss",
+    "filename": "Abyss_WeAreNotAfraid",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "We Are Not Afraid",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-04-21",
+      "structure": "BgmWz2",
+      "version": "1.91"
+    },
+    "youtube": "Ki484AHm-SA"
+  },
+  {
+    "description": "Abyss Expedition Season 3 - Headquarters",
+    "filename": "Abyss_WheretheGreatExpeditionBegins_01",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Where the Great Expedition Begins -Ambience ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-04-21",
+      "structure": "BgmWz2",
+      "version": "1.91"
+    },
+    "youtube": "pY1vslezYIM"
+  },
+  {
+    "description": "Abyss Expedition Season 3 - Headquarters",
+    "filename": "Abyss_WheretheGreatExpeditionBegins_02",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Where the Great Expedition Begins",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-04-21",
+      "structure": "BgmWz2",
+      "version": "1.91"
+    },
+    "youtube": "-Tt0UfX-Sco"
+  },
+  {
+    "description": "Abyss Expedition Underground",
+    "filename": "AmazingAbyss",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Amazing Abyss",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-02-05",
+      "structure": "BgmWz2",
+      "version": "1.57"
+    },
+    "youtube": "GRcGdhNMkUE"
+  },
+  {
+    "description": "Mu Lung Night Troupe event",
+    "filename": "BaekChoBoatParty_Muffled_NightFestival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Herb Town Boat Party -Muffled-",
+      "year": "2024"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2024-10-16",
+      "structure": "BgmWz2",
+      "version": "2.11"
+    },
+    "youtube": "YULtrwC3qVM"
+  },
+  {
+    "description": "Mu Lung Night Troupe event",
+    "filename": "BaekChoBoatParty_NightFestival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Herb Town Boat Party",
+      "year": "2024"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2024-10-16",
+      "structure": "BgmWz2",
+      "version": "2.11"
+    },
+    "youtube": "bFB9rGMdP4o"
+  },
+  {
+    "description": "Lian Plateau: Hut of the Wind",
+    "filename": "BossMalitia_HutOfTheWind",
+    "mark": "RedMoon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Hut of the Wind",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-07-30",
+      "structure": "BgmWz2",
+      "version": "2.18"
+    },
+    "youtube": "3r0aXK-leK8"
+  },
+  {
+    "description": "Malitia - Phase 1 Inside",
+    "filename": "BossMalitia_Inside",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Malitia - Inside",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-07-30",
+      "structure": "BgmWz2",
+      "version": "2.18"
+    },
+    "youtube": "TF9O_jSFGhk"
+  },
+  {
+    "description": "Malitia - Phase 2 & 3",
+    "filename": "BossMalitia_IntoTheDarkness",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Into the Darkness",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-07-30",
+      "structure": "BgmWz2",
+      "version": "2.18"
+    },
+    "youtube": "Py3FxqGW-pI"
+  },
+  {
+    "description": "Malitia - Phase 1 Outside",
+    "filename": "BossMalitia_Outside",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Malitia - Outside",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-07-30",
+      "structure": "BgmWz2",
+      "version": "2.18"
+    },
+    "youtube": "Du6P8xj0EpM"
+  },
+  {
+    "description": "Malitia - reward map",
+    "filename": "BossMalitia_TheBreezeThatCarriedSorrow",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Breeze That Carried Sorrow",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-07-30",
+      "structure": "BgmWz2",
+      "version": "2.18"
+    },
+    "youtube": "s_sBbxdA-jQ"
+  },
+  {
+    "description": "Malitia - Phase 4",
+    "filename": "BossMalitia_TheEnd",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Malitia - The End",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-07-30",
+      "structure": "BgmWz2",
+      "version": "2.18"
+    },
+    "youtube": "2-Vj0feWmT0"
+  },
+  {
+    "description": "2023 BUGCAT CAPOO collaboration",
+    "filename": "Capoo's_Adventure",
+    "mark": "Capoo2",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Capoo's Adventure",
+      "year": "2023"
+    },
+    "source": {
+      "client": "TMS",
+      "date": "2023-09-06",
+      "structure": "BgmWz2",
+      "version": "2.55"
+    },
+    "youtube": "CmWbW46X5zc"
+  },
+  {
+    "description": "2019 Lunar New Year event",
+    "filename": "CNY_LoveLetter",
+    "mark": "PL_CNY2018",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Season's Greeting",
+      "titleAlt": "Lunar New Year: Love Letter",
+      "year": "2018"
+    },
+    "source": {
+      "client": "TMST",
+      "date": "2018-12-21",
+      "structure": "BgmWz2",
+      "version": "2.13"
+    },
+    "youtube": "1VzASddjwtE"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "2019 Lunar New Year event",
+    "filename": "CNY_LoveLetterA",
+    "mark": "PL_CNY2018",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Lunar New Year: Love Letter A",
+      "year": "2018"
+    },
+    "source": {
+      "client": "TMST",
+      "date": "2018-12-21",
+      "structure": "BgmWz2",
+      "version": "2.13"
+    },
+    "youtube": "m8MB56duRb0"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "2019 Lunar New Year event",
+    "filename": "CNY_LoveLetterB",
+    "mark": "PL_CNY2018",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Lunar New Year: Love Letter B",
+      "year": "2018"
+    },
+    "source": {
+      "client": "TMST",
+      "date": "2018-12-21",
+      "structure": "BgmWz2",
+      "version": "2.13"
+    },
+    "youtube": "q4he8niW-gk"
+  },
+  {
+    "description": "Corona Festival event",
+    "filename": "CoronaFestival",
+    "mark": "CoronaFestival",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Corona Festival",
+      "year": "2019"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2019-10-23",
+      "structure": "BgmWz2",
+      "version": "1.66"
+    },
+    "youtube": "LeVuQMIp8LU"
+  },
+  {
+    "description": "Corona Festival event",
+    "filename": "CoronaFestival2",
+    "mark": "CoronaFestival",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Corona Festival 2",
+      "year": "2019"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2019-10-23",
+      "structure": "BgmWz2",
+      "version": "1.66"
+    },
+    "youtube": "uacIrAAFoUg"
+  },
+  {
+    "description": "Corona Festival event",
+    "filename": "CoronaFestival3",
+    "mark": "CoronaFestival",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Corona Festival 3",
+      "year": "2019"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2019-10-23",
+      "structure": "BgmWz2",
+      "version": "1.66"
+    },
+    "youtube": "Rum7J6MVrEk"
+  },
+  {
+    "description": "Abyss Expedition Underground",
+    "filename": "DarkAbyss",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Dark Abyss",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-02-05",
+      "structure": "BgmWz2",
+      "version": "1.57"
+    },
+    "youtube": "N9Mf6AjKey4"
+  },
+  {
+    "description": "Rien Night Circus event",
+    "filename": "Dizzy_BumperCar",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Dizzy Bumper Car",
+      "year": "2021"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2021-09-30",
+      "structure": "BgmWz2",
+      "version": "1.73"
+    },
+    "youtube": "38wfZsVNvH4"
+  },
+  {
+    "description": "Rien Night Circus event",
+    "filename": "ExcitingDiving_In_Glacier",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Exciting Diving in Glacier",
+      "year": "2021"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2021-09-30",
+      "structure": "BgmWz2",
+      "version": "1.73"
+    },
+    "youtube": "Wv0sAZad8Aw"
+  },
+  {
+    "description": "Ludibrium Night Troupe event",
+    "filename": "Factoryofthedream_NightFestival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Factory of the Dream",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-09-26",
+      "structure": "BgmWz2",
+      "version": "1.95"
+    },
+    "youtube": "xjjoWjXClGo"
+  },
+  {
+    "description": "Omega Sector Night Troupe event",
+    "filename": "Festival_Under_Our_Protection",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Festival Under Our Protection",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-10-15",
+      "structure": "BgmWz2",
+      "version": "2.20"
+    },
+    "youtube": "y_SavuvIfq4"
+  },
+  {
+    "description": "Henesys Night Circus event",
+    "filename": "FlowerPig_DreamRider",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Flower Pig Dream Rider",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-09-30",
+      "structure": "BgmWz2",
+      "version": "1.64"
+    },
+    "youtube": "vPqBD7zhxQM"
+  },
+  {
+    "description": "Ludibrium Night Troupe event",
+    "filename": "FlowingTime_NightFestival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Flowing Time",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-09-26",
+      "structure": "BgmWz2",
+      "version": "1.95"
+    },
+    "youtube": "R7FUsiwP72c"
+  },
+  {
+    "description": "Omega Sector Night Troupe event",
+    "filename": "Freeze_to_Our_Victory",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Freeze to Our Victory",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-10-15",
+      "structure": "BgmWz2",
+      "version": "2.20"
+    },
+    "youtube": "6vOpsLDVX2M"
+  },
+  {
+    "description": "Ludibrium Night Troupe event",
+    "filename": "FunnyTimeMaker_Orchestra_NightFestival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Funny Time Maker -Orchestra-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-09-26",
+      "structure": "BgmWz2",
+      "version": "1.95"
+    },
+    "youtube": "3b-9Q7lKZsI"
+  },
+  {
+    "description": "Guild Castle rooms",
+    "filename": "GuildCastle_Comfort",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Comfort",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-14",
+      "structure": "BgmWz2",
+      "version": "1.89"
+    },
+    "youtube": "rRD8u0lC1Sk"
+  },
+  {
+    "description": "Guild Castle rooms",
+    "filename": "GuildCastle_Comfort (Original)",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Comfort (Original)",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "8WvbkyUOIq0"
+  },
+  {
+    "description": "Guild Castle storyline",
+    "filename": "GuildCastle_FallenApart",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Fallen Apart",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "R80N1l0yLx4"
+  },
+  {
+    "description": "Guild Castle dungeon",
+    "filename": "GuildCastle_FollowTheLightLeaks",
+    "mark": "GuildCastle_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Follow the Light Leaks",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-14",
+      "structure": "BgmWz2",
+      "version": "1.89"
+    },
+    "youtube": "z-Bh-VNWEkA"
+  },
+  {
+    "description": "Guild Castle dungeon",
+    "filename": "GuildCastle_FollowTheLightLeaks (Original)",
+    "mark": "GuildCastle_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Follow the Light Leaks (Original)",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "kjccd3lrGPM"
+  },
+  {
+    "description": "Guild Castle rooms",
+    "filename": "GuildCastle_FullofJoyandLaughter",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Full of Joy and Laughter",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "fCNVyxYUPVI"
+  },
+  {
+    "description": "Guild Castle storyline",
+    "filename": "GuildCastle_HisReminiscence",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - His Reminiscence",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "KhOENRUu5cU"
+  },
+  {
+    "description": "Guild Castle",
+    "filename": "GuildCastle_Lobby",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Lobby",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-14",
+      "structure": "BgmWz2",
+      "version": "1.89"
+    },
+    "youtube": "BJqbj-KUOmE"
+  },
+  {
+    "description": "Guild Castle",
+    "filename": "GuildCastle_Lobby (Original)",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Lobby (Original)",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "qmascDrqSlk"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_01_Borderless",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Borderless -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "3VBdAYVSrBA"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_02_NeoCastle",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Neo Castle -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "nmf7IdQDZXc"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_03_ForEinherjar",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "For Einherjar -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "surMcwFVg8E"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_04_TempleofTime",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Temple of Time -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "puBPCl0I82k"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_05_Pantheon",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Pantheon -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "HfuK1JlKqnM"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_06_MyPrinceMyKingdom",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "My Prince, My Kingdom -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "sDBj8OqZ4uk"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_07_OutlawoftheLonelyIsland",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Outlaw of the Lonely Island -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "C5IgJL5DYR8"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_08_HelisiumForest",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Helisium Mystic Forest -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "ltnQzIqyKF8"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_09_SecretElodin",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Secret Elodin -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "qxbh5YiM6kI"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_10_TheVillageofKarupa",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Village of Karupa -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "tlvClm9as_g"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_11_FairyTale",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fairy Tale -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "r_h_JrFA5kA"
+  },
+  {
+    "description": "Guild Castle jukebox",
+    "filename": "GuildCastle_Piano_12_Login",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Start the Adventure -Piano ver.-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "xwWAeFrbG5s"
+  },
+  {
+    "description": "Guild Castle rooms",
+    "filename": "GuildCastle_Room",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Room",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-14",
+      "structure": "BgmWz2",
+      "version": "1.89"
+    },
+    "youtube": "Q9Z07FyisuI"
+  },
+  {
+    "description": "Guild Castle rooms",
+    "filename": "GuildCastle_Room (Original)",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Room (Original)",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "qgi93spqOis"
+  },
+  {
+    "description": "Guild Castle rooms",
+    "filename": "GuildCastle_Teatime",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Teatime",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-14",
+      "structure": "BgmWz2",
+      "version": "1.89"
+    },
+    "youtube": "xMjSLUHDy8E"
+  },
+  {
+    "description": "Guild Castle rooms",
+    "filename": "GuildCastle_Teatime (Original)",
+    "mark": "GuildCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Guild Castle - Teatime (Original)",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-02-06",
+      "structure": "BgmWz2",
+      "version": "1.88"
+    },
+    "youtube": "Srw9LRU0glM"
+  },
+  {
+    "description": "Buddy Headset: Jazz of Maple ft. Maple Studio Band",
+    "filename": "JazzOfMaple_Ariant",
+    "mark": "Ariant",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ariant -Jazz ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-11-10",
+      "structure": "BgmWz2",
+      "version": "1.65"
+    },
+    "youtube": "HvklAUY_JIQ"
+  },
+  {
+    "description": "Buddy Headset: Jazz of Maple ft. Maple Studio Band",
+    "filename": "JazzOfMaple_Cygnus",
+    "mark": "3018788",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Cygnus Garden -Jazz ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-11-10",
+      "structure": "BgmWz2",
+      "version": "1.65"
+    },
+    "youtube": "IrW3dV1VDFw"
+  },
+  {
+    "description": "Buddy Headset: Jazz of Maple ft. Maple Studio Band",
+    "filename": "JazzOfMaple_Login",
+    "mark": "TestServer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Login -Jazz ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-11-10",
+      "structure": "BgmWz2",
+      "version": "1.65"
+    },
+    "youtube": "RcmDpwxm2vo"
+  },
+  {
+    "description": "Buddy Headset: Jazz of Maple ft. Maple Studio Band",
+    "filename": "JazzOfMaple_Raindrop",
+    "mark": "Ereb",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Raindrop Flower -Jazz ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-11-10",
+      "structure": "BgmWz2",
+      "version": "1.65"
+    },
+    "youtube": "8E6RxMAGDWo"
+  },
+  {
+    "description": "Buddy Headset: Jazz of Maple ft. Maple Studio Band",
+    "filename": "JazzOfMaple_Rudibrium",
+    "mark": "3018790",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fantastic Thinking -Jazz ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-11-10",
+      "structure": "BgmWz2",
+      "version": "1.65"
+    },
+    "youtube": "ZTwasFGhNuI"
+  },
+  {
+    "description": "Maple Explorer event",
+    "filename": "MapleExplorer",
+    "mark": "MExplorer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Maple Explorer",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-07-21",
+      "structure": "BgmWz2",
+      "version": "1.62"
+    },
+    "youtube": "EV9D9CIe44k"
+  },
+  {
+    "description": "Omega Sector Night Troupe event",
+    "filename": "MesodyserS_All_Set",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Mesodizers All Set",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-10-15",
+      "structure": "BgmWz2",
+      "version": "2.20"
+    },
+    "youtube": "MioDekFkvQs"
+  },
+  {
+    "description": "Maple Explorer - Misty Island event",
+    "filename": "MIstyIsland_HugeRuinCenters",
+    "mark": "MExplorerIsland",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Misty Island - Huge Ruin Centers",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-07-13",
+      "structure": "BgmWz2",
+      "version": "1.82"
+    },
+    "youtube": "WCpwLmTLcJw"
+  },
+  {
+    "description": "Maple Explorer - Misty Island event",
+    "filename": "MistyIsland_TempHeadquaters",
+    "mark": "MExplorer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Misty Island - Temporary Headquaters",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-07-13",
+      "structure": "BgmWz2",
+      "version": "1.82"
+    },
+    "youtube": "a9Cco4fLaBE"
+  },
+  {
+    "description": "Mu Lung Night Troupe event",
+    "filename": "MureungFesta_NightFestival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Mu Lung Festa",
+      "year": "2024"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2024-10-16",
+      "structure": "BgmWz2",
+      "version": "2.11"
+    },
+    "youtube": "33afOdW8RvM"
+  },
+  {
+    "description": "Mu Lung Night Troupe event",
+    "filename": "MureungFightFloor_NightFestival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Mu Lung Fight Floor -Night Festival-",
+      "year": "2024"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2024-10-16",
+      "structure": "BgmWz2",
+      "version": "2.11"
+    },
+    "youtube": "mJN_vS1cWZg"
+  },
+  {
+    "description": "My Home system content - Christmas event",
+    "filename": "MyHomeJazz_Elnath",
+    "mark": "myHome",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "El Nath -Jazz ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-11-10",
+      "structure": "BgmWz2",
+      "version": "1.65"
+    },
+    "youtube": "R7t3G_kuR40"
+  },
+  {
+    "description": "My Home system content - room decoration (Christmas)",
+    "filename": "MyHomeJazz_Home",
+    "mark": "myHome",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Sweet Rest -Jazz ver.-",
+      "titleAlt": "My Home: Home -Jazz ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-11-10",
+      "structure": "BgmWz2",
+      "version": "1.65"
+    },
+    "youtube": "s1cyTiAsl3w"
+  },
+  {
+    "description": "My Home system content - Kelanza Square (Christmas)",
+    "filename": "MyHomeJazz_Village",
+    "mark": "myHome",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Brand New Morning in the Plaza -Jazz ver.-",
+      "titleAlt": "My Home: Village -Jazz ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-11-10",
+      "structure": "BgmWz2",
+      "version": "1.65"
+    },
+    "youtube": "eeYt-f3EhN4"
+  },
+  {
+    "description": "My Home system content - room decoration",
+    "filename": "myHome_room",
+    "mark": "myHome",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Sweet Rest",
+      "titleAlt": "My Home - Room",
+      "year": "2019"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2019-07-15",
+      "structure": "BgmWz2",
+      "version": "1.52"
+    },
+    "youtube": "_qrZyuh0Rj8"
+  },
+  {
+    "description": "My Home system content - room decoration",
+    "filename": "myHome_room2",
+    "mark": "myHome",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Sweet Rest -Guitar ver.-",
+      "titleAlt": "My Home - Room 2",
+      "year": "2019"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2019-07-15",
+      "structure": "BgmWz2",
+      "version": "1.52"
+    },
+    "youtube": "sHTeqhDj2Y8"
+  },
+  {
+    "description": "My Home system content - Kelanza Square",
+    "filename": "myHome_village",
+    "mark": "myHome",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Brand New Morning in the Plaza",
+      "titleAlt": "My Home - Village",
+      "year": "2019"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2019-07-15",
+      "structure": "BgmWz2",
+      "version": "1.52"
+    },
+    "youtube": "fsQ6o8IVfXY"
+  },
+  {
+    "description": "Henesys Night Circus event",
+    "filename": "NightFestival_In_Henesys",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Night Festival in Henesys",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-09-30",
+      "structure": "BgmWz2",
+      "version": "1.64"
+    },
+    "youtube": "IY_MJz4FVOI"
+  },
+  {
+    "description": "Nautilus Night Circus event",
+    "filename": "NightFestival_In_Nautilus_Festival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Night Festival in Nautilus",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-09-26",
+      "structure": "BgmWz2",
+      "version": "1.84"
+    },
+    "youtube": "j15ZonbX10k"
+  },
+  {
+    "description": "Nautilus Night Circus event",
+    "filename": "NightFestival_In_Nautilus_Food Party",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Night Festival in Nautilus - Food Party",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-09-26",
+      "structure": "BgmWz2",
+      "version": "1.84"
+    },
+    "youtube": "5ndMuZkpSaE"
+  },
+  {
+    "description": "Nautilus Night Circus event",
+    "filename": "NightFestival_In_Nautilus_Minigame",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Night Festival in Nautilus - Minigame",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-09-26",
+      "structure": "BgmWz2",
+      "version": "1.84"
+    },
+    "youtube": "s5m8Rk_LhhQ"
+  },
+  {
+    "description": "Nautilus Night Circus event",
+    "filename": "NightFestival_In_Nautilus_Pub",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Night Festival in Nautilus - Pub",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-09-26",
+      "structure": "BgmWz2",
+      "version": "1.84"
+    },
+    "youtube": "7Qc-r0tnm94"
+  },
+  {
+    "description": "Rien Night Circus event",
+    "filename": "NightFestival_In_Rien",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Night Festival in Rien",
+      "year": "2021"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2021-09-30",
+      "structure": "BgmWz2",
+      "version": "1.73"
+    },
+    "youtube": "_qcl2XaCvQg"
+  },
+  {
+    "description": "Lian Plateau: Chilly Trail",
+    "filename": "Redmoon_Bliss",
+    "mark": "RedMoon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Bliss",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-02-19",
+      "structure": "BgmWz2",
+      "version": "2.14"
+    },
+    "youtube": "4VoOdUK5hTY"
+  },
+  {
+    "description": "Lian Plateau field",
+    "filename": "Redmoon_BreezeofPeril",
+    "mark": "RedMoon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Breeze of Peril",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-02-19",
+      "structure": "BgmWz2",
+      "version": "2.14"
+    },
+    "youtube": "fkmRg-oHX54"
+  },
+  {
+    "description": "Red Moon Forest",
+    "filename": "Redmoon_ForestofSecrets",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Forest of Secrets",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-02-19",
+      "structure": "BgmWz2",
+      "version": "2.14"
+    },
+    "youtube": "RvhB86xuHBc"
+  },
+  {
+    "description": "Red Moon Forest",
+    "filename": "Redmoon_ForestoftheRedMoon",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Forest of the Red Moon",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-02-19",
+      "structure": "BgmWz2",
+      "version": "2.14"
+    },
+    "youtube": "jGzvSs4eglI"
+  },
+  {
+    "description": "Lian Plateau: Cool Breeze Village",
+    "filename": "Redmoon_GentleBreeze",
+    "mark": "RedMoon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Gentle Breeze",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-02-19",
+      "structure": "BgmWz2",
+      "version": "2.14"
+    },
+    "youtube": "0l3Jou8Q0O0"
+  },
+  {
+    "description": "Red Moon Forest storyline",
+    "filename": "Redmoon_Remember",
+    "mark": "RedMoon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Remember",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-02-19",
+      "structure": "BgmWz2",
+      "version": "2.14"
+    },
+    "youtube": "ZEQsmRCKXXQ"
+  },
+  {
+    "description": "Red Moon Forest entrance",
+    "filename": "Redmoon_TrailoftheRedMoon",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Trail of the Red Moon",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-02-19",
+      "structure": "BgmWz2",
+      "version": "2.14"
+    },
+    "youtube": "jNqAkqGflME"
+  },
+  {
+    "description": "Red Moon Forest: Red Moon Altar",
+    "filename": "Redmoon_UndertheRedMoon",
+    "mark": "RedMoon_Dungeon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Under the Red Moon",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-02-19",
+      "structure": "BgmWz2",
+      "version": "2.14"
+    },
+    "youtube": "iaT9TlGfvFk"
+  },
+  {
+    "description": "Omega Sector Night Troupe event",
+    "filename": "Simulation_Training_SystemOnline",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Simulation Training System Online",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-10-15",
+      "structure": "BgmWz2",
+      "version": "2.20"
+    },
+    "youtube": "hzk0NhnP4Rc"
+  },
+  {
+    "description": "Omega Sector Night Troupe event",
+    "filename": "Stranger_Backstage",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Stranger Backstage",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-10-15",
+      "structure": "BgmWz2",
+      "version": "2.20"
+    },
+    "youtube": "AtXJuFwozvw"
+  },
+  {
+    "description": "Ludibrium Night Troupe event",
+    "filename": "TheFantasticThinking_NightFestival",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Fantastic Thinking -Night Festival-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2023-09-26",
+      "structure": "BgmWz2",
+      "version": "1.95"
+    },
+    "youtube": "WtfqoAwve-c"
+  },
+  {
+    "description": "Omega Sector Night Troupe event",
+    "filename": "TorinaoDooDo_cleanVersion",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Torinao Doo Do",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-10-15",
+      "structure": "BgmWz2",
+      "version": "2.20"
+    },
+    "youtube": "adrsMtwGpgc"
+  },
+  {
+    "description": "Omega Sector Night Troupe event",
+    "filename": "TorinaoDooDo_liveVersion_concerthall",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Torinao Doo Do - Concert Hall (Live ver.)",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-10-15",
+      "structure": "BgmWz2",
+      "version": "2.20"
+    },
+    "youtube": "tUbmUFeM0mk"
+  },
+  {
+    "description": "Omega Sector Night Troupe event",
+    "filename": "TorinaoDooDo_liveVersion_vipstandinghall",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Torinao Doo Do - VIP Standing Hall (Live ver.)",
+      "year": "2025"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2025-10-15",
+      "structure": "BgmWz2",
+      "version": "2.20"
+    },
+    "youtube": "HTpPhsCuMls"
+  },
+  {
+    "description": "Treasure of Pharaoh event",
+    "filename": "TreasureOfPharaoh_Boss",
+    "mark": "Pharaoh",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Treasure of Pharaoh - Boss",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-01-28",
+      "structure": "BgmWz2",
+      "version": "1.77"
+    },
+    "youtube": "aFPdamHVaaE"
+  },
+  {
+    "description": "Treasure of Pharaoh event",
+    "filename": "TreasureOfPharaoh_Chap1",
+    "mark": "Pharaoh",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Treasure of Pharaoh - Chapter 1",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-01-28",
+      "structure": "BgmWz2",
+      "version": "1.77"
+    },
+    "youtube": "-DHH5TWyFmQ"
+  },
+  {
+    "description": "Treasure of Pharaoh event",
+    "filename": "TreasureOfPharaoh_Chap2",
+    "mark": "Pharaoh",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Treasure of Pharaoh - Chapter 2",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-01-28",
+      "structure": "BgmWz2",
+      "version": "1.77"
+    },
+    "youtube": "aeE_9MhFNuU"
+  },
+  {
+    "description": "Treasure of Pharaoh event",
+    "filename": "TreasureOfPharaoh_Chap3",
+    "mark": "Pharaoh",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Treasure of Pharaoh - Chapter 3",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-01-28",
+      "structure": "BgmWz2",
+      "version": "1.77"
+    },
+    "youtube": "A-Vyi6uuve4"
+  },
+  {
+    "description": "Treasure of Pharaoh event",
+    "filename": "TreasureOfPharaoh_Chap4",
+    "mark": "Pharaoh",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Treasure of Pharaoh - Chapter 4",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-01-28",
+      "structure": "BgmWz2",
+      "version": "1.77"
+    },
+    "youtube": "STeCIlQfIuY"
+  },
+  {
+    "description": "Treasure of Pharaoh event",
+    "filename": "TreasureOfPharaoh_Chap5",
+    "mark": "Pharaoh",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Treasure of Pharaoh - Chapter 5",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-01-28",
+      "structure": "BgmWz2",
+      "version": "1.77"
+    },
+    "youtube": "7g4kgFKpYXE"
+  },
+  {
+    "description": "Treasure of Pharaoh event",
+    "filename": "TreasureOfPharaoh_Enter",
+    "mark": "Pharaoh",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Treasure of Pharaoh - Entrance",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-01-28",
+      "structure": "BgmWz2",
+      "version": "1.77"
+    },
+    "youtube": "0rym7kt-p4Y"
+  },
+  {
+    "description": "Treasure of Pharaoh event",
+    "filename": "TreasureOfPharaoh_Shop",
+    "mark": "Pharaoh",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Treasure of Pharaoh - Shop",
+      "year": "2022"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2022-01-28",
+      "structure": "BgmWz2",
+      "version": "1.77"
+    },
+    "youtube": "IkM2f1c73eg"
+  },
+  {
+    "description": "Maple Explorer event",
+    "filename": "UnchartedIsland_Day",
+    "mark": "MExplorerIsland",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Uncharted Island -Day-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-07-21",
+      "structure": "BgmWz2",
+      "version": "1.62"
+    },
+    "youtube": "fgnfYD84u0Q"
+  },
+  {
+    "description": "Maple Explorer event",
+    "filename": "UnchartedIsland_Night",
+    "mark": "MExplorerIsland",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Uncharted Island -Night-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-07-21",
+      "structure": "BgmWz2",
+      "version": "1.62"
+    },
+    "youtube": "PDxQ-hHhww4"
+  },
+  {
+    "description": "Maple Explorer event",
+    "filename": "UnchartedIsland_Raid",
+    "mark": "MExplorerIsland",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Uncharted Island -Raid-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2020-07-21",
+      "structure": "BgmWz2",
+      "version": "1.62"
+    },
+    "youtube": "ubdQ9SgRY80"
+  }
+]

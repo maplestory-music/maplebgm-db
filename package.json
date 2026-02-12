@@ -1,0 +1,24 @@
+{
+  "name": "maplebgm-db",
+  "version": "2025.4",
+  "dependencies": {
+    "jsonc-parser": "^3.2.0"
+  },
+  "devDependencies": {
+    "ajv": "^6.5.5",
+    "eslint": "^7.4.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-import": "^2.22.0",
+    "jest": "^24.9.0",
+    "prettier": "^2.0.5"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "scripts": {
+    "test": "jest",
+    "prettier": "prettier --write .",
+    "merge": "node -e \"require('./utils').mergeBgmDatabase('./bgm', './playlist')\""
+  }
+}
