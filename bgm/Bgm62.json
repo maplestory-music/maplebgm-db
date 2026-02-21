@@ -36,6 +36,9 @@
     "youtube": "-iofIzq5THU"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Geardrak: Underground",
     "filename": "Secrets Hidden Under the Sand (Original)",
     "mark": "Geardrak",
@@ -108,6 +111,9 @@
     "youtube": "oKKN6zr14-8"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Geardrak",
     "filename": "The furnace that swallowed the gods (Original)",
     "mark": "Geardrak",
@@ -144,6 +150,9 @@
     "youtube": "CoePzXC7Lv4"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Geardrak: Robot Warehouse",
     "filename": "The gaze of abandoned robots (Original)",
     "mark": "Geardrak",
@@ -180,6 +189,9 @@
     "youtube": "SSfJAkoX0eA"
   },
   {
+    "decoration": {
+      "minorTrack": true
+    },
     "description": "Geardrak: Gob's Workshop",
     "filename": "The Ghosts of the Sleepless Gods (Original)",
     "mark": "Geardrak",
