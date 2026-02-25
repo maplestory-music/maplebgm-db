@@ -1,0 +1,272 @@
+[
+  {
+    "description": "Twilight Eve Festival (MapleStory Assemble)",
+    "filename": "A twilight eve festival",
+    "mark": "Evernia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "A Twilight Evernia Festival",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-06-12",
+      "structure": "BgmEvent4",
+      "version": "1.2.189"
+    },
+    "youtube": "BaML2E64LPo"
+  },
+  {
+    "description": "Carcion Octo Festival",
+    "filename": "CarcionOctofestival",
+    "mark": "strangerTide",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Carcion Festival",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-02-13",
+      "structure": "BgmEvent4",
+      "version": "1.2.184"
+    },
+    "youtube": "wkLMCmmrfQk"
+  },
+  {
+    "description": "Carcion Octo Festival",
+    "filename": "CarcionOctofestivalwitheveryone",
+    "mark": "strangerTide",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Carcion Festival with Everyone",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-03-13",
+      "structure": "BgmEvent4",
+      "version": "1.2.185"
+    },
+    "youtube": "nmd-NS9dmb8"
+  },
+  {
+    "description": "MapleStory NEXT ending theme song",
+    "filename": "Ending_NextTo",
+    "mark": "DawnStar",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "NEXT TO -instrumental-",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-12-12",
+      "structure": "BgmEvent4",
+      "version": "1.2.182"
+    },
+    "youtube": "48lWbmLaQ_Y"
+  },
+  {
+    "description": "Dawn Star Banquet (MapleStory NEXT)",
+    "filename": "FlowerscentedCorridor",
+    "mark": "DawnStar",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Flower Scented Corridor",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-12-12",
+      "structure": "BgmEvent4",
+      "version": "1.2.182"
+    },
+    "youtube": "zt-FtBK5mmA"
+  },
+  {
+    "description": "22nd anniversary: Maple University",
+    "filename": "HopeBlossoms",
+    "mark": "22nd",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Hope Blossoms",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-04-10",
+      "structure": "BgmEvent4",
+      "version": "1.2.186"
+    },
+    "youtube": "ZGTF6rhWk9c"
+  },
+  {
+    "description": "Tallahart - Night of Illusions (MapleStory Crown)",
+    "filename": "IllusionFantasia",
+    "mark": "tallahart",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Illusion Fantasia",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-12-13",
+      "structure": "BgmEvent4",
+      "version": "1.2.196"
+    },
+    "youtube": "fsZt5a2K26Q"
+  },
+  {
+    "description": "MapleStory NEXT opening theme song",
+    "filename": "Intro_NextOne",
+    "mark": "DawnStar",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "NEXT ONE -instrumental-",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-12-12",
+      "structure": "BgmEvent4",
+      "version": "1.2.182"
+    },
+    "youtube": "g60imV0mdCE"
+  },
+  {
+    "description": "Monster Park Turmoil",
+    "filename": "MonsterParkStaffRounge",
+    "mark": "monsterParkOffice",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Monster Park Staff Lounge",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2025-11-20",
+      "structure": "BgmEvent4",
+      "version": "1.2.409"
+    },
+    "youtube": "dsvrbnaTTjs"
+  },
+  {
+    "description": "MVP Resort",
+    "filename": "MvpResortBGM",
+    "mark": "mvpResort",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Welcome to the MVP Resort",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-04-10",
+      "structure": "BgmEvent4",
+      "version": "1.2.186"
+    },
+    "youtube": "UTD7W8aYw7A"
+  },
+  {
+    "description": "Maple Hideout",
+    "filename": "PlayWithMeAgain",
+    "mark": "mapleAgit",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Play With Me Again",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-09-11",
+      "structure": "BgmEvent4",
+      "version": "1.2.193"
+    },
+    "youtube": "SfAvtCj_a_M"
+  },
+  {
+    "description": "Maple Hideout",
+    "filename": "PlayWithMeAllDay",
+    "mark": "mapleAgit",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Play With Me All Day",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-10-16",
+      "structure": "BgmEvent4",
+      "version": "1.2.194"
+    },
+    "youtube": "0PKOCUBh-fY"
+  },
+  {
+    "description": "Dawn Star Banquet (MapleStory NEXT)",
+    "filename": "StarryDawngarden",
+    "mark": "DawnStar",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Starry Dawn Garden",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-12-12",
+      "structure": "BgmEvent4",
+      "version": "1.2.182"
+    },
+    "youtube": "-5k1aracOQo"
+  },
+  {
+    "description": "Monster Park Turmoil - Virtual Combat System",
+    "filename": "VirtualCombatSystemPhase1",
+    "mark": "monsterParkOffice",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Virtual Combat System",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2025-11-20",
+      "structure": "BgmEvent4",
+      "version": "1.2.409"
+    },
+    "youtube": "Zi4k-kmhF5k"
+  },
+  {
+    "description": "2025 Halloween: Yeti Night",
+    "filename": "WarmRegard_Night",
+    "mark": "ElNath",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Warm Regard -Night-",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-10-16",
+      "structure": "BgmEvent4",
+      "version": "1.2.194"
+    },
+    "youtube": "8gWWBx-D5Wk"
+  }
+]

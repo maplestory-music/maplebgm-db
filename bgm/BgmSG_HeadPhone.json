@@ -1,0 +1,326 @@
+[
+  {
+    "description": "1000010 Headset: 1000010 ft. Prod. ZM",
+    "filename": "1000010",
+    "mark": "1005518",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "1000010",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-05-20",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.95"
+    },
+    "youtube": "k3zYdRpUKzk"
+  },
+  {
+    "description": "GOGOA Headset: Mushroom Power ft. Sleedpy Brothers",
+    "filename": "Abyss",
+    "mark": "1005643",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Abyss",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-11-11",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.99"
+    },
+    "youtube": "hoPouBVskg8"
+  },
+  {
+    "description": "1000010 Headset: 1000010 ft. Prod. ZM",
+    "filename": "AGAIN",
+    "mark": "1005518",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "AGAIN",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-05-20",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.95"
+    },
+    "youtube": "9t5WXHBBNfY"
+  },
+  {
+    "description": "Vintage101 Headset: Lo-Fi 101 ft. AndLoids",
+    "filename": "Downtown (Headset)",
+    "mark": "1005645",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Downtown",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-11-11",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.99"
+    },
+    "youtube": "9C2POw73efM"
+  },
+  {
+    "description": "Vintage101 Headset: Lo-Fi 101 ft. AndLoids",
+    "filename": "Drive",
+    "mark": "1005645",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Drive",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-11-11",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.99"
+    },
+    "youtube": "2zVMCzBw3ks"
+  },
+  {
+    "description": "Vintage101 Headset: Lo-Fi 101 ft. AndLoids",
+    "filename": "Haven",
+    "mark": "1005645",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Haven",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-11-11",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.99"
+    },
+    "youtube": "ZxwshDpKN-I"
+  },
+  {
+    "description": "GOGOA Headset: Mushroom Power ft. Sleedpy Brothers",
+    "filename": "Into The Dungeon",
+    "mark": "1005643",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Into the Dungeon",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-11-11",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.99"
+    },
+    "youtube": "ff-4__wv1gE"
+  },
+  {
+    "description": "X-Mas Headset: Maple Christmas ft. Athena Pierce & Friends",
+    "filename": "Joy To The Maple World",
+    "mark": "1005642",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Joy to the Maple World",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-11-11",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.99"
+    },
+    "youtube": "mhR9aIeWa94"
+  },
+  {
+    "description": "Nitro Adrenaline Headset: RUN JMC ft. JM From tha Streetz",
+    "filename": "Kill Mob 9999",
+    "mark": "1005520",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Kill Mob 9999",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-05-20",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.95"
+    },
+    "youtube": "hgad1fqdaZc"
+  },
+  {
+    "description": "GOGOA Headset: Mushroom Power ft. Sleedpy Brothers",
+    "filename": "Mushroom Power",
+    "mark": "1005643",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Mushroom Power",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-11-11",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.99"
+    },
+    "youtube": "e3XvDcjXoe8"
+  },
+  {
+    "description": "X-Mas Headset: Maple Christmas ft. Athena Pierce & Friends",
+    "filename": "Pink Christmas",
+    "mark": "1005642",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Pink Christmas",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-11-11",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.99"
+    },
+    "youtube": "Xb1jH5hVQMs"
+  },
+  {
+    "description": "Nitro Adrenaline Headset: RUN JMC ft. JM From tha Streetz",
+    "filename": "Raid",
+    "mark": "1005520",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Raid",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-05-20",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.95"
+    },
+    "youtube": "wjG9EATMDu8"
+  },
+  {
+    "description": "Starlight Headset: Cheer Up ft. Starlight",
+    "filename": "Shampoo",
+    "mark": "1005519",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shampoo",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-05-20",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.95"
+    },
+    "youtube": "qSTCL_RGWc0"
+  },
+  {
+    "description": "Nitro Adrenaline Headset: RUN JMC ft. JM From tha Streetz",
+    "filename": "Show Me Tha Meso",
+    "mark": "1005520",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Show Me tha Meso",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-05-20",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.95"
+    },
+    "youtube": "a0ZBuqABRdU"
+  },
+  {
+    "description": "1000010 Headset: 1000010 ft. Prod. ZM",
+    "filename": "THE FOOL",
+    "mark": "1005518",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "THE FOOL",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-05-20",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.95"
+    },
+    "youtube": "I_J_G5NoEFo"
+  },
+  {
+    "description": "X-Mas Headset: Maple Christmas ft. Athena Pierce & Friends",
+    "filename": "Together",
+    "mark": "1005642",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Together",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-11-11",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.99"
+    },
+    "youtube": "3dUDJ7gIoO0"
+  },
+  {
+    "description": "Starlight Headset: Cheer Up ft. Starlight",
+    "filename": "Twinkle Twinkle",
+    "mark": "1005519",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Twinkle Twinkle",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-05-20",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.95"
+    },
+    "youtube": "uw2h0-b3NXo"
+  },
+  {
+    "description": "Starlight Headset: Cheer Up ft. Starlight",
+    "filename": "What is Love?",
+    "mark": "1005519",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "What is Love?",
+      "year": "2020"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2020-05-20",
+      "structure": "BgmSG_HeadPhone",
+      "version": "1.95"
+    },
+    "youtube": "2cwyawTRvoM"
+  }
+]

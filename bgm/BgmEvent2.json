@@ -1,0 +1,492 @@
+[
+  {
+    "description": "Adventure Island",
+    "filename": "adventureIsland",
+    "mark": "adventureIsland",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Adventure Island",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2019-01-03",
+      "structure": "BgmEvent2",
+      "version": "1.2.080"
+    },
+    "youtube": "bA6SLeKHS-c"
+  },
+  {
+    "description": "2018 Halloween: Club Halloween",
+    "filename": "clubHalloween",
+    "mark": "event_clubHalloween",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Club Halloween",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2018-10-18",
+      "structure": "BgmEvent2",
+      "version": "1.2.307"
+    },
+    "youtube": "bCag6Onoug0"
+  },
+  {
+    "description": "Maple Alliance Outpost (MapleStory Glory)",
+    "filename": "glory_Base",
+    "mark": "Glorion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Glory Base",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2019-06-20",
+      "structure": "BgmEvent2",
+      "version": "1.2.317"
+    },
+    "youtube": "pxFI6etwcDY"
+  },
+  {
+    "description": "Full Moon Goblin Night Market",
+    "filename": "goblinMarket",
+    "mark": "goblinMarket",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Full Moon Goblin Night Market",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2019-08-29",
+      "structure": "BgmEvent2",
+      "version": "1.2.323"
+    },
+    "youtube": "aHknrZHLlbY"
+  },
+  {
+    "description": "Heroes Fiesta event",
+    "filename": "HeroesFiesta",
+    "mark": "hFiesta",
+    "metadata": {
+      "albumArtist": "NEXPACE",
+      "artist": "ASTERIA",
+      "title": "Heroes Fiesta",
+      "year": "2025"
+    },
+    "source": {
+      "client": "MSN",
+      "date": "2025-07-24",
+      "structure": "BgmEvent2",
+      "version": "0.05"
+    },
+    "youtube": "pFeA45_Oes4"
+  },
+  {
+    "description": "New Year's Eve kite event",
+    "filename": "kiteBgm",
+    "mark": "Kite",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Kite",
+      "year": "2013"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2013-01-28",
+      "structure": "BgmEvent2",
+      "version": "1.2.469"
+    },
+    "youtube": "K4kGM9aKBCM"
+  },
+  {
+    "description": "Mini Game Station event",
+    "filename": "miniGameStation",
+    "mark": "MinigameStation",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Mini Game Station",
+      "year": "2013"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2013-11-27",
+      "structure": "BgmEvent2",
+      "version": "1.2.492"
+    },
+    "youtube": "VRhE2xNjmP4"
+  },
+  {
+    "description": "16th anniversary: Newtro Time (Chu Chu Island)",
+    "filename": "Newtro_ChuChu",
+    "mark": "16thEvent",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Expedition to Chew Chew Island -Newtro ver.-",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2019-04-18",
+      "structure": "BgmEvent2",
+      "version": "1.2.085"
+    },
+    "youtube": "fCcvhjI7BDk"
+  },
+  {
+    "description": "16th anniversary: Newtro Time",
+    "filename": "Newtro_Disco",
+    "mark": "16thEvent",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Newtro Disco",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2019-04-18",
+      "structure": "BgmEvent2",
+      "version": "1.2.085"
+    },
+    "youtube": "_v6FtAHKIFw"
+  },
+  {
+    "description": "16th anniversary: Newtro Time (Florina Beach)",
+    "filename": "Newtro_FlorinaBeach",
+    "mark": "16thEvent",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Beachway -Newtro ver.-",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2019-05-23",
+      "structure": "BgmEvent2",
+      "version": "1.2.316"
+    },
+    "youtube": "CokUXAWcJeU"
+  },
+  {
+    "description": "16th anniversary: Newtro Time (Henesys)",
+    "filename": "Newtro_Henesys",
+    "mark": "16thEvent",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Floral Life -Newtro ver.-",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2019-04-18",
+      "structure": "BgmEvent2",
+      "version": "1.2.085"
+    },
+    "youtube": "EXMQpJ0JV5M"
+  },
+  {
+    "description": "16th anniversary: Newtro Time",
+    "filename": "Newtro_Kingdom",
+    "mark": "16thEvent",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Newtro Kingdom",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2019-04-18",
+      "structure": "BgmEvent2",
+      "version": "1.2.085"
+    },
+    "youtube": "ynQE0uzOZwI"
+  },
+  {
+    "description": "16th anniversary: Newtro Time (Login theme)",
+    "filename": "Newtro_Login",
+    "mark": "16thEvent",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Start the Adventure -Newtro ver.-",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2019-04-18",
+      "structure": "BgmEvent2",
+      "version": "1.2.085"
+    },
+    "youtube": "dlAl1cwvMGQ"
+  },
+  {
+    "description": "16th anniversary: Newtro Time (Ludibrium)",
+    "filename": "Newtro_Ludibrium",
+    "mark": "16thEvent",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fantastic Thinking -Newtro ver.-",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2019-04-18",
+      "structure": "BgmEvent2",
+      "version": "1.2.085"
+    },
+    "youtube": "JS6aQ2K3Vs8"
+  },
+  {
+    "description": "16th anniversary: Newtro Time (Balrog theme)",
+    "filename": "Newtro_Orbis",
+    "mark": "16thEvent",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Arab Pirate -Newtro ver.-",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2019-04-18",
+      "structure": "BgmEvent2",
+      "version": "1.2.085"
+    },
+    "youtube": "M-CUrhHhZAQ"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Pink Bean's Triple Color Spotlight skill",
+    "filename": "pinkbeanSpotlight",
+    "mark": "PinkBean",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Pink Bean Spotlight",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-10-20",
+      "structure": "BgmEvent2",
+      "version": "1.2.147"
+    },
+    "youtube": "HLxZnFxhW-I"
+  },
+  {
+    "description": "Mesoranger dance event",
+    "filename": "rhythmBgm1",
+    "mark": "mRhythm",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Rhythm",
+      "year": "2013"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2013-04-18",
+      "structure": "BgmEvent2",
+      "version": "1.2.476"
+    },
+    "youtube": "siOIcI8Fa3A"
+  },
+  {
+    "description": "Mesoranger dance event",
+    "filename": "rhythmBgm2",
+    "mark": "mRhythm",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Rhythm 2",
+      "year": "2013"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2013-06-27",
+      "structure": "BgmEvent2",
+      "version": "1.2.481"
+    },
+    "youtube": "iFUeN8brMbo"
+  },
+  {
+    "description": "Smile Luv U (TV size) -instrumental-",
+    "filename": "risingStar",
+    "mark": "MinigameStation",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Rising Star",
+      "year": "2011"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2011-04-26",
+      "structure": "BgmEvent2",
+      "version": "1.2.380"
+    },
+    "youtube": "oC59ar2ONwI"
+  },
+  {
+    "description": "Smile Luv U (TV size)",
+    "filename": "risingStar2",
+    "mark": "MinigameStation",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Rising Star 2",
+      "year": "2011"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2011-04-26",
+      "structure": "BgmEvent2",
+      "version": "1.2.380"
+    },
+    "youtube": "oyLNri1VuOM"
+  },
+  {
+    "description": "Mesoranger dance event (winter)",
+    "filename": "santaBeats",
+    "mark": "mRhythm",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Santa Beats",
+      "year": "2013"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2013-11-27",
+      "structure": "BgmEvent2",
+      "version": "1.2.492"
+    },
+    "youtube": "6AY9MkUSc9s"
+  },
+  {
+    "description": "Mesoranger dance event (winter)",
+    "filename": "santaRocks",
+    "mark": "mRhythm",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Santa Rocks",
+      "year": "2013"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2013-11-27",
+      "structure": "BgmEvent2",
+      "version": "1.2.492"
+    },
+    "youtube": "t-Ra1k_Dk2k"
+  },
+  {
+    "description": "10th anniversary event",
+    "filename": "tenthBoard",
+    "mark": "12th",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "10th Anniversary Board",
+      "year": "2013"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2013-04-18",
+      "structure": "BgmEvent2",
+      "version": "1.2.476"
+    },
+    "youtube": "3yvTD3d9OLQ"
+  },
+  {
+    "description": "Union Arena",
+    "filename": "unionArena",
+    "mark": "autoPvP",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Union Arena",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-08-11",
+      "structure": "BgmEvent2",
+      "version": "1.2.107"
+    },
+    "youtube": "LOQ7HeMndvo"
+  },
+  {
+    "description": "Union Arena battlefield",
+    "filename": "unionArena2",
+    "mark": "autoPvP",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Union Arena - Battlefield",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2020-08-20",
+      "structure": "BgmEvent2",
+      "version": "1.2.337"
+    },
+    "youtube": "D5f8O1NTSGc"
+  },
+  {
+    "description": "DJ booth chair effect",
+    "filename": "VEvent",
+    "mark": "3015804",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "DJ Searcher",
+      "title": "V Event",
+      "year": "2016"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2016-07-07",
+      "structure": "BgmEvent2",
+      "version": "1.2.036"
+    },
+    "youtube": "TfofGfdERqA"
+  },
+  {
+    "description": "Winter Retreat / Seaside Outlaw event",
+    "filename": "WaterGunGame",
+    "mark": "WaterGun",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Outlaw of the Lonely Island",
+      "titleAlt": "Water Gun Game",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2017-08-10",
+      "structure": "BgmEvent2",
+      "version": "1.2.282"
+    },
+    "youtube": "mB7_l1sAovU"
+  }
+]

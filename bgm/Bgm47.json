@@ -1,0 +1,334 @@
+[
+  {
+    "description": "Arcana: Labyrinthine Cavern",
+    "filename": "ArcanaBoss",
+    "mark": "Arcana",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shadow of Incongruity",
+      "titleAlt": "Arcana Boss",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-02-02",
+      "structure": "Bgm47",
+      "version": "1.2.046"
+    },
+    "youtube": "egACrpCsMwE"
+  },
+  {
+    "description": "Sanctuary",
+    "filename": "Asylum",
+    "mark": "Asylum",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Asylum",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-07-27",
+      "structure": "Bgm47",
+      "version": "1.2.054"
+    },
+    "youtube": "5w8K5mrou8w"
+  },
+  {
+    "description": "Sanctuary",
+    "filename": "AsylumAmbience",
+    "mark": "Asylum",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Asylum Ambience",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-07-27",
+      "structure": "Bgm47",
+      "version": "1.2.054"
+    },
+    "youtube": "kXfuOlqqH38"
+  },
+  {
+    "description": "Sanctuary",
+    "filename": "AsylumAmbiencePiano",
+    "mark": "Asylum",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Asylum Ambience -piano-",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2017-08-10",
+      "structure": "Bgm47",
+      "version": "1.2.282"
+    },
+    "youtube": "-xsqIwCHHnA"
+  },
+  {
+    "description": "Sanctuary",
+    "filename": "AsylumPiano",
+    "mark": "Asylum",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Asylum -piano-",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2017-08-10",
+      "structure": "Bgm47",
+      "version": "1.2.282"
+    },
+    "youtube": "pamYmvKS0uU"
+  },
+  {
+    "description": "Sanctuary: Crystal Academy",
+    "filename": "CrystalAcademia",
+    "mark": "Asylum",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Crystal Academia",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-07-27",
+      "structure": "Bgm47",
+      "version": "1.2.054"
+    },
+    "youtube": "5wZYN1yy8l0"
+  },
+  {
+    "description": "Omega Sector: Inside the Mothership",
+    "filename": "DancesWithAliens",
+    "mark": "OmegaSector",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Dances with Aliens",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-01-12",
+      "structure": "Bgm47",
+      "version": "1.2.045"
+    },
+    "youtube": "14B3XZLxKZM"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Sanctuary: Crystal Academy invasion",
+    "filename": "DeathOfAsylum",
+    "mark": "Asylum",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Death of Asylum",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-07-27",
+      "structure": "Bgm47",
+      "version": "1.2.054"
+    },
+    "youtube": "W3PLmFx6emk"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Sanctuary invasion",
+    "filename": "DeathOfAsylumChoir",
+    "mark": "Asylum",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Death of Asylum -choir-",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-07-27",
+      "structure": "Bgm47",
+      "version": "1.2.054"
+    },
+    "youtube": "pvlyUuisSBY"
+  },
+  {
+    "description": "Sanctuary invasion",
+    "filename": "DeathOfAsylumChoirExtended",
+    "mark": "Asylum",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Death of Asylum -choir extended-",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-07-27",
+      "structure": "Bgm47",
+      "version": "1.2.054"
+    },
+    "youtube": "kdpm4JVZ9gg"
+  },
+  {
+    "description": "Omega Sector storyline",
+    "filename": "GoGoRangers!",
+    "mark": "OmegaSector",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Go, Go! Rangers!",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-01-12",
+      "structure": "Bgm47",
+      "version": "1.2.045"
+    },
+    "youtube": "A779SL-WbfM"
+  },
+  {
+    "description": "Savage Terminal field",
+    "filename": "HuntingGround",
+    "mark": "SavageTerminal",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Hunting Ground",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-06-18",
+      "structure": "Bgm47",
+      "version": "1.2.051"
+    },
+    "youtube": "ptB715RqrEE"
+  },
+  {
+    "description": "Illium's awakening",
+    "filename": "IlliumRebirth",
+    "mark": "Asylum",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Illium Rebirth",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-07-27",
+      "structure": "Bgm47",
+      "version": "1.2.054"
+    },
+    "youtube": "wb7ycqo8WAw"
+  },
+  {
+    "description": "Savage Terminal: Mr. Hazard's Lair",
+    "filename": "MrHazard",
+    "mark": "SavageTerminal",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Mr. Hazard",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-06-18",
+      "structure": "Bgm47",
+      "version": "1.2.051"
+    },
+    "youtube": "lr9320Tq2_E"
+  },
+  {
+    "description": "Savage Terminal",
+    "filename": "SavageTerminal",
+    "mark": "SavageTerminal",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Savage Terminal",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-06-18",
+      "structure": "Bgm47",
+      "version": "1.2.051"
+    },
+    "youtube": "USf5VrWCrSk"
+  },
+  {
+    "description": "Arcana",
+    "filename": "TheTuneOfAzureLight",
+    "mark": "Arcana",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Tune of the Azure Light",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-02-02",
+      "structure": "Bgm47",
+      "version": "1.2.046"
+    },
+    "youtube": "e8H5hcHA6T8"
+  },
+  {
+    "description": "Arcana",
+    "filename": "TheTuneOfAzureLight2",
+    "mark": "Arcana",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Tune of the Azure Light -gleam-",
+      "titleAlt": "The Tune of the Azure Light 2",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-02-02",
+      "structure": "Bgm47",
+      "version": "1.2.046"
+    },
+    "youtube": "rdDtnDmKQtY"
+  },
+  {
+    "description": "Omega Sector: OMNI-CLN boss theme",
+    "filename": "VacuumCleaner",
+    "mark": "OmegaSector",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Vacuum Cleaner",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-01-12",
+      "structure": "Bgm47",
+      "version": "1.2.045"
+    },
+    "youtube": "Ksn6CsFK6n0"
+  }
+]

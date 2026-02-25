@@ -1,0 +1,600 @@
+[
+  {
+    "description": "17th anniversary: Hotel Maple",
+    "filename": "17th_Event",
+    "mark": "17th_Event",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ESTIMATE",
+      "title": "Hotel Maple",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-04-16",
+      "structure": "BgmEvent",
+      "version": "1.2.101"
+    },
+    "youtube": "VAbkgEPj7aw"
+  },
+  {
+    "description": "18th anniversary: Blooming Forest",
+    "filename": "18th_Event",
+    "mark": "18th_Event",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Blooming Forest",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2021-04-22",
+      "structure": "BgmEvent",
+      "version": "1.2.347"
+    },
+    "youtube": "-10jd1l4ioU"
+  },
+  {
+    "description": "19th anniversary: Maple Momentree",
+    "filename": "19th_Event",
+    "mark": "momentree",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Maple Momentree",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-04-14",
+      "structure": "BgmEvent",
+      "version": "1.2.140"
+    },
+    "youtube": "mpQ-J_mu4iw"
+  },
+  {
+    "description": "Aquarium Chair effect",
+    "filename": "Aquarium_Lofi",
+    "mark": "3018789",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Aquarium -Lofi ver.-",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-12-23",
+      "structure": "BgmEvent",
+      "version": "1.2.133"
+    },
+    "youtube": "-n9U1sMBSfo"
+  },
+  {
+    "description": "Awakening Mountain (MapleStory Awake)",
+    "filename": "awake_Event",
+    "mark": "awake_Event",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Freshness",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-06-18",
+      "structure": "BgmEvent",
+      "version": "1.2.103"
+    },
+    "youtube": "t5sTjl9lPt8"
+  },
+  {
+    "description": "Flag Race guild competition",
+    "filename": "captureTheFlag",
+    "mark": "UnionPQ",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Capture the Flag",
+      "year": "2013"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2013-11-14",
+      "structure": "BgmEvent",
+      "version": "1.2.203"
+    },
+    "youtube": "kCG2WU5PkF0"
+  },
+  {
+    "description": "Chu Chu Food Festival event",
+    "filename": "chuchu",
+    "mark": "eChuchu",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Chu Chu Food Festival",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-09-02",
+      "structure": "BgmEvent",
+      "version": "1.2.128"
+    },
+    "youtube": "AUyIcdrEp60"
+  },
+  {
+    "description": "Coordi King event",
+    "filename": "coordiKing",
+    "mark": "MinigameStation",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Coordi King",
+      "year": "2013"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2013-11-06",
+      "structure": "BgmEvent",
+      "version": "1.2.491"
+    },
+    "youtube": "-E-O8wMa5d0"
+  },
+  {
+    "description": "Maple Tourist Event: Dolphin Island (Nighttime)",
+    "filename": "dolphin_night",
+    "mark": "MinigameStation",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Dolphin - Night",
+      "year": "2011"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2011-03-31",
+      "structure": "BgmEvent",
+      "version": "1.2.129"
+    },
+    "youtube": "eQ41JswJdng"
+  },
+  {
+    "description": "Maple Tourist Event: Dolphin Island (Daytime)",
+    "filename": "dolphin_noon",
+    "mark": "MinigameStation",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Dolphin - Noon",
+      "year": "2011"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2011-03-31",
+      "structure": "BgmEvent",
+      "version": "1.2.129"
+    },
+    "youtube": "FbxAXcvyHns"
+  },
+  {
+    "description": "Starlight Symphony - Sentimental Band effect",
+    "filename": "FrozenLink_Lofi",
+    "mark": "5121124",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Frozen Link -Lofi ver.-",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-12-23",
+      "structure": "BgmEvent",
+      "version": "1.2.133"
+    },
+    "youtube": "-FmEMz7qw0g"
+  },
+  {
+    "description": "Ellinel Full Moon Party event",
+    "filename": "fullMoonParty",
+    "mark": "FullMoonParty",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Full Moon Party",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-09-10",
+      "structure": "BgmEvent",
+      "version": "1.2.108"
+    },
+    "youtube": "4t4CxHRxaeY"
+  },
+  {
+    "description": "Generic event background music",
+    "filename": "FunnyRabbit",
+    "mark": "MinigameStation",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "CODASOUND",
+      "title": "Funny Rabbit",
+      "year": "2003"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2004-02-09",
+      "structure": "BgmEvent",
+      "version": "1.55"
+    },
+    "youtube": "rfM5oalkRDI"
+  },
+  {
+    "description": "Generic event background music",
+    "filename": "FunnyRabbitFaster",
+    "mark": "MinigameStation",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Funny Rabbit (Faster)",
+      "year": "2003"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2004-02-09",
+      "structure": "BgmEvent",
+      "version": "1.55"
+    },
+    "youtube": "43UmtCfYn54"
+  },
+  {
+    "description": "14th anniversary minigame",
+    "filename": "GalaxyisDangerous",
+    "mark": "MapleGalaxy",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "14th Anniversary Dynamic Universe",
+      "titleAlt": "Galaxy is Dangerous",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2017-04-27",
+      "structure": "BgmEvent",
+      "version": "1.2.276"
+    },
+    "youtube": "phyPERSwSKg"
+  },
+  {
+    "description": "Halloween event",
+    "filename": "halloweenMainHall",
+    "mark": "HuntedMansion",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Halloween Main Hall",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2012-10-18",
+      "structure": "BgmEvent",
+      "version": "1.2.175"
+    },
+    "youtube": "l77eZ-QcJm4"
+  },
+  {
+    "description": "Halloween event",
+    "filename": "halloweenParty",
+    "mark": "HuntedMansion",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Halloween Party",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2012-10-18",
+      "structure": "BgmEvent",
+      "version": "1.2.175"
+    },
+    "youtube": "mal0QfNLWOA"
+  },
+  {
+    "description": "Halloween event",
+    "filename": "halloweenracing",
+    "mark": "HuntedMansion",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Halloween Racing",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2012-10-18",
+      "structure": "BgmEvent",
+      "version": "1.2.175"
+    },
+    "youtube": "xP_5fvzevbE"
+  },
+  {
+    "description": "Maple Tourist Event: Henesys Cherry Blossom Festival",
+    "filename": "henesys_remix",
+    "mark": "Henesys",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Henesys Remix",
+      "year": "2011"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2011-03-31",
+      "structure": "BgmEvent",
+      "version": "1.2.129"
+    },
+    "youtube": "lPg1OGPepew"
+  },
+  {
+    "description": "Ignition Fireworks Festival (MapleStory Ignition)",
+    "filename": "ignition",
+    "mark": "ignition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ignition Fireworks Festival",
+      "year": "2022"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2022-06-23",
+      "structure": "BgmEvent",
+      "version": "1.2.143"
+    },
+    "youtube": "n2C4_dlfNj0"
+  },
+  {
+    "description": "Starlight Symphony - Sentimental Band effect",
+    "filename": "IlliyardMoor_Lofi",
+    "mark": "5121124",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Illiyard Moor -Lofi ver.-",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-12-23",
+      "structure": "BgmEvent",
+      "version": "1.2.133"
+    },
+    "youtube": "zsBbw0IftIM"
+  },
+  {
+    "description": "Starlight Symphony - Sentimental Band effect",
+    "filename": "Leafre_Lofi",
+    "mark": "5121124",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Leafre -Lofi ver.-",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-12-23",
+      "structure": "BgmEvent",
+      "version": "1.2.133"
+    },
+    "youtube": "Srl1tWFutQE"
+  },
+  {
+    "description": "14th anniversary: Petite Planet",
+    "filename": "LittleMaplePlanet",
+    "mark": "MapleGalaxy",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "14th Anniversary Frozen Link -piano-",
+      "titleAlt": "Little Maple Planet",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-05-18",
+      "structure": "BgmEvent",
+      "version": "1.2.050"
+    },
+    "youtube": "mc9qDVpsybE"
+  },
+  {
+    "description": "14th anniversary: Planet Vita",
+    "filename": "mapleGalaxy",
+    "mark": "MapleGalaxy",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "14th Anniversary Cosmic Main",
+      "titleAlt": "Maple Galaxy",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2017-04-27",
+      "structure": "BgmEvent",
+      "version": "1.2.276"
+    },
+    "youtube": "4vxWNgyegPw"
+  },
+  {
+    "description": "14th anniversary: Planet Glacius",
+    "filename": "mapleGalaxy2",
+    "mark": "MapleGalaxy",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "14th Anniversary Frozen Link",
+      "titleAlt": "Maple Galaxy 2",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2017-04-27",
+      "structure": "BgmEvent",
+      "version": "1.2.276"
+    },
+    "youtube": "d9L1LSCUrk8"
+  },
+  {
+    "description": "Maple Live",
+    "filename": "mapleLIVE",
+    "mark": "mapleLIVE",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Maple Live Studio",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-06-10",
+      "structure": "BgmEvent",
+      "version": "1.2.122"
+    },
+    "youtube": "Q4pkDpkktfA"
+  },
+  {
+    "description": "Maple Live - Pink Bean",
+    "filename": "mapleLIVE_pinkbean",
+    "mark": "mapleLIVE",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Maple Live - Pink Bean",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-06-10",
+      "structure": "BgmEvent",
+      "version": "1.2.122"
+    },
+    "youtube": "L5xTgPPBJKk"
+  },
+  {
+    "description": "Level 250 chair effect",
+    "filename": "maxLevelChair",
+    "mark": "3014028",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Max Level Chair",
+      "year": "2014"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2014-03-27",
+      "structure": "BgmEvent",
+      "version": "1.2.212"
+    },
+    "youtube": "Y3is9OyoGGU"
+  },
+  {
+    "description": "Neo Castle (MapleStory Neo)",
+    "filename": "NeoCastle",
+    "mark": "NeoCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Neo Castle",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-12-10",
+      "structure": "BgmEvent",
+      "version": "1.2.112"
+    },
+    "youtube": "4xVlmNHG_v0"
+  },
+  {
+    "description": "Salon Rise",
+    "filename": "salonRise",
+    "mark": "Rise",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Salon Rise",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2019-12-12",
+      "structure": "BgmEvent",
+      "version": "1.2.095"
+    },
+    "youtube": "_tEnTUZafVE"
+  },
+  {
+    "description": "Starlight Symphony (MapleStory Destiny)",
+    "filename": "StarlightSymphony",
+    "mark": "eStella",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Starlight Symphony",
+      "year": "2021"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2021-12-23",
+      "structure": "BgmEvent",
+      "version": "1.2.133"
+    },
+    "youtube": "mEhEkAi1rU0"
+  },
+  {
+    "description": "15th anniversary: Maple 15th Street",
+    "filename": "WelcomeToThe15thStreet",
+    "mark": "15st",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Welcome to the 15th Street",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-04-19",
+      "structure": "BgmEvent",
+      "version": "1.2.067"
+    },
+    "youtube": "Egkxibww6bI"
+  },
+  {
+    "description": "Witch's Tower event",
+    "filename": "wichTower",
+    "mark": "MinigameStation",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Witch Tower",
+      "year": "2009"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2009-05-28",
+      "structure": "BgmEvent",
+      "version": "1.2.230"
+    },
+    "youtube": "LF0hEPFskQk"
+  }
+]

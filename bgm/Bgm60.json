@@ -1,0 +1,653 @@
+[
+  {
+    "description": "Dimensional Battlefield - Cross World Boss Content",
+    "filename": "Adventurers from Beyond",
+    "mark": "crossWorldBoss",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Adventurers from Beyond",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-02-13",
+      "structure": "Bgm60",
+      "version": "1.2.184"
+    },
+    "youtube": "8CbvXFP-Wv4"
+  },
+  {
+    "description": "Baldrix - reward map",
+    "filename": "After Ragnarok",
+    "mark": "baldrix",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "After Ragnarok",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-02-13",
+      "structure": "Bgm60",
+      "version": "1.2.184"
+    },
+    "youtube": "3F5oIwW-zdE"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Aidan",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fallen Honor",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "d0Hk8lM97IQ"
+  },
+  {
+    "description": "Carcion: Sunken Ruins",
+    "filename": "An approaching abyss",
+    "mark": "carcion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "An Approaching Abyss",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-08-03",
+      "structure": "Bgm60",
+      "version": "1.2.158"
+    },
+    "youtube": "H5SNYI8oGlc"
+  },
+  {
+    "description": "Champion Raid - Dragon Island",
+    "filename": "Ancient Ruins of Blue Jade",
+    "mark": "championRaid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ancient Ruins of Blue Jade",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-01-09",
+      "structure": "Bgm60",
+      "version": "1.2.183"
+    },
+    "youtube": "3nAFSpjFFeo"
+  },
+  {
+    "description": "Tallahart sanctuary",
+    "filename": "An invitation to the night",
+    "mark": "tallahart",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "An Invitation to the Night",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-09-05",
+      "structure": "Bgm60",
+      "version": "1.2.178"
+    },
+    "youtube": "kP6O4ikTDr4"
+  },
+  {
+    "description": "Carcion: Calm Waterfront",
+    "filename": "An occupied coast",
+    "mark": "carcion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "An Occupied Coast",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-08-03",
+      "structure": "Bgm60",
+      "version": "1.2.158"
+    },
+    "youtube": "Emtn0U3bro4"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Azmoth Canyon Boundary",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Echoes of the Ruined Path",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "3g2tGOtM9-k"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Azmoth Canyon Boundary_slow",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Echoes of the Ruined Path (Slow)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "89LmnV4uj9I"
+  },
+  {
+    "description": "Champion Raid - Dragon Island",
+    "filename": "Blazing Canyon",
+    "mark": "championRaid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Blazing Canyon",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-01-09",
+      "structure": "Bgm60",
+      "version": "1.2.183"
+    },
+    "youtube": "ajomvJzjzAE"
+  },
+  {
+    "description": "Tallahart storyline",
+    "filename": "Cocked pistol",
+    "mark": "tallahart",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Cocked Pistol",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-09-05",
+      "structure": "Bgm60",
+      "version": "1.2.178"
+    },
+    "youtube": "XuLNdaKXiqc"
+  },
+  {
+    "description": "Champion Raid - Dragon Island",
+    "filename": "Emerald Jungle",
+    "mark": "championRaid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Emerald Jungle",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-01-09",
+      "structure": "Bgm60",
+      "version": "1.2.183"
+    },
+    "youtube": "8qpl5IRUtbs"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Encounter_Arena",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Madness Arena (Closed)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "rTa0rKkr-Eo"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Encounter_Chapel",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ruined Azmoth",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "a5nsEpMwHX4"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Encounter_Lab",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Mystery Laboratory",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "x81zE7sWfUg"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Hunting_Arena",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Madness Arena",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "xw9Tv70sB_c"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Hunting_Chapel",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Devil's Arrival",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "cyPJH1RtbiE"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Hunting_Lab",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Frenzied Mutant",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "aV-qg0qkKlQ"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Infernus of Doom",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Playing With Fire",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "vBEIhsS8YnU"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Kind Azrael",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Titan's Onslaught",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "h_ks9f2VcrI"
+  },
+  {
+    "description": "Tallahart storyline",
+    "filename": "Last requiem",
+    "mark": "tallahart",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Last Requiem",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-09-05",
+      "structure": "Bgm60",
+      "version": "1.2.178"
+    },
+    "youtube": "7ux2BU5gCbg"
+  },
+  {
+    "description": "Limbo - Phase 2 Interlude",
+    "filename": "Passageway in the abyss",
+    "mark": "limbo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Passageway in the Abyss",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-07-11",
+      "structure": "Bgm60",
+      "version": "1.2.176"
+    },
+    "youtube": "M5DSwuwjeps"
+  },
+  {
+    "description": "Tallahart ruins",
+    "filename": "Reborn gods",
+    "mark": "tallahart",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Reborn Gods",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-09-05",
+      "structure": "Bgm60",
+      "version": "1.2.178"
+    },
+    "youtube": "0rvjE0Rl_vs"
+  },
+  {
+    "description": "Limbo - Phase 2A",
+    "filename": "Reproduced Abyss C",
+    "mark": "limbo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Reproduced Abyss C",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-07-11",
+      "structure": "Bgm60",
+      "version": "1.2.176"
+    },
+    "youtube": "5g7b5Vuo4vk"
+  },
+  {
+    "description": "Limbo - Phase 2B",
+    "filename": "Reproduced Abyss D",
+    "mark": "limbo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Reproduced Abyss D",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-07-11",
+      "structure": "Bgm60",
+      "version": "1.2.176"
+    },
+    "youtube": "Nh7MbtlTN-4"
+  },
+  {
+    "description": "Azmoth Canyon",
+    "filename": "Shooting_Lab",
+    "mark": "AzmothCanyon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Containment Breach",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-10-10",
+      "structure": "Bgm60",
+      "version": "1.2.179"
+    },
+    "youtube": "B0ZDU-c6TnA"
+  },
+  {
+    "description": "Baldrix - Phase 3",
+    "filename": "Showdown in the Inverted Realm",
+    "mark": "baldrix",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Showdown in the Inverted Realm",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-02-13",
+      "structure": "Bgm60",
+      "version": "1.2.184"
+    },
+    "youtube": "eZtagk-9nNU"
+  },
+  {
+    "description": "Carcion: Sacred Tree Summit",
+    "filename": "Tears of Eternity",
+    "mark": "carcion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Tears of Eternity",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-08-03",
+      "structure": "Bgm60",
+      "version": "1.2.158"
+    },
+    "youtube": "OWaIpWJzgx8"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Carcion storyline",
+    "filename": "Tears of Eternity -loop-",
+    "mark": "carcion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Tears of Eternity -loop-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-08-03",
+      "structure": "Bgm60",
+      "version": "1.2.158"
+    },
+    "youtube": "3u3sQlI6Jc0"
+  },
+  {
+    "description": "Carcion: Ishfira's Eye",
+    "filename": "The eyes of the ishfira",
+    "mark": "carcion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Eyes of the Ishfira",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-08-03",
+      "structure": "Bgm60",
+      "version": "1.2.158"
+    },
+    "youtube": "atxfdYd3SL0"
+  },
+  {
+    "description": "Tallahart",
+    "filename": "The fate of an immortal",
+    "mark": "tallahart",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Fate of an Immortal",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-09-05",
+      "structure": "Bgm60",
+      "version": "1.2.178"
+    },
+    "youtube": "mrhVV70YhM4"
+  },
+  {
+    "description": "Carcion: Entangling Forest",
+    "filename": "The great tropics",
+    "mark": "carcion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Great Tropics",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-08-03",
+      "structure": "Bgm60",
+      "version": "1.2.158"
+    },
+    "youtube": "hbY-c7_zUUA"
+  },
+  {
+    "description": "Grand Athenaeum: Episode 7 - Sephiroth's Gardener",
+    "filename": "The neglected solitude of the sanctuary",
+    "mark": "Sefirot",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Neglected Solitude of the Sanctuary",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-10-19",
+      "structure": "Bgm60",
+      "version": "1.2.162"
+    },
+    "youtube": "uTAVrYadBDI"
+  },
+  {
+    "description": "Grand Athenaeum: Episode 7 - Sephiroth's Gardener",
+    "filename": "The saddest sanctuary, Sephiroth",
+    "mark": "Sefirot",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Saddest Sanctuary, Sephiroth",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-10-19",
+      "structure": "Bgm60",
+      "version": "1.2.162"
+    },
+    "youtube": "9aeqWJRfN0U"
+  },
+  {
+    "description": "Baldrix - Phase 2",
+    "filename": "Turbulent Realm",
+    "mark": "baldrix",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Turbulent Realm",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-02-13",
+      "structure": "Bgm60",
+      "version": "1.2.184"
+    },
+    "youtube": "fbyVvvt2qI0"
+  },
+  {
+    "description": "Champion Raid - Dragon Island",
+    "filename": "Wanderer's Hut",
+    "mark": "championRaid",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Wanderer's Hut",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-01-09",
+      "structure": "Bgm60",
+      "version": "1.2.183"
+    },
+    "youtube": "rZIIJOjyLPI"
+  }
+]

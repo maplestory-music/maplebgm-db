@@ -1,0 +1,56 @@
+[
+  {
+    "description": "Cernium: Border of Worlds",
+    "filename": "Borderless",
+    "mark": "Cernium",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Borderless",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2019-07-04",
+      "structure": "Bgm52",
+      "version": "1.2.319"
+    },
+    "youtube": "qTycdjpeWyQ"
+  },
+  {
+    "description": "MapleStory Glory: The Day After (Mercedes cutscene)",
+    "filename": "JourneyMusicBox",
+    "mark": "Eurel",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Journey -Music Box ver.-",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2019-06-15",
+      "structure": "Bgm52",
+      "version": "1.2.087"
+    },
+    "youtube": "_OI6K5yQ1-0"
+  },
+  {
+    "description": "MapleStory Glory: The Day After (Resistance cutscene)",
+    "filename": "LiberatedEdelsteinCity",
+    "mark": "Edelstein",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Liberated Edelstein City",
+      "year": "2019"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2019-06-15",
+      "structure": "Bgm52",
+      "version": "1.2.087"
+    },
+    "youtube": "lWUVqxA1IqM"
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Mu Lung Night Troupe chair effect",
+    "filename": "BaekChoBoatParty_Chair",
+    "mark": "3019355",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Herb Town Boat Party -Chair-",
+      "year": "2024"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2024-10-16",
+      "structure": "BgmWz2Chair",
+      "version": "2.11"
+    },
+    "youtube": "wBwQf5NZ2zo"
+  },
+  {
+    "description": "Superstar Pink Bean chair effect",
+    "filename": "SuperstarPinkBeanChairBGM",
+    "mark": "3018286",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Superstar Pink Bean Chair",
+      "year": "2019"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2019-02-01",
+      "structure": "BgmWz2Chair",
+      "version": "1.48"
+    },
+    "youtube": "7FSIE0hPxos"
+  }
+]

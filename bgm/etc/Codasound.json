@@ -1,0 +1,77 @@
+[
+  {
+    "description": "Kerning City",
+    "filename": "BadGuys (Band)",
+    "mark": "KerningCity",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "CODASOUND",
+      "title": "Bad Guys (Band Version)",
+      "year": "2003"
+    },
+    "source": {
+      "structure": "CODASOUND SoundCloud"
+    },
+    "youtube": "U5HVEQrVKhY"
+  },
+  {
+    "description": "Ellinia: Magic Library (Beta)",
+    "filename": "Elfwood (Slower)",
+    "mark": "Ellinia",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "CODASOUND",
+      "title": "Elfwood (Slower)",
+      "year": "2003"
+    },
+    "source": {
+      "structure": "CODASOUND SoundCloud"
+    },
+    "youtube": "akY0-6rZBDE"
+  },
+  {
+    "description": "GlobalMS 3rd job promotional video",
+    "filename": "FromTheBeginning",
+    "mark": "TestServer",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "CODASOUND",
+      "title": "From the Beginning",
+      "year": "2003"
+    },
+    "source": {
+      "structure": "LedZeper YouTube"
+    },
+    "youtube": "uKQQ9Si-bOs"
+  },
+  {
+    "description": "Omega Sector: Boswell Field",
+    "filename": "LetsHuntAliens (Alternate)",
+    "mark": "OmegaSector",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "CODASOUND",
+      "title": "Let's Hunt Aliens (Alternate Version)",
+      "year": "2004"
+    },
+    "source": {
+      "structure": "CODASOUND SoundCloud"
+    },
+    "youtube": "1mf2Cq5npOw"
+  },
+  {
+    "description": "Unused",
+    "filename": "RoadToYou",
+    "mark": "Quest",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "CODASOUND",
+      "title": "Road To You",
+      "year": "2004"
+    },
+    "source": {
+      "structure": "CODASOUND SoundCloud"
+    },
+    "youtube": "Ohkh6GwpwrQ"
+  }
+]
