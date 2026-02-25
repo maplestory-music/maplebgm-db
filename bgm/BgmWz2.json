@@ -108,6 +108,60 @@
     "youtube": "-D-4gH9sLBI"
   },
   {
+    "description": "Abyss Expedition Season 5",
+    "filename": "AbyssS5_Aswan",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Aswan",
+      "year": "2026"
+    },
+    "source": {
+      "client": "TMS",
+      "date": "2026-02-25",
+      "structure": "BgmWz2",
+      "version": "2.77"
+    },
+    "youtube": "dHmUTPNF41c"
+  },
+  {
+    "description": "Abyss Expedition Season 5",
+    "filename": "AbyssS5_Oasis",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Oasis",
+      "year": "2026"
+    },
+    "source": {
+      "client": "TMS",
+      "date": "2026-02-25",
+      "structure": "BgmWz2",
+      "version": "2.77"
+    },
+    "youtube": "iXMsVku2Uqc"
+  },
+  {
+    "description": "Abyss Expedition Season 5",
+    "filename": "AbyssS5_Thrist",
+    "mark": "AbyssExpedition",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Thirst",
+      "year": "2026"
+    },
+    "source": {
+      "client": "TMS",
+      "date": "2026-02-25",
+      "structure": "BgmWz2",
+      "version": "2.77"
+    },
+    "youtube": "dK-BWDDx_5g"
+  },
+  {
     "description": "Abyss Expedition Season 4",
     "filename": "Abyss_SnowyAbyss",
     "mark": "AbyssExpedition",
