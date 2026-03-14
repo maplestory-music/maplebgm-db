@@ -90,6 +90,24 @@
     "youtube": "zt-FtBK5mmA"
   },
   {
+    "description": "23rd anniversary: Maple Attack!",
+    "filename": "FunnyDaysofMapleIsland",
+    "mark": "23rd",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Funny Days of Maple Island",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-03-14",
+      "structure": "BgmEvent4",
+      "version": "1.2.199"
+    },
+    "youtube": "NijMGn9Sh-A"
+  },
+  {
     "description": "22nd anniversary: Maple University",
     "filename": "HopeBlossoms",
     "mark": "22nd",
@@ -178,6 +196,24 @@
       "version": "1.2.186"
     },
     "youtube": "UTD7W8aYw7A"
+  },
+  {
+    "description": "Lucid Nightmare Forest event",
+    "filename": "NightmareForest",
+    "mark": "LucidNightmareForest",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Nightmare Forest",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-03-14",
+      "structure": "BgmEvent4",
+      "version": "1.2.199"
+    },
+    "youtube": "o3k-Ajw3ohs"
   },
   {
     "description": "Maple Hideout",

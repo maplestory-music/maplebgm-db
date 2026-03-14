@@ -180,6 +180,24 @@
     "youtube": "ajomvJzjzAE"
   },
   {
+    "description": "Training Ground - Sky Crossroads",
+    "filename": "Celestial Passage",
+    "mark": "ForestTraining",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Celestial Passage",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-03-14",
+      "structure": "Bgm60",
+      "version": "1.2.199"
+    },
+    "youtube": "BCINqGq4AKk"
+  },
+  {
     "description": "Tallahart storyline",
     "filename": "Cocked pistol",
     "mark": "tallahart",
@@ -412,6 +430,24 @@
       "version": "1.2.178"
     },
     "youtube": "0rvjE0Rl_vs"
+  },
+  {
+    "description": "Training Ground - Sky Crossroads",
+    "filename": "Recurring Dawn",
+    "mark": "ForestTraining",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Recurring Dawn",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-03-14",
+      "structure": "Bgm60",
+      "version": "1.2.199"
+    },
+    "youtube": "XINjCPiJ-kg"
   },
   {
     "description": "Limbo - Phase 2A",
@@ -649,5 +685,23 @@
       "version": "1.2.183"
     },
     "youtube": "rZIIJOjyLPI"
+  },
+  {
+    "description": "Training Ground - Sky Crossroads",
+    "filename": "Zenith Drift",
+    "mark": "ForestTraining",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Zenith Drift",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-03-14",
+      "structure": "Bgm60",
+      "version": "1.2.199"
+    },
+    "youtube": "Vfu4UuVBfyU"
   }
 ]
