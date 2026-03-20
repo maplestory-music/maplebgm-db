@@ -252,6 +252,24 @@
     "youtube": "0PKOCUBh-fY"
   },
   {
+    "description": "Lucid's Garden of Eternal Dream skill",
+    "filename": "ShatteredTime_GardenOfEternalDream",
+    "mark": "LucidNightmareForest",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shattered Time - Garden of Eternal Dream",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2026-03-19",
+      "structure": "BgmEvent4",
+      "version": "1.2.413"
+    },
+    "youtube": "Hv6fAamCEjU"
+  },
+  {
     "description": "Dawn Star Banquet (MapleStory NEXT)",
     "filename": "StarryDawngarden",
     "mark": "DawnStar",
