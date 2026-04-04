@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2026.2 - 2026-04-03
+
+### Added
+
+- New music from Q1 2026
+- Update metadata for older tracks
+
+### New Additions
+
+| Date       | Source       | Description                           |
+| ---------- | ------------ | ------------------------------------- |
+| 2026-01-08 | KMST 1.2.197 | Radiant Malefic Star                  |
+| 2026-02-04 | GMS 2.66     | New Leaf Mall                         |
+| 2026-02-05 | KMST 1.2.198 | Geardrak & Jupiter                    |
+| 2026-02-12 | KMS 1.2.412  | Geardrak adjustments                  |
+| 2026-02-25 | TMS 2.77     | Abyss Expedition Season 5             |
+| 2026-03-14 | KMST 1.2.199 | 23rd Anniversary & Nightmare Forest   |
+| 2026-03-19 | KMS 1.2.413  | Lucid's Garden of Eternal Dream skill |
+
 ## 2026.1 - 2026-01-08
 
 ### Added
