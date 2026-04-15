@@ -36,6 +36,42 @@
     "youtube": "ClLLtA3naSo"
   },
   {
+    "description": "Forgotten Hollow",
+    "filename": "BygoneGarden",
+    "mark": "ForgottenHollow",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Bygone Garden",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMSC",
+      "date": "2026-04-14",
+      "structure": "Bgm03",
+      "version": "0.01"
+    },
+    "youtube": "5Lmt2FhLYd0"
+  },
+  {
+    "description": "Forgotten Hollow - Deep Passage",
+    "filename": "CavernOfShadows",
+    "mark": "ForgottenHollow",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Cavern of Shadows",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMSC",
+      "date": "2026-04-14",
+      "structure": "Bgm03",
+      "version": "0.01"
+    },
+    "youtube": "N9sO6Fk3a6I"
+  },
+  {
     "description": "Ellinia: Magic Library (Beta)",
     "filename": "Elfwood",
     "mark": "Ellinia",
