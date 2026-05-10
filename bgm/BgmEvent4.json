@@ -252,6 +252,24 @@
     "youtube": "0PKOCUBh-fY"
   },
   {
+    "description": "23rd anniversary: Maple Attack! - BTS Jin boss theme",
+    "filename": "RipplingBattleOfMapleisland",
+    "mark": "23rd",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Rippling Battle of Maple Island",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-05-07",
+      "structure": "BgmEvent4",
+      "version": "1.2.201"
+    },
+    "youtube": "1jjoC4KN4BU"
+  },
+  {
     "description": "Lucid's Garden of Eternal Dream skill",
     "filename": "ShatteredTime_GardenOfEternalDream",
     "mark": "LucidNightmareForest",
@@ -268,6 +286,24 @@
       "version": "1.2.413"
     },
     "youtube": "Hv6fAamCEjU"
+  },
+  {
+    "description": "23rd anniversary: Maple Attack!",
+    "filename": "SparklingFestivalOfMapleIsland",
+    "mark": "23rd",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Sparkling Festival of Maple Island",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-05-07",
+      "structure": "BgmEvent4",
+      "version": "1.2.201"
+    },
+    "youtube": "ne2uxcZxrJ8"
   },
   {
     "description": "Dawn Star Banquet (MapleStory NEXT)",
