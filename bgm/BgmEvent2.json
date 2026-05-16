@@ -126,6 +126,24 @@
     "youtube": "VRhE2xNjmP4"
   },
   {
+    "description": "MapleStory Universe - 1st Anniversary",
+    "filename": "MSU-1stAnniversary",
+    "mark": "mGame1st",
+    "metadata": {
+      "albumArtist": "NEXPACE",
+      "artist": "ASTERIA",
+      "title": "MapleStory Universe - 1st Anniversary",
+      "year": "2026"
+    },
+    "source": {
+      "client": "MSN",
+      "date": "2026-05-14",
+      "structure": "BgmEvent2",
+      "version": "0.20"
+    },
+    "youtube": "cIo1vmeT8sE"
+  },
+  {
     "description": "16th anniversary: Newtro Time (Chu Chu Island)",
     "filename": "Newtro_ChuChu",
     "mark": "16thEvent",
