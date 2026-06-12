@@ -504,6 +504,24 @@
     "youtube": "_jA050cfdK8"
   },
   {
+    "description": "Hyper Summer event",
+    "filename": "MSU_HyperSummer_morning",
+    "mark": "idleIsland",
+    "metadata": {
+      "albumArtist": "NEXPACE",
+      "artist": "ASTERIA",
+      "title": "MSU Hyper Summer Morning",
+      "year": "2026"
+    },
+    "source": {
+      "client": "MSN",
+      "date": "2026-06-11",
+      "structure": "BgmEvent3",
+      "version": "0.21"
+    },
+    "youtube": "eFOwpXTgdWE"
+  },
+  {
     "description": "The Age of V event & Pudgy World",
     "filename": "MSU_Winter_Event",
     "mark": "hFiesta",
