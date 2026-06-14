@@ -18,6 +18,78 @@
     "youtube": "W-zrwm-pKH4"
   },
   {
+    "description": "Meilin - Entrance",
+    "filename": "Bridge of the Forgotten Saint",
+    "mark": "Maerin",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Bridge of the Forgotten Saint",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-06-13",
+      "structure": "Bgm62",
+      "version": "1.2.202"
+    },
+    "youtube": "6CdZSy__5MQ"
+  },
+  {
+    "description": "Ultimapolis",
+    "filename": "Hollow Saints",
+    "mark": "UltimaPolis",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Hollow Saints",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-06-13",
+      "structure": "Bgm62",
+      "version": "1.2.202"
+    },
+    "youtube": "evKrzIkpJuc"
+  },
+  {
+    "description": "Mission Ultima storyline",
+    "filename": "Operation Signal",
+    "mark": "UltimaPolis",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Operation Signal",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-06-13",
+      "structure": "Bgm62",
+      "version": "1.2.202"
+    },
+    "youtube": "X0bqxkkrn6w"
+  },
+  {
+    "description": "Ultimapolis",
+    "filename": "Ordinary Day",
+    "mark": "UltimaPolis",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ordinary Day",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-06-13",
+      "structure": "Bgm62",
+      "version": "1.2.202"
+    },
+    "youtube": "KDN4kqbE1P0"
+  },
+  {
     "description": "Geardrak: Underground",
     "filename": "Secrets Hidden Under the Sand",
     "mark": "Geardrak",
@@ -91,6 +163,24 @@
       "version": "1.2.198"
     },
     "youtube": "vXUy0AHUolg"
+  },
+  {
+    "description": "Meilin - Reward Map",
+    "filename": "The Forbidden Oratory",
+    "mark": "Maerin",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Forbidden Oratory",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-06-13",
+      "structure": "Bgm62",
+      "version": "1.2.202"
+    },
+    "youtube": "Opu2t1fK40Y"
   },
   {
     "description": "Geardrak",
@@ -208,5 +298,77 @@
       "version": "1.2.198"
     },
     "youtube": "XnpTknjzPMM"
+  },
+  {
+    "description": "Mission Ultima storyline",
+    "filename": "The Grand Rite",
+    "mark": "UltimaPolis",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Grand Rite",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-06-13",
+      "structure": "Bgm62",
+      "version": "1.2.202"
+    },
+    "youtube": "2gnkkJF5ZaU"
+  },
+  {
+    "description": "Meilin - Phase 1",
+    "filename": "The Unblessed Cathedral",
+    "mark": "Maerin",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Unblessed Cathedral",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-06-13",
+      "structure": "Bgm62",
+      "version": "1.2.202"
+    },
+    "youtube": "TRrcxyCe6Ew"
+  },
+  {
+    "description": "Meilin - Phase 2",
+    "filename": "The Unblessed Cathedral_Descend",
+    "mark": "Maerin",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Unblessed Cathedral -Descend-",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-06-13",
+      "structure": "Bgm62",
+      "version": "1.2.202"
+    },
+    "youtube": "a8ewaTeYTNg"
+  },
+  {
+    "description": "Lethe's Mansion",
+    "filename": "Whisper of the Covenant",
+    "mark": "Lethe",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Whisper of the Covenant",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-06-13",
+      "structure": "Bgm62",
+      "version": "1.2.202"
+    },
+    "youtube": "3UFdq5zJRBA"
   }
 ]
