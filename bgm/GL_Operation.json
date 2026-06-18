@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Operation: Dive event",
+    "filename": "ParallelMagatia",
+    "mark": "Parallel_Magatia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Parallel Magatia",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2026-06-17",
+      "structure": "GL_Operation",
+      "version": "2.69"
+    },
+    "youtube": "odqz1-z8CdI"
+  }
+]
