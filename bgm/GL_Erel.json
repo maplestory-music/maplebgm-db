@@ -1,0 +1,254 @@
+[
+  {
+    "description": "Erel Light storyline - Edelstein Gate",
+    "filename": "BraveNewWorld",
+    "mark": "Edelstein",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Brave New World",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-06-04",
+      "structure": "GL_Erel",
+      "version": "2.69"
+    },
+    "youtube": "YsoI7TKfyEI"
+  },
+  {
+    "description": "Helia: Temple of Light",
+    "filename": "CelestialEclipse",
+    "mark": "GL_Helia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Celestial Eclipse",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-06-04",
+      "structure": "GL_Erel",
+      "version": "2.69"
+    },
+    "youtube": "emEcRI-iFaU"
+  },
+  {
+    "description": "Archon boss theme",
+    "filename": "CorruptionsEmbrace",
+    "mark": "GL_Helia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Corruptions Embrace",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-06-04",
+      "structure": "GL_Erel",
+      "version": "2.69"
+    },
+    "youtube": "nXyaqCPPuqA"
+  },
+  {
+    "description": "Helia: Pente, the Pillar of Light",
+    "filename": "DreamlightEchoes",
+    "mark": "GL_Helia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Dreamlight Echoes",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-06-04",
+      "structure": "GL_Erel",
+      "version": "2.69"
+    },
+    "youtube": "u9-_60-0N_8"
+  },
+  {
+    "description": "Archon boss theme",
+    "filename": "EclipsedValor",
+    "mark": "GL_Helia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Eclipsed Valor",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-06-04",
+      "structure": "GL_Erel",
+      "version": "2.69"
+    },
+    "youtube": "m0598R1Hq0Y"
+  },
+  {
+    "description": "Helia: Burning Katanos",
+    "filename": "GatheringGloom",
+    "mark": "GL_Helia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Gathering Gloom",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-06-04",
+      "structure": "GL_Erel",
+      "version": "2.69"
+    },
+    "youtube": "aB6DNHXhbOQ"
+  },
+  {
+    "description": "Helia: Erel's House",
+    "filename": "Happy Anthem",
+    "mark": "GL_Helia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Happy Anthem",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-06-04",
+      "structure": "GL_Erel",
+      "version": "2.69"
+    },
+    "youtube": "UbNT3tFHIgs"
+  },
+  {
+    "description": "Helia: Katanos",
+    "filename": "Radiant",
+    "mark": "GL_Helia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Radiant",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-06-04",
+      "structure": "GL_Erel",
+      "version": "2.69"
+    },
+    "youtube": "jREHDGCsArw"
+  },
+  {
+    "description": "Erel Light storyline",
+    "filename": "Revelation",
+    "mark": "GL_Helia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Revelation",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-06-04",
+      "structure": "GL_Erel",
+      "version": "2.69"
+    },
+    "youtube": "vUFSd5oRo_4"
+  },
+  {
+    "description": "Helia: Tessera, the Pillar of Light",
+    "filename": "SerenityWinds",
+    "mark": "GL_Helia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Serenity Winds",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-06-04",
+      "structure": "GL_Erel",
+      "version": "2.69"
+    },
+    "youtube": "pZaRbRFZSxo"
+  },
+  {
+    "description": "Helia: Tres, the Pillar of Light",
+    "filename": "Threshold",
+    "mark": "GL_Helia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Threshold",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-06-04",
+      "structure": "GL_Erel",
+      "version": "2.69"
+    },
+    "youtube": "jKE50k1bgKc"
+  },
+  {
+    "description": "Helia: Argent Guard Base",
+    "filename": "VeilOfJustice",
+    "mark": "GL_Helia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Veil of Justice",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-06-04",
+      "structure": "GL_Erel",
+      "version": "2.69"
+    },
+    "youtube": "lAyQ-5wt2uY"
+  },
+  {
+    "description": "Helia: Duo, the Pillar of Light",
+    "filename": "Vitality",
+    "mark": "GL_Helia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Vitality",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-06-04",
+      "structure": "GL_Erel",
+      "version": "2.69"
+    },
+    "youtube": "EFi9pNt7woE"
+  },
+  {
+    "description": "Erel Light storyline",
+    "filename": "WorldShownByNewLight",
+    "mark": "GL_Helia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "A World Shown by New Light",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-06-04",
+      "structure": "GL_Erel",
+      "version": "2.69"
+    },
+    "youtube": "jodLjEVvImc"
+  }
+]

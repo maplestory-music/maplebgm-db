@@ -1,0 +1,95 @@
+[
+  {
+    "description": "On Stage chair effect",
+    "filename": "FlyAway_Vocal",
+    "mark": "3019147",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fly Away -full- (English)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-05-29",
+      "structure": "BgmSG_Event",
+      "version": "2.32"
+    },
+    "youtube": "cqpjoXKRGqk"
+  },
+  {
+    "description": "Lacheln in a Dream (MapleStory Dreamer)",
+    "filename": "Lucid in the Dream",
+    "mark": "lucidDream",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Lucid in the Dream",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-05-29",
+      "structure": "BgmSG_Event",
+      "version": "2.32"
+    },
+    "youtube": "iCTo0PeJGlc"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Lacheln in a Dream (MapleStory Dreamer)",
+    "filename": "Lucid in the Dream_Mum",
+    "mark": "lucidDream",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Lucid in the Dream -reprise-",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-05-29",
+      "structure": "BgmSG_Event",
+      "version": "2.32"
+    },
+    "youtube": "lnd7MS93m1Q"
+  },
+  {
+    "description": "On Stage chair effect",
+    "filename": "ShiningHeart_Vocal",
+    "mark": "3019147",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shining Heart -full- (English)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-05-29",
+      "structure": "BgmSG_Event",
+      "version": "2.32"
+    },
+    "youtube": "vA-B-NdwMi4"
+  },
+  {
+    "description": "Angelic Buster's On Stage skill",
+    "filename": "StarBubble_Vocal",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Star Bubble -full- (English)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-05-29",
+      "structure": "BgmSG_Event",
+      "version": "2.32"
+    },
+    "youtube": "uoigdWiUzFo"
+  }
+]
