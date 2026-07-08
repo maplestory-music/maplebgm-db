@@ -2,6 +2,26 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2026.3 - 2026-07-07
+
+### Added
+
+- New music from Q2 2026
+
+### New Additions
+
+| Date       | Source       | Description                          |
+| ---------- | ------------ | ------------------------------------ |
+| 2026-04-14 | GMSC 0.01    | Forgotten Hollow                     |
+| 2026-04-16 | KMS 1.2.414  | Athena Pierce event boss             |
+| 2026-05-07 | KMST 1.2.201 | 23rd Anniversary & BTS Jin           |
+| 2026-05-14 | MSN 0.20     | MapleStory Universe 1st Anniversary  |
+| 2026-05-20 | JMS 4.42     | Oshi Discovery Project               |
+| 2026-06-04 | GMST 2.69    | Erel & Helia                         |
+| 2026-06-11 | MSN 0.21     | Hyper Summer                         |
+| 2026-06-13 | KMST 1.2.202 | MapleStory Overdrive, Lethe & Meilin |
+| 2026-06-17 | GMS 2.69     | Parallel Magatia                     |
+
 ## 2026.2 - 2026-04-03
 
 ### Added
