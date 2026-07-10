@@ -165,6 +165,24 @@
     "youtube": "vXUy0AHUolg"
   },
   {
+    "description": "Lethe's Void Origin skill",
+    "filename": "The Endless Call",
+    "mark": "Lethe",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Endless Call",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-07-09",
+      "structure": "Bgm62",
+      "version": "1.2.203"
+    },
+    "youtube": "qHZQ06mDfDc"
+  },
+  {
     "description": "Meilin - Reward Map",
     "filename": "The Forbidden Oratory",
     "mark": "Maerin",
