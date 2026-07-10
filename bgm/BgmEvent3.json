@@ -505,6 +505,42 @@
   },
   {
     "description": "Hyper Summer event",
+    "filename": "MSU_HyperSummer_dinner",
+    "mark": "idleIsland",
+    "metadata": {
+      "albumArtist": "NEXPACE",
+      "artist": "ASTERIA",
+      "title": "MSU Hyper Summer Dinner",
+      "year": "2026"
+    },
+    "source": {
+      "client": "MSN",
+      "date": "2026-07-02",
+      "structure": "BgmEvent3",
+      "version": "0.22"
+    },
+    "youtube": "fabat4re8G0"
+  },
+  {
+    "description": "Hyper Summer event",
+    "filename": "MSU_HyperSummer_lunch",
+    "mark": "idleIsland",
+    "metadata": {
+      "albumArtist": "NEXPACE",
+      "artist": "ASTERIA",
+      "title": "MSU Hyper Summer Lunch",
+      "year": "2026"
+    },
+    "source": {
+      "client": "MSN",
+      "date": "2026-07-02",
+      "structure": "BgmEvent3",
+      "version": "0.22"
+    },
+    "youtube": "VgMqY6DPOF8"
+  },
+  {
+    "description": "Hyper Summer event",
     "filename": "MSU_HyperSummer_morning",
     "mark": "idleIsland",
     "metadata": {
