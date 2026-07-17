@@ -18,6 +18,24 @@
     "youtube": "W-zrwm-pKH4"
   },
   {
+    "description": "Mission Ultima storyline",
+    "filename": "Ashes and Resolve",
+    "mark": "UltimaPolis",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ashes and Resolve",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-07-16",
+      "structure": "Bgm62",
+      "version": "1.2.204"
+    },
+    "youtube": "JzsQ4-V8vVY"
+  },
+  {
     "description": "Meilin - Entrance",
     "filename": "Bridge of the Forgotten Saint",
     "mark": "Maerin",
@@ -34,6 +52,24 @@
       "version": "1.2.202"
     },
     "youtube": "6CdZSy__5MQ"
+  },
+  {
+    "description": "Mission Ultima storyline",
+    "filename": "Eternal Slumber",
+    "mark": "UltimaPolis",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Eternal Slumber",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-07-16",
+      "structure": "Bgm62",
+      "version": "1.2.204"
+    },
+    "youtube": "0rgMDKmszbM"
   },
   {
     "description": "Ultimapolis",
