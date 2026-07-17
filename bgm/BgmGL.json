@@ -180,6 +180,24 @@
     "youtube": "x3z9YMomTkc"
   },
   {
+    "description": "Mystic Frontier Champions",
+    "filename": "FamiliarAdventure",
+    "mark": "GL_FamiliarAdventure",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Familiar Adventure",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-07-09",
+      "structure": "BgmGL",
+      "version": "2.70"
+    },
+    "youtube": "Mifaocxk6I4"
+  },
+  {
     "description": "2015 Sizzling Santa event",
     "filename": "GLBurningSanta",
     "mark": "HappyVillage",
