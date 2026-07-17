@@ -1,0 +1,426 @@
+[
+  {
+    "description": "Angelic Buster's Superstar Spotlight skill",
+    "filename": "5thSpotLightFlyAway",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Wizet",
+      "title": "5th Spotlight Fly Away",
+      "year": "2016"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2016-12-15",
+      "structure": "Bgm30",
+      "version": "1.2.043"
+    },
+    "youtube": "njzZP2857Yc"
+  },
+  {
+    "description": "Angelic Buster's Superstar Spotlight skill",
+    "filename": "5thSpotLightFlyAway (English)",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Wizet",
+      "title": "5th Spotlight Fly Away (English)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-05-29",
+      "structure": "Bgm30",
+      "version": "2.32"
+    },
+    "youtube": "hkOtLzywHjY"
+  },
+  {
+    "description": "Angelic Buster's Superstar Spotlight skill",
+    "filename": "5thSpotLightFlyAway (Japanese)",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Wizet",
+      "title": "5th Spotlight Fly Away (Japanese)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2024-09-19",
+      "structure": "Bgm30",
+      "version": "4.27"
+    },
+    "youtube": "KHFv98ZdE_E"
+  },
+  {
+    "description": "Angelic Buster's Grand Finale skill",
+    "filename": "6thGrandFinaleStarBubble",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "6th Grand Finale Star Bubble",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-06-22",
+      "structure": "Bgm30",
+      "version": "1.2.156"
+    },
+    "youtube": "qMKlpiiwVEc"
+  },
+  {
+    "description": "Angelic Buster's Grand Finale skill",
+    "filename": "6thGrandFinaleStarBubble (English)",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "6th Grand Finale Star Bubble (English)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-05-29",
+      "structure": "Bgm30",
+      "version": "2.32"
+    },
+    "youtube": "8ptGYzhGkz4"
+  },
+  {
+    "description": "Angelic Buster's Grand Finale skill",
+    "filename": "6thGrandFinaleStarBubble (Japanese)",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "6th Grand Finale Star Bubble (Japanese)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2024-09-19",
+      "structure": "Bgm30",
+      "version": "4.27"
+    },
+    "youtube": "9iOA5CfaLq0"
+  },
+  {
+    "description": "On Stage chair effect",
+    "filename": "flyAwayRemixFull",
+    "mark": "3019147",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fly Away Remix -full- (Instrumental)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-03-14",
+      "structure": "Bgm30",
+      "version": "1.2.170"
+    },
+    "youtube": "jyQKY4KspHA"
+  },
+  {
+    "description": "On Stage chair effect",
+    "filename": "flyAwayRemixFull (Japanese)",
+    "mark": "3019147",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fly Away Remix -full- (Japanese)",
+      "year": "2024"
+    },
+    "source": {
+      "date": "2024-09-19",
+      "structure": "JMS YouTube"
+    },
+    "youtube": "D8K0PCd7P1o"
+  },
+  {
+    "description": "On Stage chair effect",
+    "filename": "flyAwayRemixFull (Original)",
+    "mark": "3019147",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fly Away Remix -full-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2023-11-23",
+      "structure": "Bgm30",
+      "version": "1.2.384"
+    },
+    "youtube": "enW1yt1aN_g"
+  },
+  {
+    "description": "Xenon tutorial",
+    "filename": "fromUnderToUpper",
+    "mark": "Leben",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "Takkyu Ishino\u0000Wizet",
+      "title": "From Under to Upper",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-12-17",
+      "structure": "Bgm30",
+      "version": "1.2.460"
+    },
+    "youtube": "6qjUzKeTpOo"
+  },
+  {
+    "description": "Aqua Road: Veritas",
+    "filename": "inAllVerity",
+    "mark": "AquaRoad",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "Wizet",
+      "title": "In All Verity",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-12-17",
+      "structure": "Bgm30",
+      "version": "1.2.460"
+    },
+    "youtube": "vViTIGuujaY"
+  },
+  {
+    "description": "Beryl boss theme, Xenon storyline",
+    "filename": "pulseResonance",
+    "mark": "Leben",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "Takkyu Ishino",
+      "title": "Pulse Resonance",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-12-17",
+      "structure": "Bgm30",
+      "version": "1.2.460"
+    },
+    "youtube": "McPZ2XTRv1g"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Angelic Buster's Pretty Exaltation skill",
+    "filename": "shiningHeart",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shining Heart (Instrumental)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-03-14",
+      "structure": "Bgm30",
+      "version": "1.2.170"
+    },
+    "youtube": "tRn8s72WodI"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Angelic Buster's Pretty Exaltation skill",
+    "filename": "shiningHeart (English)",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shining Heart (English)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-05-29",
+      "structure": "Bgm30",
+      "version": "2.32"
+    },
+    "youtube": "qZed3_Isd6I"
+  },
+  {
+    "description": "On Stage chair effect",
+    "filename": "shiningHeartFull",
+    "mark": "3019147",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shining Heart -full- (Instrumental)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-03-14",
+      "structure": "Bgm30",
+      "version": "1.2.170"
+    },
+    "youtube": "PEnqtiary0k"
+  },
+  {
+    "description": "On Stage chair effect",
+    "filename": "shiningHeartFull (Japanese)",
+    "mark": "3019147",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shining Heart -full- (Japanese)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2024-09-19",
+      "structure": "Bgm30",
+      "version": "4.27"
+    },
+    "youtube": "XwS3v4VWyhg"
+  },
+  {
+    "description": "On Stage chair effect",
+    "filename": "shiningHeartFull (Original)",
+    "mark": "3019147",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shining Heart -full-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2023-11-23",
+      "structure": "Bgm30",
+      "version": "1.2.384"
+    },
+    "youtube": "nNgM_kp5GjM"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Angelic Buster's Pretty Exaltation skill",
+    "filename": "shiningHeart (Japanese)",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shining Heart (Japanese)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2024-09-19",
+      "structure": "Bgm30",
+      "version": "4.27"
+    },
+    "youtube": "kxYkg8z01C0"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Angelic Buster's Pretty Exaltation skill",
+    "filename": "shiningHeart (Original)",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shining Heart",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2023-11-23",
+      "structure": "Bgm30",
+      "version": "1.2.384"
+    },
+    "youtube": "tlJ8v4ZBegA"
+  },
+  {
+    "description": "Angelic Buster's On Stage skill",
+    "filename": "starBubbleFull",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Star Bubble -full-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-11-09",
+      "structure": "Bgm30",
+      "version": "1.2.163"
+    },
+    "youtube": "dlXrpq-6jHc"
+  },
+  {
+    "description": "Angelic Buster's On Stage skill",
+    "filename": "starBubbleFull (Japanese)",
+    "mark": "Pantheon",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Star Bubble -full- (Japanese)",
+      "year": "2024"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2024-09-19",
+      "structure": "Bgm30",
+      "version": "4.27"
+    },
+    "youtube": "TQX6KSZr68U"
+  },
+  {
+    "description": "Xenon tutorial",
+    "filename": "thePhoto",
+    "mark": "Leben",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "Wizet",
+      "title": "The Photo",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-12-17",
+      "structure": "Bgm30",
+      "version": "1.2.460"
+    },
+    "youtube": "wMyUZqe0Fus"
+  },
+  {
+    "description": "Xenon tutorial",
+    "filename": "underside",
+    "mark": "Leben",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "Wizet",
+      "title": "Underside",
+      "year": "2012"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2012-12-17",
+      "structure": "Bgm30",
+      "version": "1.2.460"
+    },
+    "youtube": "pY1Du__m00w"
+  }
+]

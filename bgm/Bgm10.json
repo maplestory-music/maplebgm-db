@@ -1,0 +1,92 @@
+[
+  {
+    "description": "Ludibrium Clocktower: Warped Passage",
+    "filename": "BizarreTales",
+    "mark": "Ludibrium",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Bizzarre Tales",
+      "year": "2005"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2005-07-12",
+      "structure": "Bgm10",
+      "version": "1.2.3"
+    },
+    "youtube": "v187PexfsFM"
+  },
+  {
+    "description": "Ergoth boss theme (Sharenian Guild Quest)",
+    "filename": "Eregos",
+    "mark": "Guild",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Eregos",
+      "year": "2006"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2006-03-16",
+      "structure": "Bgm10",
+      "version": "1.2.38"
+    },
+    "youtube": "rNnYpo9-cRw"
+  },
+  {
+    "description": "Ludibrium Clocktower: Forgotten Passage",
+    "filename": "TheWayGrotesque",
+    "mark": "Ludibrium",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "The Grotesque Way",
+      "year": "2005"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2005-07-12",
+      "structure": "Bgm10",
+      "version": "1.2.3"
+    },
+    "youtube": "5Uu68ZwkzrM"
+  },
+  {
+    "description": "Ludibrium: Forgotten Path of Time",
+    "filename": "Timeless",
+    "mark": "Ludibrium",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Timeless",
+      "year": "2005"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2005-07-12",
+      "structure": "Bgm10",
+      "version": "1.2.3"
+    },
+    "youtube": "95a3-2TsrrA"
+  },
+  {
+    "description": "Ludibrium: Forgotten Path of Time",
+    "filename": "TimelessB",
+    "mark": "Ludibrium",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Timeless (B)",
+      "year": "2005"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2005-07-12",
+      "structure": "Bgm10",
+      "version": "1.2.3"
+    },
+    "youtube": "PmuoAR2ce3o"
+  }
+]

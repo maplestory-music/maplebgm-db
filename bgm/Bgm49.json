@@ -1,0 +1,428 @@
+[
+  {
+    "description": "Will boss theme (Phase 3)",
+    "filename": "BloodCage",
+    "mark": "esfera",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Bloody Cage",
+      "titleAlt": "Blood Cage",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2018-01-25",
+      "structure": "Bgm49",
+      "version": "1.2.291"
+    },
+    "youtube": "dmo6oB4mFiY"
+  },
+  {
+    "description": "Will boss theme (Phase 3)",
+    "filename": "BloodCage (Original)",
+    "mark": "esfera",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Bloody Cage (Original)",
+      "titleAlt": "Blood Cage (Original)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-01-18",
+      "structure": "Bgm49",
+      "version": "1.2.063"
+    },
+    "youtube": "bJHTXa3HfTs"
+  },
+  {
+    "description": "Esfera: Mirror-touched Sea",
+    "filename": "ConteminatedSea",
+    "mark": "esfera",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Contaminated Sea",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2018-01-25",
+      "structure": "Bgm49",
+      "version": "1.2.291"
+    },
+    "youtube": "F_X8tsNGY-4"
+  },
+  {
+    "description": "Esfera: Mirror-touched Sea",
+    "filename": "ConteminatedSea (Original)",
+    "mark": "esfera",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Contaminated Sea (Original)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-01-18",
+      "structure": "Bgm49",
+      "version": "1.2.063"
+    },
+    "youtube": "v5a6MrDwMGI"
+  },
+  {
+    "description": "Verus Hilla boss theme",
+    "filename": "DepthOfPain",
+    "mark": "TheLabyrinthOfSuffering",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Depth of Pain",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-07-12",
+      "structure": "Bgm49",
+      "version": "1.2.071"
+    },
+    "youtube": "ltnG3UumSro"
+  },
+  {
+    "description": "Will boss theme (Phase 1)",
+    "filename": "Diffraction",
+    "mark": "esfera",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Diffraction",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-01-18",
+      "structure": "Bgm49",
+      "version": "1.2.063"
+    },
+    "youtube": "MkXfT5oIfaU"
+  },
+  {
+    "description": "Moonbridge: Giant Monster Gloom darkness phase",
+    "filename": "DuskHallucination",
+    "mark": "moonBridge",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Dusk Hallucination",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-02-06",
+      "structure": "Bgm49",
+      "version": "1.2.098"
+    },
+    "youtube": "viCU4NLisxg"
+  },
+  {
+    "description": "Labyrinth of Suffering: Eternal Swamp",
+    "filename": "EternalSwamp",
+    "mark": "TheLabyrinthOfSuffering",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Eternal Swamp",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-07-12",
+      "structure": "Bgm49",
+      "version": "1.2.071"
+    },
+    "youtube": "WmjjFgyjyWs"
+  },
+  {
+    "description": "Moonbridge: Giant Monster Gloom boss theme",
+    "filename": "FerociousBattlefield",
+    "mark": "moonBridge",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ferocious Battlefield",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-06-28",
+      "structure": "Bgm49",
+      "version": "1.2.070"
+    },
+    "youtube": "XemCyUtgfnE"
+  },
+  {
+    "description": "Moonbridge: Giant Monster Gloom cutscene",
+    "filename": "FerociousBattlefield_loop",
+    "mark": "moonBridge",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ferocious Battlefield -loop-",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2018-07-05",
+      "structure": "Bgm49",
+      "version": "1.2.300"
+    },
+    "youtube": "kXt2NUTc4hE"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Moonbridge: Giant Monster Gloom cutscene",
+    "filename": "FerociousBattlefield_RiserEdit",
+    "mark": "moonBridge",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ferocious Battlefield -riser edit-",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2018-07-05",
+      "structure": "Bgm49",
+      "version": "1.2.300"
+    },
+    "youtube": "40VT7lX6mls"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Moonbridge: Giant Monster Gloom cutscene",
+    "filename": "FerociousBattlefield_ShortEdit",
+    "mark": "moonBridge",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ferocious Battlefield -short edit-",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2018-07-05",
+      "structure": "Bgm49",
+      "version": "1.2.300"
+    },
+    "youtube": "pChXt3dZUDw"
+  },
+  {
+    "description": "Labyrinth of Suffering: Heart of Suffering",
+    "filename": "HeartofSuffering",
+    "mark": "TheLabyrinthOfSuffering",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Heart of Suffering",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-07-12",
+      "structure": "Bgm49",
+      "version": "1.2.071"
+    },
+    "youtube": "HkmeS-O3Tho"
+  },
+  {
+    "description": "Will boss theme (Phase 2)",
+    "filename": "MirrorCage",
+    "mark": "esfera",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Mirror Cage",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2018-01-25",
+      "structure": "Bgm49",
+      "version": "1.2.291"
+    },
+    "youtube": "p-N2Go2PL4g"
+  },
+  {
+    "description": "Will boss theme (Phase 2)",
+    "filename": "MirrorCage (Original)",
+    "mark": "esfera",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Mirror Cage (Original)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-01-18",
+      "structure": "Bgm49",
+      "version": "1.2.063"
+    },
+    "youtube": "wYEwDC5FfrM"
+  },
+  {
+    "description": "Labyrinth of Suffering",
+    "filename": "SecretLabyrinth",
+    "mark": "TheLabyrinthOfSuffering",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Secret Labyrinth",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-07-12",
+      "structure": "Bgm49",
+      "version": "1.2.071"
+    },
+    "youtube": "HJtvsDPjvo4"
+  },
+  {
+    "description": "Esfera: Living Spring",
+    "filename": "SoupOfLife",
+    "mark": "esfera",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "A Place Where Life Begins",
+      "titleAlt": "Soup of Life",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2018-01-25",
+      "structure": "Bgm49",
+      "version": "1.2.291"
+    },
+    "youtube": "BZvty--jyIw"
+  },
+  {
+    "description": "Esfera: Living Spring",
+    "filename": "SoupOfLife (Original)",
+    "mark": "esfera",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "A Place Where Life Begins (Original)",
+      "titleAlt": "Soup of Life (Original)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-01-18",
+      "structure": "Bgm49",
+      "version": "1.2.063"
+    },
+    "youtube": "Imu86Ef3ICY"
+  },
+  {
+    "description": "Moonbridge: Unknown Mist",
+    "filename": "StrangeFog",
+    "mark": "moonBridge",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Strange Fog",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-06-28",
+      "structure": "Bgm49",
+      "version": "1.2.070"
+    },
+    "youtube": "ILeMjtZJBJs"
+  },
+  {
+    "description": "Esfera: Radiant Temple",
+    "filename": "TempleInTheMirror",
+    "mark": "esfera",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Le Temple du Miroir",
+      "titleAlt": "Temple in the Mirror",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2018-01-25",
+      "structure": "Bgm49",
+      "version": "1.2.291"
+    },
+    "youtube": "3vsyU0DHYxo"
+  },
+  {
+    "description": "Esfera: Radiant Temple",
+    "filename": "TempleInTheMirror (Original)",
+    "mark": "esfera",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Le Temple du Miroir (Original)",
+      "titleAlt": "Temple in the Mirror (Original)",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-01-18",
+      "structure": "Bgm49",
+      "version": "1.2.063"
+    },
+    "youtube": "-tLsmmRE2tk"
+  },
+  {
+    "description": "Moonbridge",
+    "filename": "WarCloud",
+    "mark": "moonBridge",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "War Cloud",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-06-28",
+      "structure": "Bgm49",
+      "version": "1.2.070"
+    },
+    "youtube": "Vo8UXVu-6vM"
+  },
+  {
+    "description": "Moonbridge: Wave of Emptiness",
+    "filename": "WaveofEmptiness",
+    "mark": "moonBridge",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Wave of Emptiness",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-06-28",
+      "structure": "Bgm49",
+      "version": "1.2.070"
+    },
+    "youtube": "iD0kXTHSc5Y"
+  }
+]

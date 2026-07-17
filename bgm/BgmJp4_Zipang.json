@@ -1,0 +1,170 @@
+[
+  {
+    "description": "Mushroom Shrine Tales theme",
+    "filename": "LegendOfZipang",
+    "mark": "jipangu",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Legend of Zipang",
+      "year": "2016"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2016-02-16",
+      "structure": "BgmJp4_Zipang",
+      "version": "3.47"
+    },
+    "youtube": "48u6RCI9hSg"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Mushroom Shrine Tales - Act 5 ending",
+    "filename": "LegendOfZipang_Reprise",
+    "mark": "jipangu",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Legend of Zipang ~reprise~",
+      "year": "2016"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2016-02-16",
+      "structure": "BgmJp4_Zipang",
+      "version": "3.47"
+    },
+    "youtube": "F1DvK7E0kUE"
+  },
+  {
+    "description": "Mushroom Shrine Tales - Act 2 & 5 sad theme",
+    "filename": "LegendOfZipang_Sad",
+    "mark": "jipangu",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Legend of Zipang ~sad~",
+      "year": "2016"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2016-02-16",
+      "structure": "BgmJp4_Zipang",
+      "version": "3.47"
+    },
+    "youtube": "Kz8VmXpyPLU"
+  },
+  {
+    "description": "Zipangu: Mushroom Shrine (2016 revamp)",
+    "filename": "LegendOfZipang_Silence",
+    "mark": "jipangu",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Legend of Zipang ~silence~",
+      "year": "2016"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2016-02-16",
+      "structure": "BgmJp4_Zipang",
+      "version": "3.47"
+    },
+    "youtube": "nAjsQ902it0"
+  },
+  {
+    "description": "Mushroom Shrine Tales ending credits",
+    "filename": "LivingAgain",
+    "mark": "jipangu",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Living Again",
+      "year": "2016"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2016-02-16",
+      "structure": "BgmJp4_Zipang",
+      "version": "3.47"
+    },
+    "youtube": "kNGnsV_4mxE"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Mushroom Shrine Tales ending credits",
+    "filename": "LivingAgain_Reprise",
+    "mark": "jipangu",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Living Again ~reprise~",
+      "year": "2016"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2016-02-16",
+      "structure": "BgmJp4_Zipang",
+      "version": "3.47"
+    },
+    "youtube": "9zQXcyMz9Q4"
+  },
+  {
+    "description": "Mushroom Shrine Tales - Tengu boss theme",
+    "filename": "Tengou'sTrial",
+    "mark": "jipangu",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Tengou's Trial",
+      "year": "2016"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2016-02-16",
+      "structure": "BgmJp4_Zipang",
+      "version": "3.47"
+    },
+    "youtube": "-PFT0rDJpNk"
+  },
+  {
+    "description": "Mushroom Shrine Tales battle theme",
+    "filename": "YokaiBoso",
+    "mark": "jipangu",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Yokai Boso",
+      "year": "2016"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2016-02-16",
+      "structure": "BgmJp4_Zipang",
+      "version": "3.47"
+    },
+    "youtube": "7O5EA1KVZSo"
+  },
+  {
+    "description": "Mushroom Shrine Tales Act 4",
+    "filename": "ZipangHero",
+    "mark": "jipangu",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Zipang Hero",
+      "year": "2016"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2016-02-16",
+      "structure": "BgmJp4_Zipang",
+      "version": "3.47"
+    },
+    "youtube": "OhzWkiTds2o"
+  }
+]
