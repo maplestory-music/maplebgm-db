@@ -1578,6 +1578,96 @@
     "youtube": "_qcl2XaCvQg"
   },
   {
+    "description": "Party Paradise",
+    "filename": "PartyParadise_01_Main Lobby_Master",
+    "mark": "partyParadise",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Party Paradise - Main Lobby",
+      "year": "2026"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2026-07-29",
+      "structure": "BgmWz2",
+      "version": "2.27"
+    },
+    "youtube": "r4TlaaXAqkI"
+  },
+  {
+    "description": "Party Paradise",
+    "filename": "PartyParadise_02_Who's the Winner_Master",
+    "mark": "partyParadise",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Party Paradise - Who's the Winner",
+      "year": "2026"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2026-07-29",
+      "structure": "BgmWz2",
+      "version": "2.27"
+    },
+    "youtube": "y0ga2j-KIbs"
+  },
+  {
+    "description": "Party Paradise",
+    "filename": "PartyParadise_03_Racing_Master",
+    "mark": "partyParadise",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Party Paradise - Racing",
+      "year": "2026"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2026-07-29",
+      "structure": "BgmWz2",
+      "version": "2.27"
+    },
+    "youtube": "uafoSM1neUw"
+  },
+  {
+    "description": "Party Paradise",
+    "filename": "PartyParadise_04_Team Battle_Master",
+    "mark": "partyParadise",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Party Paradise - Team Battle",
+      "year": "2026"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2026-07-29",
+      "structure": "BgmWz2",
+      "version": "2.27"
+    },
+    "youtube": "ZIUYVn2SRrU"
+  },
+  {
+    "description": "Party Paradise",
+    "filename": "PartyParadise_05_Final Round_Master",
+    "mark": "partyParadise",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Party Paradise - Final Round",
+      "year": "2026"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2026-07-29",
+      "structure": "BgmWz2",
+      "version": "2.27"
+    },
+    "youtube": "-vT_e40BfmM"
+  },
+  {
     "description": "Lian Plateau: Chilly Trail",
     "filename": "Redmoon_Bliss",
     "mark": "RedMoon",
