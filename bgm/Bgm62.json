@@ -1,5 +1,23 @@
 [
   {
+    "description": "Mission Ultima storyline",
+    "filename": "Absolute Throne",
+    "mark": "UltimaPolis",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Absolute Throne",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-08-13",
+      "structure": "Bgm62",
+      "version": "1.2.205"
+    },
+    "youtube": "xp4HLX3wB3E"
+  },
+  {
     "description": "Jupiter - Reward Map",
     "filename": "A desolate and lonely furnace",
     "mark": "Luppiter",
@@ -16,6 +34,24 @@
       "version": "1.2.198"
     },
     "youtube": "W-zrwm-pKH4"
+  },
+  {
+    "description": "Bellona - Reward Map",
+    "filename": "An Uneasy Victory",
+    "mark": "TeneaTemple",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "An Uneasy Victory",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-08-13",
+      "structure": "Bgm62",
+      "version": "1.2.205"
+    },
+    "youtube": "AV2dF-ZEDlk"
   },
   {
     "description": "Mission Ultima storyline",
@@ -163,6 +199,24 @@
       "version": "1.2.198"
     },
     "youtube": "ovDU4AmUMjQ"
+  },
+  {
+    "description": "Bellona - Entrance",
+    "filename": "Signal Of Insane",
+    "mark": "TeneaTemple",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Signal of Insane",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-08-13",
+      "structure": "Bgm62",
+      "version": "1.2.205"
+    },
+    "youtube": "kSU13aIxfzA"
   },
   {
     "description": "Jupiter - Combination Form (Neutral)",
@@ -352,6 +406,24 @@
       "version": "1.2.198"
     },
     "youtube": "XnpTknjzPMM"
+  },
+  {
+    "description": "Mission Ultima storyline",
+    "filename": "The Gift Never Received",
+    "mark": "UltimaPolis",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Gift Never Received",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-08-13",
+      "structure": "Bgm62",
+      "version": "1.2.205"
+    },
+    "youtube": "xi6gKWBBzEc"
   },
   {
     "description": "Mission Ultima storyline",

@@ -18,6 +18,78 @@
     "youtube": "myaoChF2E98"
   },
   {
+    "description": "Bellona - Phase 1 (Insane)",
+    "filename": "Bellona_Phase1_Insane",
+    "mark": "TeneaTemple",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Bellona - Phase 1 (Insane)",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-08-13",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.205"
+    },
+    "youtube": "hNI6_GulaRc"
+  },
+  {
+    "description": "Bellona - Phase 1 (Normal)",
+    "filename": "Bellona_Phase1_Normal",
+    "mark": "TeneaTemple",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Bellona - Phase 1 (Normal)",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-08-13",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.205"
+    },
+    "youtube": "6uPpWYX7Ljs"
+  },
+  {
+    "description": "Bellona - Phase 2 (Insane)",
+    "filename": "Bellona_Phase2_Insane",
+    "mark": "TeneaTemple",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Bellona - Phase 2 (Insane)",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-08-13",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.205"
+    },
+    "youtube": "9DaFZxH6FB0"
+  },
+  {
+    "description": "Bellona - Phase 2 (Normal)",
+    "filename": "Bellona_Phase2_Normal",
+    "mark": "TeneaTemple",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Bellona - Phase 2 (Normal)",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-08-13",
+      "structure": "BgmMultiTrack",
+      "version": "1.2.205"
+    },
+    "youtube": "634bNZDe1o4"
+  },
+  {
     "description": "Baldrix - Phase 1C",
     "filename": "Echoes Of Ancient Deity",
     "mark": "baldrix",
