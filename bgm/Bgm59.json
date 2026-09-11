@@ -1,0 +1,314 @@
+[
+  {
+    "description": "Arteria storyline",
+    "filename": "Advance of Alliance",
+    "mark": "arteria",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Advance of Alliance",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-07-06",
+      "structure": "Bgm59",
+      "version": "1.2.157"
+    },
+    "youtube": "Q1LkJtB6EJc"
+  },
+  {
+    "description": "Khali storyline",
+    "filename": "Carnival of the Night",
+    "mark": "Erimos",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Carnival of the Night",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-01-12",
+      "structure": "Bgm59",
+      "version": "1.2.150"
+    },
+    "youtube": "kVG41FevqdU"
+  },
+  {
+    "description": "Arteria storyline",
+    "filename": "Cygnus's rest",
+    "mark": "arteria",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Cygnus's Rest",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-07-06",
+      "structure": "Bgm59",
+      "version": "1.2.157"
+    },
+    "youtube": "eGNqwaBGIow"
+  },
+  {
+    "description": "Arteria: Queen's Road",
+    "filename": "Fierce fortress",
+    "mark": "Ereb",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fierce Fortress",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-07-06",
+      "structure": "Bgm59",
+      "version": "1.2.157"
+    },
+    "youtube": "lT9xo36pADU"
+  },
+  {
+    "description": "Kaling - boss reward room",
+    "filename": "Four Auspicious Beasts",
+    "mark": "dowonkyung",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Four Auspicious Beasts",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-02-16",
+      "structure": "Bgm59",
+      "version": "1.2.151"
+    },
+    "youtube": "pNUO1eFYfBY"
+  },
+  {
+    "description": "Erimos palace",
+    "filename": "Lord's Castle",
+    "mark": "Erimos",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Lord's Castle",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-01-12",
+      "structure": "Bgm59",
+      "version": "1.2.150"
+    },
+    "youtube": "TYdGRnFuxDM"
+  },
+  {
+    "description": "Erimos",
+    "filename": "Oasis in the Desert",
+    "mark": "Erimos",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Oasis in the Desert",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-01-12",
+      "structure": "Bgm59",
+      "version": "1.2.150"
+    },
+    "youtube": "WbOuijd0-30"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Khali's Oblivion skill",
+    "filename": "Oblivion",
+    "mark": "Erimos",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Oblivion",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2023-01-19",
+      "structure": "Bgm59",
+      "version": "1.2.373"
+    },
+    "youtube": "QChvnprfrSg"
+  },
+  {
+    "description": "Erimos desert",
+    "filename": "Outskirts of Erimos",
+    "mark": "Erimos",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Outskirts of Erimos",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-01-12",
+      "structure": "Bgm59",
+      "version": "1.2.150"
+    },
+    "youtube": "ZlrwXQuBzxg"
+  },
+  {
+    "description": "Arteria",
+    "filename": "Painful and lingering death",
+    "mark": "arteria",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Painful and Lingering Death",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-07-06",
+      "structure": "Bgm59",
+      "version": "1.2.157"
+    },
+    "youtube": "I8TW0DEcQjc"
+  },
+  {
+    "description": "6th Job Advancement - Sol Erda",
+    "filename": "Radiant Triumph",
+    "mark": "solerda",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Radiant Triumph",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-07-06",
+      "structure": "Bgm59",
+      "version": "1.2.157"
+    },
+    "youtube": "bYE20OjWEbs"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "6th Job Advancement - Sol Erda",
+    "filename": "Radiant Triumph Reprise",
+    "mark": "solerda",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Radiant Triumph -reprise-",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-07-06",
+      "structure": "Bgm59",
+      "version": "1.2.157"
+    },
+    "youtube": "P3xCJBvoz8o"
+  },
+  {
+    "description": "Khali storyline",
+    "filename": "Realize truth",
+    "mark": "Erimos",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Realize Truth",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-01-12",
+      "structure": "Bgm59",
+      "version": "1.2.150"
+    },
+    "youtube": "3ahM1xFHFNE"
+  },
+  {
+    "description": "Arteria",
+    "filename": "Shadowy passage",
+    "mark": "arteria",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shadowy Passage",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-07-06",
+      "structure": "Bgm59",
+      "version": "1.2.157"
+    },
+    "youtube": "EPpkgs7GI54"
+  },
+  {
+    "description": "6th Job Advancement - Sol Erda",
+    "filename": "Tangled Nebula",
+    "mark": "solerda",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Tangled Nebula",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-07-06",
+      "structure": "Bgm59",
+      "version": "1.2.157"
+    },
+    "youtube": "YznuOT5yVKg"
+  },
+  {
+    "description": "Shangri-La",
+    "filename": "The land of peach blossoms",
+    "mark": "dowonkyung",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Land of Peach Blossoms",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-02-16",
+      "structure": "Bgm59",
+      "version": "1.2.151"
+    },
+    "youtube": "WfL64ILvW0A"
+  },
+  {
+    "description": "Shangri-La field",
+    "filename": "The other side of ShangriLa",
+    "mark": "dowonkyung",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Other Side of Shangri-La",
+      "year": "2023"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2023-06-10",
+      "structure": "Bgm59",
+      "version": "1.2.155"
+    },
+    "youtube": "tJksDYXZ4Vw"
+  }
+]

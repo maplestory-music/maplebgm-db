@@ -1,0 +1,12 @@
+{
+  "name": "Summer Events",
+  "description": "Summer events",
+  "tracks": [
+    "BgmEvent2/Outlaw of the Lonely Island",  // 2017
+    "BgmEvent2/glory_Base",                   // 2019
+    "BgmEvent/awake_Event",                   // 2020
+    "BgmEvent/mapleLIVE",                     // 2021
+    "BgmEvent/ignition",                      // 2022
+    "BgmEvent3/Dancing_Sea_Otter"             // 2023
+  ]
+}

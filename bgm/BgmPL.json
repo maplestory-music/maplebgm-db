@@ -1,0 +1,624 @@
+[
+  {
+    "description": "Dice Master event",
+    "filename": "DiceMaster",
+    "mark": "PL_DiceMaster",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Dice Master",
+      "year": "2017"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2017-08-30",
+      "structure": "BgmPL",
+      "version": "1.88"
+    },
+    "youtube": "wSwXwkgS4bU"
+  },
+  {
+    "description": "Eluna: Elemental's Domain",
+    "filename": "Eluna",
+    "mark": "PL_Eluna",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Off the Beaten Path -upbeat-",
+      "titleAlt": "Eluna",
+      "year": "2017"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2017-07-07",
+      "structure": "BgmPL",
+      "version": "1.27"
+    },
+    "youtube": "mEY8_SP-5LU"
+  },
+  {
+    "description": "Eluna Express",
+    "filename": "ElunaExpress",
+    "mark": "PL_Eluna",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Eluna Express",
+      "year": "2017"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2017-07-07",
+      "structure": "BgmPL",
+      "version": "1.27"
+    },
+    "youtube": "es37G5AfE-I"
+  },
+  {
+    "description": "Ancient Ruins Party Quest",
+    "filename": "GL_AdvPQ",
+    "mark": "GL_AdvPQ",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Adventure Party Quest",
+      "year": "2019"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2019-07-24",
+      "structure": "BgmPL",
+      "version": "2.06"
+    },
+    "youtube": "uLKwfP50iwE"
+  },
+  {
+    "description": "Divine Intelligence event",
+    "filename": "GodOfBrain",
+    "mark": "PL_GodOfBrain",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "God of Brain",
+      "year": "2017"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2017-11-16",
+      "structure": "BgmPL",
+      "version": "1.32"
+    },
+    "youtube": "8i-FBUlGSdA"
+  },
+  {
+    "description": "High Noon Gunslinger",
+    "filename": "GunMan",
+    "mark": "PL_Gunman",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Western Gunman",
+      "titleAlt": "Gunman",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-04-27",
+      "structure": "BgmPL",
+      "version": "1.37"
+    },
+    "youtube": "0F8ZQ1NqDSk"
+  },
+  {
+    "description": "Spot the Difference event",
+    "filename": "HiddenCatch",
+    "mark": "BZ_HiddenCatch",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Hidden Catch",
+      "year": "2019"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2019-03-06",
+      "structure": "BgmPL",
+      "version": "2.03"
+    },
+    "youtube": "D2XRv39wAFo"
+  },
+  {
+    "description": "Secret Stories - Chapter 1",
+    "filename": "HiddenTales_Mystery",
+    "mark": "ArbrenBT",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Greetings of the Death Angel",
+      "titleAlt": "Hidden Tales: Mystery",
+      "year": "2016"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2016-09-23",
+      "structure": "BgmPL",
+      "version": "1.18"
+    },
+    "youtube": "fWQyB979IF0"
+  },
+  {
+    "description": "Secret Stories - Chapter 2 & 3",
+    "filename": "HiddenTales_Sorrow",
+    "mark": "ArbrenBT",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Frozen Heart",
+      "titleAlt": "Hidden Tales: Sorrow",
+      "year": "2016"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2016-09-23",
+      "structure": "BgmPL",
+      "version": "1.18"
+    },
+    "youtube": "gd_xlvU0P2Q"
+  },
+  {
+    "description": "Secret Stories - Chapter 2 & 3",
+    "filename": "HiddenTales_Tension",
+    "mark": "ArbrenBT",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Shadow of Chaos",
+      "titleAlt": "Hidden Tales: Tension",
+      "year": "2016"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2016-09-23",
+      "structure": "BgmPL",
+      "version": "1.18"
+    },
+    "youtube": "PYGOnSNO79o"
+  },
+  {
+    "description": "The Afterlands: Land of Contemplation (Day)",
+    "filename": "LandofContemplation_Day",
+    "mark": "PL_AfterLand",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Can You Read My Thoughts?",
+      "titleAlt": "Land of Contemplation ~day~",
+      "year": "2016"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2016-10-19",
+      "structure": "BgmPL",
+      "version": "1.77"
+    },
+    "youtube": "Dc0mE4k422w"
+  },
+  {
+    "description": "The Afterlands: Land of Contemplation (Night)",
+    "filename": "LandofContemplation_Night",
+    "mark": "PL_AfterLand",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Can You Read My Thoughts? -night-",
+      "titleAlt": "Land of Contemplation ~night~",
+      "year": "2016"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2016-10-19",
+      "structure": "BgmPL",
+      "version": "1.77"
+    },
+    "youtube": "xK099Yuc1ck"
+  },
+  {
+    "description": "The Afterlands: Land of Innocence (Day)",
+    "filename": "LandofInnocence_Day",
+    "mark": "PL_AfterLand",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Dancing Weathercock",
+      "titleAlt": "Land of Innocence ~day~",
+      "year": "2016"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2016-10-19",
+      "structure": "BgmPL",
+      "version": "1.77"
+    },
+    "youtube": "ROmgAQZh_LU"
+  },
+  {
+    "description": "The Afterlands: Land of Innocence (Night)",
+    "filename": "LandofInnocence_Night",
+    "mark": "PL_AfterLand",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Dancing Weathercock -night-",
+      "titleAlt": "Land of Innocence ~night~",
+      "year": "2016"
+    },
+    "source": {
+      "client": "TMS",
+      "date": "2016-10-19",
+      "structure": "BgmPL",
+      "version": "1.93"
+    },
+    "youtube": "mFeNoswVOLQ"
+  },
+  {
+    "description": "The Afterlands: Land of Innocence (Night)",
+    "filename": "LandofInnocence_Night (Original)",
+    "mark": "PL_AfterLand",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Dancing Weathercock -night- (Alternate)",
+      "titleAlt": "Land of Innocence ~night~ (Alternate)",
+      "year": "2016"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2016-10-19",
+      "structure": "BgmPL",
+      "version": "1.77"
+    },
+    "youtube": "pzvy-bBGLDM"
+  },
+  {
+    "description": "The Afterlands: Land of Riches (Day)",
+    "filename": "LandofRiches_Day",
+    "mark": "PL_AfterLand",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The World of Paradox",
+      "titleAlt": "Land of Riches ~day~",
+      "year": "2016"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2016-10-19",
+      "structure": "BgmPL",
+      "version": "1.77"
+    },
+    "youtube": "wq7kiyL8yHw"
+  },
+  {
+    "description": "The Afterlands: Land of Riches (Night)",
+    "filename": "LandofRiches_Night",
+    "mark": "PL_AfterLand",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The World of Paradox -night-",
+      "titleAlt": "Land of Riches ~night~",
+      "year": "2016"
+    },
+    "source": {
+      "client": "TMS",
+      "date": "2016-10-19",
+      "structure": "BgmPL",
+      "version": "1.93"
+    },
+    "youtube": "yY6ueC0qlCY"
+  },
+  {
+    "description": "The Afterlands: Land of Riches (Night)",
+    "filename": "LandofRiches_Night (Original)",
+    "mark": "PL_AfterLand",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The World of Paradox -night- (Alternate)",
+      "titleAlt": "Land of Riches ~night~ (Alternate)",
+      "year": "2016"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2016-10-19",
+      "structure": "BgmPL",
+      "version": "1.77"
+    },
+    "youtube": "fpbzFDITpUs"
+  },
+  {
+    "description": "The Afterlands: Land of Warriors (Day)",
+    "filename": "LandofWarriors_Day",
+    "mark": "PL_AfterLand",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Bottoms Up!",
+      "titleAlt": "Land of Warriors ~day~",
+      "year": "2016"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2016-10-19",
+      "structure": "BgmPL",
+      "version": "1.77"
+    },
+    "youtube": "FLiC1zt_U1s"
+  },
+  {
+    "description": "The Afterlands: Land of Warriors (Night)",
+    "filename": "LandofWarriors_Night",
+    "mark": "PL_AfterLand",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Bottoms Up! -night-",
+      "titleAlt": "Land of Warriors ~night~",
+      "year": "2016"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2016-10-19",
+      "structure": "BgmPL",
+      "version": "1.77"
+    },
+    "youtube": "kVE2hSgJ3cQ"
+  },
+  {
+    "description": "Stellar Detectives theme",
+    "filename": "MD_AcornDetective_AR",
+    "mark": "PL_MapleDetective",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Stellar Detectives",
+      "titleAlt": "Maple Detective: Acorn Detective AR",
+      "year": "2016"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2016-04-29",
+      "structure": "BgmPL",
+      "version": "1.15"
+    },
+    "youtube": "3SEaLivUIg4"
+  },
+  {
+    "description": "Stellar Detectives theme (instrumental)",
+    "filename": "MD_AcornDetective_MR",
+    "mark": "PL_MapleDetective",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Stellar Detectives -instrumental-",
+      "titleAlt": "Maple Detective: Acorn Detective MR",
+      "year": "2016"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2016-04-29",
+      "structure": "BgmPL",
+      "version": "1.15"
+    },
+    "youtube": "s9H92aOgW1U"
+  },
+  {
+    "description": "Stellar Detectives: Hyperspace Cube",
+    "filename": "MD_InvadeOperation",
+    "mark": "PL_MapleDetective",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Mission: Invasion",
+      "titleAlt": "Maple Detective: Invade Operation",
+      "year": "2016"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2016-04-29",
+      "structure": "BgmPL",
+      "version": "1.15"
+    },
+    "youtube": "pCXDV2_wUY4"
+  },
+  {
+    "description": "Retro World: Demon King boss theme",
+    "filename": "RetroWorldBoss",
+    "mark": "PL_RetroWorld",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Final Stage",
+      "titleAlt": "Retro World Boss",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-09-28",
+      "structure": "BgmPL",
+      "version": "1.43"
+    },
+    "youtube": "zvXnHdqbCNk"
+  },
+  {
+    "description": "Retro World: Demon King's Tower",
+    "filename": "RetroWorldDungeon",
+    "mark": "PL_RetroWorld",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Action Trap",
+      "titleAlt": "Retro World Dungeon",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-09-28",
+      "structure": "BgmPL",
+      "version": "1.43"
+    },
+    "youtube": "GSG5FxqIu4g"
+  },
+  {
+    "description": "Retro World training area",
+    "filename": "RetroWorldMiniGame",
+    "mark": "PL_RetroWorld",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Watch Out!",
+      "titleAlt": "Retro World Minigame",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-09-28",
+      "structure": "BgmPL",
+      "version": "1.43"
+    },
+    "youtube": "VGznt8fdh6w"
+  },
+  {
+    "description": "Retro World: Balina",
+    "filename": "RetroWorldTown",
+    "mark": "PL_RetroWorld",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ordinary Day",
+      "titleAlt": "Retro World Town",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-09-28",
+      "structure": "BgmPL",
+      "version": "1.43"
+    },
+    "youtube": "7alGu8gUCgQ"
+  },
+  {
+    "description": "Eluna Exploration Area",
+    "filename": "SongOfTheNati",
+    "mark": "PL_Eluna",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Song of Naty",
+      "titleAlt": "Song of the Nati",
+      "year": "2017"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2017-07-07",
+      "structure": "BgmPL",
+      "version": "1.27"
+    },
+    "youtube": "R9e7FAmUGEI"
+  },
+  {
+    "description": "Eluna: Elunite Elemental boss theme",
+    "filename": "SpiritualWeight",
+    "mark": "PL_Eluna",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Weight of the Soul",
+      "titleAlt": "Spiritual Weight",
+      "year": "2017"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2017-07-07",
+      "structure": "BgmPL",
+      "version": "1.27"
+    },
+    "youtube": "7_yYG8zkADQ"
+  },
+  {
+    "description": "Eluna Unexplored Area",
+    "filename": "UnexploredEluna",
+    "mark": "PL_Eluna",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Off the Beaten Path",
+      "titleAlt": "Unexplored Eluna",
+      "year": "2017"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2017-07-07",
+      "structure": "BgmPL",
+      "version": "1.27"
+    },
+    "youtube": "53Ih3hmzr1c"
+  },
+  {
+    "description": "Eluna: Prospector's Township",
+    "filename": "WeAreThePioneers",
+    "mark": "PL_Eluna",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Pioneer Headquarters",
+      "titleAlt": "We Are the Pioneers",
+      "year": "2017"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2017-07-07",
+      "structure": "BgmPL",
+      "version": "1.27"
+    },
+    "youtube": "4U6sqPlS6fI"
+  },
+  {
+    "description": "Snowdrift Lodge",
+    "filename": "WinterCastle",
+    "mark": "PL_WinterCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Melting Snow",
+      "titleAlt": "Winter Castle",
+      "year": "2017"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2017-11-16",
+      "structure": "BgmPL",
+      "version": "1.32"
+    },
+    "youtube": "ZL3iwhrEllA"
+  },
+  {
+    "description": "Snowdrift Lodge: Silver Mountain Slopes",
+    "filename": "WinterCastle_DownHill",
+    "mark": "PL_WinterCastle",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Downhill Ride",
+      "titleAlt": "Winter Castle -Downhill-",
+      "year": "2017"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2017-11-16",
+      "structure": "BgmPL",
+      "version": "1.32"
+    },
+    "youtube": "UBfUH2sbiSk"
+  }
+]

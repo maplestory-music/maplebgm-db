@@ -1,0 +1,38 @@
+[
+  {
+    "description": "Oshi Discovery Project event",
+    "filename": "dokidoki maidcafe",
+    "mark": "2026Mahjong",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Doki Doki Maid Cafe",
+      "year": "2026"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2026-05-20",
+      "structure": "BgmEventJP",
+      "version": "4.42"
+    },
+    "youtube": "lcivl7sI6l0"
+  },
+  {
+    "description": "Oshi Discovery Project event",
+    "filename": "Kirakira Sunshine city",
+    "mark": "2026Bias",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Kira Kira Sunshine City",
+      "year": "2026"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2026-05-20",
+      "structure": "BgmEventJP",
+      "version": "4.42"
+    },
+    "youtube": "Fbbs1j7hY-g"
+  }
+]

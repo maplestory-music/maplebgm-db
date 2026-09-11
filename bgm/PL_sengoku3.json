@@ -1,0 +1,146 @@
+[
+  {
+    "description": "Sengoku III: Akechi Mitsuhide boss theme",
+    "filename": "Boss_SilveryWolf",
+    "mark": "PL_Sengoku3",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Silvery Wolf",
+      "year": "2020"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2020-08-19",
+      "structure": "PL_sengoku3",
+      "version": "3.89"
+    },
+    "youtube": "UpbcAiQaBqE"
+  },
+  {
+    "description": "Sengoku III: Akechi Mitsuhide boss theme",
+    "filename": "Boss_SilveryWolf_v2_1",
+    "mark": "PL_Sengoku3",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Silvery Wolf -Second ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2020-08-19",
+      "structure": "PL_sengoku3",
+      "version": "3.89"
+    },
+    "youtube": "SbOO7rpjm04"
+  },
+  {
+    "description": "Sengoku III: Akechi Mitsuhide boss theme",
+    "filename": "Boss_SilveryWolf_v2_2",
+    "mark": "PL_Sengoku3",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Silvery Wolf -Third ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2020-08-19",
+      "structure": "PL_sengoku3",
+      "version": "3.89"
+    },
+    "youtube": "0jg5W5jAMHw"
+  },
+  {
+    "description": "Sengoku III storyline",
+    "filename": "MeaningOfTheDawn",
+    "mark": "PL_Sengoku3",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Meaning of the Dawn",
+      "year": "2020"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2020-08-19",
+      "structure": "PL_sengoku3",
+      "version": "3.89"
+    },
+    "youtube": "0jd5bau0QzM"
+  },
+  {
+    "description": "Sengoku III storyline",
+    "filename": "ScatteringSakura",
+    "mark": "PL_Sengoku3",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Scattering Sakura",
+      "year": "2020"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2020-08-19",
+      "structure": "PL_sengoku3",
+      "version": "3.89"
+    },
+    "youtube": "1Fyy-Ct2HSw"
+  },
+  {
+    "description": "Sengoku III storyline",
+    "filename": "SecretVow",
+    "mark": "PL_Sengoku3",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Secret Vow",
+      "year": "2020"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2020-08-19",
+      "structure": "PL_sengoku3",
+      "version": "3.89"
+    },
+    "youtube": "JxKgF_8Sfaw"
+  },
+  {
+    "description": "Sengoku III: Inside Shura Castle",
+    "filename": "ShuraCastle",
+    "mark": "PL_Sengoku3",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shura Castle",
+      "year": "2020"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2020-08-19",
+      "structure": "PL_sengoku3",
+      "version": "3.89"
+    },
+    "youtube": "2hZ8gYxHFvA"
+  },
+  {
+    "description": "Sengoku III: Shura Castle",
+    "filename": "ToTheBattlefield",
+    "mark": "PL_Sengoku3",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "To the Battlefield",
+      "year": "2020"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2020-08-19",
+      "structure": "PL_sengoku3",
+      "version": "3.89"
+    },
+    "youtube": "OdzImXmAduE"
+  }
+]
