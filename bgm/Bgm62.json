@@ -90,6 +90,24 @@
     "youtube": "6CdZSy__5MQ"
   },
   {
+    "description": "Visitors of the Argo storyline",
+    "filename": "Cradle of Monsters",
+    "mark": "Argo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Cradle of Monsters",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-09-10",
+      "structure": "Bgm62",
+      "version": "1.2.206"
+    },
+    "youtube": "yoP9Hr89iqI"
+  },
+  {
     "description": "Mission Ultima storyline",
     "filename": "Eternal Slumber",
     "mark": "UltimaPolis",
@@ -271,6 +289,24 @@
       "version": "1.2.203"
     },
     "youtube": "qHZQ06mDfDc"
+  },
+  {
+    "description": "Visitors of the Argo storyline",
+    "filename": "The flying Argo",
+    "mark": "Argo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Flying Argo",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-09-10",
+      "structure": "Bgm62",
+      "version": "1.2.206"
+    },
+    "youtube": "yPU6O907cUg"
   },
   {
     "description": "Meilin - Reward Map",

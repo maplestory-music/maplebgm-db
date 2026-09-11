@@ -108,6 +108,60 @@
     "youtube": "LPUV3BXPJSg"
   },
   {
+    "description": "Aurum Regis",
+    "filename": "Shadows of the Golden Gate",
+    "mark": "AurumRegis",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shadows of the Golden Gate",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-09-10",
+      "structure": "BgmED",
+      "version": "1.2.206"
+    },
+    "youtube": "vtzI4xkrB90"
+  },
+  {
+    "description": "Aurum Regis boss",
+    "filename": "The Buried Sentinel",
+    "mark": "AurumRegis",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Buried Sentinel",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-09-10",
+      "structure": "BgmED",
+      "version": "1.2.206"
+    },
+    "youtube": "fuXwOqMPb48"
+  },
+  {
+    "description": "Aurum Regis storyline",
+    "filename": "The Captive's Requiem",
+    "mark": "AurumRegis",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Captive's Requiem",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-09-10",
+      "structure": "BgmED",
+      "version": "1.2.206"
+    },
+    "youtube": "Dp1KxPv6HYs"
+  },
+  {
     "description": "Angler Company",
     "filename": "What Flowed In",
     "mark": "anglerCompany",
