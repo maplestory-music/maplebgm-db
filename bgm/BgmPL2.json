@@ -1,0 +1,445 @@
+[
+  {
+    "description": "Monad: Abrup Basin",
+    "filename": "Abrup",
+    "mark": "PL_Abrup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Abrup",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-07-16",
+      "structure": "BgmPL2",
+      "version": "1.41"
+    },
+    "youtube": "XT3xr3XouDE"
+  },
+  {
+    "description": "Monad storyline",
+    "filename": "Appearance",
+    "mark": "PL_Abrup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fragment of Fears",
+      "titleAlt": "Appearance",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-07-16",
+      "structure": "BgmPL2",
+      "version": "1.41"
+    },
+    "youtube": "Zzx8UXRZ8rQ"
+  },
+  {
+    "description": "Monad battle theme",
+    "filename": "Attack",
+    "mark": "PL_Abrup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Assault!",
+      "titleAlt": "Attack",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-07-16",
+      "structure": "BgmPL2",
+      "version": "1.41"
+    },
+    "youtube": "d4pdDMxdgxQ"
+  },
+  {
+    "description": "Monad: Act 1 Kaptafel Ashes",
+    "filename": "FallenThings",
+    "mark": "PL_Abrup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fallen Things",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-07-16",
+      "structure": "BgmPL2",
+      "version": "1.41"
+    },
+    "youtube": "45BJJKZwCSs"
+  },
+  {
+    "description": "Monad: Julieta boss theme",
+    "filename": "Julietta",
+    "mark": "PL_Abrup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Julietta",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-07-16",
+      "structure": "BgmPL2",
+      "version": "1.41"
+    },
+    "youtube": "0PHV9hE03Uk"
+  },
+  {
+    "description": "Monad: Skuas",
+    "filename": "Labor",
+    "mark": "PL_Abrup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ready, Steady, Solid!",
+      "titleAlt": "Labor",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-07-16",
+      "structure": "BgmPL2",
+      "version": "1.41"
+    },
+    "youtube": "xtVLjc3-Ey0"
+  },
+  {
+    "description": "Monad: Skuas cutscene",
+    "filename": "Labor_MR",
+    "mark": "PL_Abrup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ready, Steady, Solid! -instrumental-",
+      "titleAlt": "Labor MR",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-07-16",
+      "structure": "BgmPL2",
+      "version": "1.41"
+    },
+    "youtube": "nnDUioqF7Wg"
+  },
+  {
+    "description": "Wedding Hall BGM Style 1",
+    "filename": "newWedding0",
+    "mark": "Wedding",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Wedding Hall 1",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-11-13",
+      "structure": "BgmPL2",
+      "version": "2.37"
+    },
+    "youtube": "uTusUDt93XA"
+  },
+  {
+    "description": "Wedding Hall BGM Style 2",
+    "filename": "newWedding1",
+    "mark": "Wedding",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Wedding Hall 2",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-11-13",
+      "structure": "BgmPL2",
+      "version": "2.37"
+    },
+    "youtube": "vq-uCg7Xrnw"
+  },
+  {
+    "description": "Wedding Hall BGM Style 3",
+    "filename": "newWedding2",
+    "mark": "Wedding",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Wedding Hall 3",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-11-13",
+      "structure": "BgmPL2",
+      "version": "2.37"
+    },
+    "youtube": "CJLMno8J2Yk"
+  },
+  {
+    "description": "Wedding - Honeymoon Resort",
+    "filename": "newWedding_HoneyMoon",
+    "mark": "Wedding",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Honeymoon Resort",
+      "year": "2024"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2024-11-13",
+      "structure": "BgmPL2",
+      "version": "2.37"
+    },
+    "youtube": "tP2Vl5k_R1g"
+  },
+  {
+    "description": "Fluffy Moo Island",
+    "filename": "PL_MooIsland_Main",
+    "mark": "PL_Moo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Moo Island",
+      "year": "2021"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2021-05-26",
+      "structure": "BgmPL2",
+      "version": "3.96"
+    },
+    "youtube": "xh3AOLAosEE"
+  },
+  {
+    "description": "Fluffy Moo Island: Moo Ruins",
+    "filename": "PL_MooIsland_Play",
+    "mark": "PL_Moo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Moo Island - Play",
+      "year": "2021"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2021-05-26",
+      "structure": "BgmPL2",
+      "version": "3.96"
+    },
+    "youtube": "MCKZJ6KUDcU"
+  },
+  {
+    "description": "Fluffy Moo Island: Moo's Resting Place",
+    "filename": "PL_MooIsland_Rest",
+    "mark": "PL_Moo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Moo Island - Rest",
+      "year": "2021"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2021-05-26",
+      "structure": "BgmPL2",
+      "version": "3.96"
+    },
+    "youtube": "gjMrVCh1ZNc"
+  },
+  {
+    "description": "Monad: Act 3 Julieta epilogue",
+    "filename": "Reunite",
+    "mark": "PL_Abrup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Veiled Truth",
+      "titleAlt": "Reunite",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-07-16",
+      "structure": "BgmPL2",
+      "version": "1.41"
+    },
+    "youtube": "EOWkL4YKFHo"
+  },
+  {
+    "description": "Monad: Act 2 Windsleep Forest",
+    "filename": "SleepingForest",
+    "mark": "PL_Abrup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Sleeping Forest",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-07-16",
+      "structure": "BgmPL2",
+      "version": "1.41"
+    },
+    "youtube": "YbAxZANl7us"
+  },
+  {
+    "description": "Monad: Hawalu's song",
+    "filename": "SongOfHawar",
+    "mark": "PL_Abrup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Would You Listen to My Story?",
+      "titleAlt": "Song of Hawar",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-07-16",
+      "structure": "BgmPL2",
+      "version": "1.41"
+    },
+    "youtube": "GsZwtyuWm2E"
+  },
+  {
+    "description": "Monad: Hawalu's song",
+    "filename": "SongOfHawar_MR",
+    "mark": "PL_Abrup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Would You Listen to My Story? -instrumental-",
+      "titleAlt": "Song of Hawar MR",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-07-16",
+      "structure": "BgmPL2",
+      "version": "1.41"
+    },
+    "youtube": "oJw9nleaANQ"
+  },
+  {
+    "description": "Monad: Act 1 & 3 storyline",
+    "filename": "TheWaytoHope",
+    "mark": "PL_Abrup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Way to Hope",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-07-16",
+      "structure": "BgmPL2",
+      "version": "1.41"
+    },
+    "youtube": "ZfzIfNmDO5M"
+  },
+  {
+    "description": "Monad: Act 1 storyline",
+    "filename": "TheWaytoHope_gloomy",
+    "mark": "PL_Abrup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Sorrowful Way",
+      "titleAlt": "The Way to Hope -gloomy-",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-07-16",
+      "structure": "BgmPL2",
+      "version": "1.41"
+    },
+    "youtube": "otoKaKYK62E"
+  },
+  {
+    "description": "Monad: Act 1 storyline",
+    "filename": "TheWaytoHope_gloomy_MR",
+    "mark": "PL_Abrup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Sorrowful Way -instrumental-",
+      "titleAlt": "The Way to Hope -gloomy- MR",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-07-16",
+      "structure": "BgmPL2",
+      "version": "1.41"
+    },
+    "youtube": "-h8kCcHjuz0"
+  },
+  {
+    "description": "Monad: Act 1 & 3 storyline",
+    "filename": "TheWaytoHope_MR",
+    "mark": "PL_Abrup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Way to Hope -instrumental-",
+      "titleAlt": "The Way to Hope MR",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-07-16",
+      "structure": "BgmPL2",
+      "version": "1.41"
+    },
+    "youtube": "kBO_ea9-UAI"
+  },
+  {
+    "description": "Monad: Abrup Basin cliff",
+    "filename": "Turbulence",
+    "mark": "PL_Abrup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Turbulence",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-07-16",
+      "structure": "BgmPL2",
+      "version": "1.41"
+    },
+    "youtube": "zmcpx21xxKg"
+  },
+  {
+    "description": "Monad: Act 2 Windsleep Forest",
+    "filename": "WalkTogether",
+    "mark": "PL_Abrup",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Along With You",
+      "titleAlt": "Walk Together",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-07-16",
+      "structure": "BgmPL2",
+      "version": "1.41"
+    },
+    "youtube": "hScIi77G0II"
+  }
+]

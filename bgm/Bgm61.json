@@ -1,0 +1,416 @@
+[
+  {
+    "description": "Nightmare Wonderland",
+    "filename": "Ashes of spring",
+    "mark": "nightmareParadise",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ashes of Spring",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-09-11",
+      "structure": "Bgm61",
+      "version": "1.2.193"
+    },
+    "youtube": "hcCWV0lqQgs"
+  },
+  {
+    "description": "Kai - Reward Map",
+    "filename": "City of Eternal Night",
+    "mark": "Chrono",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "City of Eternal Night",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-12-13",
+      "structure": "Bgm61",
+      "version": "1.2.196"
+    },
+    "youtube": "aXhlh7gw9qM"
+  },
+  {
+    "description": "First Adversary - Phase 1",
+    "filename": "Courage Unbreakable",
+    "mark": "firstAdversary",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Courage Unbreakable",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-08-14",
+      "structure": "Bgm61",
+      "version": "1.2.192"
+    },
+    "youtube": "IWXmRItfYsM"
+  },
+  {
+    "description": "Nightmare Wonderland",
+    "filename": "Feast of evil spirits",
+    "mark": "nightmareParadise",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Feast of Evil Spirits",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-09-11",
+      "structure": "Bgm61",
+      "version": "1.2.193"
+    },
+    "youtube": "-PLcCJV6s0g"
+  },
+  {
+    "description": "First Adversary - Entrance",
+    "filename": "Gate of Proof",
+    "mark": "firstAdversary",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Gate of Proof",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-08-14",
+      "structure": "Bgm61",
+      "version": "1.2.192"
+    },
+    "youtube": "_5r-2JTJowM"
+  },
+  {
+    "description": "Vallora mountain zone",
+    "filename": "If you follow the mountain path",
+    "mark": "Vallora",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "If You Follow the Mountain Path",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-06-07",
+      "structure": "Bgm61",
+      "version": "1.2.188"
+    },
+    "youtube": "hLG-h805Wcc"
+  },
+  {
+    "description": "Radiant Malefic Star - Preparation Map",
+    "filename": "Irresistible Calling",
+    "mark": "YmirIllusion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Irresistible Calling",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-01-08",
+      "structure": "Bgm61",
+      "version": "1.2.197"
+    },
+    "youtube": "53dmSYmaUNU"
+  },
+  {
+    "description": "Black Sea, Radiant Malefic Star - Entrance",
+    "filename": "Malefic Sonata",
+    "mark": "YmirIllusion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Malefic Sonata",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-01-08",
+      "structure": "Bgm61",
+      "version": "1.2.197"
+    },
+    "youtube": "u71__6ICIWo"
+  },
+  {
+    "description": "Kai - Phase 1",
+    "filename": "Neo Vandalism",
+    "mark": "Chrono",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Neo Vandalism",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-12-13",
+      "structure": "Bgm61",
+      "version": "1.2.196"
+    },
+    "youtube": "6vDylLAxtN0"
+  },
+  {
+    "description": "Vallora",
+    "filename": "Port city of Balora",
+    "mark": "Vallora",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Port City of Vallora",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-06-07",
+      "structure": "Bgm61",
+      "version": "1.2.188"
+    },
+    "youtube": "lyp4mlh3abI"
+  },
+  {
+    "description": "Radiant Malefic Star - Illusion state",
+    "filename": "Pristine, Tender Illusion",
+    "mark": "YmirIllusion",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Pristine, Tender Illusion",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-01-08",
+      "structure": "Bgm61",
+      "version": "1.2.197"
+    },
+    "youtube": "uwm-XyFS_2o"
+  },
+  {
+    "description": "Nightmare Wonderland storyline",
+    "filename": "Rebirth of life",
+    "mark": "nightmareParadise",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Rebirth of Life",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-09-11",
+      "structure": "Bgm61",
+      "version": "1.2.193"
+    },
+    "youtube": "HlnALPLQut8"
+  },
+  {
+    "description": "Radiant Malefic Star - Reward Map",
+    "filename": "Rest of the Broken Truth",
+    "mark": "YmirReality",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Rest of the Broken Truth",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-01-08",
+      "structure": "Bgm61",
+      "version": "1.2.197"
+    },
+    "youtube": "BYeEKwuAlfU"
+  },
+  {
+    "description": "Vallora: Serpent's Lake",
+    "filename": "Serpent's Lake",
+    "mark": "Vallora",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Serpent's Lake",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-06-07",
+      "structure": "Bgm61",
+      "version": "1.2.188"
+    },
+    "youtube": "ipl9FrvjEPU"
+  },
+  {
+    "description": "Kai - Entrance",
+    "filename": "Silent Protocol",
+    "mark": "Chrono",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Silent Protocol",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-12-13",
+      "structure": "Bgm61",
+      "version": "1.2.196"
+    },
+    "youtube": "HSveM-a-8U4"
+  },
+  {
+    "description": "First Adversary - Reward Map",
+    "filename": "Succession Bloom",
+    "mark": "firstAdversary",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Succession Bloom",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-08-14",
+      "structure": "Bgm61",
+      "version": "1.2.192"
+    },
+    "youtube": "pevUhp_jxnU"
+  },
+  {
+    "description": "Nightmare Wonderland",
+    "filename": "The downfall",
+    "mark": "nightmareParadise",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Downfall",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-09-11",
+      "structure": "Bgm61",
+      "version": "1.2.193"
+    },
+    "youtube": "rP5UgQ71d14"
+  },
+  {
+    "description": "Radiant Malefic Star - Reality state",
+    "filename": "Unveiled Deformity",
+    "mark": "YmirReality",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Unveiled Deformity",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-01-08",
+      "structure": "Bgm61",
+      "version": "1.2.197"
+    },
+    "youtube": "FVPTmDKf0M4"
+  },
+  {
+    "description": "First Adversary - Phase 3",
+    "filename": "Voice of Verdict",
+    "mark": "firstAdversary",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Voice of Verdict",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-08-14",
+      "structure": "Bgm61",
+      "version": "1.2.192"
+    },
+    "youtube": "3xpCpPHwsQ0"
+  },
+  {
+    "description": "Kai - Phase 2",
+    "filename": "Voltage Overdrive",
+    "mark": "Chrono",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Voltage Overdrive",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-12-13",
+      "structure": "Bgm61",
+      "version": "1.2.196"
+    },
+    "youtube": "spCf0yFfQ5A"
+  },
+  {
+    "description": "Len storyline",
+    "filename": "When the wind blows",
+    "mark": "Vallora",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "When the Wind Blows",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-06-07",
+      "structure": "Bgm61",
+      "version": "1.2.188"
+    },
+    "youtube": "ArFkvhHvLsE"
+  },
+  {
+    "description": "Vallora beach zone",
+    "filename": "Wind flowing in the harbor",
+    "mark": "Vallora",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Wind Flowing in the Harbor",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-06-07",
+      "structure": "Bgm61",
+      "version": "1.2.188"
+    },
+    "youtube": "mKhyvIKVW18"
+  },
+  {
+    "description": "First Adversary - Phase 2",
+    "filename": "Wisdom Beyond Aspirations",
+    "mark": "firstAdversary",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Wisdom Beyond Aspirations",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-08-14",
+      "structure": "Bgm61",
+      "version": "1.2.192"
+    },
+    "youtube": "OeKYxq_TX_Y"
+  }
+]
