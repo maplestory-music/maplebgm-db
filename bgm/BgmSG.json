@@ -144,6 +144,132 @@
     "youtube": "fHX7P8Nnluo"
   },
   {
+    "description": "Anomaly Investigation Headquarters",
+    "filename": "NEW_Hub_Gatekeeper's Rest_Master",
+    "mark": "New_hub",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Gatekeeper's Rest",
+      "year": "2026"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2026-09-30",
+      "structure": "BgmSG",
+      "version": "2.54"
+    },
+    "youtube": "EZRc2Wpqiso"
+  },
+  {
+    "description": "Archipelago of Wings: Forest of Sorrow",
+    "filename": "NEW_Malaysia_CursedGrounds",
+    "mark": "Malaysia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Cursed Grounds",
+      "year": "2026"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2026-09-30",
+      "structure": "BgmSG",
+      "version": "2.54"
+    },
+    "youtube": "EZEolOLN86s"
+  },
+  {
+    "description": "Archipelago of Wings: Sunset Pantai Beach",
+    "filename": "NEW_Malaysia_Farewell",
+    "mark": "Malaysia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Farewell",
+      "year": "2026"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2026-09-30",
+      "structure": "BgmSG",
+      "version": "2.54"
+    },
+    "youtube": "526s6eS5pfQ"
+  },
+  {
+    "description": "Archipelago of Wings - Tama boss theme",
+    "filename": "NEW_Malaysia_Finally",
+    "mark": "Malaysia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Finally",
+      "year": "2026"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2026-09-30",
+      "structure": "BgmSG",
+      "version": "2.54"
+    },
+    "youtube": "Ooe6geu2w1Y"
+  },
+  {
+    "description": "Archipelago of Wings: Helang Square",
+    "filename": "NEW_Malaysia_RememberHelang",
+    "mark": "Malaysia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Remember Helang",
+      "year": "2026"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2026-09-30",
+      "structure": "BgmSG",
+      "version": "2.54"
+    },
+    "youtube": "vmPdXwUsjlU"
+  },
+  {
+    "description": "Archipelago of Wings: Kawi Village",
+    "filename": "NEW_Malaysia_WelcomeKawi",
+    "mark": "Malaysia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Welcome Kawi",
+      "year": "2026"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2026-09-30",
+      "structure": "BgmSG",
+      "version": "2.54"
+    },
+    "youtube": "R1TCJ14vmRc"
+  },
+  {
+    "description": "Archipelago of Wings: Harmony Falls / Lake of Life",
+    "filename": "NEW_Malaysia_WelcomeKawi2",
+    "mark": "Malaysia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Welcome Kawi 2",
+      "year": "2026"
+    },
+    "source": {
+      "client": "MSEA",
+      "date": "2026-09-30",
+      "structure": "BgmSG",
+      "version": "2.54"
+    },
+    "youtube": "aFDZMgF2TqU"
+  },
+  {
     "description": "Santa's Visit: Santa Surfer's Beach",
     "filename": "SantaSurfer_Beach",
     "mark": "Singapore",
