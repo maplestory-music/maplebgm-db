@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file.
 
+## 2026.4 - 2026-10-02
+
+### Added
+
+- New music from Q3 2026
+
+### New Additions
+
+| Date       | Source       | Description                                          |
+| ---------- | ------------ | ---------------------------------------------------- |
+| 2026-07-02 | MSN 0.22     | Hyper Summer 2nd update                              |
+| 2026-07-09 | KMST 1.2.203 | Lethe's Void Origin skill                            |
+| 2026-07-09 | GMST 2.70    | Operation Dive (Phase 2) & Mystic Frontier Champions |
+| 2026-07-16 | KMST 1.2.204 | Mission Ultima, Part 2                               |
+| 2026-07-29 | CMS 2.27     | Party Paradise                                       |
+| 2026-08-13 | KMST 1.2.205 | Bellona + Mission Ultima, Part 3                     |
+| 2026-09-10 | KMST 1.2.206 | Aurum Regis & Argo                                   |
+| 2026-09-30 | MSEA 2.54    | Archipelago of Wings                                 |
+
 ## 2026.3 - 2026-07-07
 
 ### Added
