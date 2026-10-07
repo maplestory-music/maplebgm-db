@@ -36,6 +36,24 @@
     "youtube": "uv8QObpL2EY"
   },
   {
+    "description": "Kerning City",
+    "filename": "BadGuys2",
+    "mark": "KerningCity",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Kerning City 2",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMSC",
+      "date": "2026-10-06",
+      "structure": "Bgm01",
+      "version": "0.01"
+    },
+    "youtube": "YV3-jhB3PC4"
+  },
+  {
     "description": "Henesys Hunting Ground, Henesys field",
     "filename": "CavaBien",
     "mark": "Henesys",

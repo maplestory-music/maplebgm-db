@@ -36,6 +36,24 @@
     "youtube": "s2_MAplvHeQ"
   },
   {
+    "description": "Henesys",
+    "filename": "FloralLife2",
+    "mark": "Henesys",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Floral Life 2",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMSC",
+      "date": "2026-10-06",
+      "structure": "Bgm00",
+      "version": "0.01"
+    },
+    "youtube": "zzeMdYzmIEM"
+  },
+  {
     "description": "Henesys Market, Southperry",
     "filename": "GoPicnic",
     "mark": "Henesys",
