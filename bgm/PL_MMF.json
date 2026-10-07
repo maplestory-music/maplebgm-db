@@ -1,0 +1,92 @@
+[
+  {
+    "description": "Maple Music Festival - Ariant stage",
+    "filename": "MMF_ariant",
+    "mark": "3015605",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "DJ Searcher",
+      "title": "MMF Ariant",
+      "year": "2016"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2016-08-23",
+      "structure": "PL_MMF",
+      "version": "1.36"
+    },
+    "youtube": "I2VC4bGdJq4"
+  },
+  {
+    "description": "Maple Music Festival - Kerning City stage",
+    "filename": "MMF_badGuys",
+    "mark": "3015606",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "DJ Searcher",
+      "title": "MMF Bad Guys",
+      "year": "2016"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2016-08-23",
+      "structure": "PL_MMF",
+      "version": "1.36"
+    },
+    "youtube": "hHVlL6GKYx0"
+  },
+  {
+    "description": "Maple Music Festival - Sleepywood stage",
+    "filename": "MMF_kinesis",
+    "mark": "3015608",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "DJ Searcher",
+      "title": "MMF Kinesis",
+      "year": "2016"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2016-08-23",
+      "structure": "PL_MMF",
+      "version": "1.36"
+    },
+    "youtube": "5C4xjDFRQHE"
+  },
+  {
+    "description": "Maple Music Festival - Henesys stage",
+    "filename": "MMF_mapleIsland",
+    "mark": "3015604",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "DJ Searcher",
+      "title": "MMF Maple Island",
+      "year": "2016"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2016-08-23",
+      "structure": "PL_MMF",
+      "version": "1.36"
+    },
+    "youtube": "3NBg9oujtqA"
+  },
+  {
+    "description": "Maple Music Festival - Temple of Time stage",
+    "filename": "MMF_timeTemple",
+    "mark": "3015607",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "DJ Searcher",
+      "title": "MMF Time Temple",
+      "year": "2016"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2016-08-23",
+      "structure": "PL_MMF",
+      "version": "1.36"
+    },
+    "youtube": "w_5ZtzdMFeM"
+  }
+]
