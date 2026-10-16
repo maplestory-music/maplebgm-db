@@ -72,6 +72,24 @@
     "youtube": "JzsQ4-V8vVY"
   },
   {
+    "description": "Visitors of the Argo, Part 2 storyline",
+    "filename": "Behind a Polite Smile",
+    "mark": "Argo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Behind a Polite Smile",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-10-15",
+      "structure": "Bgm62",
+      "version": "1.2.207"
+    },
+    "youtube": "4ZhWk5JIBHw"
+  },
+  {
     "description": "Meilin - Entrance",
     "filename": "Bridge of the Forgotten Saint",
     "mark": "Maerin",
@@ -106,6 +124,42 @@
       "version": "1.2.206"
     },
     "youtube": "yoP9Hr89iqI"
+  },
+  {
+    "description": "Visitors of the Argo, Part 2 storyline",
+    "filename": "Day of the Oath",
+    "mark": "Argo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Day of the Oath",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-10-15",
+      "structure": "Bgm62",
+      "version": "1.2.207"
+    },
+    "youtube": "eY3hwn797qc"
+  },
+  {
+    "description": "Visitors of the Argo, Part 2 storyline",
+    "filename": "Embers in Small Hands",
+    "mark": "Argo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Embers in Small Hands",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-10-15",
+      "structure": "Bgm62",
+      "version": "1.2.207"
+    },
+    "youtube": "yZTsvIb9O_8"
   },
   {
     "description": "Mission Ultima storyline",
@@ -144,6 +198,24 @@
     "youtube": "evKrzIkpJuc"
   },
   {
+    "description": "Visitors of the Argo, Part 2 storyline",
+    "filename": "Old Litany",
+    "mark": "Argo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Old Litany",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-10-15",
+      "structure": "Bgm62",
+      "version": "1.2.207"
+    },
+    "youtube": "XpKKCHsQ-Gk"
+  },
+  {
     "description": "Mission Ultima storyline",
     "filename": "Operation Signal",
     "mark": "UltimaPolis",
@@ -178,6 +250,24 @@
       "version": "1.2.202"
     },
     "youtube": "KDN4kqbE1P0"
+  },
+  {
+    "description": "Visitors of the Argo, Part 2 storyline",
+    "filename": "Recurring Tragedy",
+    "mark": "Argo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Recurring Tragedy",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-10-15",
+      "structure": "Bgm62",
+      "version": "1.2.207"
+    },
+    "youtube": "vMWwmGuKLlE"
   },
   {
     "description": "Geardrak: Underground",
@@ -271,6 +361,42 @@
       "version": "1.2.198"
     },
     "youtube": "vXUy0AHUolg"
+  },
+  {
+    "description": "Visitors of the Argo, Part 2 storyline",
+    "filename": "The Dream Ever Breathing",
+    "mark": "Argo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Dream Ever Breathing",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-10-15",
+      "structure": "Bgm62",
+      "version": "1.2.207"
+    },
+    "youtube": "qx5vlDanWW0"
+  },
+  {
+    "description": "Visitors of the Argo, Part 2 storyline",
+    "filename": "The Dream Once Held",
+    "mark": "Argo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Dream Once Held",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-10-15",
+      "structure": "Bgm62",
+      "version": "1.2.207"
+    },
+    "youtube": "hZwUFVrRbec"
   },
   {
     "description": "Lethe's Void Origin skill",
