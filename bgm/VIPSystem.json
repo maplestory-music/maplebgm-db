@@ -1,0 +1,110 @@
+[
+  {
+    "description": "VIP Lounge: Starry Rooftop",
+    "filename": "InTheStarryNight",
+    "mark": "VIPlounge",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "In the Starry Night",
+      "year": "2025"
+    },
+    "source": {
+      "client": "TMS",
+      "date": "2025-04-01",
+      "structure": "VIPSystem",
+      "version": "2.69"
+    },
+    "youtube": "OjeQNuy-gjw"
+  },
+  {
+    "description": "VIP Lounge musical performance",
+    "filename": "Remembrance(Eden&ErinVer.)",
+    "mark": "VIPlounge",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Remembrance (Eden & Erin Ver.)",
+      "year": "2025"
+    },
+    "source": {
+      "client": "TMS",
+      "date": "2025-04-01",
+      "structure": "VIPSystem",
+      "version": "2.69"
+    },
+    "youtube": "emm4cECq928"
+  },
+  {
+    "description": "VIP Lounge: Royal Suite",
+    "filename": "SecretConcert",
+    "mark": "VIPlounge",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Secret Concert",
+      "year": "2025"
+    },
+    "source": {
+      "client": "TMS",
+      "date": "2025-04-01",
+      "structure": "VIPSystem",
+      "version": "2.69"
+    },
+    "youtube": "MCm6_nXRWes"
+  },
+  {
+    "description": "VIP Lounge",
+    "filename": "VIPLoungeMainTheme",
+    "mark": "VIPlounge",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "VIP Lounge Main Theme",
+      "year": "2025"
+    },
+    "source": {
+      "client": "TMS",
+      "date": "2025-04-01",
+      "structure": "VIPSystem",
+      "version": "2.69"
+    },
+    "youtube": "-nb3BY1RXqs"
+  },
+  {
+    "description": "VIP Lounge",
+    "filename": "VIPLoungeMainTheme(SaturdayVer.)",
+    "mark": "VIPlounge",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "VIP Lounge Main Theme (Saturday Ver.)",
+      "year": "2025"
+    },
+    "source": {
+      "client": "TMS",
+      "date": "2025-04-01",
+      "structure": "VIPSystem",
+      "version": "2.69"
+    },
+    "youtube": "6lss_rm5F4A"
+  },
+  {
+    "description": "VIP Lounge musical performance",
+    "filename": "WhenTheMorningComes(Eden&ErinVer.)",
+    "mark": "VIPlounge",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "When the Morning Comes (Eden & Erin Ver.)",
+      "year": "2025"
+    },
+    "source": {
+      "client": "TMS",
+      "date": "2025-04-01",
+      "structure": "VIPSystem",
+      "version": "2.69"
+    },
+    "youtube": "iJJPVif0kVo"
+  }
+]

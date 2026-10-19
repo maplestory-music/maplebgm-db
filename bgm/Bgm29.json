@@ -1,0 +1,92 @@
+[
+  {
+    "description": "Root Abyss: Vellum boss theme",
+    "filename": "AbyssCave",
+    "mark": "Bellum",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Abyss Cave",
+      "year": "2012"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2012-12-14",
+      "structure": "Bgm29",
+      "version": "0.71"
+    },
+    "youtube": "iU--7d3GLn8"
+  },
+  {
+    "description": "Root Abyss: Pierre boss theme",
+    "filename": "JoyfulTeaParty",
+    "mark": "Piere",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Joyful Tea Party",
+      "year": "2012"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2012-12-14",
+      "structure": "Bgm29",
+      "version": "0.71"
+    },
+    "youtube": "2rMJrisBFJI"
+  },
+  {
+    "description": "Root Abyss: Crimson Queen boss theme",
+    "filename": "QueenPalace",
+    "mark": "BloodyQueen",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Queen's Palace",
+      "year": "2012"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2012-12-14",
+      "structure": "Bgm29",
+      "version": "0.71"
+    },
+    "youtube": "LKxvLvnxWPc"
+  },
+  {
+    "description": "Root Abyss: Von Bon boss theme",
+    "filename": "TimeChaos",
+    "mark": "BanBan",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Time Chaos",
+      "year": "2012"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2012-12-14",
+      "structure": "Bgm29",
+      "version": "0.71"
+    },
+    "youtube": "kKLIRmO4PPo"
+  },
+  {
+    "description": "Root Abyss",
+    "filename": "YggdrasilPrayer",
+    "mark": "rootabyss",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Yggdrasil Prayer",
+      "year": "2012"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2012-12-14",
+      "structure": "Bgm29",
+      "version": "0.71"
+    },
+    "youtube": "ReqTSo2ervs"
+  }
+]

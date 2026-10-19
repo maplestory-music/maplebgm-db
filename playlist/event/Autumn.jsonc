@@ -1,0 +1,13 @@
+{
+  "name": "Autumn Events",
+  "description": "Autumn events",
+  "tracks": [
+    "BgmEvent/halloweenMainHall",       // 2012
+    "BgmEvent2/ClubHalloween",          // 2018
+    "BgmEvent2/goblinMarket",           // 2019
+    "BgmEvent/fullMoonParty",           // 2020
+    "BgmEvent/chuchu",                  // 2021
+    "BgmEvent3/ignitionFullMoonParty",  // 2022
+    "BgmEvent3/Minar_Autumn_Picnic"     // 2023
+  ]
+}

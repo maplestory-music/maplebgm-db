@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Ren login theme",
+    "filename": "loginTheme_Title_Ren",
+    "mark": "TestServer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ren - Login Theme",
+      "year": "2025"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2025-12-10",
+      "structure": "BgmLogin",
+      "version": "4.38"
+    },
+    "youtube": "wrMtaordn88"
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "MapleStory music database",
+  "description": "Definitive MapleStory music database",
+  "type": "array",
+  "items": {
+    "title": "MapleStory music",
+    "type": "object",
+    "properties": {
+      "decoration": {
+        "type": "object",
+        "properties": {
+          "minorTrack": {
+            "description": "Track is a segment of another song",
+            "type": "boolean"
+          }
+        }
+      },
+      "description": {
+        "description": "Description of the song's usage",
+        "type": "string"
+      },
+      "filename": {
+        "type": "string"
+      },
+      "mark": {
+        "description": "Map icon associated with the song",
+        "type": "string"
+      },
+      "metadata": {
+        "type": "object",
+        "properties": {
+          "albumArtist": {
+            "type": "string"
+          },
+          "artist": {
+            "type": "string"
+          },
+          "subtitle": {
+            "description": "Song title from data",
+            "type": "string"
+          },
+          "title": {
+            "description": "Official song title",
+            "type": "string"
+          },
+          "year": {
+            "type": "string"
+          }
+        },
+        "required": ["albumArtist", "artist", "title", "year"]
+      },
+      "source": {
+        "type": "object",
+        "properties": {
+          "client": {
+            "description": "Client of origin",
+            "type": "string"
+          },
+          "date": {
+            "description": "Date of release",
+            "type": "string"
+          },
+          "structure": {
+            "description": "Folder structure",
+            "type": "string"
+          },
+          "version": {
+            "description": "Version of origin",
+            "type": "string"
+          }
+        },
+        "required": ["structure"]
+      },
+      "youtube": {
+        "description": "YouTube video identifier",
+        "type": "string"
+      }
+    },
+    "required": [
+      "description",
+      "filename",
+      "mark",
+      "metadata",
+      "source",
+      "youtube"
+    ]
+  }
+}

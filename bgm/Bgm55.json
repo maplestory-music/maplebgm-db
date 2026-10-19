@@ -1,0 +1,164 @@
+[
+  {
+    "description": "Sellas storyline",
+    "filename": "GoodbyeMyFriends",
+    "mark": "Sellas",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Initium SoundLab",
+      "title": "Goodbye, My Friends",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-08-11",
+      "structure": "Bgm55",
+      "version": "1.2.107"
+    },
+    "youtube": "s0n-cvX87o4"
+  },
+  {
+    "description": "Jazz for Dr. Lim (Radio Version)",
+    "filename": "JazzForDrLimRadio",
+    "mark": "HofM",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Jazz for Dr. Lim -Radio ver.-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2020-08-20",
+      "structure": "Bgm55",
+      "version": "1.2.337"
+    },
+    "youtube": "f8absQczPlQ"
+  },
+  {
+    "description": "Grand Athenaeum: Episode 6 cutscene",
+    "filename": "MyPrinceMyKingdom",
+    "mark": "Library",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ESTIMATE",
+      "title": "My Prince, My Kingdom",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-07-16",
+      "structure": "Bgm55",
+      "version": "1.2.105"
+    },
+    "youtube": "-XkJ2duNLOg"
+  },
+  {
+    "description": "Sellas: Sinking Deep Sea",
+    "filename": "SinkingThings",
+    "mark": "Sellas",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Initium SoundLab",
+      "title": "Sinking Things",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-08-11",
+      "structure": "Bgm55",
+      "version": "1.2.107"
+    },
+    "youtube": "qeOWrkvyJaM"
+  },
+  {
+    "description": "Grand Athenaeum: Episode 6",
+    "filename": "TheKnightOfSharenian",
+    "mark": "Library",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ESTIMATE",
+      "title": "The Knight of Sharenian",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-07-16",
+      "structure": "Bgm55",
+      "version": "1.2.105"
+    },
+    "youtube": "otFwc8jP8Dk"
+  },
+  {
+    "description": "Sellas: Star Swallowed Deep Sea",
+    "filename": "WhaleBelly",
+    "mark": "Sellas",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Initium SoundLab",
+      "title": "Whale Belly",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-08-11",
+      "structure": "Bgm55",
+      "version": "1.2.107"
+    },
+    "youtube": "sldMc60a1Ns"
+  },
+  {
+    "description": "Sellas: Where the Light Lasts",
+    "filename": "WhereStarsRest",
+    "mark": "Sellas",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Initium SoundLab",
+      "title": "Where Stars Rest",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2020-08-20",
+      "structure": "Bgm55",
+      "version": "1.2.337"
+    },
+    "youtube": "c8vFuvYtPZI"
+  },
+  {
+    "description": "Sellas: Where the Light Lasts",
+    "filename": "WhereStarsRest (Original)",
+    "mark": "Sellas",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Initium SoundLab",
+      "title": "Where Stars Rest -Ver. B-",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-08-11",
+      "structure": "Bgm55",
+      "version": "1.2.107"
+    },
+    "youtube": "9VtoysqhzVk"
+  },
+  {
+    "description": "Grand Athenaeum: Episode 6",
+    "filename": "WhiteNight",
+    "mark": "Library",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ESTIMATE",
+      "title": "White Night",
+      "year": "2020"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2020-07-16",
+      "structure": "Bgm55",
+      "version": "1.2.105"
+    },
+    "youtube": "7mxQ0D88tvs"
+  }
+]

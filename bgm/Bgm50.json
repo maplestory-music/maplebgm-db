@@ -1,0 +1,164 @@
+[
+  {
+    "description": "Limina: Near the End",
+    "filename": "BlackFury",
+    "mark": "Limen",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Black Fury",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-08-02",
+      "structure": "Bgm50",
+      "version": "1.2.072"
+    },
+    "youtube": "nXXepZt8Z3g"
+  },
+  {
+    "description": "Black Mage boss theme (Phase 4)",
+    "filename": "LostSpace",
+    "mark": "Limen",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Lost Space",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-08-02",
+      "structure": "Bgm50",
+      "version": "1.2.072"
+    },
+    "youtube": "8XP6WdWNaCg"
+  },
+  {
+    "description": "Black Mage battle - ending scene",
+    "filename": "NewBeginningNotTheEnd",
+    "mark": "Limen",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "New Beginning, Not the End",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2018-08-09",
+      "structure": "Bgm50",
+      "version": "1.2.303"
+    },
+    "youtube": "rBKa0sL4vfQ"
+  },
+  {
+    "description": "Limina: Guard Captain Darknell boss theme",
+    "filename": "SubterminalPoint",
+    "mark": "Limen",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Subterminal Point",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-08-02",
+      "structure": "Bgm50",
+      "version": "1.2.072"
+    },
+    "youtube": "b1fOmkiX7Pg"
+  },
+  {
+    "description": "Limina",
+    "filename": "TearsOfTheWorld",
+    "mark": "Limen",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Tears of the World",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-08-02",
+      "structure": "Bgm50",
+      "version": "1.2.072"
+    },
+    "youtube": "x9RBWQiDTkQ"
+  },
+  {
+    "description": "Black Mage boss theme (Phase 1)",
+    "filename": "TempleOfDarkness",
+    "mark": "Limen",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Temple of Darkness",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-08-02",
+      "structure": "Bgm50",
+      "version": "1.2.072"
+    },
+    "youtube": "uJU2L5oVGrg"
+  },
+  {
+    "description": "Limina: Where the World Ends",
+    "filename": "TheWorld'sEnd",
+    "mark": "Limen",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The World's End",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-08-02",
+      "structure": "Bgm50",
+      "version": "1.2.072"
+    },
+    "youtube": "yQhYvQBmkro"
+  },
+  {
+    "description": "Black Mage boss theme (Phase 2)",
+    "filename": "ThroneOfDarkness",
+    "mark": "Limen",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Throne of Darkness",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-08-02",
+      "structure": "Bgm50",
+      "version": "1.2.072"
+    },
+    "youtube": "KT5nP_ell8Y"
+  },
+  {
+    "description": "Black Mage boss theme (Phase 3)",
+    "filename": "WorldHorizon",
+    "mark": "Limen",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "World Horizon",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-08-02",
+      "structure": "Bgm50",
+      "version": "1.2.072"
+    },
+    "youtube": "NX0_FISZhcA"
+  }
+]

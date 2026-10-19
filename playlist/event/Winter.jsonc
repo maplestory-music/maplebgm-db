@@ -1,0 +1,11 @@
+{
+  "name": "Winter Events",
+  "description": "Winter events",
+  "tracks": [
+    "BgmEvent2/adventureIsland",        // 2018
+    "BgmEvent/salonRise",               // 2019
+    "BgmEvent/NeoCastle",               // 2020
+    "BgmEvent/StarlightSymphony",       // 2021
+    "BgmEvent3/wonstaurant"             // 2022
+  ]
+}

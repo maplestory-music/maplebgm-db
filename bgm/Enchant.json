@@ -1,0 +1,74 @@
+[
+  {
+    "description": "Star Force system",
+    "filename": "Enchant_FullScreen_Starforce_Destroy_Loop",
+    "mark": "FreeMarket",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Star Force Destroy",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-04-10",
+      "structure": "Enchant",
+      "version": "1.2.186"
+    },
+    "youtube": "lNxCrt4p1Ew"
+  },
+  {
+    "description": "Star Force system",
+    "filename": "Enchant_FullScreen_Starforce_Success_Loop",
+    "mark": "FreeMarket",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Star Force Success",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-04-10",
+      "structure": "Enchant",
+      "version": "1.2.186"
+    },
+    "youtube": "ouZdiqSIDnM"
+  },
+  {
+    "description": "Star Force system",
+    "filename": "Enchant_FullScreen_Starforce_Wait_Loop_Type_0",
+    "mark": "FreeMarket",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Star Force Wait Type 0",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-04-10",
+      "structure": "Enchant",
+      "version": "1.2.186"
+    },
+    "youtube": "Ft2X1oqYMl0"
+  },
+  {
+    "description": "Star Force system",
+    "filename": "Enchant_FullScreen_Starforce_Wait_Loop_Type_1",
+    "mark": "FreeMarket",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Star Force Wait Type 1",
+      "year": "2025"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2025-04-10",
+      "structure": "Enchant",
+      "version": "1.2.186"
+    },
+    "youtube": "E-G9roVPJQ0"
+  }
+]

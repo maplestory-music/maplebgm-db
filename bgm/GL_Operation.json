@@ -1,0 +1,92 @@
+[
+  {
+    "description": "Operation: Dive (Phase 2) event - Dark Magic Laboratory",
+    "filename": "Operation_Dungeon_Boss",
+    "mark": "Parallel_Magatia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Operation Dungeon - Boss",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-07-09",
+      "structure": "GL_Operation",
+      "version": "2.70"
+    },
+    "youtube": "oBqaK2YDcSE"
+  },
+  {
+    "description": "Operation: Dive (Phase 2) event - Dark Magic Laboratory",
+    "filename": "Operation_Dungeon_Elite_Boss",
+    "mark": "Parallel_Magatia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Operation Dungeon - Elite Boss",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-07-09",
+      "structure": "GL_Operation",
+      "version": "2.70"
+    },
+    "youtube": "TnGj0MZft7I"
+  },
+  {
+    "description": "Operation: Dive (Phase 2) event - Dark Magic Laboratory",
+    "filename": "Operation_Dungeon_Normal",
+    "mark": "Parallel_Magatia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Operation Dungeon - Normal",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-07-09",
+      "structure": "GL_Operation",
+      "version": "2.70"
+    },
+    "youtube": "v6GD181flvg"
+  },
+  {
+    "description": "Operation: Dive (Phase 2) event - Dark Magic Laboratory",
+    "filename": "Operation_Dungeon_Shop",
+    "mark": "Parallel_Magatia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Operation Dungeon - Shop",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMST",
+      "date": "2026-07-09",
+      "structure": "GL_Operation",
+      "version": "2.70"
+    },
+    "youtube": "-SfTQ0uUOCA"
+  },
+  {
+    "description": "Operation: Dive event",
+    "filename": "ParallelMagatia",
+    "mark": "Parallel_Magatia",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Parallel Magatia",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2026-06-17",
+      "structure": "GL_Operation",
+      "version": "2.69"
+    },
+    "youtube": "odqz1-z8CdI"
+  }
+]
