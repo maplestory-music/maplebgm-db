@@ -270,6 +270,150 @@
     "youtube": "GRcGdhNMkUE"
   },
   {
+    "description": "Kerning City Night Troupe event - chair effect",
+    "filename": "AnnualEventCunning_BurningCity",
+    "mark": "3019823",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Burning City",
+      "year": "2026"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2026-10-21",
+      "structure": "BgmWz2",
+      "version": "2.29"
+    },
+    "youtube": "-xnQdkE2RvE"
+  },
+  {
+    "description": "Kerning City Night Troupe event - chair effect",
+    "filename": "AnnualEventCunning_CunningThunder",
+    "mark": "3019825",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Kerning Thunder",
+      "year": "2026"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2026-10-21",
+      "structure": "BgmWz2",
+      "version": "2.29"
+    },
+    "youtube": "jIl0fi9Vru0"
+  },
+  {
+    "description": "Kerning City Night Troupe event",
+    "filename": "AnnualEventCunning_HeadbangingChampion",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Headbanging Champion",
+      "year": "2026"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2026-10-21",
+      "structure": "BgmWz2",
+      "version": "2.29"
+    },
+    "youtube": "EJGWKHP3cB8"
+  },
+  {
+    "description": "Kerning City Night Troupe event",
+    "filename": "AnnualEventCunning_LuckyBox",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Lucky Box",
+      "year": "2026"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2026-10-21",
+      "structure": "BgmWz2",
+      "version": "2.29"
+    },
+    "youtube": "L6ebrgORIZo"
+  },
+  {
+    "description": "Kerning City Night Troupe event",
+    "filename": "AnnualEventCunning_Medley",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Kerning City Night Troupe - Medley",
+      "year": "2026"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2026-10-21",
+      "structure": "BgmWz2",
+      "version": "2.29"
+    },
+    "youtube": "IeUZnVey0_M"
+  },
+  {
+    "description": "Kerning City Night Troupe event",
+    "filename": "AnnualEventCunning_OctopusGrill",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Octopus Grill",
+      "year": "2026"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2026-10-21",
+      "structure": "BgmWz2",
+      "version": "2.29"
+    },
+    "youtube": "dM25dADwsls"
+  },
+  {
+    "description": "Kerning City Night Troupe event",
+    "filename": "AnnualEventCunning_SpecialStage",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Special Stage",
+      "year": "2026"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2026-10-21",
+      "structure": "BgmWz2",
+      "version": "2.29"
+    },
+    "youtube": "LLT7IHXyhnE"
+  },
+  {
+    "description": "Kerning City Night Troupe event",
+    "filename": "AnnualEventCunning_StressAway",
+    "mark": "Wz2_annual",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Stress Away",
+      "year": "2026"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2026-10-21",
+      "structure": "BgmWz2",
+      "version": "2.29"
+    },
+    "youtube": "H-z79L_nA2o"
+  },
+  {
     "description": "Mu Lung Night Troupe event",
     "filename": "BaekChoBoatParty_Muffled_NightFestival",
     "mark": "Wz2_annual",
