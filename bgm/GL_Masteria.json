@@ -1,0 +1,128 @@
+[
+  {
+    "description": "Krakian Jungle: Excavation Site",
+    "filename": "Cerberusian",
+    "mark": "NLC",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Cerberusian",
+      "year": "2019"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2019-12-18",
+      "structure": "GL_Masteria",
+      "version": "2.10"
+    },
+    "youtube": "c1iOUKGxcKY"
+  },
+  {
+    "description": "Crimsonwood Mountain",
+    "filename": "CrimsonMountain",
+    "mark": "Crimsonwood",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Crimson Mountain",
+      "year": "2019"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2019-12-18",
+      "structure": "GL_Masteria",
+      "version": "2.10"
+    },
+    "youtube": "6L1PLMErNf0"
+  },
+  {
+    "description": "Krakian Jungle",
+    "filename": "Nostalgia",
+    "mark": "NLC",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Nostalgia",
+      "year": "2019"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2019-12-18",
+      "structure": "GL_Masteria",
+      "version": "2.10"
+    },
+    "youtube": "d9yQgNcuUhA"
+  },
+  {
+    "description": "Crimsonwood: Phantom Forest",
+    "filename": "PhantomForest",
+    "mark": "Crimsonwood",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Phantom Forest",
+      "year": "2019"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2019-12-18",
+      "structure": "GL_Masteria",
+      "version": "2.10"
+    },
+    "youtube": "8sRMf0ZhAtw"
+  },
+  {
+    "description": "Crimsonwood: Phantom Forest boss theme",
+    "filename": "Resurrection",
+    "mark": "Crimsonwood",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Resurrection",
+      "year": "2019"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2019-12-18",
+      "structure": "GL_Masteria",
+      "version": "2.10"
+    },
+    "youtube": "eqz3XODQj1c"
+  },
+  {
+    "description": "Crimsonwood Keep: Council Hall",
+    "filename": "toVersal",
+    "mark": "Crimsonwood",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "To Versal",
+      "year": "2019"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2019-12-18",
+      "structure": "GL_Masteria",
+      "version": "2.10"
+    },
+    "youtube": "GtO4mTwY-XA"
+  },
+  {
+    "description": "Crimsonwood: Phantom Forest (Sanity effect)",
+    "filename": "Whisper",
+    "mark": "Crimsonwood",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Whisper",
+      "year": "2019"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2019-12-18",
+      "structure": "GL_Masteria",
+      "version": "2.10"
+    },
+    "youtube": "ZoDAV2hJ1WU"
+  }
+]

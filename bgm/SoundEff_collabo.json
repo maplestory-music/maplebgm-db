@@ -1,0 +1,38 @@
+[
+  {
+    "description": "2024 Demon Slayer collaboration",
+    "filename": "eventmap_end",
+    "mark": "2024Collabo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Demon Slayer - Event",
+      "year": "2024"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2024-09-19",
+      "structure": "SoundEff_collabo",
+      "version": "4.27"
+    },
+    "youtube": "sq5TT0P_iI8"
+  },
+  {
+    "description": "2024 Demon Slayer collaboration",
+    "filename": "minigame_end",
+    "mark": "2024Collabo",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Demon Slayer - Minigame",
+      "year": "2024"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2024-09-19",
+      "structure": "SoundEff_collabo",
+      "version": "4.27"
+    },
+    "youtube": "TyEV6tAY5vQ"
+  }
+]

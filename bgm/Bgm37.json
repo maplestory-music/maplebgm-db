@@ -1,0 +1,110 @@
+[
+  {
+    "description": "Tower of Oz boss theme",
+    "filename": "AmusingStoryInTheFairyTale",
+    "mark": "aquarisTower",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Amusing Story in the Fairytale",
+      "year": "2014"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2014-01-08",
+      "structure": "Bgm37",
+      "version": "1.2.495"
+    },
+    "youtube": "ZnS7JgfB8DI"
+  },
+  {
+    "description": "Tower of Oz - 26F, 27F, 34F",
+    "filename": "HazardFromCave",
+    "mark": "aquarisTower",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Hazard from the Cave",
+      "year": "2014"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2014-01-08",
+      "structure": "Bgm37",
+      "version": "1.2.495"
+    },
+    "youtube": "STDN57rytW8"
+  },
+  {
+    "description": "Tower of Oz: 11-14F, 33F, 48F",
+    "filename": "JungleInTheSea",
+    "mark": "aquarisTower",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Jungle in the Sea",
+      "year": "2014"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2014-01-08",
+      "structure": "Bgm37",
+      "version": "1.2.495"
+    },
+    "youtube": "_5qyICio6MQ"
+  },
+  {
+    "description": "Tower of Oz: 47F, 49-50F, Dorothy boss theme",
+    "filename": "StrangeSortOfStory",
+    "mark": "aquarisTower",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Strange Sort of Story",
+      "year": "2014"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2014-01-08",
+      "structure": "Bgm37",
+      "version": "1.2.495"
+    },
+    "youtube": "AZU1lB4WrlU"
+  },
+  {
+    "description": "Tower of Oz shelter (5F, 15F, 25F, 35F, 45F)",
+    "filename": "TheBottomOfTheSea",
+    "mark": "aquarisTower",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "The Bottom of the Sea",
+      "year": "2014"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2014-01-08",
+      "structure": "Bgm37",
+      "version": "1.2.495"
+    },
+    "youtube": "XPnJrBwv0zM"
+  },
+  {
+    "description": "Tower of Oz lobby",
+    "filename": "VentureIntoTheUnkown",
+    "mark": "aquarisTower",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Venture Into the Unknown",
+      "year": "2014"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2014-01-08",
+      "structure": "Bgm37",
+      "version": "1.2.495"
+    },
+    "youtube": "qr9eW2y2EJM"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "Spring Events",
+  "description": "Spring and anniversary events",
+  "tracks": [
+    // 2011 - 8th
+    "BgmUI/Title_8th",
+    "BgmEvent2/risingStar2",
+    "BgmEvent2/tenthBoard",             // 2013 - 10th
+    "Bgm43/MonsterWorld",               // 2015 - 12th
+    "BgmEvent/mapleGalaxy",             // 2017 - 14th
+    "BgmEvent/WelcomeToThe15thStreet",  // 2018 - 15th
+    "BgmEvent2/Newtro_Kingdom",         // 2019 - 16th
+    "BgmEvent/17th_Event",              // 2020 - 17th
+    "BgmEvent/18th_Event",              // 2021 - 18th
+    "BgmEvent/19th_Event",              // 2022 - 19th
+    "BgmEvent3/Mapril_Island"           // 2023 - 20th
+  ]
+}

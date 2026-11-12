@@ -1,0 +1,164 @@
+[
+  {
+    "description": "Tournament of Heroes Arena",
+    "filename": "BeastTamerColloseum",
+    "mark": "ArbrenBT",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Beast Tamer: Colosseum",
+      "year": "2014"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2014-01-05",
+      "structure": "BgmBT",
+      "version": "0.87"
+    },
+    "youtube": "1Z4-AVRNNEI"
+  },
+  {
+    "description": "Arboren: Kobold Pit",
+    "filename": "BeastTamerKoboltCave",
+    "mark": "ArbrenBT",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Beast Tamer: Kobolt Cave",
+      "year": "2014"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2014-01-05",
+      "structure": "BgmBT",
+      "version": "0.87"
+    },
+    "youtube": "Pyfqoim3jPA"
+  },
+  {
+    "description": "Arboren: Canopy Town",
+    "filename": "BeastTamerWoodTown",
+    "mark": "ArbrenBT",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Beast Tamer: Wood Town",
+      "year": "2014"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2014-01-05",
+      "structure": "BgmBT",
+      "version": "0.87"
+    },
+    "youtube": "Ol-Cy_VUDMM"
+  },
+  {
+    "description": "Commerci Trade Voyage boss theme",
+    "filename": "commerceBattle",
+    "mark": "CommerzBT",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Commerci Battle",
+      "year": "2013"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2013-12-10",
+      "structure": "BgmBT",
+      "version": "1.14"
+    },
+    "youtube": "Ej3m8ukDOlk"
+  },
+  {
+    "description": "Commerci Trade Voyage",
+    "filename": "commercIng",
+    "mark": "CommerzBT",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Commerci Sailing",
+      "year": "2013"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2013-11-23",
+      "structure": "BgmBT",
+      "version": "0.85"
+    },
+    "youtube": "JvaxNdKZS3I"
+  },
+  {
+    "description": "Commerci Republic: Berry",
+    "filename": "commerzBeach",
+    "mark": "CommerzBT",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Commerci Beach",
+      "year": "2013"
+    },
+    "source": {
+      "client": "CMS",
+      "date": "2013-12-10",
+      "structure": "BgmBT",
+      "version": "1.14"
+    },
+    "youtube": "rb-9IQLFi4U"
+  },
+  {
+    "description": "Commerci Republic: San Commerci",
+    "filename": "commerzCanal",
+    "mark": "CommerzBT",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Commerci Canal",
+      "year": "2013"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2013-11-23",
+      "structure": "BgmBT",
+      "version": "0.85"
+    },
+    "youtube": "zW1J8XYU3t0"
+  },
+  {
+    "description": "Bamon League",
+    "filename": "rock'nBattle",
+    "mark": "FreeMarket",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Rock 'n Battle",
+      "year": "2013"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2013-06-19",
+      "structure": "BgmBT",
+      "version": "1.37"
+    },
+    "youtube": "vlVRgdYxFXk"
+  },
+  {
+    "description": "Gollux boss theme",
+    "filename": "velludBossBattle",
+    "mark": "GiantVellud",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Gollux Boss Battle",
+      "year": "2013"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2013-10-12",
+      "structure": "BgmBT",
+      "version": "0.83"
+    },
+    "youtube": "0CRF8AJH6NA"
+  }
+]

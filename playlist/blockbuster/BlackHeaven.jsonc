@@ -1,0 +1,25 @@
+{
+  "name": "Black Heaven",
+  "description": "First Blockbuster of MapleStory, featuring the battle between the Maple Alliance and the Black Wings",
+  "tracks": [
+    "Bgm40/SecretMission",
+    "Bgm40/SecretMissionBase",
+    "Bgm40/RabbitsDream",
+    "Bgm40/BattleOnTheDeck",
+    "Bgm40/BlackHeavenTheme",
+    "Bgm40/BlackHeavenTheme_parade",
+    "Bgm40/TheDollMaster",
+    "Bgm40/JunkYard",
+    "Bgm40/HeroComes",
+    "Bgm41/BigMachine",
+    "Bgm41/BigMachine_mission",
+    "Bgm41/Gravity Core",
+    "Bgm41/Gravity Lord",
+    "Bgm41/Gravity Lord Rise",
+    "Bgm41/HeavenAgain",
+    "Bgm41/HeavenAgain_reprise",
+    "Bgm41/PromiseOfHeaven",
+    "Bgm41/PromiseOfHeaven_vocaless",
+    "Bgm41/Haven Theme"
+  ]
+}

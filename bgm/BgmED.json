@@ -1,0 +1,182 @@
+[
+  {
+    "description": "Angler Company storyline",
+    "filename": "Blurry Memory",
+    "mark": "anglerCompany",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Blurry Memory",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-08-08",
+      "structure": "BgmED",
+      "version": "1.2.177"
+    },
+    "youtube": "Iwo7ij4g0m0"
+  },
+  {
+    "description": "High Mountain boss",
+    "filename": "highMountain_b",
+    "mark": "HighMountain",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Highest Point of High Mountain",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-02-15",
+      "structure": "BgmED",
+      "version": "1.2.169"
+    },
+    "youtube": "eiSgHgosxrk"
+  },
+  {
+    "description": "High Mountain",
+    "filename": "highMountain_n",
+    "mark": "HighMountain",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "God Has Awakened",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-02-15",
+      "structure": "BgmED",
+      "version": "1.2.169"
+    },
+    "youtube": "sikkV3NVz9o"
+  },
+  {
+    "description": "Angler Company",
+    "filename": "Infiltration",
+    "mark": "anglerCompany",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Infiltration",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-08-08",
+      "structure": "BgmED",
+      "version": "1.2.177"
+    },
+    "youtube": "xy0WxGZyk9Y"
+  },
+  {
+    "description": "Angler Company",
+    "filename": "Into the Deep",
+    "mark": "anglerCompany",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Into the Deep",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-08-08",
+      "structure": "BgmED",
+      "version": "1.2.177"
+    },
+    "youtube": "4hOaj_aq1Dk"
+  },
+  {
+    "description": "Angler Company boss",
+    "filename": "Predator of the Deep Sea",
+    "mark": "anglerCompany",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Predator of the Deep Sea",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-08-08",
+      "structure": "BgmED",
+      "version": "1.2.177"
+    },
+    "youtube": "LPUV3BXPJSg"
+  },
+  {
+    "description": "Aurum Regis",
+    "filename": "Shadows of the Golden Gate",
+    "mark": "AurumRegis",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Shadows of the Golden Gate",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-09-10",
+      "structure": "BgmED",
+      "version": "1.2.206"
+    },
+    "youtube": "vtzI4xkrB90"
+  },
+  {
+    "description": "Aurum Regis boss",
+    "filename": "The Buried Sentinel",
+    "mark": "AurumRegis",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Buried Sentinel",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-09-10",
+      "structure": "BgmED",
+      "version": "1.2.206"
+    },
+    "youtube": "fuXwOqMPb48"
+  },
+  {
+    "description": "Aurum Regis storyline",
+    "filename": "The Captive's Requiem",
+    "mark": "AurumRegis",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "The Captive's Requiem",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-09-10",
+      "structure": "BgmED",
+      "version": "1.2.206"
+    },
+    "youtube": "Dp1KxPv6HYs"
+  },
+  {
+    "description": "Angler Company",
+    "filename": "What Flowed In",
+    "mark": "anglerCompany",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "What Flowed In",
+      "year": "2024"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2024-08-08",
+      "structure": "BgmED",
+      "version": "1.2.177"
+    },
+    "youtube": "svi69JyQMtI"
+  }
+]

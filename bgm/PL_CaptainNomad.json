@@ -1,0 +1,59 @@
+[
+  {
+    "description": "Captain Vaga missions",
+    "filename": "Battle",
+    "mark": "PL_CaptainVaga",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Unforgettable Gun",
+      "titleAlt": "Battle",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-04-27",
+      "structure": "PL_CaptainNomad",
+      "version": "1.37"
+    },
+    "youtube": "5faEeE3Z_fU"
+  },
+  {
+    "description": "Captain Vaga finale",
+    "filename": "CaptainVaga",
+    "mark": "PL_CaptainVaga",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Escape",
+      "titleAlt": "Captain Vaga",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-04-27",
+      "structure": "PL_CaptainNomad",
+      "version": "1.37"
+    },
+    "youtube": "EYXHWkl_hnw"
+  },
+  {
+    "description": "Captain Vaga intro",
+    "filename": "IntotheStars",
+    "mark": "PL_CaptainVaga",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Tomorrow",
+      "titleAlt": "Into the Stars",
+      "year": "2018"
+    },
+    "source": {
+      "client": "CMST",
+      "date": "2018-04-27",
+      "structure": "PL_CaptainNomad",
+      "version": "1.37"
+    },
+    "youtube": "3OM9ZKFWD3s"
+  }
+]

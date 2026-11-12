@@ -1,0 +1,92 @@
+[
+  {
+    "description": "Ludibrium Party Quest: Darkness in the Tower",
+    "filename": "DarkShadow",
+    "mark": "AbandonTower",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Dark Shadow",
+      "year": "2005"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2005-03-24",
+      "structure": "Bgm09",
+      "version": "1.87"
+    },
+    "youtube": "wWB1hTbtoNQ"
+  },
+  {
+    "description": "Ludibrium Clocktower: Warped Path of Time",
+    "filename": "FairyTale",
+    "mark": "Ludibrium",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Fairy Tale",
+      "year": "2005"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2005-05-31",
+      "structure": "Bgm09",
+      "version": "1.2.1"
+    },
+    "youtube": "0_PTb2pxygU"
+  },
+  {
+    "description": "Ludibrium Clocktower: Warped Path of Time",
+    "filename": "FairyTalediffvers",
+    "mark": "Ludibrium",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Fairy Tale (Faster Version)",
+      "year": "2005"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2005-05-31",
+      "structure": "Bgm09",
+      "version": "1.2.1"
+    },
+    "youtube": "7PO-m2atU2U"
+  },
+  {
+    "description": "Ludibrium Party Quest boss theme",
+    "filename": "TheyMenacingYou",
+    "mark": "AbandonTower",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "They're Menacing You",
+      "year": "2005"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2005-03-24",
+      "structure": "Bgm09",
+      "version": "1.87"
+    },
+    "youtube": "hYVoxcVK0ns"
+  },
+  {
+    "description": "Papulatus boss theme, Monster Carnival",
+    "filename": "TimeAttack",
+    "mark": "Papulatus",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Time Attack",
+      "year": "2005"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2005-08-23",
+      "structure": "Bgm09",
+      "version": "1.2.4"
+    },
+    "youtube": "AiaV9gA3i10"
+  }
+]

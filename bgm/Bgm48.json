@@ -1,0 +1,333 @@
+[
+  {
+    "description": "Morass dungeon",
+    "filename": "BlackDungeon",
+    "mark": "Morass",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Black Dungeon",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2017-08-31",
+      "structure": "Bgm48",
+      "version": "1.2.284"
+    },
+    "youtube": "PX7VGJ51raw"
+  },
+  {
+    "description": "Ark storyline",
+    "filename": "Doomsday_FULL",
+    "mark": "verdel",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Doomsday",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-12-29",
+      "structure": "Bgm48",
+      "version": "1.2.062"
+    },
+    "youtube": "L9RYGQYiaSU"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Ark storyline",
+    "filename": "Doomsday_LOOP",
+    "mark": "verdel",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Doomsday -loop-",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-12-29",
+      "structure": "Bgm48",
+      "version": "1.2.062"
+    },
+    "youtube": "v-fmYBMhh88"
+  },
+  {
+    "description": "Grand Athenaeum: Episode 5",
+    "filename": "EveningPrimrose",
+    "mark": "Library",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Evening Primrose",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-12-14",
+      "structure": "Bgm48",
+      "version": "1.2.060"
+    },
+    "youtube": "xtVCiy99OMY"
+  },
+  {
+    "description": "Grand Athenaeum: Episode 4",
+    "filename": "ForgottenNames",
+    "mark": "Library",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Forgotten Names",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-07-13",
+      "structure": "Bgm48",
+      "version": "1.2.053"
+    },
+    "youtube": "cplA5pbGHEQ"
+  },
+  {
+    "decoration": {
+      "minorTrack": true
+    },
+    "description": "Illium's Wings of Glory skill",
+    "filename": "gloryWing",
+    "mark": "Asylum",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Glory Wing",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-07-27",
+      "structure": "Bgm48",
+      "version": "1.2.054"
+    },
+    "youtube": "W_7Rx3xW7as"
+  },
+  {
+    "description": "Ark storyline - Ark & Albert cutscene",
+    "filename": "Memory",
+    "mark": "verdel",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Recollecting Memories",
+      "titleAlt": "Memory",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2018-01-11",
+      "structure": "Bgm48",
+      "version": "1.2.290"
+    },
+    "youtube": "v9AwgX1MvIY"
+  },
+  {
+    "description": "Morass: Trueffet",
+    "filename": "MemoryOfKritias",
+    "mark": "Morass",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Memory of Kritias",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-08-24",
+      "structure": "Bgm48",
+      "version": "1.2.056"
+    },
+    "youtube": "McglYq6k4eU"
+  },
+  {
+    "description": "Grand Athenaeum: Episode 4",
+    "filename": "noname",
+    "mark": "Library",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "No Name",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-07-13",
+      "structure": "Bgm48",
+      "version": "1.2.053"
+    },
+    "youtube": "GWmkLaruTag"
+  },
+  {
+    "description": "Grand Athenaeum: Episode 4",
+    "filename": "Nowhere",
+    "mark": "Library",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Nowhere",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-07-13",
+      "structure": "Bgm48",
+      "version": "1.2.053"
+    },
+    "youtube": "WhV0PwOpllQ"
+  },
+  {
+    "description": "Tenebris: Maple Alliance Outpost",
+    "filename": "Outpost",
+    "mark": "aliance",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Outpost",
+      "year": "2018"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2018-06-16",
+      "structure": "Bgm48",
+      "version": "1.2.069"
+    },
+    "youtube": "RXzIAPda5Aw"
+  },
+  {
+    "description": "Fox Valley",
+    "filename": "OverTheClouds",
+    "mark": "foxValley",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Over the Clouds",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-10-19",
+      "structure": "Bgm48",
+      "version": "1.2.058"
+    },
+    "youtube": "cr2MX1Qi30Q"
+  },
+  {
+    "description": "Fox Valley storyline",
+    "filename": "OverTheClouds_RhythmicVer",
+    "mark": "foxValley",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Over the Clouds -rhythmic-",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-10-19",
+      "structure": "Bgm48",
+      "version": "1.2.058"
+    },
+    "youtube": "U5QEX53p7WQ"
+  },
+  {
+    "description": "Morass: Coral Forest",
+    "filename": "SwampOfMemoryMoras",
+    "mark": "Morass",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Swamp of Memory, Morass",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-08-24",
+      "structure": "Bgm48",
+      "version": "1.2.056"
+    },
+    "youtube": "wxKpwjrQKGg"
+  },
+  {
+    "description": "Verdel: Desert Cavern",
+    "filename": "VerdelDungeon",
+    "mark": "verdel",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Verdel Dungeon",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-12-29",
+      "structure": "Bgm48",
+      "version": "1.2.062"
+    },
+    "youtube": "C7P2IenIZYQ"
+  },
+  {
+    "description": "Verdel: Sandstorm Zone",
+    "filename": "VerdelField",
+    "mark": "verdel",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Verdel Field",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-12-29",
+      "structure": "Bgm48",
+      "version": "1.2.062"
+    },
+    "youtube": "LEu4UOPN_Oc"
+  },
+  {
+    "description": "Verdel",
+    "filename": "VerdelTown",
+    "mark": "verdel",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Verdel Town",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-12-29",
+      "structure": "Bgm48",
+      "version": "1.2.062"
+    },
+    "youtube": "p83BhMpHd9A"
+  },
+  {
+    "description": "Grand Athenaeum: Episode 4",
+    "filename": "WayBackHome",
+    "mark": "Library",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Way Back Home",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-07-13",
+      "structure": "Bgm48",
+      "version": "1.2.053"
+    },
+    "youtube": "Zb3MV2pIvgM"
+  }
+]
