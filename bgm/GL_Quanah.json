@@ -1,6 +1,24 @@
 [
   {
     "description": "Quanah",
+    "filename": "Quanah_Central",
+    "mark": "GL_Quanah",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Quanah Central",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2026-11-11",
+      "structure": "GL_Quanah",
+      "version": "2.72"
+    },
+    "youtube": "Hq4_0xP7mgY"
+  },
+  {
+    "description": "Quanah",
     "filename": "Quanah_Central (Original)",
     "mark": "GL_Quanah",
     "metadata": {
@@ -34,6 +52,78 @@
       "version": "2.72"
     },
     "youtube": "CQNVvk07yH0"
+  },
+  {
+    "description": "Quanah Proving Fields",
+    "filename": "Quanah_Proving_Fields1",
+    "mark": "GL_Quanah",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Quanah Proving Fields 1",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2026-11-11",
+      "structure": "GL_Quanah",
+      "version": "2.72"
+    },
+    "youtube": "Osa3G5F9gVY"
+  },
+  {
+    "description": "Quanah Proving Fields",
+    "filename": "Quanah_Proving_Fields2",
+    "mark": "GL_Quanah",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Quanah Proving Fields 2",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2026-11-11",
+      "structure": "GL_Quanah",
+      "version": "2.72"
+    },
+    "youtube": "vOMLtSKkeqc"
+  },
+  {
+    "description": "Quanah Proving Fields",
+    "filename": "Quanah_Proving_Fields3",
+    "mark": "GL_Quanah",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Quanah Proving Fields 3",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2026-11-11",
+      "structure": "GL_Quanah",
+      "version": "2.72"
+    },
+    "youtube": "kir3hf9KP3U"
+  },
+  {
+    "description": "Quanah",
+    "filename": "Quanah_Residential_Zone",
+    "mark": "GL_Quanah",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Quanah Residential Zone",
+      "year": "2026"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2026-11-11",
+      "structure": "GL_Quanah",
+      "version": "2.72"
+    },
+    "youtube": "8T4GRO-HxPE"
   },
   {
     "description": "Quanah",
