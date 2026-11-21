@@ -1,5 +1,41 @@
 [
   {
+    "description": "2026 Blue Archive collaboration",
+    "filename": "Aoharu",
+    "mark": "1662332",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Nexon",
+      "title": "Aoharu",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-11-12",
+      "structure": "SoundEff_collabo",
+      "version": "1.2.208"
+    },
+    "youtube": "eJWtqoJCnog"
+  },
+  {
+    "description": "2026 Blue Archive collaboration",
+    "filename": "ConnectedSkyNightArrange",
+    "mark": "1662332",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Nexon",
+      "title": "Connected Sky -Night Arrange-",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-11-12",
+      "structure": "SoundEff_collabo",
+      "version": "1.2.208"
+    },
+    "youtube": "jfVOsqu6SEk"
+  },
+  {
     "description": "2024 Demon Slayer collaboration",
     "filename": "eventmap_end",
     "mark": "2024Collabo",
@@ -34,5 +70,23 @@
       "version": "4.27"
     },
     "youtube": "TyEV6tAY5vQ"
+  },
+  {
+    "description": "2026 Blue Archive collaboration",
+    "filename": "victory_bgm",
+    "mark": "1662332",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Nexon",
+      "title": "Total Assault - Victory",
+      "year": "2026"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2026-11-12",
+      "structure": "SoundEff_collabo",
+      "version": "1.2.208"
+    },
+    "youtube": "-Js0p4maMpk"
   }
 ]
