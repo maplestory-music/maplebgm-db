@@ -271,6 +271,24 @@
     "youtube": "phyPERSwSKg"
   },
   {
+    "description": "El Nath: Snowfield Mask Festival",
+    "filename": "HalloweenEvent",
+    "mark": "Halloween26",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Halloween Event",
+      "year": "2026"
+    },
+    "source": {
+      "client": "CMSC",
+      "date": "2026-10-15",
+      "structure": "BgmEvent",
+      "version": "2.0.2"
+    },
+    "youtube": "3WmZRN6jjYQ"
+  },
+  {
     "description": "Halloween event",
     "filename": "halloweenMainHall",
     "mark": "HuntedMansion",
