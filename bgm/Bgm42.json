@@ -1,0 +1,128 @@
+[
+  {
+    "description": "FriendStory Rock & Roll theme song",
+    "filename": "Catch Your Dreams! full",
+    "mark": "spinOff1",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Catch Your Dreams!",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2015-03-12",
+      "structure": "Bgm42",
+      "version": "1.2.231"
+    },
+    "youtube": "4mVj4qHNLso"
+  },
+  {
+    "description": "FriendStory Rock & Roll theme song (Japanese)",
+    "filename": "Catch Your Dreams! full ~Japanese ver.~",
+    "mark": "spinOff1",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Catch Your Dreams! ~Japanese ver.~",
+      "year": "2015"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2015-07-29",
+      "structure": "Bgm42",
+      "version": "3.42"
+    },
+    "youtube": "ZJJvowmQ7uQ"
+  },
+  {
+    "description": "FriendStory Rock & Roll - Chapter 6 cleared",
+    "filename": "Catch Your Dreams! vocaless",
+    "mark": "spinOff1",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Catch Your Dreams! ~instrumental~",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2015-03-12",
+      "structure": "Bgm42",
+      "version": "1.2.231"
+    },
+    "youtube": "IkSVdHl2WOs"
+  },
+  {
+    "description": "FriendStory Rock & Roll - Damien's first performance",
+    "filename": "Demon's eye",
+    "mark": "spinOff1",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Demon's Eye",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2015-03-12",
+      "structure": "Bgm42",
+      "version": "1.2.231"
+    },
+    "youtube": "m7-KSFVZJzk"
+  },
+  {
+    "description": "FriendStory Rock & Roll - Damien's concert performance",
+    "filename": "Demon's eye2",
+    "mark": "spinOff1",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Demon's Eye 2",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2015-03-12",
+      "structure": "Bgm42",
+      "version": "1.2.231"
+    },
+    "youtube": "RaXC3bWEYFc"
+  },
+  {
+    "description": "FriendStory Rock & Roll - guitar minigame against Damien",
+    "filename": "TheBeast",
+    "mark": "spinOff1",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "The Beast",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2015-03-12",
+      "structure": "Bgm42",
+      "version": "1.2.231"
+    },
+    "youtube": "317XVLPaHnY"
+  },
+  {
+    "description": "FriendStory Rock & Roll - battle against Damien's Rock Zombies",
+    "filename": "TheBeast2",
+    "mark": "spinOff1",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "The Beast 2",
+      "year": "2015"
+    },
+    "source": {
+      "client": "KMS",
+      "date": "2015-03-12",
+      "structure": "Bgm42",
+      "version": "1.2.231"
+    },
+    "youtube": "axRaC6qDdLk"
+  }
+]

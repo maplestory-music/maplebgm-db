@@ -1,0 +1,74 @@
+[
+  {
+    "description": "2014 Hatsune Miku collaboration",
+    "filename": "DAYBREAK",
+    "mark": "1004287",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "Mafumafu feat. Hatsune Miku",
+      "title": "DAYBREAK",
+      "year": "2012"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2014-08-26",
+      "structure": "BgmMIKU",
+      "version": "3.31"
+    },
+    "youtube": "jwCWnyuAJFY"
+  },
+  {
+    "description": "2014 Hatsune Miku collaboration",
+    "filename": "Monokuro",
+    "mark": "1004287",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "Mafumafu feat. Hatsune Miku",
+      "title": "Monokuro to Yuusha no Idenshi",
+      "year": "2014"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2014-08-26",
+      "structure": "BgmMIKU",
+      "version": "3.31"
+    },
+    "youtube": "JF1Nn5fWMLs"
+  },
+  {
+    "description": "2014 Hatsune Miku collaboration",
+    "filename": "next",
+    "mark": "1004287",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "Satsuki ga Tenkomori feat. Hatsune Miku",
+      "title": "Next Nest",
+      "year": "2014"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2014-08-26",
+      "structure": "BgmMIKU",
+      "version": "3.31"
+    },
+    "youtube": "STGuvHe5NGs"
+  },
+  {
+    "description": "2014 Hatsune Miku collaboration",
+    "filename": "Sprechchor",
+    "mark": "1004287",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "Satsuki ga Tenkomori feat. Hatsune Miku",
+      "title": "Online Game Addicts Sprechchor",
+      "year": "2010"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2014-08-26",
+      "structure": "BgmMIKU",
+      "version": "3.31"
+    },
+    "youtube": "HxquE6d_a3k"
+  }
+]

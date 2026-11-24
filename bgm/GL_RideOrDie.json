@@ -1,0 +1,146 @@
+[
+  {
+    "description": "2024 Ride or Die event boss theme",
+    "filename": "Boss_Darknell",
+    "mark": "2024DarkRide",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ride or Die - Darknell",
+      "year": "2024"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2024-11-20",
+      "structure": "GL_RideOrDie",
+      "version": "2.55"
+    },
+    "youtube": "LQ9l13sm0UQ"
+  },
+  {
+    "description": "2024 Ride or Die event boss theme",
+    "filename": "Boss_Horntail",
+    "mark": "2024DarkRide",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ride or Die - Horntail",
+      "year": "2024"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2024-11-20",
+      "structure": "GL_RideOrDie",
+      "version": "2.55"
+    },
+    "youtube": "TW1gdJFqhvQ"
+  },
+  {
+    "description": "2024 Ride or Die event boss theme",
+    "filename": "Boss_Papulatus",
+    "mark": "2024DarkRide",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ride or Die - Papulatus",
+      "year": "2024"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2024-11-20",
+      "structure": "GL_RideOrDie",
+      "version": "2.55"
+    },
+    "youtube": "DA5wnJSSX2o"
+  },
+  {
+    "description": "2024 Ride or Die event boss theme",
+    "filename": "Boss_Slime",
+    "mark": "2024DarkRide",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ride or Die - Guardian Angel Slime",
+      "year": "2024"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2024-11-20",
+      "structure": "GL_RideOrDie",
+      "version": "2.55"
+    },
+    "youtube": "b9JSZsuZ-iE"
+  },
+  {
+    "description": "2024 Ride or Die event boss theme",
+    "filename": "Boss_Vellum",
+    "mark": "2024DarkRide",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ride or Die - Vellum",
+      "year": "2024"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2024-11-20",
+      "structure": "GL_RideOrDie",
+      "version": "2.55"
+    },
+    "youtube": "IX331xoK2zw"
+  },
+  {
+    "description": "2024 Ride or Die event boss theme",
+    "filename": "Boss_Zakum",
+    "mark": "2024DarkRide",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ride or Die - Zakum",
+      "year": "2024"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2024-11-20",
+      "structure": "GL_RideOrDie",
+      "version": "2.55"
+    },
+    "youtube": "3W5dig5Q_gI"
+  },
+  {
+    "description": "2024 Ride or Die event",
+    "filename": "RIDEORDIE",
+    "mark": "2024DarkRide",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ride or Die - Entrance",
+      "year": "2024"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2024-11-20",
+      "structure": "GL_RideOrDie",
+      "version": "2.55"
+    },
+    "youtube": "uwlUwHk1wE8"
+  },
+  {
+    "description": "2024 Ride or Die event",
+    "filename": "ROD_Cave",
+    "mark": "2024DarkRide",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Ride or Die - Cave",
+      "year": "2024"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2024-11-20",
+      "structure": "GL_RideOrDie",
+      "version": "2.55"
+    },
+    "youtube": "N2cLsMEl4Fo"
+  }
+]

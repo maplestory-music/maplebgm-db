@@ -1,0 +1,308 @@
+[
+  {
+    "description": "Zipangu: Showa Sauna",
+    "filename": "Bathroom",
+    "mark": "JP_shouwa",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Bathroom",
+      "year": "2005"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2005-01-12",
+      "structure": "BgmJp",
+      "version": "0.69"
+    },
+    "youtube": "yRrCGa54Vbo"
+  },
+  {
+    "description": "Zipangu: Showa Hideout",
+    "filename": "BattleField",
+    "mark": "JP_shouwa",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Battlefield",
+      "year": "2005"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2005-07-06",
+      "structure": "BgmJp",
+      "version": "0.89"
+    },
+    "youtube": "ZDS4Dd7ULvM"
+  },
+  {
+    "description": "Zipangu: Mushroom Shrine Cemetery, Pine Forest",
+    "filename": "BizarreForest",
+    "mark": "jipangu",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "CODASOUND",
+      "title": "Bizarre Forest",
+      "year": "2004"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2004-09-02",
+      "structure": "BgmJp",
+      "version": "0.54"
+    },
+    "youtube": "9kmYUElcL_w"
+  },
+  {
+    "description": "Zipangu: Ninja Castle boss theme",
+    "filename": "CastleBoss",
+    "mark": "jipangu",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Castle Boss",
+      "year": "2007"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2007-04-25",
+      "structure": "BgmJp",
+      "version": "1.26"
+    },
+    "youtube": "_mSoAfONu6U"
+  },
+  {
+    "description": "Zipangu: Ninja Castle indoors",
+    "filename": "CastleInside",
+    "mark": "jipangu",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Castle Inside",
+      "year": "2007"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2007-04-25",
+      "structure": "BgmJp",
+      "version": "1.26"
+    },
+    "youtube": "8bvx6bZ8WnA"
+  },
+  {
+    "description": "Zipangu: Ninja Castle outdoors",
+    "filename": "CastleOutSide",
+    "mark": "jipangu",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Castle Outside",
+      "year": "2007"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2007-04-25",
+      "structure": "BgmJp",
+      "version": "1.26"
+    },
+    "youtube": "6yJ3_i6emNw"
+  },
+  {
+    "description": "Zipangu: Ninja Castle trap room",
+    "filename": "CastleTrap",
+    "mark": "jipangu",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Castle Trap",
+      "year": "2007"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2007-04-25",
+      "structure": "BgmJp",
+      "version": "1.26"
+    },
+    "youtube": "c310tdhrwtk"
+  },
+  {
+    "description": "Tokyo Metropolitan Government",
+    "filename": "CityHall",
+    "mark": "JP_TokyoCentral",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "City Hall",
+      "year": "2014"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2014-04-22",
+      "structure": "BgmJp",
+      "version": "3.25"
+    },
+    "youtube": "6eY155X67Ww"
+  },
+  {
+    "description": "Tokyo City Hall",
+    "filename": "CityWarfare",
+    "mark": "JP_TokyoCentral",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "City Warfare",
+      "year": "2014"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2014-04-22",
+      "structure": "BgmJp",
+      "version": "3.25"
+    },
+    "youtube": "unR2SUdW3Oc"
+  },
+  {
+    "description": "Zipangu: Mushroom Shrine",
+    "filename": "Feeling",
+    "mark": "jipangu",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Feeling",
+      "year": "2004"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2004-04-23",
+      "structure": "BgmJp",
+      "version": "0.41"
+    },
+    "youtube": "SdcsTuVLJk0"
+  },
+  {
+    "description": "Maple Island: Mushroom Town Training Camp",
+    "filename": "FirstStepMaster",
+    "mark": "MushroomVillage",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "First Step Master",
+      "year": "2006"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2006-11-29",
+      "structure": "BgmJp",
+      "version": "1.18"
+    },
+    "youtube": "ePUZA7yRJVM"
+  },
+  {
+    "description": "Tokyo: Kabukicho",
+    "filename": "Gabuki",
+    "mark": "JP_Kabukicho",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Kabuki",
+      "year": "2014"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2014-04-22",
+      "structure": "BgmJp",
+      "version": "3.25"
+    },
+    "youtube": "K4Lg7Ny5kX0"
+  },
+  {
+    "description": "Reina Kondo - Goddess Mark (Ignition theme)",
+    "filename": "GoddessMark",
+    "mark": "TestServer",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "Reina Kondo",
+      "title": "Goddess Mark",
+      "year": "2022"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2022-12-14",
+      "structure": "BgmJp",
+      "version": "4.10"
+    },
+    "youtube": "iQbq7o-kyBY"
+  },
+  {
+    "description": "Similar to Yume, but unused",
+    "filename": "Hana",
+    "mark": "JP_shouwa",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Hana",
+      "year": "2004"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2004-12-08",
+      "structure": "BgmJp",
+      "version": "0.63"
+    },
+    "youtube": "1nj0TXt_23c"
+  },
+  {
+    "description": "2007 Funky Monkey Babys collaboration",
+    "filename": "MorningShot",
+    "mark": "Event",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Morning Shot",
+      "year": "2007"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2007-12-20",
+      "structure": "BgmJp",
+      "version": "1.37"
+    },
+    "youtube": "He-cxSXHS8A"
+  },
+  {
+    "description": "Tokyo City Hall boss theme",
+    "filename": "TCBoss",
+    "mark": "JP_TokyoCentral",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Tokyo Central Boss",
+      "year": "2014"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2014-04-22",
+      "structure": "BgmJp",
+      "version": "3.25"
+    },
+    "youtube": "VBGL3ESb008"
+  },
+  {
+    "description": "Zipangu: Showa Town",
+    "filename": "Yume",
+    "mark": "JP_shouwa",
+    "metadata": {
+      "albumArtist": "Wizet",
+      "artist": "StudioEIM",
+      "title": "Yume",
+      "year": "2004"
+    },
+    "source": {
+      "client": "JMS",
+      "date": "2004-12-08",
+      "structure": "BgmJp",
+      "version": "0.63"
+    },
+    "youtube": "58QPkwCSd4Y"
+  }
+]

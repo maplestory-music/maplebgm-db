@@ -1,0 +1,20 @@
+[
+  {
+    "description": "Fantasy Theme World",
+    "filename": "FantasticThemePark2017",
+    "mark": "FantasticPark",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Fantastic Theme Park",
+      "year": "2017"
+    },
+    "source": {
+      "client": "KMST",
+      "date": "2017-02-21",
+      "structure": "BgmFT",
+      "version": "1.2.047"
+    },
+    "youtube": "qdL4zkXajPU"
+  }
+]

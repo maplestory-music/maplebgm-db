@@ -1,0 +1,38 @@
+[
+  {
+    "description": "2025 GlobalMS MapleCon LA 'Build a Monster!' in-game event",
+    "filename": "Twenteena_Exit",
+    "mark": "1006520",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Twenteena -Exit-",
+      "year": "2025"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2025-12-17",
+      "structure": "PL_Sound",
+      "version": "2.65"
+    },
+    "youtube": "UsM2PVz2meU"
+  },
+  {
+    "description": "2025 GlobalMS MapleCon LA 'Build a Monster!' in-game event",
+    "filename": "Twenteena_Main",
+    "mark": "1006520",
+    "metadata": {
+      "albumArtist": "NECORD",
+      "artist": "ASTERIA",
+      "title": "Twenteena -Main-",
+      "year": "2025"
+    },
+    "source": {
+      "client": "GMS",
+      "date": "2025-12-17",
+      "structure": "PL_Sound",
+      "version": "2.65"
+    },
+    "youtube": "8sJEoJSNAuY"
+  }
+]
